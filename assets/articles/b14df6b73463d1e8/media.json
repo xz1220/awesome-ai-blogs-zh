@@ -1,0 +1,65 @@
+{
+  "article_id": "b14df6b73463d1e8",
+  "article_path": "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md",
+  "source_url": "https://openai.com/index/practical-guide-building-gpt-6/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "aa410eca6eb0a9a4-paul-solt-tweet-textured-light.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6nQdXeHQXmiZChoipK4uRH/36e1a5934003392045ae4cdfa58d5957/paul-solt-tweet-textured-light.png?w=3840&q=90&fm=webp",
+      "sha256": "aa410eca6eb0a9a40f810d70e1770cc4601bb5921753b896a7237f3f890518bf",
+      "bytes": 92990
+    },
+    {
+      "file": "8e2a6ed9eaa0d8a1-peter-steinberger-tweet-textured-light.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2OX0vajCJwQiYaxHP7gP6k/98f40c01020b65b1c6f999fd21616d8c/peter-steinberger-tweet-textured-light.png?w=3840&q=90&fm=webp",
+      "sha256": "8e2a6ed9eaa0d8a189f776677d4a8b902d5ecf60b84c1869ebdd2a999db3a51d",
+      "bytes": 100598
+    },
+    {
+      "file": "e321230d156cfb30-higgsfield-tweet-textured-light.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4hpVcAhs91d4pc8IFCucvF/e22b669e9d4de0ff54464d997d39d0d7/higgsfield-tweet-textured-light.png?w=3840&q=90&fm=webp",
+      "sha256": "e321230d156cfb30b5bc8b64876bd8ab624f71a77d2d3cb9bcea514cdd5fa642",
+      "bytes": 177384
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/practical-guide-building-gpt-6/",
+    "translation_path": "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md",
+    "expected_figure_groups": 3,
+    "complete": true,
+    "source_html_sha256": "ab065d2fc229329c974eaf234b1be524995563e2ef56c3e7fb74c94fd29f7ab3",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(18) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "aa410eca6eb0a9a4-paul-solt-tweet-textured-light.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(37) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "8e2a6ed9eaa0d8a1-peter-steinberger-tweet-textured-light.webp"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(43) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "e321230d156cfb30-higgsfield-tweet-textured-light.webp"
+        ]
+      }
+    ]
+  }
+}

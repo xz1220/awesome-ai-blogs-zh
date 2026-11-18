@@ -1,0 +1,49 @@
+{
+  "article_id": "ef460bb7405cc35f",
+  "article_path": "content/OpenAI/官方/2026-10-14_Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时.中文.md",
+  "source_url": "https://openai.com/index/third-moment-research/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "776a1c5bfdb4d0eb-third-moment-research-first-light-cover-1080x1080.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6jW3CeAiaMhCGh860oesQH/ae6448a6ed035231f996fb78ba507484/third-moment-research-first-light-cover-1080x1080.png?w=3840&q=90&fm=webp",
+      "sha256": "776a1c5bfdb4d0eb235f7e61e87dea15d5149f2f225ea435c0636c5c2aeb503c",
+      "bytes": 127840
+    },
+    {
+      "file": "cec05771382ab9fc-third-moment-agent-improvement-desktop-light-tight.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3CXtAwL9gJruDn0WM9AI9Z/0c03a372b4726b00ac0dc1afa7304f3f/third-moment-agent-improvement-desktop-light-tight.png?w=3840&q=90&fm=webp",
+      "sha256": "cec05771382ab9fc88cb4eb8f43555f4f987502762307233973c05b417445185",
+      "bytes": 89722
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/third-moment-research/",
+    "translation_path": "content/OpenAI/官方/2026-10-14_Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "5509a575db90772655bb1de56db6da3be9de80e5725d04d82819483e53d3dba0",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "776a1c5bfdb4d0eb-third-moment-research-first-light-cover-1080x1080.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "cec05771382ab9fc-third-moment-agent-improvement-desktop-light-tight.webp"
+        ]
+      }
+    ]
+  }
+}

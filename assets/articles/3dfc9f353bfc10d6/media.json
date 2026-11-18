@@ -1,0 +1,15 @@
+{
+  "article_id": "3dfc9f353bfc10d6",
+  "article_path": "content/Qwen/官方/2026-11-11_Qwen Code 1.0 Preview 发布说明.中文.md",
+  "source_url": "https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview",
+  "verified_date": "2026-11-16",
+  "media": [],
+  "coverage": {
+    "source_url": "https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview",
+    "translation_path": "content/Qwen/官方/2026-11-11_Qwen Code 1.0 Preview 发布说明.中文.md",
+    "expected_figure_groups": 0,
+    "complete": true,
+    "source_html_sha256": "3ee69bab24a43f80f090bb84e4730009363af1bba0334f33dccd0800a8916f56",
+    "figure_groups": []
+  }
+}

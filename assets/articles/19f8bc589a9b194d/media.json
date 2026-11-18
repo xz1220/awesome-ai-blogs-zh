@@ -1,0 +1,52 @@
+{
+  "article_id": "19f8bc589a9b194d",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-10_您的应用现在可以在 Claude 中打开，Claude 也能在其中工作.中文.md",
+  "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "d82fe1c704e63a4ef0f37a7d.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/98d2cbf9c0392a81da0d53ea7666bf08528db80e.png",
+      "caption_zh": null,
+      "sha256": "d82fe1c704e63a4ef0f37a7d9febdca1361a50eadc4afab9b502ba496937b79d",
+      "bytes": 1177792
+    },
+    {
+      "file": "youtube-Gy1jSeSzAhk.jpg",
+      "kind": "official-video-poster",
+      "source_url": "https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg",
+      "caption_zh": null,
+      "sha256": "323d1d65b59895fd5eda2c35bc7607cc04bff1ae4fc4451647e881aa5bcd7cc1",
+      "bytes": 12467
+    }
+  ],
+  "coverage": {
+    "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-10_您的应用现在可以在 Claude 中打开，Claude 也能在其中工作.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "3c97875cd9a7ef8cf6ae017ca230b4aee6522746e8cbdd06672a3ec57588800f",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "youtube-Gy1jSeSzAhk.jpg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "d82fe1c704e63a4ef0f37a7d.png"
+        ]
+      }
+    ]
+  }
+}

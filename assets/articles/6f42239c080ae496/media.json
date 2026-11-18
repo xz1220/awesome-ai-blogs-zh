@@ -1,0 +1,52 @@
+{
+  "article_id": "6f42239c080ae496",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-10_Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络.中文.md",
+  "source_url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "10015242f7a6fcb6df126c87.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/b72a4b872ebbed253dc2492d8d0db2c4664b6b2f.png",
+      "caption_zh": null,
+      "sha256": "10015242f7a6fcb6df126c8723a2472b115367be5ec7a863df9cb8c0af9e2c67",
+      "bytes": 235203
+    },
+    {
+      "file": "4396680540bf5cf0a59bb93d.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/81117dec18c16ca382f07795da2c7c1202546b9b.png",
+      "caption_zh": null,
+      "sha256": "4396680540bf5cf0a59bb93d9a6e5f0a875fbe789ac207281a3f3d5ded7aa921",
+      "bytes": 138054
+    }
+  ],
+  "coverage": {
+    "source_url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-10_Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "d9a331f77efe2a4bea6eafb4b915538798aed641d5e26c3813b8988a094ea8d0",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "10015242f7a6fcb6df126c87.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "4396680540bf5cf0a59bb93d.png"
+        ]
+      }
+    ]
+  }
+}

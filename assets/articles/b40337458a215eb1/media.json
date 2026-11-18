@@ -1,0 +1,40 @@
+{
+  "article_id": "b40337458a215eb1",
+  "article_path": "content/OpenAI/官方/2026-10-14_Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作.中文.md",
+  "source_url": "https://openai.com/index/amp-beyond-coding/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "6ac84030771ea056-2212263531-004aacb7c73f95303cd8b18ec18eb934dbfaf508ee67a81b2191ae473c56f0ed-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2212263531-004aacb7c73f95303cd8b18ec18eb934dbfaf508ee67a81b2191ae473c56f0ed-d_295x166?region=us",
+      "sha256": "6ac84030771ea056be8cf34733d3f421fe9e196e67a3247400b756dc90c0934a",
+      "bytes": 9830
+    },
+    {
+      "file": "vimeo-1235580778-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1235580778?h=028892e12a&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "acec7a7f3d501b73bd9d0f5159b2945857382790f2372fa26dd7fe393f3345de",
+      "bytes": 3044327
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/amp-beyond-coding/",
+    "translation_path": "content/OpenAI/官方/2026-10-14_Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "ef894e9923cb2ebdd7368b0fcd34153f9072a9a3661d99ff6ea4852d3d76b73e",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1235580778-preview.gif"
+        ]
+      }
+    ]
+  }
+}

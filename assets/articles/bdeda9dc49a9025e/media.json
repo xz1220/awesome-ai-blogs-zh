@@ -1,0 +1,143 @@
+{
+  "article_id": "bdeda9dc49a9025e",
+  "article_path": "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md",
+  "source_url": "https://openai.com/index/control-room/",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "control-room-step-01.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "研究人员决定启动一个作业",
+      "sha256": "ce995da669d58e15acd85e47c72ed7a7de3ca772adc4382c8b655c11057f87d1",
+      "bytes": 103860
+    },
+    {
+      "file": "control-room-step-02.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "作业开始启动",
+      "sha256": "16e0aebccacc5dbcede05f95137f3345957aceeb86b934df7c511f4f67e4df95",
+      "bytes": 123687
+    },
+    {
+      "file": "control-room-step-03.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "作业向 Control Room 注册",
+      "sha256": "1714cc57abed6ee95f15612e73fcff38aba7b6eada03f8cd7325ec8d76c97839",
+      "bytes": 118021
+    },
+    {
+      "file": "control-room-step-04.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "Control Room 返回一个作业 ID",
+      "sha256": "b6a81be2e3b0a90ebf85dcb188c0d9cf9fd3d5a8063c56c0a6b635d863d18ed9",
+      "bytes": 114699
+    },
+    {
+      "file": "control-room-step-05.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "作业向推理引擎请求模型输出",
+      "sha256": "aecf86d363dd2e10cab2afd747bef33e0dbe5156d2960b6d5e67e7289d085b3d",
+      "bytes": 123235
+    },
+    {
+      "file": "control-room-step-06.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "引擎检查权限",
+      "sha256": "d8476d475501624697cf53be213ec2a3a1d8e800e942e0f496dc88764b55030b",
+      "bytes": 114870
+    },
+    {
+      "file": "control-room-step-07.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "Control Room 允许该请求",
+      "sha256": "ec5652aa686946b2ace70b40cff1e2b80d7cd8246c839ab31287ebfb9e1636b5",
+      "bytes": 113947
+    },
+    {
+      "file": "control-room-step-08.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "引擎返回模型输出",
+      "sha256": "d19708cd2a260dd4cdfb0b7414aa3fb81e7570e21f1824ee1b9916052f9cd78e",
+      "bytes": 115740
+    },
+    {
+      "file": "control-room-step-09.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "某个事件触发了停止该作业的决定",
+      "sha256": "2465ed662e0a0026951bec06efbfad63a38b5a6ce4d41d5619d7942ea8ad6fe0",
+      "bytes": 126193
+    },
+    {
+      "file": "control-room-step-10.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "作业仍可尝试采样模型输出",
+      "sha256": "9140c4f42e39df65060e514466efe11233cf4b0852ff911fe7418bc7da8a64d9",
+      "bytes": 114639
+    },
+    {
+      "file": "control-room-step-11.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "引擎再次检查权限",
+      "sha256": "9e9afb883dee18760f84d0ecccc9261a7afacd8d9a30e004f92608330e328cc4",
+      "bytes": 118645
+    },
+    {
+      "file": "control-room-step-12.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "下一次授权被拒绝",
+      "sha256": "928ca8456aed2c8b5d32dcc29b1fc23e1c0f414d69b33959b2d06efc833190e9",
+      "bytes": 116712
+    },
+    {
+      "file": "control-room-step-13.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/control-room/",
+      "caption_zh": "模型输出停止——作业仍保留",
+      "sha256": "9545c0c3143db8898bd442d0d959a74332d4ffa0add9472ad4fd4fde3340a128",
+      "bytes": 124748
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/control-room/",
+    "translation_path": "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "bc33879e9acb3d453d50ae87257a06d0fc7794dc5fbb096088e6ae25bf9a7e21",
+    "figure_groups": [
+      {
+        "id": "4t9Yu5Vdp7LCXHV56T7lx1",
+        "source_index": 0,
+        "source_selector": null,
+        "kind": "interactive-html",
+        "files": [
+          "control-room-step-01.png",
+          "control-room-step-02.png",
+          "control-room-step-03.png",
+          "control-room-step-04.png",
+          "control-room-step-05.png",
+          "control-room-step-06.png",
+          "control-room-step-07.png",
+          "control-room-step-08.png",
+          "control-room-step-09.png",
+          "control-room-step-10.png",
+          "control-room-step-11.png",
+          "control-room-step-12.png",
+          "control-room-step-13.png"
+        ]
+      }
+    ]
+  }
+}

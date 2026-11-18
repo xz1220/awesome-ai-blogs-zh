@@ -1,0 +1,40 @@
+{
+  "article_id": "ea41a986fe715307",
+  "article_path": "content/Cursor/官方/2026-10-20_Agent SDK 正式发布.中文.md",
+  "source_url": "https://cursor.com/blog/agent-sdk",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "24c356c10ccd781b9fe2eef4.jpg",
+      "kind": "image",
+      "source_url": "https://image.mux.com/wSa1Fv1OwV2H8jzVwJYAb0202Op2tQXQPBn3Ew021zTWuk/thumbnail.jpg?time=0",
+      "sha256": "24c356c10ccd781b9fe2eef457d4fef02e806bdaff693c9dbee1b71eaa3b1549",
+      "bytes": 95850
+    },
+    {
+      "file": "video-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://stream.mux.com/wSa1Fv1OwV2H8jzVwJYAb0202Op2tQXQPBn3Ew021zTWuk.m3u8",
+      "sha256": "8ff5bf0737516913db8fdbc7b659e93dcbf946a25a744de8d6d17af1dc6d59fc",
+      "bytes": 1391972
+    }
+  ],
+  "coverage": {
+    "source_url": "https://cursor.com/blog/agent-sdk",
+    "translation_path": "content/Cursor/官方/2026-10-20_Agent SDK 正式发布.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "f204d3d2c70b0d31ffac7c88e3af758c881effc7b9a677846018525c23b650e7",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "video",
+        "files": [
+          "video-preview.gif"
+        ]
+      }
+    ]
+  }
+}

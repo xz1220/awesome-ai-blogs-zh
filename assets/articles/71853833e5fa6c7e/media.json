@@ -1,0 +1,49 @@
+{
+  "article_id": "71853833e5fa6c7e",
+  "article_path": "content/OpenAI/官方/2026-10-23_保护前沿模型训练环境.中文.md",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "11b3b68199b839f7-securing-our-frontier-model-training-environment-diagram-desktop-light.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/37XEjb1cjzKzPBG9970uRD/beaf4ede49321fe288c09b9771e5da3a/securing-our-frontier-model-training-environment-diagram-desktop-light.png?w=3840&q=90&fm=webp",
+      "sha256": "11b3b68199b839f7283238d95650eabbdfbfb2efc7fd03e3d29ffd9bbf3913ee",
+      "bytes": 171998
+    },
+    {
+      "file": "rendered-urgent-high-candidate-findings-vs-tokens-spent-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "sha256": "e2859d028262937fd7542494034af6cfe5f54de4881490415a3ac7fdb5807d43",
+      "bytes": 129361
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "translation_path": "content/OpenAI/官方/2026-10-23_保护前沿模型训练环境.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "37467156665150480769ee0ba661e9dd6b3969c2d158bf814438978a093747fa",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(15) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "11b3b68199b839f7-securing-our-frontier-model-training-environment-diagram-desktop-light.webp"
+        ]
+      },
+      {
+        "id": "urgent-high-candidate-findings-vs-tokens-spent",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-urgent-high-candidate-findings-vs-tokens-spent-default.png"
+        ]
+      }
+    ]
+  }
+}

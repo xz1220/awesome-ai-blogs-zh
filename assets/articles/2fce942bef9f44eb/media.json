@@ -1,0 +1,137 @@
+{
+  "article_id": "2fce942bef9f44eb",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md",
+  "source_url": "https://claude.com/resources/articles/building-always-on-agents",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "441cec25bae0737a713a460b.gif",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/5dc803bf06d6e92e4aecae762da096626e2fa9ec.gif",
+      "caption_zh": null,
+      "sha256": "441cec25bae0737a713a460bf5c078b8d3dbfb8254cb59591d750a400ddfdd3c",
+      "bytes": 2702362
+    },
+    {
+      "file": "2362d396f2835f86bf61d750.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/bb08543a505cea3a24c88c718ceec4405e9c0a79.png",
+      "caption_zh": null,
+      "sha256": "2362d396f2835f86bf61d75018673c42c67a5afe162312703d9f2a19e7cdcab3",
+      "bytes": 204899
+    },
+    {
+      "file": "0be924af63dad30df2c9a485.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/c16694e6d979a2ace84d03da0544297b7245c0a8.png",
+      "caption_zh": null,
+      "sha256": "0be924af63dad30df2c9a485467a11a3c4a4ddabd6e96ee96178133adc89336a",
+      "bytes": 102670
+    },
+    {
+      "file": "b71fc0aab4fb181c14a0825b.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/e5d209d7ef9b3455dec8a27b777dc12bdf806699.png",
+      "caption_zh": null,
+      "sha256": "b71fc0aab4fb181c14a0825b1e90052e24fae92c7928f6d7fc6bff7b2c988af9",
+      "bytes": 114553
+    },
+    {
+      "file": "177ae75bbfdcbc3dfe486456.gif",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/48757f0a147acfe841c943674c6214d34ed4405a.gif",
+      "caption_zh": null,
+      "sha256": "177ae75bbfdcbc3dfe486456e8e94fa1e2ce8ebb1bb12aff61186ab9d5345fff",
+      "bytes": 729238
+    },
+    {
+      "file": "6a2f17dc7af9699e54c1a858.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/700b5f3a446f22493c0307ec65751b6b2f82ccb7.png",
+      "caption_zh": null,
+      "sha256": "6a2f17dc7af9699e54c1a8584a98b0a430d3174db035f580e77e35b674851141",
+      "bytes": 131516
+    },
+    {
+      "file": "f1002081ff466000801d6462.gif",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/9f8df7b2dcc9d4637d27f37dae6e40a2a5851c8a.gif",
+      "caption_zh": null,
+      "sha256": "f1002081ff466000801d6462b3cb6a4c32bb9225697cb78385dff47d529867e7",
+      "bytes": 427639
+    }
+  ],
+  "coverage": {
+    "source_url": "https://claude.com/resources/articles/building-always-on-agents",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md",
+    "expected_figure_groups": 7,
+    "complete": true,
+    "source_html_sha256": "cdd2b81aa863343fbabe905e8393c28635d8ede697304b883c3ef9ae43335127",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "441cec25bae0737a713a460b.gif"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "2362d396f2835f86bf61d750.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "0be924af63dad30df2c9a485.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "b71fc0aab4fb181c14a0825b.png"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "177ae75bbfdcbc3dfe486456.gif"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "6a2f17dc7af9699e54c1a858.png"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "f1002081ff466000801d6462.gif"
+        ]
+      }
+    ]
+  }
+}

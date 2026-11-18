@@ -1,0 +1,35 @@
+{
+  "article_id": "c3d1bbdfab443c53",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-12_在您的安全边界内运行 Claude 托管智能体.中文.md",
+  "source_url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "41e91edde90b4110327394a6.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/7607c90e3d3d6e3bf9f7d1af0d39afb006be1413.svg",
+      "caption_zh": null,
+      "sha256": "41e91edde90b4110327394a68c84728c76285a5b3dda4514503344560ca3b829",
+      "bytes": 12602
+    }
+  ],
+  "coverage": {
+    "source_url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-12_在您的安全边界内运行 Claude 托管智能体.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "02f5f68125232cc5fbda53de9ddfc8ec4d76d763ea77afbf523ea21bf527b909",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "41e91edde90b4110327394a6.svg"
+        ]
+      }
+    ]
+  }
+}

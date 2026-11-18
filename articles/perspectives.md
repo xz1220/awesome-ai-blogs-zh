@@ -1,0 +1,84 @@
+# 独立观点
+
+[文章目录](README.md) · [首页](../README.md)
+
+作者对技术、产品或行业的第一手观察。 共 78 篇，按已知的首发日期倒序排列。
+
+- [如何评价 DeepSeek Harness 发布的 Super-agent 构想？](<https://www.zhihu.com/question/2099984457524572950/answer/2100486365045699790>) — 崔添翼 · 2026-11-02 · 中文原文。 审稿人解释架构命名、设计选择和研究原型的边界。
+- [上下文工程的现状](<https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html>) — Drew Breunig · 2026-10-24。 长上下文的常见失效方式和确定性流程的边界。
+- [我们应该对构建的软件更有雄心](<https://danluu.com/ambitious/>) — Dan Luu · 2026-10-24。 Agent 降低大型项目试做门槛后的验证成本。
+- [如何看待 DeepSeek Harness 加入 Claude Code Mods 兼容？](<https://www.zhihu.com/question/2089740005770008568/answer/2090104616759325588>) — 崔添翼 · 2026-10-04 · 中文原文。 兼容层作者解释插件架构、可扩展性与企业部署思路。
+- [我们几乎需要在所有东西上默认设置硬性预算上限](<https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/>) — Simon Willison · 2026-10-03。 为 Agent 可调用的付费服务设置硬预算上限。
+- [对《我不得不把才华埋葬在昨天》的补充说明](<https://www.zhihu.com/question/2083123101873844765/answer/2083249715588621732>) — 刘胜与 · 2026-09-15 · 中文原文。 澄清原文对手写算子、AI 协作与职业变化的观点。
+- [我不得不把才华埋葬在昨天](<https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA>) — 刘胜与 · 2026-09-14 · 中文原文。 记录 AI 写算子带来的工作方式变化。
+- [棕地 Agent 工程](<https://addyosmani.com/blog/brownfield-agentic-engineering/>) — Addy Osmani · 2026-09-14。 介绍 Agent 改造既有代码库时的约束、测试、迁移与回滚。
+- [为 GPT-6 Astra 重新思考 Skills 与提示词](<https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra>) — Eric Provencher · 2026-09-11。 清理旧模型指令，收窄技能触发范围并明确任务完成标准。
+- [实战循环工程](<https://addyo.substack.com/p/practical-loop-engineering>) — Addy Osmani · 2026-08-14。 并行 Agent 的验收条件、反馈与人工审查。
+- [简单谈谈 K3 的 MoE 和 Attention](<https://kexue.fm/archives/11848>) — 苏剑林 · 2026-08-04 · 中文原文。 解释模型架构、负载均衡与 Agent 场景的计算成本。
+- [面向自我改进的 Harness 工程](<https://lilianweng.github.io/posts/2026-07-04-harness/>) — Lilian Weng · 2026-07-04。 综述 Agent 运行框架、上下文优化、自我改进和模型联合优化。
+- [Agent 代码审查](<https://addyosmani.com/blog/agentic-code-review/>) — Addy Osmani · 2026-06-15。 讨论代码生成加速后，验证、审查和人类判断的分工。
+- [构建 Claude Code 的经验：我们如何使用 skills](<https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/>) — Thariq Shihipar · 2026-06-03。 介绍内部技能分类、验证方法、资源组织与分发实践。
+- [构建 Claude Code 的经验：提示词缓存就是一切](<https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/>) — Thariq Shihipar · 2026-04-30。 围绕前缀缓存设计工具、模型切换与上下文压缩。
+- [长会话与并行 subagent 工作方式](<https://x.com/embirico/status/2046033614106931414>) — Alexander Embiricos · 2026-04-20。 经验贴，介绍以长期会话协调任务调整、自动化和子 Agent。
+- [像 Agent 一样观察：我们如何在 Claude Code 中设计工具](<https://claude.dev/blog/seeing-like-an-agent/>) — Thariq Shihipar · 2026-04-10。 从 Agent 视角设计工具、任务管理、搜索和信息加载。
+- [Attention Residuals 回忆录](<https://www.kexue.fm/archives/11664>) — 苏剑林 · 2026-03-19 · 中文原文。 复盘研究原型、失败方案及训练与推理工程之间的取舍。
+- [一行代码将 arXiv 论文翻译成中文版](<https://spaces.ac.cn/archives/11578>) — 苏剑林 · 2026-01-28 · 中文原文。 用 Kimi CLI 和子 Agent 完成论文翻译、编译与错误修复。
+- [Agent 设计模式](<https://rlancemartin.github.io/2026/01/09/agent_design/>) — Lance Martin · 2026-01-09。 梳理文件系统、分层工具、缓存、子 Agent 与记忆设计。
+- [Claude Code 个人工作流：13 条技巧](<https://x.com/bcherny/status/2007179832300581177>) — Boris Cherny · 2026-01-02。 X 线程，介绍并行会话、计划模式、项目规则与验证反馈。
+- [2025 年 LLM 回顾](<https://karpathy.bearblog.dev/year-in-review-2025/>) — Andrej Karpathy · 2025-12-19。 回顾可验证奖励、应用层、编码 Agent 与软件开发范式。
+- [Claude 日记](<https://rlancemartin.github.io/2025/12/01/claude_diary/>) — Lance Martin · 2025-12-01。 从会话日志提炼经验，再更新持久记忆的具体实现。
+- [Python 常见引用循环模式](<https://ppwwyyxx.com/blog/2025/Ref-Cycle-Patterns/>) — 吴育昕 · 2025-11-20。 排查 Python 引用环、GPU 张量泄漏与垃圾回收问题。
+- [Muon 优化器指南：快速上手与关键细节](<https://spaces.ac.cn/archives/11416>) — 苏剑林 · 2025-11-19 · 中文原文。 介绍矩阵维度、学习率、权重衰减迁移和实现细节。
+- [QK-Clip：让 Muon 在 Scaleup 之路上更进一步](<https://spaces.ac.cn/archives/11126>) — 苏剑林 · 2025-07-12 · 中文原文。 分析 Kimi K2 训练中的数值稳定性与优化器扩展问题。
+- [Claude Code 就够了](<https://x.com/trq212/status/1944877527044120655>) — Thariq Shihipar · 2025-07。 X 线程，介绍用文件系统把编码助手扩展为通用 Agent。
+- [Agent 的上下文工程](<https://rlancemartin.github.io/2025/06/23/context_engineering/>) — Lance Martin · 2025-06-23。 用写入、选择、压缩和隔离四种方法组织 Agent 上下文。
+- [我们为何思考](<https://lilianweng.github.io/posts/2025-05-01-thinking/>) — Lilian Weng · 2025-05-01。
+- [强化学习中的奖励作弊](<https://lilianweng.github.io/posts/2024-11-28-reward-hacking/>) — Lilian Weng · 2024-11-28。
+- [大语言模型中的外源性幻觉](<https://lilianweng.github.io/posts/2024-07-07-hallucination/>) — Lilian Weng · 2024-07-07。
+- [用于视频生成的扩散模型](<https://lilianweng.github.io/posts/2024-04-12-diffusion-video/>) — Lilian Weng · 2024-04-12。
+- [关于高质量人类数据的思考](<https://lilianweng.github.io/posts/2024-02-05-human-data-quality/>) — Lilian Weng · 2024-02-05。
+- [针对大语言模型的对抗攻击](<https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/>) — Lilian Weng · 2023-10-25。
+- [由大语言模型驱动的自主智能体](<https://lilianweng.github.io/posts/2023-06-23-agent/>) — Lilian Weng · 2023-06-23。 从规划、记忆和工具使用理解早期的大模型 Agent 架构。
+- [提示工程](<https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/>) — Lilian Weng · 2023-03-15。
+- [Transformer 家族 2.0 版](<https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/>) — Lilian Weng · 2023-01-27。
+- [大型 Transformer 模型推理优化](<https://lilianweng.github.io/posts/2023-01-10-inference-optimization/>) — Lilian Weng · 2023-01-10。
+- [神经正切核](<https://lilianweng.github.io/posts/2022-09-08-ntk/>) — Lilian Weng · 2022-09-08。
+- [通用视觉语言模型](<https://lilianweng.github.io/posts/2022-06-09-vlm/>) — Lilian Weng · 2022-06-09。
+- [数据不足下的学习 第三部分：数据生成](<https://lilianweng.github.io/posts/2022-04-15-data-gen/>) — Lilian Weng · 2022-04-15。
+- [数据不足下的学习 第二部分：主动学习](<https://lilianweng.github.io/posts/2022-02-20-active-learning/>) — Lilian Weng · 2022-02-20。
+- [数据不足下的学习 第一部分：半监督学习](<https://lilianweng.github.io/posts/2021-12-05-semi-supervised/>) — Lilian Weng · 2021-12-05。
+- [如何在多 GPU 上训练超大模型？](<https://lilianweng.github.io/posts/2021-09-25-train-large/>) — Lilian Weng · 2021-09-24。
+- [什么是扩散模型？](<https://lilianweng.github.io/posts/2021-07-11-diffusion-models/>) — Lilian Weng · 2021-07-11。
+- [对比表示学习](<https://lilianweng.github.io/posts/2021-05-31-contrastive/>) — Lilian Weng · 2021-05-31。
+- [降低语言模型的毒性](<https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/>) — Lilian Weng · 2021-03-21。
+- [可控神经文本生成](<https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/>) — Lilian Weng · 2021-01-02。
+- [如何构建开放域问答系统？](<https://lilianweng.github.io/posts/2020-10-29-odqa/>) — Lilian Weng · 2020-10-29。
+- [神经架构搜索](<https://lilianweng.github.io/posts/2020-08-06-nas/>) — Lilian Weng · 2020-08-06。
+- [深度强化学习中的探索策略](<https://lilianweng.github.io/posts/2020-06-07-exploration-drl/>) — Lilian Weng · 2020-06-07。
+- [Transformer 家族](<https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/>) — Lilian Weng · 2020-04-07。
+- [强化学习中的课程学习](<https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/>) — Lilian Weng · 2020-01-29。
+- [自监督表示学习](<https://lilianweng.github.io/posts/2019-11-10-self-supervised/>) — Lilian Weng · 2019-11-10。
+- [进化策略](<https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/>) — Lilian Weng · 2019-09-05。
+- [元强化学习](<https://lilianweng.github.io/posts/2019-06-23-meta-rl/>) — Lilian Weng · 2019-06-23。
+- [面向 Sim2Real 迁移的域随机化](<https://lilianweng.github.io/posts/2019-05-05-domain-randomization/>) — Lilian Weng · 2019-05-05。
+- [深度神经网络真的严重过拟合了吗？](<https://lilianweng.github.io/posts/2019-03-14-overfit/>) — Lilian Weng · 2019-03-14。
+- [通用语言模型](<https://lilianweng.github.io/posts/2019-01-31-lm/>) — Lilian Weng · 2019-01-31。
+- [目标检测 第四部分：快速检测模型](<https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/>) — Lilian Weng · 2018-12-27。
+- [元学习：学会快速学习](<https://lilianweng.github.io/posts/2018-11-30-meta-learning/>) — Lilian Weng · 2018-11-30。
+- [基于流的深度生成模型](<https://lilianweng.github.io/posts/2018-10-13-flow-models/>) — Lilian Weng · 2018-10-13。
+- [从自编码器到 Beta-VAE](<https://lilianweng.github.io/posts/2018-08-12-vae/>) — Lilian Weng · 2018-08-12。
+- [注意力？注意力！](<https://lilianweng.github.io/posts/2018-06-24-attention/>) — Lilian Weng · 2018-06-24。
+- [用 TensorFlow + OpenAI Gym 实现深度强化学习模型](<https://lilianweng.github.io/posts/2018-05-05-drl-implementation/>) — Lilian Weng · 2018-05-05。
+- [策略梯度算法](<https://lilianweng.github.io/posts/2018-04-08-policy-gradient/>) — Lilian Weng · 2018-04-08。
+- [强化学习（长文）初探](<https://lilianweng.github.io/posts/2018-02-19-rl-overview/>) — Lilian Weng · 2018-02-19。
+- [多臂老虎机问题及其解法](<https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/>) — Lilian Weng · 2018-01-23。
+- [目标检测入门 第三部分：R-CNN 家族](<https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/>) — Lilian Weng · 2017-12-31。
+- [目标检测入门 Part 2：CNN、DPM 与 Overfeat](<https://lilianweng.github.io/posts/2017-12-15-object-recognition-part-2/>) — Lilian Weng · 2017-12-15。
+- [目标检测入门 第一部分：梯度向量、HOG 与 Selective Search](<https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/>) — Lilian Weng · 2017-10-29。
+- [学习词嵌入](<https://lilianweng.github.io/posts/2017-10-15-word-embedding/>) — Lilian Weng · 2017-10-15。
+- [用信息论剖析深度学习](<https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/>) — Lilian Weng · 2017-09-28。
+- [从 GAN 到 WGAN](<https://lilianweng.github.io/posts/2017-08-20-gan/>) — Lilian Weng · 2017-08-20。
+- [如何解释机器学习模型的预测？](<https://lilianweng.github.io/posts/2017-08-01-interpretation/>) — Lilian Weng · 2017-08-01。
+- [用 RNN 预测股价：第二部分](<https://lilianweng.github.io/posts/2017-07-22-stock-rnn-part-2/>) — Lilian Weng · 2017-07-22。
+- [用 RNN 预测股价：第一部分](<https://lilianweng.github.io/posts/2017-07-08-stock-rnn-part-1/>) — Lilian Weng · 2017-07-08。
+- [写给好奇者的深度学习综述](<https://lilianweng.github.io/posts/2017-06-21-overview/>) — Lilian Weng · 2017-06-21。

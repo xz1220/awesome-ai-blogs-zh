@@ -1,0 +1,2338 @@
+{
+  "articles": {
+    "3007f82c38138e35": {
+      "source_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md",
+      "expected_figure_groups": 7,
+      "complete": true,
+      "source_html_sha256": "49c4bb8e8b95141e71607ae57872209b28de8342cbad0d39758237425a870226",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/9284eb9ab797affce5d2378e.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/ff1264bc956043fbe4c82e4b.webp"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/74028cdcf1b711d8d2a31c21.webp"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/2c80b92936157e1a270ff055.webp"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/ff1fed5b55148e6de4fdde44.webp"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/95e48ed393b8523166f0336d.webp"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": "article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/3007f82c38138e35/b9ef88b662867edaec7be92f.webp"
+          ]
+        }
+      ]
+    },
+    "2fce942bef9f44eb": {
+      "source_url": "https://claude.com/resources/articles/building-always-on-agents",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md",
+      "expected_figure_groups": 7,
+      "complete": true,
+      "source_html_sha256": "cdd2b81aa863343fbabe905e8393c28635d8ede697304b883c3ef9ae43335127",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/441cec25bae0737a713a460b.gif"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/2362d396f2835f86bf61d750.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/0be924af63dad30df2c9a485.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/b71fc0aab4fb181c14a0825b.png"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/177ae75bbfdcbc3dfe486456.gif"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/6a2f17dc7af9699e54c1a858.png"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/2fce942bef9f44eb/f1002081ff466000801d6462.gif"
+          ]
+        }
+      ]
+    },
+    "c3d1bbdfab443c53": {
+      "source_url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-12_在您的安全边界内运行 Claude 托管智能体.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "02f5f68125232cc5fbda53de9ddfc8ec4d76d763ea77afbf523ea21bf527b909",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/c3d1bbdfab443c53/41e91edde90b4110327394a6.svg"
+          ]
+        }
+      ]
+    },
+    "19f8bc589a9b194d": {
+      "source_url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-10_您的应用现在可以在 Claude 中打开，Claude 也能在其中工作.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "3c97875cd9a7ef8cf6ae017ca230b4aee6522746e8cbdd06672a3ec57588800f",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/19f8bc589a9b194d/youtube-Gy1jSeSzAhk.jpg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/19f8bc589a9b194d/d82fe1c704e63a4ef0f37a7d.png"
+          ]
+        }
+      ]
+    },
+    "0c8cda120d567853": {
+      "source_url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md",
+      "expected_figure_groups": 18,
+      "complete": true,
+      "source_html_sha256": "f5a239b452c5e53c8f7650c5ec4127b9d6553cc0d64110546a00ad59de57b44f",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/youtube-VojDzHaciKQ.jpg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/aa694a38749f9cb766a1ff22.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/c6c09292c880025c989792ad.webp"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/77ed0bf2dc83e703ee3b337d.webp"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/fa7d8a1b9250527ab132b7e2.png"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/08d35a8105a270e245fcc126.png"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/cfc6cee743e671f8faaaf60e.webp"
+          ]
+        },
+        {
+          "id": "figure-08",
+          "source_index": 7,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/03789feb0f83f96545f8c734.png"
+          ]
+        },
+        {
+          "id": "figure-09",
+          "source_index": 8,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/1f40a543e2d1dff0c86ed480.webp"
+          ]
+        },
+        {
+          "id": "figure-10",
+          "source_index": 9,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/c4e2b2f106bf4b812f6882db.webp"
+          ]
+        },
+        {
+          "id": "figure-11",
+          "source_index": 10,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/c37d8ffea77323f5f3edfc4b.png"
+          ]
+        },
+        {
+          "id": "figure-12",
+          "source_index": 11,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/ea4b1d1ca413992d29511d4c.webp"
+          ]
+        },
+        {
+          "id": "figure-13",
+          "source_index": 12,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/469285353724938c471ccbdb.webp"
+          ]
+        },
+        {
+          "id": "figure-14",
+          "source_index": 13,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/3d684988bc21c95b35e7de07.webp"
+          ]
+        },
+        {
+          "id": "figure-15",
+          "source_index": 14,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/67c859383ba5ab34d4efd20a.png"
+          ]
+        },
+        {
+          "id": "figure-16",
+          "source_index": 15,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/youtube-JhipXUs1Y98.jpg"
+          ]
+        },
+        {
+          "id": "figure-17",
+          "source_index": 16,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/a1442deea3bae3acddff6661.png"
+          ]
+        },
+        {
+          "id": "figure-18",
+          "source_index": 17,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0c8cda120d567853/874f8d92c254cbe9c974e416.png"
+          ]
+        }
+      ]
+    },
+    "6f42239c080ae496": {
+      "source_url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+      "translation_path": "content/Anthropic/官方/工程与研究/2026-11-10_Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "d9a331f77efe2a4bea6eafb4b915538798aed641d5e26c3813b8988a094ea8d0",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/6f42239c080ae496/10015242f7a6fcb6df126c87.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text--article figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/6f42239c080ae496/4396680540bf5cf0a59bb93d.png"
+          ]
+        }
+      ]
+    },
+    "d7726fc963b24640": {
+      "source_url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+      "translation_path": "content/OpenAI/官方/2026-11-12_OpenAI 如何保障 OpenClaw 等持久型智能体的安全.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "9cd68faaddfb9d002c7ac3c68d0b72adec05789b4c134581ff602f64005cd1ee",
+      "figure_groups": []
+    },
+    "0d3aedc15fd9cfcf": {
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "translation_path": "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md",
+      "expected_figure_groups": 19,
+      "complete": true,
+      "source_html_sha256": "6895e1b665ab6e8400cd0c2a205951cc201f0e390a2cd156548506f76019e052",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/67abeaaa35a7d926-juno-header.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/9954355ccfe70695-juno-demo-poster.webp"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/d949e18353e48b47-juno-parallel-logging.webp"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/1ee6b0bc88f34ce5-juno-voice-study.webp"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/46b2b6c937fccb07-juno-voice-preferences.webp"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/3105e38bfed960d7-juno-exhausted-day.webp"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/68f4f6ead3b0dbe2-picsart-header.webp"
+          ]
+        },
+        {
+          "id": "figure-08",
+          "source_index": 7,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/ad1748d3fa7ab651-picsart-demo-poster.webp"
+          ]
+        },
+        {
+          "id": "figure-09",
+          "source_index": 8,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/78a676286947dc9c-picsart-voice-architecture.webp"
+          ]
+        },
+        {
+          "id": "figure-10",
+          "source_index": 9,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/5cd646fd9b08b600-picsart-agent-updates.webp"
+          ]
+        },
+        {
+          "id": "figure-11",
+          "source_index": 10,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/ea7dd9725ad7e91f-treater-header.webp"
+          ]
+        },
+        {
+          "id": "figure-12",
+          "source_index": 11,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/2d07280908eb7518-treater-demo-poster.webp"
+          ]
+        },
+        {
+          "id": "figure-13",
+          "source_index": 12,
+          "source_selector": null,
+          "kind": "section",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/treater-stage-1.png",
+            "assets/articles/0d3aedc15fd9cfcf/treater-stage-2.png",
+            "assets/articles/0d3aedc15fd9cfcf/treater-stage-3.png",
+            "assets/articles/0d3aedc15fd9cfcf/treater-stage-4.png",
+            "assets/articles/0d3aedc15fd9cfcf/treater-stage-5.png"
+          ]
+        },
+        {
+          "id": "figure-14",
+          "source_index": 13,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/4e7ffe0aeaa994ae-weekend-header.webp"
+          ]
+        },
+        {
+          "id": "figure-15",
+          "source_index": 14,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/d26eb99c7d673444-weekend-timberfall.webp"
+          ]
+        },
+        {
+          "id": "figure-16",
+          "source_index": 15,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/dcbee5aaaa06e931-weekend-two-sessions.webp"
+          ]
+        },
+        {
+          "id": "figure-17",
+          "source_index": 16,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/defc816d599f2656-weekend-prompt-structure.webp"
+          ]
+        },
+        {
+          "id": "figure-18",
+          "source_index": 17,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/e4c9846d96bf0d3d-weekend-verdict-timing.webp"
+          ]
+        },
+        {
+          "id": "figure-19",
+          "source_index": 18,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/0d3aedc15fd9cfcf/1cdae48c01c69c09-weekend-bribe-sequence.webp"
+          ]
+        }
+      ]
+    },
+    "fe0536b279191d4b": {
+      "source_url": "https://openai.com/index/cogent-security/",
+      "translation_path": "content/OpenAI/官方/2026-11-10_Cogent 与 OpenAI 为企业打造网络防御工厂.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "e45391fc2d7f01e6a79fed8af56b8c91e27860244046df37d596d91c9f12072b",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/fe0536b279191d4b/1f66e3b82e48b947-cogent-security-cover-sienna.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": null,
+          "kind": "figure",
+          "files": [
+            "assets/articles/fe0536b279191d4b/675a993470cca21d-cogent-security-diagram-light.webp"
+          ]
+        }
+      ]
+    },
+    "bdeda9dc49a9025e": {
+      "source_url": "https://openai.com/index/control-room/",
+      "translation_path": "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "bc33879e9acb3d453d50ae87257a06d0fc7794dc5fbb096088e6ae25bf9a7e21",
+      "figure_groups": [
+        {
+          "id": "4t9Yu5Vdp7LCXHV56T7lx1",
+          "source_index": 0,
+          "source_selector": null,
+          "kind": "interactive-html",
+          "files": [
+            "assets/articles/bdeda9dc49a9025e/control-room-step-01.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-02.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-03.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-04.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-05.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-06.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-07.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-08.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-09.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-10.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-11.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-12.png",
+            "assets/articles/bdeda9dc49a9025e/control-room-step-13.png"
+          ]
+        }
+      ]
+    },
+    "65922cfb61a324a6": {
+      "source_url": "https://www.langchain.com/blog/goal-engineering",
+      "translation_path": "content/LangChain/官方/2026-11-14_目标工程：如何设计 Agent 的目标.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "bc74d42453eb72aeb6760e72ea53e0224432c44b0e7a063da57f938d3e8270ee",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/65922cfb61a324a6/0083907265d9d5d5b3847bc8.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/65922cfb61a324a6/689ce46d5abc38178374c77f.png"
+          ]
+        }
+      ]
+    },
+    "762061e9584cb869": {
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "translation_path": "content/AWS/官方/2026-11-13_用 NVIDIA NeMo Switchyard 为编码 Agent 选择合适的模型.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "6e5af636b9ea04f5a08ec44ba39cf0247c0bc982a57ad89207321db3936cc31b",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".blog-post-content (excluding author biographies)",
+          "kind": "image",
+          "files": [
+            "assets/articles/762061e9584cb869/bd6d8ce7e02c3985d2f6d868.png"
+          ]
+        }
+      ]
+    },
+    "8bc9138e516754eb": {
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "translation_path": "content/GitHub/官方/2026-11-12_一次编写，跨 Agent 运行：Skills 实践指南.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "8a133bbbe8bbb13bd91327f8bffa04a6e3a4485d9ba71238d437620b3a73c1a4",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "section.post__content > html > body + visible article hero",
+          "kind": "image",
+          "files": [
+            "assets/articles/8bc9138e516754eb/49527bc8e3a3cc642c8c2243.png"
+          ]
+        }
+      ]
+    },
+    "548af7c4772d0fa2": {
+      "source_url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+      "translation_path": "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md",
+      "expected_figure_groups": 6,
+      "complete": true,
+      "source_html_sha256": "789f85ba36a4f31b455799bcd34435749be95490dbcec6b7915de27f847bdbf6",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/786e3d296f718f9f52f3f8d9.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/3e30279a8301c9e7a15db21c.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/3ca5ee673bcf4ed05a1074b5.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/e975dfd6e1ff84b80a90ca04.png"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/dad627343966a554f2f44fd3.png"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/548af7c4772d0fa2/a7d47da7579f82a7f5ced7b1.png"
+          ]
+        }
+      ]
+    },
+    "dcc3893e53f42774": {
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+      "translation_path": "content/AWS/官方/2026-11-12_从原型到生产：Agent DLC 工程实践.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "ac585a559365e942d01edfa6622f5e46e0445fa754c4afce780bdd8f76429f57",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".blog-post-content (excluding author biographies)",
+          "kind": "image",
+          "files": [
+            "assets/articles/dcc3893e53f42774/d4ac9f62369dd5559e011856.png"
+          ]
+        }
+      ]
+    },
+    "5856e4b34d4d76a0": {
+      "source_url": "https://devblogs.microsoft.com/go/preconfigured-agents-with-microsoft-agent-framework-for-go/",
+      "translation_path": "content/Microsoft/官方/2026-11-11_Microsoft Agent Framework for Go 的预配置 Agent.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "4329e2038a3376848dc1537455fe92980fcfe986e737a84f3ccc52cc721db650",
+      "figure_groups": []
+    },
+    "cc657d3d89f3239f": {
+      "source_url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "translation_path": "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md",
+      "expected_figure_groups": 8,
+      "complete": true,
+      "source_html_sha256": "4f50261bfb8c8b4d40fe767de8dfbbf6677eaae976d77252c0e6a3cd914a0332",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/8054cdaaa3e0fc2babea3847.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "section.blocks-container",
+          "kind": "video",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/video-01-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "section.blocks-container",
+          "kind": "video",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/video-02-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/17acbee7f199234153849dc8.png"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/3c72d40ecdad9f6b1cefc181.png"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/e7219e1012f0f68d43aeae54.png"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/73dcf5e124b5cbecbd3e8ca2.png"
+          ]
+        },
+        {
+          "id": "figure-08",
+          "source_index": 7,
+          "source_selector": "section.blocks-container",
+          "kind": "image",
+          "files": [
+            "assets/articles/cc657d3d89f3239f/481ae5d7ade5093d25f4dfae.png"
+          ]
+        }
+      ]
+    },
+    "f321c904268bcef2": {
+      "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "translation_path": "content/Google DeepMind/官方/2026-11-10_AlphaProof Code：深入验证复杂软件的突破.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "4a03cc862d755951bb9071e7839a1942e7cf3b0293128ad36260397835c8d048",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "main#page-content (excluding related posts and duplicate dark-theme image)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f321c904268bcef2/4e503145ce0e773d26f3ab5d.jpg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "main#page-content (excluding related posts and duplicate dark-theme image)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f321c904268bcef2/7a85dccf8309289e09f1cdfd.jpg"
+          ]
+        }
+      ]
+    },
+    "b140b110e619a8ce": {
+      "source_url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "translation_path": "content/NVIDIA/官方/2026-11-10_Agent Substrate：推进 Kubernetes 上的大规模 Agent 运行.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "119da059772b836e4cf9faf9c3a35b4d45cd346a3d47586f6a163ada278e5ef9",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "main .entry-content + visible article hero",
+          "kind": "image",
+          "files": [
+            "assets/articles/b140b110e619a8ce/3642dd354fc8587f15a0115c.webp"
+          ]
+        }
+      ]
+    },
+    "f971ad043a6c2482": {
+      "source_url": "https://cursor.com/blog/projects-multiplayer",
+      "translation_path": "content/Cursor/官方/2026-11-10_Cursor Projects 支持多人协作.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "b9eb1fbf8a77361d90be1e204b8b265b0e7e0744f1ed1b9c7048464baa890147",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "video",
+          "files": [
+            "assets/articles/f971ad043a6c2482/video-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "rendered-diagram",
+          "files": [
+            "assets/articles/f971ad043a6c2482/rendered-figure-2.png"
+          ]
+        }
+      ]
+    },
+    "5f3963726dbe36e6": {
+      "source_url": "https://huggingface.co/blog/decision",
+      "translation_path": "content/Hugging Face/官方/2026-11-10_Hugging Face 中的决策模型.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "4252e49c1b4a35423241d6cc8bff1bd75672ee2cdee1ed796af0663b721fba2e",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".blog-content > div.relative.overflow-clip (excluding ToC hydration)",
+          "kind": "image",
+          "files": [
+            "assets/articles/5f3963726dbe36e6/d37b008fec93d7a37595a955.png"
+          ]
+        }
+      ]
+    },
+    "0d5030baccda0d7a": {
+      "source_url": "https://www.langchain.com/blog/what-is-eval-driven-development",
+      "translation_path": "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md",
+      "expected_figure_groups": 6,
+      "complete": true,
+      "source_html_sha256": "064c58c15777aa704ee747c8d6d98618b6cfe0e115ec98e4dbec93b2a0053719",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/1ca56df9abbfd5d5774b0170.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/4db08ac7e33d06f2d8cbae2d.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/9188db019527ae06c9057e2c.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/d5785241177e3f077b53d6cf.png"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/97ffe8c8a3b6de6eb1d12511.png"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/0d5030baccda0d7a/2af42a9685521685b31b21e2.png"
+          ]
+        }
+      ]
+    },
+    "e547d0d8cbe359a0": {
+      "source_url": "https://api-docs.deepseek.com/zh-cn/updates/#时间-2026-11-13",
+      "translation_path": "content/DeepSeek/官方/2026-11-13_完整应用 API 开放.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "f07f2c857a6e272f8219aaf91dfd867c1364daffc4b838b8c28ce8a4421839ab",
+      "figure_groups": []
+    },
+    "9191d43918fc91a1": {
+      "source_url": "https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai/kimi-code%402.6.0",
+      "translation_path": "content/Kimi/官方/2026-11-12_Kimi Code CLI v2.6.0 发布说明.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "f4e2620f7438b2b032677e6bc28780bf7ac22bd0a13020aa8eec8f9af5eaab94",
+      "figure_groups": []
+    },
+    "3dfc9f353bfc10d6": {
+      "source_url": "https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview",
+      "translation_path": "content/Qwen/官方/2026-11-11_Qwen Code 1.0 Preview 发布说明.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "3ee69bab24a43f80f090bb84e4730009363af1bba0334f33dccd0800a8916f56",
+      "figure_groups": []
+    },
+    "64a53e142a390086": {
+      "source_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/",
+      "translation_path": "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md",
+      "expected_figure_groups": 4,
+      "complete": true,
+      "source_html_sha256": "0e2a3c947d2c4b6ad4d544697c9ae7d65c39274ba9557856388d2ef84e24e798",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article main img",
+          "kind": "image",
+          "files": [
+            "assets/articles/64a53e142a390086/e62f6e413425805a358e762e.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article main img",
+          "kind": "image",
+          "files": [
+            "assets/articles/64a53e142a390086/511c274d2f2bfd25c110cbeb.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article main img",
+          "kind": "image",
+          "files": [
+            "assets/articles/64a53e142a390086/eebe586e7ac588a7ca743456.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article main img",
+          "kind": "image",
+          "files": [
+            "assets/articles/64a53e142a390086/71a0054fdc3975580c9b50ca.png"
+          ]
+        }
+      ]
+    },
+    "9c4184d44164e0d7": {
+      "source_url": "https://www.langchain.com/blog/agents-are-going-async",
+      "translation_path": "content/LangChain/官方/2026-11-05_Agent 正在走向异步.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "136cf0fa3ddf6ab10dd47d8596cd82b8e7a495ec6fbc5421053a97e2527cc39d",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/9c4184d44164e0d7/8dec0f20977de2efa537d99b.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/9c4184d44164e0d7/58d74115c5422184dbe8183a.png"
+          ]
+        }
+      ]
+    },
+    "449a5ebbef16a4ba": {
+      "source_url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+      "translation_path": "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md",
+      "expected_figure_groups": 5,
+      "complete": true,
+      "source_html_sha256": "d71786f9a79b7eddd4f77e56fe06a5735e174be89a10d115527c8aedb5397d3c",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/449a5ebbef16a4ba/0f50bf5cf961f5d72976635e.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/449a5ebbef16a4ba/349ea4264e7950403692a6bd.gif"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/449a5ebbef16a4ba/6d3ec3215d72cecd8e15cdc2.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/449a5ebbef16a4ba/e2e7a0c389b4d392e3024cac.png"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": ".text-rich-text-v2-blog-post figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/449a5ebbef16a4ba/c54d35a5d6f1d2d88e654dce.png"
+          ]
+        }
+      ]
+    },
+    "ea41a986fe715307": {
+      "source_url": "https://cursor.com/blog/agent-sdk",
+      "translation_path": "content/Cursor/官方/2026-10-20_Agent SDK 正式发布.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "f204d3d2c70b0d31ffac7c88e3af758c881effc7b9a677846018525c23b650e7",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "video",
+          "files": [
+            "assets/articles/ea41a986fe715307/video-preview.gif"
+          ]
+        }
+      ]
+    },
+    "14383ac75ba71973": {
+      "source_url": "https://cursor.com/blog/improved-token-efficiency",
+      "translation_path": "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md",
+      "expected_figure_groups": 4,
+      "complete": true,
+      "source_html_sha256": "ebf134c2c387f1b7f4592623de188ae1f9f23f1594df9b4b3de452c43b9c0d1f",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "rendered-diagram",
+          "files": [
+            "assets/articles/14383ac75ba71973/rendered-figure-1.png"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "rendered-diagram",
+          "files": [
+            "assets/articles/14383ac75ba71973/rendered-figure-2.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "rendered-diagram",
+          "files": [
+            "assets/articles/14383ac75ba71973/rendered-figure-3.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article.grid-cursor .prose figure",
+          "kind": "image",
+          "files": [
+            "assets/articles/14383ac75ba71973/f3362c278284a2a4c900dff3.png"
+          ]
+        }
+      ]
+    },
+    "69e94d3b69ad0a46": {
+      "source_url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+      "translation_path": "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md",
+      "expected_figure_groups": 11,
+      "complete": true,
+      "source_html_sha256": "24d13d95ab714338baae094c64c839ae02a75aa1ff3be71fd220da9f80eaab1f",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/video-00-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/video-01-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/video-02-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/e37a5d3c49265e62-lodge-podge.webp"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/88dd8dc473ff46ee-walk-cycle.webp"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/5fdaf825cf9ccb31-room-collisions.webp"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/d9145f054d6decb9-playable-preview.webp"
+          ]
+        },
+        {
+          "id": "figure-08",
+          "source_index": 7,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/29b4385a2b9c3e87-annotate-preview.webp"
+          ]
+        },
+        {
+          "id": "figure-09",
+          "source_index": 8,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/e7a8056bd86b63d6-playtest-frames.webp"
+          ]
+        },
+        {
+          "id": "figure-10",
+          "source_index": 9,
+          "source_selector": null,
+          "kind": "img",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/6d40b33c827baccd-gb-studio-game-world.webp"
+          ]
+        },
+        {
+          "id": "figure-11",
+          "source_index": 10,
+          "source_selector": null,
+          "kind": "video",
+          "files": [
+            "assets/articles/69e94d3b69ad0a46/video-10-preview.gif"
+          ]
+        }
+      ]
+    },
+    "7b3cfa50ed6df109": {
+      "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+      "translation_path": "content/OpenAI/官方/2026-10-14_设计 OpenAI 模型提供商之间的故障切换.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "2b62221c83ff0e065fa43ba2adb3ef18476146877ae42d915b213e02eaeb9df5",
+      "figure_groups": [
+        {
+          "id": "provider-failover-1",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "html-diagram",
+          "files": [
+            "assets/articles/7b3cfa50ed6df109/rendered-provider-failover-1-default.png"
+          ]
+        },
+        {
+          "id": "provider-failover-2",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > figure:nth-of-type(1)",
+          "kind": "html-diagram",
+          "files": [
+            "assets/articles/7b3cfa50ed6df109/rendered-provider-failover-2-default.png"
+          ]
+        }
+      ]
+    },
+    "86d5c720b5bd89c8": {
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "translation_path": "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md",
+      "expected_figure_groups": 7,
+      "complete": true,
+      "source_html_sha256": "38157fed93e6c15ff3efbcc24657e554a3559a4e4db578283128101c3f82c8f6",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(6) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/9f4be3e6002c03ab-a-thousand-fewer-paths-to-root-discovery-funnel.svg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/4ac3130efee53e92-a-thousand-fewer-paths-to-root-research-pipeline.svg"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(20) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/91541229bf5f8226-a-thousand-fewer-paths-to-root-discovery-workflow.svg"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(24) > figure:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/vimeo-1235991273-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/d55b573aeaaa57e5-a-thousand-fewer-paths-to-root-validation-system.svg"
+          ]
+        },
+        {
+          "id": "chart-449H8PkWRrybDjocxnytps",
+          "source_index": 5,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(35) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/rendered-chart-449H8PkWRrybDjocxnytps-default.png"
+          ]
+        },
+        {
+          "id": "linux-kernel-exploitation-success-rate",
+          "source_index": 6,
+          "source_selector": "[id=\"linux-kernel-exploitation-success-rate\"]",
+          "kind": "chart",
+          "files": [
+            "assets/articles/86d5c720b5bd89c8/rendered-linux-kernel-exploitation-success-rate-default.png"
+          ]
+        }
+      ]
+    },
+    "964fcb0853dc7408": {
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "translation_path": "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md",
+      "expected_figure_groups": 7,
+      "complete": true,
+      "source_html_sha256": "8a26aaaf943622a9beff8b33ebccea17bebaefa8a0a06d8c8411f6d4a40810f0",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/964fcb0853dc7408/3ae86151a334b6da-d1_desktop_light.svg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/964fcb0853dc7408/69d4243d6ea6a16a-monitoring-the-frontier-monitoring-system-diagram.webp"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(28) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/964fcb0853dc7408/217b05bcc9aee0c6-monitoring-the-frontier-monitoring-funnel-diagram.webp"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(34) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/964fcb0853dc7408/8f1da065b9b637b3-monitoring-the-frontier-security-alignment-coverage-diagram.webp"
+          ]
+        },
+        {
+          "id": "internal-traffic",
+          "source_index": 4,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(45) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/964fcb0853dc7408/rendered-internal-traffic-default.png"
+          ]
+        },
+        {
+          "id": "training-eval-performance",
+          "source_index": 5,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/964fcb0853dc7408/rendered-training-eval-performance-default.png",
+            "assets/articles/964fcb0853dc7408/rendered-training-eval-performance-synthetic.png"
+          ]
+        },
+        {
+          "id": "monitor-capability-is-important",
+          "source_index": 6,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(50) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/964fcb0853dc7408/rendered-monitor-capability-is-important-default.png"
+          ]
+        }
+      ]
+    },
+    "71853833e5fa6c7e": {
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "translation_path": "content/OpenAI/官方/2026-10-23_保护前沿模型训练环境.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "37467156665150480769ee0ba661e9dd6b3969c2d158bf814438978a093747fa",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(15) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/71853833e5fa6c7e/11b3b68199b839f7-securing-our-frontier-model-training-environment-diagram-desktop-light.webp"
+          ]
+        },
+        {
+          "id": "urgent-high-candidate-findings-vs-tokens-spent",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/71853833e5fa6c7e/rendered-urgent-high-candidate-findings-vs-tokens-spent-default.png"
+          ]
+        }
+      ]
+    },
+    "9f6c1d6cd55f3820": {
+      "source_url": "https://openai.com/index/low-resource-programming-languages/",
+      "translation_path": "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md",
+      "expected_figure_groups": 5,
+      "complete": true,
+      "source_html_sha256": "1439677e9c7a5bf816984d74158552fbc83d1d8adc6f0bb122f3d7965279d2df",
+      "figure_groups": [
+        {
+          "id": "hero-composite",
+          "source_index": 0,
+          "source_selector": "article > section:nth-of-type(1)",
+          "kind": "hero-composite",
+          "files": [
+            "assets/articles/9f6c1d6cd55f3820/hero-low-resource.png"
+          ]
+        },
+        {
+          "id": "multilangbench-average-test-pass-rate",
+          "source_index": 8,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(14) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/9f6c1d6cd55f3820/chart-average-test-pass-rate.png"
+          ]
+        },
+        {
+          "id": "figure-10",
+          "source_index": 9,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(15) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/9f6c1d6cd55f3820/chart-sqlite-pass-rate-by-language.png"
+          ]
+        },
+        {
+          "id": "sqlite-language-comparison-tabs",
+          "source_index": 10,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(16) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "tabbed-chart",
+          "files": [
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-c-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-c-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-csharp-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-csharp-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-cpp-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-cpp-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-reward-and-estimated-cost-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-reward-and-estimated-cost-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-common-lisp-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-common-lisp-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-fortran-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-fortran-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-go-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-go-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-java-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-java-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-javascript-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-javascript-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-lean-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-lean-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ocaml-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ocaml-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-php-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-php-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-powershell-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-powershell-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-python-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-python-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ruby-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ruby-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-rust-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-rust-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-scala-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-scala-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-swift-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-swift-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-visual-basic-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-visual-basic-output-tokens.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-zig-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-zig-output-tokens.png"
+          ]
+        },
+        {
+          "id": "figure-11",
+          "source_index": 11,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(23) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/9f6c1d6cd55f3820/cobol-migration-performance-api-cost.png",
+            "assets/articles/9f6c1d6cd55f3820/cobol-migration-performance-output-tokens.png"
+          ]
+        }
+      ]
+    },
+    "37e2550d2086cdee": {
+      "source_url": "https://openai.com/index/lifeval/",
+      "translation_path": "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md",
+      "expected_figure_groups": 14,
+      "complete": true,
+      "source_html_sha256": "951b07b37abb21f395878119b09e178baee8a3db3c1c5f85ec9aedaffa4bf5da",
+      "figure_groups": [
+        {
+          "id": "hero-composite",
+          "source_index": 0,
+          "source_selector": null,
+          "kind": "rendered-hero",
+          "files": [
+            "assets/articles/37e2550d2086cdee/hero-composite.png"
+          ]
+        },
+        {
+          "id": "figure-15",
+          "source_index": 14,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > figure:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/37e2550d2086cdee/vimeo-1240955743-preview.gif"
+          ]
+        },
+        {
+          "id": "model-performance-on-everyday-tasks-by-release-date",
+          "source_index": 15,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/37e2550d2086cdee/rendered-model-performance-on-everyday-tasks-by-release-date-default.png"
+          ]
+        },
+        {
+          "id": "chart-5PmoxgHKKEamFZqgIPnrCM",
+          "source_index": 21,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/37e2550d2086cdee/rendered-chart-5PmoxgHKKEamFZqgIPnrCM-default.png",
+            "assets/articles/37e2550d2086cdee/rendered-lifeval-tokens.png",
+            "assets/articles/37e2550d2086cdee/rendered-lifeval-api_cost.png"
+          ]
+        },
+        {
+          "id": "figure-23",
+          "source_index": 22,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/54d14b666da7b117-photo-02.webp"
+          ]
+        },
+        {
+          "id": "figure-24",
+          "source_index": 23,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/b104322593f7d4c7-photo-03.webp"
+          ]
+        },
+        {
+          "id": "figure-25",
+          "source_index": 24,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/16c4dd30f8d3f472-photo-04.webp"
+          ]
+        },
+        {
+          "id": "figure-26",
+          "source_index": 25,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/6cd1da6aee636483-photo-05.webp"
+          ]
+        },
+        {
+          "id": "figure-27",
+          "source_index": 26,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/b73447e2c8771c76-photo-06.webp"
+          ]
+        },
+        {
+          "id": "figure-28",
+          "source_index": 27,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/2a79c966703136bc-photo-07.webp"
+          ]
+        },
+        {
+          "id": "figure-29",
+          "source_index": 28,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/5ab2a76f5a2bcbd8-photo-08.webp"
+          ]
+        },
+        {
+          "id": "figure-30",
+          "source_index": 29,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/d78ee5ecb933a501-photo-09.webp"
+          ]
+        },
+        {
+          "id": "figure-31",
+          "source_index": 30,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/303aee174457fe62-photo-10.webp"
+          ]
+        },
+        {
+          "id": "figure-32",
+          "source_index": 31,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/37e2550d2086cdee/6a820bd965cd0048-photo-11.webp"
+          ]
+        }
+      ]
+    },
+    "d5764ee3d06ac915": {
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "translation_path": "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md",
+      "expected_figure_groups": 14,
+      "complete": true,
+      "source_html_sha256": "b7b35ab56e6b73648106b7d66cd8cdf77b74489ed5ed86b20fdfe8d7b297f974",
+      "figure_groups": [
+        {
+          "id": "biobasicsbench-tasks-by-domain-and-tested-skill",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-tasks-by-domain-and-tested-skill-default.png"
+          ]
+        },
+        {
+          "id": "biobasicsbench-model-performance",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(18) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-model-performance-default.png"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/eed6ae37f42a2ec6-biobasicsbench-brightfield-paired-regions.svg"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/eef3108f4f4948be-biobasicsbench-channel-2-paired-regions.svg"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/7110c63e7d8cf362-biobasicsbench-channel-3-paired-regions.svg"
+          ]
+        },
+        {
+          "id": "biobasicsbench-detection-windows",
+          "source_index": 5,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-detection-windows-default.png"
+          ]
+        },
+        {
+          "id": "figure-07",
+          "source_index": 6,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(29) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/9c6764fa50409a49-plate-and-rim-mark.9c6764fa.png",
+            "assets/articles/d5764ee3d06ac915/08b54f8469b4939c-biobasicsbench-rim-label-inline-centered.svg"
+          ]
+        },
+        {
+          "id": "figure-08",
+          "source_index": 7,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(33) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/f7bcd8a579053125-depth-0s.f7bcd8a5.png",
+            "assets/articles/d5764ee3d06ac915/642c1b130cf4fc68-depth-3s.642c1b13.png",
+            "assets/articles/d5764ee3d06ac915/579b27aa5434de74-depth-6s.579b27aa.png"
+          ]
+        },
+        {
+          "id": "figure-09",
+          "source_index": 8,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(33) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(2)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/332948ac34f67db6-depth-9s.332948ac.png",
+            "assets/articles/d5764ee3d06ac915/18f51074e260c07b-depth-12s.18f51074.png",
+            "assets/articles/d5764ee3d06ac915/15017a8aa88845ee-depth-15s.15017a8a.png"
+          ]
+        },
+        {
+          "id": "figure-10",
+          "source_index": 9,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(38) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/9b38de80f9dc6ac3-pcr-lanes.9b38de80.png"
+          ]
+        },
+        {
+          "id": "figure-11",
+          "source_index": 10,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(42) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/dc6074e16950bdef-biobasicsbench-cell-contrast-darker.svg",
+            "assets/articles/d5764ee3d06ac915/319b213893d03a31-biobasicsbench-cell-contrast-lighter.svg"
+          ]
+        },
+        {
+          "id": "figure-12",
+          "source_index": 11,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/d9e76de5aa0e322c-counting-neighbors-original.d9e76de5.png",
+            "assets/articles/d5764ee3d06ac915/25f5526f5fc2760b-counting-neighbors-marked.25f5526f.png"
+          ]
+        },
+        {
+          "id": "figure-13",
+          "source_index": 12,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/3111ff5828d600d9-counting-unmarked-original.3111ff58.png",
+            "assets/articles/d5764ee3d06ac915/518abaf43e8021d3-counting-unmarked-marked.518abaf4.png"
+          ]
+        },
+        {
+          "id": "figure-14",
+          "source_index": 13,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/d5764ee3d06ac915/98da744f0d347527-counting-empty-agar-original.98da744f.png",
+            "assets/articles/d5764ee3d06ac915/6b30ead7bddc6ed0-counting-empty-agar-marked.6b30ead7.png"
+          ]
+        }
+      ]
+    },
+    "826bb176747af3b1": {
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+      "translation_path": "content/OpenAI/官方/2026-10-06_与 Ironclad 一起推进计算机使用能力.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "79af1bacdb0dd9a049834232607804ff59aa3bc81ee38c54bb08003938ae5e1b",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/826bb176747af3b1/vimeo-1231839120-preview.gif"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/826bb176747af3b1/vimeo-1231839180-preview.gif"
+          ]
+        }
+      ]
+    },
+    "6d3b5b9ceb736524": {
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "translation_path": "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md",
+      "expected_figure_groups": 4,
+      "complete": true,
+      "source_html_sha256": "b28f87bbdee9b260d19c7defb06419aef600cbde3c728a3fdfb11de5522adfb5",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/6d3b5b9ceb736524/vimeo-1239926138-preview.gif"
+          ]
+        },
+        {
+          "id": "median-daily-codex-use",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/6d3b5b9ceb736524/rendered-median-daily-codex-use-default.png"
+          ]
+        },
+        {
+          "id": "benchcad-2-performance",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(15) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/6d3b5b9ceb736524/rendered-benchcad-2-performance-default.png"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(23) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/6d3b5b9ceb736524/vimeo-1241345329-preview.gif"
+          ]
+        }
+      ]
+    },
+    "b14df6b73463d1e8": {
+      "source_url": "https://openai.com/index/practical-guide-building-gpt-6/",
+      "translation_path": "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md",
+      "expected_figure_groups": 3,
+      "complete": true,
+      "source_html_sha256": "ab065d2fc229329c974eaf234b1be524995563e2ef56c3e7fb74c94fd29f7ab3",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(18) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/b14df6b73463d1e8/aa410eca6eb0a9a4-paul-solt-tweet-textured-light.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(37) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/b14df6b73463d1e8/8e2a6ed9eaa0d8a1-peter-steinberger-tweet-textured-light.webp"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(43) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/b14df6b73463d1e8/e321230d156cfb30-higgsfield-tweet-textured-light.webp"
+          ]
+        }
+      ]
+    },
+    "9434ac3945d97bda": {
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "translation_path": "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md",
+      "expected_figure_groups": 4,
+      "complete": true,
+      "source_html_sha256": "f11d3fa64e425249ca2454f39d550a018e029d04939f0c96cb3074f416c2aee1",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "[id=\"_R_ilbsnplmjcknpfivb_\"] > img:nth-of-type(1)",
+          "kind": "hero",
+          "files": [
+            "assets/articles/9434ac3945d97bda/pre-dawn-hero.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+          "kind": "tabbed-chart",
+          "files": [
+            "assets/articles/9434ac3945d97bda/rendered-cyber-exploitgym.png",
+            "assets/articles/9434ac3945d97bda/rendered-cyber-remoteexploitbench.png",
+            "assets/articles/9434ac3945d97bda/rendered-cyber-chart-uGUjYdcG7eaTWxbErmd5N.png",
+            "assets/articles/9434ac3945d97bda/rendered-cyber-exploitbench-june-august-2026.png",
+            "assets/articles/9434ac3945d97bda/rendered-cyber-sre-bench.png",
+            "assets/articles/9434ac3945d97bda/rendered-cyber-web-pentesting.png"
+          ]
+        },
+        {
+          "id": "chart-2U4LbSdvQPiNw8CRJFR9u8",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/9434ac3945d97bda/rendered-cyber-chart-2U4LbSdvQPiNw8CRJFR9u8.png"
+          ]
+        },
+        {
+          "id": "chart-2Nlzom1icZtt2WaVyHIxYo",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(32) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/9434ac3945d97bda/rendered-cyber-chart-2Nlzom1icZtt2WaVyHIxYo.png"
+          ]
+        }
+      ]
+    },
+    "f140eb9aaf81ef6b": {
+      "source_url": "https://openai.com/index/building-chatgpt-ad-stack/",
+      "translation_path": "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md",
+      "expected_figure_groups": 6,
+      "complete": true,
+      "source_html_sha256": "e79be9c4a8c594268b3f19fc429089f9c7cd019c2b17d45b584e700029a82c6c",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/04a763dbcb1b8ab9-advertising-desktop-light.svg"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(17) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/0509bd3a81e7c813-orchestrator-desktop-light.svg"
+          ]
+        },
+        {
+          "id": "figure-03",
+          "source_index": 2,
+          "source_selector": "[id=\"_R_4gl5bsnplmjcknpfivb_\"] > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "decorative-image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/6aeb74b370592a26-printed-throw-pillow.webp"
+          ]
+        },
+        {
+          "id": "figure-04",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/e225430714bfa026-candidate-desktop-light.svg"
+          ]
+        },
+        {
+          "id": "figure-05",
+          "source_index": 4,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/4f213a293445f3db-selecting-ads-desktop-light.svg"
+          ]
+        },
+        {
+          "id": "figure-06",
+          "source_index": 5,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(52) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/f140eb9aaf81ef6b/cbdac911bb66d96b-privacy-desktop-light.svg"
+          ]
+        }
+      ]
+    },
+    "75125cf5ab0826b2": {
+      "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "translation_path": "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md",
+      "expected_figure_groups": 3,
+      "complete": true,
+      "source_html_sha256": "56f05183668b749cc911a217d4e81c362fdd4abb931cab0f6ec6290fab1f35f3",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/75125cf5ab0826b2/vimeo-1237313920-preview.gif"
+          ]
+        },
+        {
+          "id": "literature-retrieved-as-workload-increases",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/75125cf5ab0826b2/rendered-literature-retrieved-as-workload-increases-default.png"
+          ]
+        },
+        {
+          "id": "mean-human-priority-per-report",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(21) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/75125cf5ab0826b2/rendered-mean-human-priority-per-report-default.png"
+          ]
+        }
+      ]
+    },
+    "87c1aab0a6a8ed6f": {
+      "source_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/",
+      "translation_path": "content/OpenAI/官方/2026-10-26_GPT-6.1 Sol 如何帮助 CodeRabbit 加强复杂代码库安全.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "586b09926463f78f908f767e113eb778671ce00dd2fd6200408bb7eff0857c47",
+      "figure_groups": []
+    },
+    "51dc5b66bcc5a8ab": {
+      "source_url": "https://openai.com/index/coderabbit-codex-daybreak/",
+      "translation_path": "content/OpenAI/官方/2026-11-09_CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "859c9bbbd9974ee68e5c11f142c9fd4e0cb5446f802b4f2d3fb8f273470d933c",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/51dc5b66bcc5a8ab/vimeo-1245204408-preview.gif"
+          ]
+        }
+      ]
+    },
+    "5fac02a7030911ab": {
+      "source_url": "https://openai.com/index/qodo-codex-plugin/",
+      "translation_path": "content/OpenAI/官方/2026-11-02_Qodo 与 Codex：将上下文引入 AI 代码审查.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "06f011ca1c4ea4b8bc9425c7050dc283ac2b265fcf12c42fc47993febba31375",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/5fac02a7030911ab/vimeo-1241442369-preview.gif"
+          ]
+        }
+      ]
+    },
+    "532d936c683b5e58": {
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra/",
+      "translation_path": "content/OpenAI/官方/2026-10-26_Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "7f637277eab89c92a631d01c3b5c304bc7aa9b58d920c3ef8b57560cb74ba116",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/532d936c683b5e58/vimeo-1238949553-preview.gif"
+          ]
+        }
+      ]
+    },
+    "ef460bb7405cc35f": {
+      "source_url": "https://openai.com/index/third-moment-research/",
+      "translation_path": "content/OpenAI/官方/2026-10-14_Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时.中文.md",
+      "expected_figure_groups": 2,
+      "complete": true,
+      "source_html_sha256": "5509a575db90772655bb1de56db6da3be9de80e5725d04d82819483e53d3dba0",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/ef460bb7405cc35f/776a1c5bfdb4d0eb-third-moment-research-first-light-cover-1080x1080.webp"
+          ]
+        },
+        {
+          "id": "figure-02",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/ef460bb7405cc35f/cec05771382ab9fc-third-moment-agent-improvement-desktop-light-tight.webp"
+          ]
+        }
+      ]
+    },
+    "10dcfe0bfbc53363": {
+      "source_url": "https://openai.com/index/asana-browser-agent/",
+      "translation_path": "content/OpenAI/官方/2026-10-09_Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一.中文.md",
+      "expected_figure_groups": 4,
+      "complete": true,
+      "source_html_sha256": "ed1b93efa819d6458ded555430d37dce0d358b69a521e87613ecf660dd45ca07",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+          "kind": "image",
+          "files": [
+            "assets/articles/10dcfe0bfbc53363/a39744c908fc602c-asana-blue-layered-paper-cover-hero-1080x1080.webp"
+          ]
+        },
+        {
+          "id": "cost-per-run",
+          "source_index": 1,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(19) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/10dcfe0bfbc53363/rendered-cost-per-run-default.png"
+          ]
+        },
+        {
+          "id": "policy-run-time",
+          "source_index": 2,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(21) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/10dcfe0bfbc53363/rendered-policy-run-time-default.png"
+          ]
+        },
+        {
+          "id": "policy-model-calls",
+          "source_index": 3,
+          "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(22) > figure:nth-of-type(1)",
+          "kind": "chart",
+          "files": [
+            "assets/articles/10dcfe0bfbc53363/rendered-policy-model-calls-default.png"
+          ]
+        }
+      ]
+    },
+    "b40337458a215eb1": {
+      "source_url": "https://openai.com/index/amp-beyond-coding/",
+      "translation_path": "content/OpenAI/官方/2026-10-14_Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作.中文.md",
+      "expected_figure_groups": 1,
+      "complete": true,
+      "source_html_sha256": "ef894e9923cb2ebdd7368b0fcd34153f9072a9a3661d99ff6ea4852d3d76b73e",
+      "figure_groups": [
+        {
+          "id": "figure-01",
+          "source_index": 0,
+          "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "kind": "video",
+          "files": [
+            "assets/articles/b40337458a215eb1/vimeo-1235580778-preview.gif"
+          ]
+        }
+      ]
+    },
+    "203093066e1251d7": {
+      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "translation_path": "content/OpenAI/官方/2026-10-21_Patch the Planet：协调应对 Agent 发现的重大漏洞.中文.md",
+      "expected_figure_groups": 0,
+      "complete": true,
+      "source_html_sha256": "2db55720f48ae028a1157eb0f405872e97a6fcf85c9dd18ded363d4e61c63c5b",
+      "figure_groups": []
+    }
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "article_id": "0d3aedc15fd9cfcf",
+  "article_path": "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md",
+  "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "67abeaaa35a7d926-juno-header.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-header.webp",
+      "caption_zh": null,
+      "sha256": "67abeaaa35a7d926c6df94d0703d70d88ff2980ac5d90d4a8eaf1e3802860a14",
+      "bytes": 15116
+    },
+    {
+      "file": "d949e18353e48b47-juno-parallel-logging.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-parallel-logging.webp",
+      "caption_zh": null,
+      "sha256": "d949e18353e48b47655b91036a2df868454a6c075803598766fd6e6403d6ed15",
+      "bytes": 31670
+    },
+    {
+      "file": "1ee6b0bc88f34ce5-juno-voice-study.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-voice-study.webp",
+      "caption_zh": null,
+      "sha256": "1ee6b0bc88f34ce532e5ad88e10bcacf809f692dc4cc48b66b0b228b633b5d8d",
+      "bytes": 40394
+    },
+    {
+      "file": "46b2b6c937fccb07-juno-voice-preferences.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-voice-preferences.webp",
+      "caption_zh": null,
+      "sha256": "46b2b6c937fccb07542b81438e559fe2a572597d59356d2be8d51521b07660ed",
+      "bytes": 29724
+    },
+    {
+      "file": "3105e38bfed960d7-juno-exhausted-day.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-exhausted-day.webp",
+      "caption_zh": null,
+      "sha256": "3105e38bfed960d7c4f82d88d3acfe2ab605acd19b292924992a31a164706f96",
+      "bytes": 34168
+    },
+    {
+      "file": "68f4f6ead3b0dbe2-picsart-header.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-header.webp",
+      "caption_zh": null,
+      "sha256": "68f4f6ead3b0dbe26e4191ca861ecb83780da27113017147f25d21c38d168463",
+      "bytes": 15236
+    },
+    {
+      "file": "78a676286947dc9c-picsart-voice-architecture.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-voice-architecture.webp",
+      "caption_zh": null,
+      "sha256": "78a676286947dc9ce8b7065f34485cda3eb27587579338b51a5dc2001ed62f7c",
+      "bytes": 165684
+    },
+    {
+      "file": "5cd646fd9b08b600-picsart-agent-updates.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-agent-updates.webp",
+      "caption_zh": null,
+      "sha256": "5cd646fd9b08b600258633dc66b012a305ffe33b6106006fb44235bfc083df82",
+      "bytes": 130214
+    },
+    {
+      "file": "ea7dd9725ad7e91f-treater-header.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/treater-header.webp",
+      "caption_zh": null,
+      "sha256": "ea7dd9725ad7e91f12be9dbb6236b5770c92cb44396904ebb024569122600b81",
+      "bytes": 14286
+    },
+    {
+      "file": "4e7ffe0aeaa994ae-weekend-header.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-header.webp",
+      "caption_zh": null,
+      "sha256": "4e7ffe0aeaa994ae43647683740ceba0127194afe15109020dfb408f61981b65",
+      "bytes": 18536
+    },
+    {
+      "file": "dcbee5aaaa06e931-weekend-two-sessions.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-two-sessions.webp",
+      "caption_zh": null,
+      "sha256": "dcbee5aaaa06e931e4eacdd76e825e38dde6e19fa1dca0dbf90e09170ceab617",
+      "bytes": 54520
+    },
+    {
+      "file": "defc816d599f2656-weekend-prompt-structure.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-prompt-structure.webp",
+      "caption_zh": null,
+      "sha256": "defc816d599f2656fbb43040981e02c4c79d8f02dfe9dd6d6b1ddbf7fb2083c2",
+      "bytes": 61814
+    },
+    {
+      "file": "e4c9846d96bf0d3d-weekend-verdict-timing.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-verdict-timing.webp",
+      "caption_zh": null,
+      "sha256": "e4c9846d96bf0d3d8b014e1cf891de630772b0ee7d4465075fffef26647a1a41",
+      "bytes": 66602
+    },
+    {
+      "file": "1cdae48c01c69c09-weekend-bribe-sequence.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-bribe-sequence.webp",
+      "caption_zh": null,
+      "sha256": "1cdae48c01c69c09c78a8c8477600cb72fe36386bd67efc36950d6670d7069be",
+      "bytes": 46864
+    },
+    {
+      "file": "9954355ccfe70695-juno-demo-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-demo-poster.webp",
+      "caption_zh": null,
+      "sha256": "9954355ccfe70695c7b7a0c608634910d9ec2da2efb092eae338b62976176dba",
+      "bytes": 100486
+    },
+    {
+      "file": "cfbece32b12ec30c-juno.en.vtt",
+      "kind": "captions",
+      "source_url": "https://developers.openai.com/captions/blog/pushing-voice-agents-further/juno.en.vtt",
+      "caption_zh": null,
+      "sha256": "cfbece32b12ec30c8da219cbd685dbda203386d9090364709a700e9bd59f827f",
+      "bytes": 990
+    },
+    {
+      "file": "ad1748d3fa7ab651-picsart-demo-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-demo-poster.webp",
+      "caption_zh": null,
+      "sha256": "ad1748d3fa7ab651506d3546fc695e001fa94c93528dab9206106c650b501d4a",
+      "bytes": 13978
+    },
+    {
+      "file": "d18cff25c5b5e0d7-picsart.en.vtt",
+      "kind": "captions",
+      "source_url": "https://developers.openai.com/captions/blog/pushing-voice-agents-further/picsart.en.vtt",
+      "caption_zh": null,
+      "sha256": "d18cff25c5b5e0d7392513a5d20178450279b65bf7ebc6f05ada21db69f5b8d4",
+      "bytes": 3442
+    },
+    {
+      "file": "2d07280908eb7518-treater-demo-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/treater-demo-poster.webp",
+      "caption_zh": null,
+      "sha256": "2d07280908eb75184b86b48a27c1deb96389116606ab7a7b308d8fea3bf03bd0",
+      "bytes": 21346
+    },
+    {
+      "file": "4e06032f65cd2194-treater.en.vtt",
+      "kind": "captions",
+      "source_url": "https://developers.openai.com/captions/blog/pushing-voice-agents-further/treater.en.vtt",
+      "caption_zh": null,
+      "sha256": "4e06032f65cd2194031e37444fdc76f03ebfd644ea5f6b3b4b7d51d57e760472",
+      "bytes": 1670
+    },
+    {
+      "file": "d26eb99c7d673444-weekend-timberfall.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-timberfall.webp",
+      "caption_zh": null,
+      "sha256": "d26eb99c7d6734448a3680da87b7a89b9dd86614cab78623727ff05d0d923e95",
+      "bytes": 46926
+    },
+    {
+      "file": "1243b14990de1399-weekend.en.vtt",
+      "kind": "captions",
+      "source_url": "https://developers.openai.com/captions/blog/pushing-voice-agents-further/weekend.en.vtt",
+      "caption_zh": null,
+      "sha256": "1243b14990de1399b6ec700359addfc54f1fbc61537afbc03a0f4fa36afa2fc7",
+      "bytes": 4641
+    },
+    {
+      "file": "treater-stage-1.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "caption_zh": "目标",
+      "sha256": "81b569d5b0963a78daf271e8c6699329e481764854bc092a970b9c43aac56cf2",
+      "bytes": 137968
+    },
+    {
+      "file": "treater-stage-2.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "caption_zh": "奖励",
+      "sha256": "26c25604e64ed649cf8beb6a777aa4139dee2f16305e0db1d778d8d58dbc4c91",
+      "bytes": 134839
+    },
+    {
+      "file": "treater-stage-3.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "caption_zh": "提出",
+      "sha256": "058f998207e9bf9df22cb22067026d817cc21ebed861422efaf81b75c21c4238",
+      "bytes": 161459
+    },
+    {
+      "file": "treater-stage-4.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "caption_zh": "筛选与批准",
+      "sha256": "7bf370a168fd7e5ae2eb4ecdaa0e9e90d5e2154d8411649c7add46869b3fffc2",
+      "bytes": 181828
+    },
+    {
+      "file": "treater-stage-5.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "caption_zh": "Bandit 算法",
+      "sha256": "4a0b47a873448567f519f55ce19780bed67a6fdf42aea77aa9687226b6081da2",
+      "bytes": 162966
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+    "translation_path": "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md",
+    "expected_figure_groups": 19,
+    "complete": true,
+    "source_html_sha256": "6895e1b665ab6e8400cd0c2a205951cc201f0e390a2cd156548506f76019e052",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "67abeaaa35a7d926-juno-header.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "9954355ccfe70695-juno-demo-poster.webp"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "d949e18353e48b47-juno-parallel-logging.webp"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "1ee6b0bc88f34ce5-juno-voice-study.webp"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "46b2b6c937fccb07-juno-voice-preferences.webp"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "3105e38bfed960d7-juno-exhausted-day.webp"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "68f4f6ead3b0dbe2-picsart-header.webp"
+        ]
+      },
+      {
+        "id": "figure-08",
+        "source_index": 7,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "ad1748d3fa7ab651-picsart-demo-poster.webp"
+        ]
+      },
+      {
+        "id": "figure-09",
+        "source_index": 8,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "78a676286947dc9c-picsart-voice-architecture.webp"
+        ]
+      },
+      {
+        "id": "figure-10",
+        "source_index": 9,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "5cd646fd9b08b600-picsart-agent-updates.webp"
+        ]
+      },
+      {
+        "id": "figure-11",
+        "source_index": 10,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "ea7dd9725ad7e91f-treater-header.webp"
+        ]
+      },
+      {
+        "id": "figure-12",
+        "source_index": 11,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "2d07280908eb7518-treater-demo-poster.webp"
+        ]
+      },
+      {
+        "id": "figure-13",
+        "source_index": 12,
+        "source_selector": null,
+        "kind": "section",
+        "files": [
+          "treater-stage-1.png",
+          "treater-stage-2.png",
+          "treater-stage-3.png",
+          "treater-stage-4.png",
+          "treater-stage-5.png"
+        ]
+      },
+      {
+        "id": "figure-14",
+        "source_index": 13,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "4e7ffe0aeaa994ae-weekend-header.webp"
+        ]
+      },
+      {
+        "id": "figure-15",
+        "source_index": 14,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "d26eb99c7d673444-weekend-timberfall.webp"
+        ]
+      },
+      {
+        "id": "figure-16",
+        "source_index": 15,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "dcbee5aaaa06e931-weekend-two-sessions.webp"
+        ]
+      },
+      {
+        "id": "figure-17",
+        "source_index": 16,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "defc816d599f2656-weekend-prompt-structure.webp"
+        ]
+      },
+      {
+        "id": "figure-18",
+        "source_index": 17,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "e4c9846d96bf0d3d-weekend-verdict-timing.webp"
+        ]
+      },
+      {
+        "id": "figure-19",
+        "source_index": 18,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "1cdae48c01c69c09-weekend-bribe-sequence.webp"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "article_id": "14383ac75ba71973",
+  "article_path": "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md",
+  "source_url": "https://cursor.com/blog/improved-token-efficiency",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "f3362c278284a2a4c900dff3.png",
+      "kind": "image",
+      "source_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/gpt-5-6-breakpoints-light-9gMZiAGmTyXsAGXKBOqOaGWNCX1zjZ.png",
+      "sha256": "f3362c278284a2a4c900dff32966d4dca4327ed0c08112786f193e21f1d8ccbd",
+      "bytes": 168520
+    },
+    {
+      "file": "rendered-figure-1.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://cursor.com/blog/improved-token-efficiency",
+      "sha256": "19e0f3bd8413d2bac75e79a19152078e63c984ad0ec442393c705a61e009c15f",
+      "bytes": 251321
+    },
+    {
+      "file": "rendered-figure-2.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://cursor.com/blog/improved-token-efficiency",
+      "sha256": "ec58dd8d7a2ef953e35253815828727f582acd17bfaa13f28037f9243557f7b5",
+      "bytes": 281678
+    },
+    {
+      "file": "rendered-figure-3.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://cursor.com/blog/improved-token-efficiency",
+      "sha256": "98989d2975988dda2f60a13e34a8beae944576223605a75dd799139c3a019d00",
+      "bytes": 165446
+    }
+  ],
+  "coverage": {
+    "source_url": "https://cursor.com/blog/improved-token-efficiency",
+    "translation_path": "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md",
+    "expected_figure_groups": 4,
+    "complete": true,
+    "source_html_sha256": "ebf134c2c387f1b7f4592623de188ae1f9f23f1594df9b4b3de452c43b9c0d1f",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "rendered-diagram",
+        "files": [
+          "rendered-figure-1.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "rendered-diagram",
+        "files": [
+          "rendered-figure-2.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "rendered-diagram",
+        "files": [
+          "rendered-figure-3.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "image",
+        "files": [
+          "f3362c278284a2a4c900dff3.png"
+        ]
+      }
+    ]
+  }
+}

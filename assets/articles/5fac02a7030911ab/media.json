@@ -1,0 +1,40 @@
+{
+  "article_id": "5fac02a7030911ab",
+  "article_path": "content/OpenAI/官方/2026-11-02_Qodo 与 Codex：将上下文引入 AI 代码审查.中文.md",
+  "source_url": "https://openai.com/index/qodo-codex-plugin/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "c4c1fe31b350e67d-2219457647-e3f7e71d2fcee68fe4ff10378d9132187ac6b84bfdebb597e41c1f0bc292887c-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2219457647-e3f7e71d2fcee68fe4ff10378d9132187ac6b84bfdebb597e41c1f0bc292887c-d_295x166?region=us",
+      "sha256": "c4c1fe31b350e67d6ad10d29231bdedf315cdc38c068030b491c64209d313a87",
+      "bytes": 10930
+    },
+    {
+      "file": "vimeo-1241442369-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1241442369?h=33acf4caa2&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "3cfcc194b8b5026e68ba6f8ad6209e2fbffe7b37d377d90283d1f0cdecfc917f",
+      "bytes": 3528154
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/qodo-codex-plugin/",
+    "translation_path": "content/OpenAI/官方/2026-11-02_Qodo 与 Codex：将上下文引入 AI 代码审查.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "06f011ca1c4ea4b8bc9425c7050dc283ac2b265fcf12c42fc47993febba31375",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1241442369-preview.gif"
+        ]
+      }
+    ]
+  }
+}

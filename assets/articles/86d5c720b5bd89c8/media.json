@@ -1,0 +1,136 @@
+{
+  "article_id": "86d5c720b5bd89c8",
+  "article_path": "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md",
+  "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "9f4be3e6002c03ab-a-thousand-fewer-paths-to-root-discovery-funnel.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5AQJogp4Is4L0Nhh59FtDa/0740682e6eb1a56f1c22eb4b7b7b09ec/a-thousand-fewer-paths-to-root-discovery-funnel.svg?w=3840&q=90",
+      "sha256": "9f4be3e6002c03abaec5a5650267ebf510e97cf8203d4cd28eb469e9c2c08aad",
+      "bytes": 106290
+    },
+    {
+      "file": "4ac3130efee53e92-a-thousand-fewer-paths-to-root-research-pipeline.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1zdANurUN1bSOhWsHkqPjO/b33a68cc99e8c136dae7e05f68bee9ba/a-thousand-fewer-paths-to-root-research-pipeline.svg?w=3840&q=90",
+      "sha256": "4ac3130efee53e9253d502e0ec9b3a32683cfa573d0e24e3228e9200372128f3",
+      "bytes": 212967
+    },
+    {
+      "file": "91541229bf5f8226-a-thousand-fewer-paths-to-root-discovery-workflow.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3BYzc6fYudObxJBi4gfdcc/84f52a0d7c1810143fb2fa1397e6a06d/a-thousand-fewer-paths-to-root-discovery-workflow.svg?w=3840&q=90",
+      "sha256": "91541229bf5f8226e4a2b7412ac81ae9f0084e071d33abd1a9f1e5d3e062b6d0",
+      "bytes": 71976
+    },
+    {
+      "file": "d55b573aeaaa57e5-a-thousand-fewer-paths-to-root-validation-system.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7CwMCv5oMWtxiJUhZaRPxy/43711c205a26fbb6632272e06cbc4f70/a-thousand-fewer-paths-to-root-validation-system.svg?w=3840&q=90",
+      "sha256": "d55b573aeaaa57e55ece94d8c8c923dd2b0e67377937cf84e9319084eed42cd5",
+      "bytes": 34387
+    },
+    {
+      "file": "f6c302fd14061361-2212368357-332bab5b056fa90a56fdf05eea72c134fa6f0d8a5e835db231f15a18e445d68c-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2212368357-332bab5b056fa90a56fdf05eea72c134fa6f0d8a5e835db231f15a18e445d68c-d_295x166?region=us",
+      "sha256": "f6c302fd14061361f40fe6f50177c67906a940fa4e28c06abdb6a150e222e664",
+      "bytes": 5959
+    },
+    {
+      "file": "vimeo-1235991273-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1235991273?h=1b8c5002f9",
+      "sha256": "c1273930495079ec157d20e291bde47e82b8d5456481670a15331d514d65cd5c",
+      "bytes": 296912
+    },
+    {
+      "file": "rendered-chart-449H8PkWRrybDjocxnytps-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "sha256": "d7e220e9d0d21be276789c2b29dcb9862e0b051904ec4e666d39314bd13442e3",
+      "bytes": 86328
+    },
+    {
+      "file": "rendered-linux-kernel-exploitation-success-rate-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "sha256": "367929a04fc5f920e4347a28ab5442eb57a30fc248514ff195a2d5c26d2ac63b",
+      "bytes": 64655
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+    "translation_path": "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md",
+    "expected_figure_groups": 7,
+    "complete": true,
+    "source_html_sha256": "38157fed93e6c15ff3efbcc24657e554a3559a4e4db578283128101c3f82c8f6",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(6) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "9f4be3e6002c03ab-a-thousand-fewer-paths-to-root-discovery-funnel.svg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "4ac3130efee53e92-a-thousand-fewer-paths-to-root-research-pipeline.svg"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(20) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "91541229bf5f8226-a-thousand-fewer-paths-to-root-discovery-workflow.svg"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(24) > figure:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1235991273-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "d55b573aeaaa57e5-a-thousand-fewer-paths-to-root-validation-system.svg"
+        ]
+      },
+      {
+        "id": "chart-449H8PkWRrybDjocxnytps",
+        "source_index": 5,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(35) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-chart-449H8PkWRrybDjocxnytps-default.png"
+        ]
+      },
+      {
+        "id": "linux-kernel-exploitation-success-rate",
+        "source_index": 6,
+        "source_selector": "[id=\"linux-kernel-exploitation-success-rate\"]",
+        "kind": "chart",
+        "files": [
+          "rendered-linux-kernel-exploitation-success-rate-default.png"
+        ]
+      }
+    ]
+  }
+}

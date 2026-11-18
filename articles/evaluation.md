@@ -1,0 +1,70 @@
+# 评测与安全
+
+[文章目录](README.md) · [首页](../README.md)
+
+评估方法、对齐、安全研究与可靠性。 共 64 篇，按已知的首发日期倒序排列。
+
+- [OpenAI 的第一阶段嵌入式评估](<https://openai.com/index/our-first-phase-of-embedded-assessments/>) — OpenAI · 2026-11-16。 介绍独立评估者参与模型安全工作的范围、访问权限和发表协议。
+- [Anthropic 更新协调漏洞披露时限](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>) — Anthropic · 2026-11-16。 说明新的披露时限，以及采用较短时间窗口的依据。
+- [构建强大的安全评估体系](<https://www.anthropic.com/research/building-strong-safety-evaluations>) — Anthropic · 2026-11-13 · [中文全文](../content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E6%9E%84%E5%BB%BA%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB.%E4%B8%AD%E6%96%87.md)。 如何构建能识别危险能力、覆盖真实使用风险的安全评估。
+- [在您的安全边界内运行 Claude 托管智能体](<https://claude.com/resources/articles/self-hosted-claude-managed-agents>) — Anthropic · 2026-11-12 · [中文全文](../content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-12_%E5%9C%A8%E6%82%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E5%86%85%E8%BF%90%E8%A1%8C%20Claude%20%E6%89%98%E7%AE%A1%E6%99%BA%E8%83%BD%E4%BD%93.%E4%B8%AD%E6%96%87.md)。 在企业自有安全边界内运行 Claude Managed Agents。
+- [用外部基准评测 Agent 异常检测](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>) — Google · 2026-11-12 · [中文全文](../content/Google/%E5%AE%98%E6%96%B9/2026-11-12_%E7%94%A8%E5%A4%96%E9%83%A8%E5%9F%BA%E5%87%86%E8%AF%84%E6%B5%8B%20Agent%20%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md)。
+- [Control Room 控制室](<https://openai.com/index/control-room/>) — OpenAI · 2026-11-09 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-09_Control%20Room%20%E6%8E%A7%E5%88%B6%E5%AE%A4.%E4%B8%AD%E6%96%87.md)。 研究基础设施中 Agent 工作负载的登记、推理授权与紧急停止。
+- [GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界](<https://openai.com/index/introducing-gpt-6-cyber/>) — OpenAI · 2026-11-05 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-05_GPT-6%20Cyber%EF%BC%9A%E6%8E%A8%E8%BF%9B%E5%AF%B9%E9%BD%90%E5%9E%8B%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%20Agent%20%E7%9A%84%E8%83%BD%E5%8A%9B%E8%BE%B9%E7%95%8C.%E4%B8%AD%E6%96%87.md)。 安全Agent产品发布，含ExploitGym与越界行为评测、授权范围训练、漏洞验证与修复实例。
+- [减少一千条通往 root 的路径](<https://openai.com/index/a-thousand-fewer-paths-to-root/>) — OpenAI · 2026-11-04 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-04_%E5%87%8F%E5%B0%91%E4%B8%80%E5%8D%83%E6%9D%A1%E9%80%9A%E5%BE%80%20root%20%E7%9A%84%E8%B7%AF%E5%BE%84.%E4%B8%AD%E6%96%87.md)。 自主漏洞发现、验证、可利用性分析和修补流水线；报告Linux内核948项提权漏洞。
+- [LifeVal：评测个人 Agent 完成日常事务的能力](<https://openai.com/index/lifeval/>) — OpenAI · 2026-11-02 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-02_LifeVal%EF%BC%9A%E8%AF%84%E6%B5%8B%E4%B8%AA%E4%BA%BA%20Agent%20%E5%AE%8C%E6%88%90%E6%97%A5%E5%B8%B8%E4%BA%8B%E5%8A%A1%E7%9A%84%E8%83%BD%E5%8A%9B.%E4%B8%AD%E6%96%87.md)。 针对个人Agent实际完成日常事务的任务评测与结果验证。
+- [我们如何检测前沿模型的失准行为](<https://openai.com/index/how-we-detect-frontier-model-misalignment/>) — OpenAI · 2026-10-29 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-29_%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E6%A3%80%E6%B5%8B%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%A4%B1%E5%87%86%E8%A1%8C%E4%B8%BA.%E4%B8%AD%E6%96%87.md)。 激活探针、模型审查者、调查Agent、自动调查和人工响应的分层监控。
+- [GPT-6.1 Sol 如何帮助 CodeRabbit 加强复杂代码库安全](<https://openai.com/index/gpt-6-1-sol-coderabbit-code-security/>) — OpenAI · 2026-10-26 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-26_GPT-6.1%20Sol%20%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%20CodeRabbit%20%E5%8A%A0%E5%BC%BA%E5%A4%8D%E6%9D%82%E4%BB%A3%E7%A0%81%E5%BA%93%E5%AE%89%E5%85%A8.%E4%B8%AD%E6%96%87.md)。 跨文件与跨仓库安全审查、Deep Scan、沙箱验证漏洞与人工批准修复PR的工程流程。
+- [保护前沿模型训练环境](<https://openai.com/index/securing-our-frontier-model-training-environment/>) — OpenAI · 2026-10-23 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-23_%E4%BF%9D%E6%8A%A4%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%8E%AF%E5%A2%83.%E4%B8%AD%E6%96%87.md)。 模型训练评测环境的离线隔离、纵深防御及高算力红队测试。
+- [Patch the Planet：协调应对 Agent 发现的重大漏洞](<https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/>) — OpenAI · 2026-10-21 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-21_Patch%20the%20Planet%EF%BC%9A%E5%8D%8F%E8%B0%83%E5%BA%94%E5%AF%B9%20Agent%20%E5%8F%91%E7%8E%B0%E7%9A%84%E9%87%8D%E5%A4%A7%E6%BC%8F%E6%B4%9E.%E4%B8%AD%E6%96%87.md)。 PHP关键漏洞的修复测试、旧版适配、部署前防护协调及Codex版本检查skill，含可复用响应流程。
+- [调查我们在评估和内部使用中发现的非预期模型行为](<https://www.anthropic.com/research/investigating-unintended-model-actions>) — Anthropic · 2026-10-09。 复盘评测和内部使用中的非预期行动，以及隔离和监控改进。
+- [前沿红队](<https://www.anthropic.com/research/team/frontier-red-team>) — Anthropic · 2026-10-08。
+- [与 Accenture 合作开展嵌入式评估](<https://www.anthropic.com/news/accenture-embedded-evaluation>) — Anthropic · 2026-09-18。
+- [对近期网络安全事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) — Anthropic · 2026-09-09。
+- [与客户共同开发企业前沿防护措施](<https://www.anthropic.com/news/enterprise-frontier-safeguards>) — Anthropic · 2026-09-01。
+- [改进我们的对齐与安全工作](<https://www.anthropic.com/news/improving-alignment-security-efforts>) — Anthropic · 2026-08-31。
+- [资助更好地评估 AI 对用户福祉的影响](<https://www.anthropic.com/news/wellbeing-research-grants>) — Anthropic · 2026-08-25。
+- [改进 Fable 5 的生物安全防护](<https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards>) — Anthropic · 2026-08-07。
+- [调查网络安全评估中的三起真实事件](<https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals>) — Anthropic · 2026-07-30。
+- [阿尔伯塔省政府使用 Claude 在整个政府系统中发现并修复网络安全漏洞](<https://www.anthropic.com/news/alberta-government-claude-cybersecurity>) — Anthropic · 2026-07-06。
+- [Fable 5 网络安全防护措施与越狱框架的更多细节](<https://www.anthropic.com/news/fable-safeguards-jailbreak-framework>) — Anthropic · 2026-07-02。
+- [关于我们选举防护措施的最新进展](<https://www.anthropic.com/news/election-safeguards-update>) — Anthropic · 2026-04-24。
+- [评估 Claude Mythos Preview 的网络安全能力](<https://www.anthropic.com/research/mythos-preview>) — Anthropic · 2026-04-07。
+- [澳大利亚政府与 Anthropic 签署 AI 安全与研究合作谅解备忘录](<https://www.anthropic.com/news/australia-MOU>) — Anthropic · 2026-03-31。
+- [与 Mozilla 合作提升 Firefox 的安全性](<https://www.anthropic.com/research/mozilla-firefox-security>) — Anthropic · 2026-03-06。
+- [让防御者用上前沿网络安全能力](<https://www.anthropic.com/news/claude-code-security>) — Anthropic · 2026-02-20。
+- [设计抗 AI 的技术评估](<https://www.anthropic.com/engineering/AI-resistant-technical-evaluations>) — Anthropic · 2026-01-21。
+- [下一代宪法分类器：更高效地防御通用越狱](<https://www.anthropic.com/research/next-generation-constitutional-classifiers>) — Anthropic · 2026-01-09。
+- [介绍 Bloom：用于自动化行为评估的开源工具](<https://www.anthropic.com/research/bloom>) — Anthropic · 2025-12-19。
+- [从走捷径到蓄意破坏：奖励破解自然涌现的错位行为](<https://www.anthropic.com/research/emergent-misalignment-reward-hacking>) — Anthropic · 2025-11-21。
+- [Anthropic 正式开设东京办公室，与日本 AI 安全研究所签署合作备忘录](<https://www.anthropic.com/news/opening-our-tokyo-office>) — Anthropic · 2025-10-29。
+- [Petri：加速 AI 安全研究的开源审计工具](<https://www.anthropic.com/research/petri-open-source-auditing>) — Anthropic · 2025-10-06。
+- [通过与美国 CAISI 和英国 AISI 的合作强化我们的防护措施](<https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi>) — Anthropic · 2025-09-12。
+- [成立 Anthropic 国家安全与公共部门顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council>) — Anthropic · 2025-08-27。
+- [为 AI 开发核安全保障措施](<https://www.anthropic.com/research/nuclear-safeguards-for-ai>) — Anthropic · 2025-08-21。
+- [通过公私合作开发 AI 核安全保障](<https://www.anthropic.com/research/developing-nuclear-safeguards-for-ai-through-public-private-partnership>) — Anthropic · 2025-08-21。
+- [为 Claude 构建安全保障体系](<https://www.anthropic.com/news/building-safeguards-for-claude>) — Anthropic · 2025-08-12。
+- [Claude 4 网络安全能力详细评估](<https://www.anthropic.com/research/claude-4-cyber>) — Anthropic · 2025-07-15。
+- [智能体失准：LLM 如何可能成为内部威胁](<https://www.anthropic.com/research/agentic-misalignment>) — Anthropic · 2025-06-20。
+- [面向美国国家安全客户的 Claude Gov 模型](<https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers>) — Anthropic · 2025-06-06。
+- [启用 AI 安全等级 3 保护措施](<https://www.anthropic.com/news/activating-asl3-protections>) — Anthropic · 2025-05-22。
+- [用新的漏洞赏金计划测试我们的安全防御](<https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program>) — Anthropic · 2025-05-14。
+- [前沿红队的最新进展](<https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team>) — Anthropic · 2025-03-19。
+- [宪法分类器：防御通用越狱](<https://www.anthropic.com/research/constitutional-classifiers>) — Anthropic · 2025-02-03。
+- [大型语言模型中的对齐伪装](<https://www.anthropic.com/research/alignment-faking>) — Anthropic · 2024-12-18。
+- [模型评估的统计学方法](<https://www.anthropic.com/research/statistical-approach-to-model-evals>) — Anthropic · 2024-11-19。
+- [前沿模型的破坏行为评估](<https://www.anthropic.com/research/sabotage-evaluations>) — Anthropic · 2024-10-18。
+- [扩展我们的模型安全漏洞赏金计划](<https://www.anthropic.com/news/model-safety-bug-bounty>) — Anthropic · 2024-08-08。
+- [一项资助第三方模型评估的新举措](<https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations>) — Anthropic · 2024-07-01。
+- [AI 系统红队测试面临的挑战](<https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems>) — Anthropic · 2024-06-12。
+- [就儿童安全原则达成一致](<https://www.anthropic.com/news/child-safety-principles>) — Anthropic · 2024-04-23。
+- [多样本越狱](<https://www.anthropic.com/research/many-shot-jailbreaking>) — Anthropic · 2024-04-02。
+- [潜伏特工：训练能扛过安全训练的欺骗性大语言模型](<https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training>) — Anthropic · 2024-01-14。
+- [Dario Amodei 在 AI 安全峰会上关于 Anthropic 负责任扩展政策的发言稿](<https://www.anthropic.com/news/uk-ai-safety-summit>) — Anthropic · 2023-11-01。
+- [面向前沿威胁的 AI 安全红队测试](<https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety>) — Anthropic · 2023-07-26。
+- [前沿模型安全](<https://www.anthropic.com/news/frontier-model-security>) — Anthropic · 2023-07-25。
+- [AI 安全的核心观点：何时、为何、是何、如何](<https://www.anthropic.com/news/core-views-on-ai-safety>) — Anthropic · 2023-03-08。
+- [用模型撰写的评估发现语言模型行为](<https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations>) — Anthropic · 2022-12-19。
+- [为减少危害而对语言模型进行红队测试：方法、规模规律与经验教训](<https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned>) — Anthropic · 2022-08-22。
+- [security](<https://claude.com/product/claude-security>) — Anthropic。
+- [Anthropic 的前沿安全路线图](<https://www.anthropic.com/responsible-scaling-policy/roadmap>) — Anthropic。

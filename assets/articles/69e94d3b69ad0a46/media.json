@@ -1,0 +1,228 @@
+{
+  "article_id": "69e94d3b69ad0a46",
+  "article_path": "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md",
+  "source_url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "e37a5d3c49265e62-lodge-podge.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/lodge-podge.webp",
+      "sha256": "e37a5d3c49265e622014620b7431eacfe721286f394fa0d7904277eeab0006ac",
+      "bytes": 5336
+    },
+    {
+      "file": "88dd8dc473ff46ee-walk-cycle.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/walk-cycle.webp",
+      "sha256": "88dd8dc473ff46eed54e8837021c4580940eef930e3252c9e21fd9220570d027",
+      "bytes": 328
+    },
+    {
+      "file": "5fdaf825cf9ccb31-room-collisions.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/room-collisions.webp",
+      "sha256": "5fdaf825cf9ccb3156ba757e6cdac68d008233cd763d51c018cc9157b6b0fc49",
+      "bytes": 13948
+    },
+    {
+      "file": "d9145f054d6decb9-playable-preview.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/playable-preview.webp",
+      "sha256": "d9145f054d6decb9e6767d820d01d8e269a3938eb494efcc62827e989a66f7eb",
+      "bytes": 61806
+    },
+    {
+      "file": "29b4385a2b9c3e87-annotate-preview.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/annotate-preview.webp",
+      "sha256": "29b4385a2b9c3e87f09dadc2f203c2314bea35e78ebb8ac6357bdfbbf2ff1f49",
+      "bytes": 31490
+    },
+    {
+      "file": "e7a8056bd86b63d6-playtest-frames.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/playtest-frames.webp",
+      "sha256": "e7a8056bd86b63d6a3d3b1e21c5098baf813447e5272b36be256638485c81e8b",
+      "bytes": 4440
+    },
+    {
+      "file": "6d40b33c827baccd-gb-studio-game-world.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/gb-studio-game-world.webp",
+      "sha256": "6d40b33c827baccd8a9ca95669373bccc44211cecf96332b4e52a12c8d8f22c9",
+      "bytes": 143132
+    },
+    {
+      "file": "2b2bc892a98b4eb2-walkthrough-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/walkthrough-poster.webp",
+      "sha256": "2b2bc892a98b4eb2a482a04f08cfc4c66ed11eb073f8537a371334fe54c6f685",
+      "bytes": 58830
+    },
+    {
+      "file": "03a0d5dcbc2aac09-build-a-game-with-modretro-chromatic.en.vtt",
+      "kind": "captions",
+      "source_url": "https://developers.openai.com/captions/blog/build-a-game-with-modretro-chromatic.en.vtt",
+      "sha256": "03a0d5dcbc2aac09f1366122e16934c4a03802c61776f75ccb49b28a6df618a1",
+      "bytes": 2928
+    },
+    {
+      "file": "655f351e46469733-install-plugin-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/install-plugin-poster.webp",
+      "sha256": "655f351e46469733d399b30d3fd2488f167a2653247ade01876905adf4df6c78",
+      "bytes": 42930
+    },
+    {
+      "file": "9496e10f86718e6e-prompt-lodge-podge-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/prompt-lodge-podge-poster.webp",
+      "sha256": "9496e10f86718e6ec74c6c8f06fe9d9191bb908e302d2a6ac4a653db750dc77f",
+      "bytes": 46144
+    },
+    {
+      "file": "6d34d639b0ec485f-deploy-to-chromatic-poster.webp",
+      "kind": "image",
+      "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/deploy-to-chromatic-poster.webp",
+      "sha256": "6d34d639b0ec485fad6f3086781241a4afcb6af8579ada2e771102ebcacbe029",
+      "bytes": 79558
+    },
+    {
+      "file": "video-00-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/build-a-game-with-modretro-chromatic-v8.webm",
+      "sha256": "fe92144c52a2e2ceeeb4cf700e48e96b9d517744b20212c63a89401394b2fbab",
+      "bytes": 1419205
+    },
+    {
+      "file": "video-01-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/install-plugin-66ee162ee0db.webm",
+      "sha256": "7b94654bc122d174f9006ec377382ac679a6c51f8c31f3a71645f53d54e2fab6",
+      "bytes": 111320
+    },
+    {
+      "file": "video-02-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/prompt-lodge-podge-f69711af7da7.webm",
+      "sha256": "fc9d53b34840b4052dc2e9ee8c20f8cf99dfcfb03bdea6785728b570bb538810",
+      "bytes": 144391
+    },
+    {
+      "file": "video-10-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/deploy-to-chromatic-0e10da89508f.webm",
+      "sha256": "07d0f316135802a4279ed8bb4053efa1d1d1f4549bcc4c70c1d8739fd190af65",
+      "bytes": 2259890
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+    "translation_path": "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md",
+    "expected_figure_groups": 11,
+    "complete": true,
+    "source_html_sha256": "24d13d95ab714338baae094c64c839ae02a75aa1ff3be71fd220da9f80eaab1f",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "video-00-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "video-01-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "video-02-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "e37a5d3c49265e62-lodge-podge.webp"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "88dd8dc473ff46ee-walk-cycle.webp"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "5fdaf825cf9ccb31-room-collisions.webp"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "d9145f054d6decb9-playable-preview.webp"
+        ]
+      },
+      {
+        "id": "figure-08",
+        "source_index": 7,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "29b4385a2b9c3e87-annotate-preview.webp"
+        ]
+      },
+      {
+        "id": "figure-09",
+        "source_index": 8,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "e7a8056bd86b63d6-playtest-frames.webp"
+        ]
+      },
+      {
+        "id": "figure-10",
+        "source_index": 9,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "6d40b33c827baccd-gb-studio-game-world.webp"
+        ]
+      },
+      {
+        "id": "figure-11",
+        "source_index": 10,
+        "source_selector": null,
+        "kind": "video",
+        "files": [
+          "video-10-preview.gif"
+        ]
+      }
+    ]
+  }
+}

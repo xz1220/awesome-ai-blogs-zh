@@ -1,0 +1,121 @@
+{
+  "article_id": "9434ac3945d97bda",
+  "article_path": "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md",
+  "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "rendered-cyber-exploitgym.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "a326498329877488b8f55331ae0418000302796ab6507645d663fd55dd30f131",
+      "bytes": 47522
+    },
+    {
+      "file": "rendered-cyber-remoteexploitbench.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "e54d69b43967d14542ba555147ef39bcc536532189995d0fd5cb54c0eeff7181",
+      "bytes": 40978
+    },
+    {
+      "file": "rendered-cyber-chart-uGUjYdcG7eaTWxbErmd5N.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "09ac6a00a7ee85b1285b537dd0bfa8608195006e5e9e8e88e14c7522ef186c9f",
+      "bytes": 41210
+    },
+    {
+      "file": "rendered-cyber-exploitbench-june-august-2026.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "2b5cf3397c66c07666be6d99a9db7b4aa0256874105cca86944f7d5a002a9544",
+      "bytes": 45432
+    },
+    {
+      "file": "rendered-cyber-sre-bench.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "2b5cf3397c66c07666be6d99a9db7b4aa0256874105cca86944f7d5a002a9544",
+      "bytes": 45432
+    },
+    {
+      "file": "rendered-cyber-web-pentesting.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "8ae16589ccbc178328a09b51b8190110f8f7d277342bc9fc42ef888ffc196b63",
+      "bytes": 42226
+    },
+    {
+      "file": "rendered-cyber-chart-2U4LbSdvQPiNw8CRJFR9u8.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "1391912e411aa1f0587c48334c22ed60869b96dd53b604605234b958974adb76",
+      "bytes": 87051
+    },
+    {
+      "file": "rendered-cyber-chart-2Nlzom1icZtt2WaVyHIxYo.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+      "sha256": "61922c4b71a9a5281e4f41f169dda1eee187e953b1c36a5af31b682ee1fec22c",
+      "bytes": 51330
+    },
+    {
+      "file": "pre-dawn-hero.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/pre-dawn.3n171z7_lqvwk.webp",
+      "sha256": "bcc13824a182bc45f864d7f66d8dd4f5212cad23174e4bc50b97723e20249885",
+      "bytes": 9410
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+    "translation_path": "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md",
+    "expected_figure_groups": 4,
+    "complete": true,
+    "source_html_sha256": "f11d3fa64e425249ca2454f39d550a018e029d04939f0c96cb3074f416c2aee1",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "[id=\"_R_ilbsnplmjcknpfivb_\"] > img:nth-of-type(1)",
+        "kind": "hero",
+        "files": [
+          "pre-dawn-hero.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > nav:nth-of-type(1)",
+        "kind": "tabbed-chart",
+        "files": [
+          "rendered-cyber-exploitgym.png",
+          "rendered-cyber-remoteexploitbench.png",
+          "rendered-cyber-chart-uGUjYdcG7eaTWxbErmd5N.png",
+          "rendered-cyber-exploitbench-june-august-2026.png",
+          "rendered-cyber-sre-bench.png",
+          "rendered-cyber-web-pentesting.png"
+        ]
+      },
+      {
+        "id": "chart-2U4LbSdvQPiNw8CRJFR9u8",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-cyber-chart-2U4LbSdvQPiNw8CRJFR9u8.png"
+        ]
+      },
+      {
+        "id": "chart-2Nlzom1icZtt2WaVyHIxYo",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(32) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-cyber-chart-2Nlzom1icZtt2WaVyHIxYo.png"
+        ]
+      }
+    ]
+  }
+}

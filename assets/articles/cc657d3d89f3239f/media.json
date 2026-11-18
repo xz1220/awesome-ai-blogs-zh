@@ -1,0 +1,166 @@
+{
+  "article_id": "cc657d3d89f3239f",
+  "article_path": "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md",
+  "source_url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "8054cdaaa3e0fc2babea3847.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/01_cover.original.png",
+      "sha256": "8054cdaaa3e0fc2babea3847f318296aeac81a7bfcff75ed67cd72838811a437",
+      "bytes": 639453
+    },
+    {
+      "file": "3c72d40ecdad9f6b1cefc181.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+      "sha256": "3c72d40ecdad9f6b1cefc181fb7a2a6e033c5849da833ae5b0d305c1eaae9833",
+      "bytes": 224014
+    },
+    {
+      "file": "e7219e1012f0f68d43aeae54.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+      "sha256": "e7219e1012f0f68d43aeae547688daa23db45f81bbf15e1b6022aec306a551bb",
+      "bytes": 512645
+    },
+    {
+      "file": "73dcf5e124b5cbecbd3e8ca2.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/08_bytedance_lynx.original.png",
+      "sha256": "73dcf5e124b5cbecbd3e8ca22ffb31bf04797b5cae06a264c3f6d01728bc1461",
+      "bytes": 418351
+    },
+    {
+      "file": "41223de1bc3108a3d4d3f92d.jpg",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
+      "sha256": "41223de1bc3108a3d4d3f92d2ca8247622380c6515e6e44e50d3b62140083fba",
+      "bytes": 77479
+    },
+    {
+      "file": "17acbee7f199234153849dc8.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Screenshot_2026-11-04_at_3.06.30PM.original.png",
+      "sha256": "17acbee7f199234153849dc891c1c9e3598ee0b4999640150a7bc3606ae74869",
+      "bytes": 706352
+    },
+    {
+      "file": "481ae5d7ade5093d25f4dfae.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-notebook-blog-figure.original.png",
+      "sha256": "481ae5d7ade5093d25f4dfaed17b86ee05db91eb9f8f993f2352d17562dfa3f9",
+      "bytes": 604502
+    },
+    {
+      "file": "bca281406138e28ff88bac1b.jpg",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-f5cda5i1_thumb.jpg",
+      "sha256": "bca281406138e28ff88bac1b8e2178662e9f823c3ccbcc5c8bb4eb24d596138a",
+      "bytes": 42441
+    },
+    {
+      "file": "2317a6ad3a1e96d7eeef774f.jpg",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/wagtailvideo-x2grg_k2_thumb.jpg",
+      "sha256": "2317a6ad3a1e96d7eeef774ff8e6564cebb87b313bf398e7da1f2637b6fbaa4f",
+      "bytes": 95613
+    },
+    {
+      "file": "video-02-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_dinner_every_screen.mp4",
+      "sha256": "6974d84210e08dce26dda85e77134a8648ffb0f465a6efd1325254af8212ace4",
+      "bytes": 232573
+    },
+    {
+      "file": "video-01-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4",
+      "sha256": "481583e2e1282f03cb190398feab1404c0204abbe1e27b6543865e1b6ebc2946",
+      "bytes": 474808
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "translation_path": "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md",
+    "expected_figure_groups": 8,
+    "complete": true,
+    "source_html_sha256": "4f50261bfb8c8b4d40fe767de8dfbbf6677eaae976d77252c0e6a3cd914a0332",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "8054cdaaa3e0fc2babea3847.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "section.blocks-container",
+        "kind": "video",
+        "files": [
+          "video-01-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "section.blocks-container",
+        "kind": "video",
+        "files": [
+          "video-02-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "17acbee7f199234153849dc8.png"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "3c72d40ecdad9f6b1cefc181.png"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "e7219e1012f0f68d43aeae54.png"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "73dcf5e124b5cbecbd3e8ca2.png"
+        ]
+      },
+      {
+        "id": "figure-08",
+        "source_index": 7,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "481ae5d7ade5093d25f4dfae.png"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "article_id": "d5764ee3d06ac915",
+  "article_path": "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md",
+  "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "eed6ae37f42a2ec6-biobasicsbench-brightfield-paired-regions.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4jbbwTdCFaIjpSQaPpGxqD/bf38a7e78e4d2843fa3714b0d1379e61/biobasicsbench-brightfield-paired-regions.svg?w=3840&q=90",
+      "sha256": "eed6ae37f42a2ec68b8adc72e3e816437a42b52bda94330dfd897e2a1b6fbc3b",
+      "bytes": 475123
+    },
+    {
+      "file": "eef3108f4f4948be-biobasicsbench-channel-2-paired-regions.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4ZsKWfQkRokWxJzypxZNgo/94e66ff8b65f892f73e663873ce464b4/biobasicsbench-channel-2-paired-regions.svg?w=3840&q=90",
+      "sha256": "eef3108f4f4948beb8051e4e8a56842572df5bf87b983c47b0a864ae7fd1070c",
+      "bytes": 531493
+    },
+    {
+      "file": "7110c63e7d8cf362-biobasicsbench-channel-3-paired-regions.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5TmYJtELT7kRDcnH2LXQOF/d2c17688f201571b681ca0df43f6bc55/biobasicsbench-channel-3-paired-regions.svg?w=3840&q=90",
+      "sha256": "7110c63e7d8cf362c0a4fef268a2862a6c78615c081274a65770dbbb730ddd8c",
+      "bytes": 153385
+    },
+    {
+      "file": "9c6764fa50409a49-plate-and-rim-mark.9c6764fa.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/plate-and-rim-mark.9c6764fa.png?w=3840&q=90&fm=webp",
+      "sha256": "9c6764fa50409a49687f43bc56611e6f89d3cd3e62eea5d725b795b628445415",
+      "bytes": 797868
+    },
+    {
+      "file": "08b54f8469b4939c-biobasicsbench-rim-label-inline-centered.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/17RD6AxS99qL9qHk9OW2T0/8379bb6fb920c8aff89f9e86d9d1c771/biobasicsbench-rim-label-inline-centered.svg?w=3840&q=90",
+      "sha256": "08b54f8469b4939ca61cf71eabd636995a8c08b5e33116360794a67a5e4772bc",
+      "bytes": 648776
+    },
+    {
+      "file": "f7bcd8a579053125-depth-0s.f7bcd8a5.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-0s.f7bcd8a5.png?w=3840&q=90&fm=webp",
+      "sha256": "f7bcd8a579053125a6c44f6e0886e92a168db83c89522433f8780a4e44938185",
+      "bytes": 117241
+    },
+    {
+      "file": "642c1b130cf4fc68-depth-3s.642c1b13.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-3s.642c1b13.png?w=3840&q=90&fm=webp",
+      "sha256": "642c1b130cf4fc68549ba2a73cf46ffa5ed0d18c2f4879244b5ed8362238ea22",
+      "bytes": 134756
+    },
+    {
+      "file": "579b27aa5434de74-depth-6s.579b27aa.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-6s.579b27aa.png?w=3840&q=90&fm=webp",
+      "sha256": "579b27aa5434de745f0581630e20dec3839e4880cdd42206c34e9eabd2837bd5",
+      "bytes": 133107
+    },
+    {
+      "file": "332948ac34f67db6-depth-9s.332948ac.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-9s.332948ac.png?w=3840&q=90&fm=webp",
+      "sha256": "332948ac34f67db65ab8ff8792535e68c0dae9d84c3975099c5b1b1c0796f2b6",
+      "bytes": 100348
+    },
+    {
+      "file": "18f51074e260c07b-depth-12s.18f51074.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-12s.18f51074.png?w=3840&q=90&fm=webp",
+      "sha256": "18f51074e260c07b36c8eb77d4e2885c8a38841716350b4fef79dfedc02eeff4",
+      "bytes": 58407
+    },
+    {
+      "file": "15017a8aa88845ee-depth-15s.15017a8a.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-15s.15017a8a.png?w=3840&q=90&fm=webp",
+      "sha256": "15017a8aa88845eea5855adceb5df3f339b22d6cb87a883778e67434c3156717",
+      "bytes": 38731
+    },
+    {
+      "file": "9b38de80f9dc6ac3-pcr-lanes.9b38de80.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/pcr-lanes.9b38de80.png?w=3840&q=90&fm=webp",
+      "sha256": "9b38de80f9dc6ac39539638529b8019e0e4e43c9b36d36616a9b39972c2ca584",
+      "bytes": 39399
+    },
+    {
+      "file": "dc6074e16950bdef-biobasicsbench-cell-contrast-darker.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2aW0ho7APO5LnXzbTPP7fo/0a1404f9559b7a61b31578322efd1337/biobasicsbench-cell-contrast-darker.svg?w=3840&q=90",
+      "sha256": "dc6074e16950bdef138368fc4c6ae75db3de142c072921da0c878fa6bcb301d4",
+      "bytes": 2103745
+    },
+    {
+      "file": "319b213893d03a31-biobasicsbench-cell-contrast-lighter.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3MC7gCtOqgIrJkNwWJFx5c/23494791f1915a2cbfc18b24f9e3ea05/biobasicsbench-cell-contrast-lighter.svg?w=3840&q=90",
+      "sha256": "319b213893d03a3172224d2ed832841b403f20c7572b507413eb463d4645c11f",
+      "bytes": 2103747
+    },
+    {
+      "file": "d9e76de5aa0e322c-counting-neighbors-original.d9e76de5.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-neighbors-original.d9e76de5.png?w=3840&q=90&fm=webp",
+      "sha256": "d9e76de5aa0e322c9d7bf7e520c02303060aabfbaab8241d29ffaa3e60de5f9c",
+      "bytes": 181840
+    },
+    {
+      "file": "25f5526f5fc2760b-counting-neighbors-marked.25f5526f.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-neighbors-marked.25f5526f.png?w=3840&q=90&fm=webp",
+      "sha256": "25f5526f5fc2760b3b0ec4cdd50b232e7ed4f3ee7284ad1b06f8c15eda950541",
+      "bytes": 192860
+    },
+    {
+      "file": "3111ff5828d600d9-counting-unmarked-original.3111ff58.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-unmarked-original.3111ff58.png?w=3840&q=90&fm=webp",
+      "sha256": "3111ff5828d600d91e99f549b04055ba1862d1041d42b83f8bb8ef93b5f6f392",
+      "bytes": 406694
+    },
+    {
+      "file": "518abaf43e8021d3-counting-unmarked-marked.518abaf4.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-unmarked-marked.518abaf4.png?w=3840&q=90&fm=webp",
+      "sha256": "518abaf43e8021d3d4fb11378a8f5f933641cebfdc247b8a2842a3a04bddaebb",
+      "bytes": 410283
+    },
+    {
+      "file": "98da744f0d347527-counting-empty-agar-original.98da744f.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-empty-agar-original.98da744f.png?w=3840&q=90&fm=webp",
+      "sha256": "98da744f0d347527a82d129d3b23199910aaaa43d5f46d748c6fa25adafee0e8",
+      "bytes": 176417
+    },
+    {
+      "file": "6b30ead7bddc6ed0-counting-empty-agar-marked.6b30ead7.png",
+      "kind": "image",
+      "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-empty-agar-marked.6b30ead7.png?w=3840&q=90&fm=webp",
+      "sha256": "6b30ead7bddc6ed01bb720ebe16d9939b1aef1e22107a59dc313617f7598c6e8",
+      "bytes": 184187
+    },
+    {
+      "file": "rendered-biobasicsbench-tasks-by-domain-and-tested-skill-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "sha256": "6c6b4d4669936ed2463e8bc2913307ee5254ff021d0ea4770181a44286faa2b3",
+      "bytes": 135663
+    },
+    {
+      "file": "rendered-biobasicsbench-model-performance-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "sha256": "450ea5060ccc2b8c776b172d00005983b831961ae1bd53d083544c8201022b83",
+      "bytes": 160078
+    },
+    {
+      "file": "rendered-biobasicsbench-detection-windows-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "sha256": "ec467421f5682c0d9880473959a7ade15747131eafc074b76bb19e260af70f2f",
+      "bytes": 88188
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "translation_path": "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md",
+    "expected_figure_groups": 14,
+    "complete": true,
+    "source_html_sha256": "b7b35ab56e6b73648106b7d66cd8cdf77b74489ed5ed86b20fdfe8d7b297f974",
+    "figure_groups": [
+      {
+        "id": "biobasicsbench-tasks-by-domain-and-tested-skill",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-biobasicsbench-tasks-by-domain-and-tested-skill-default.png"
+        ]
+      },
+      {
+        "id": "biobasicsbench-model-performance",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(18) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-biobasicsbench-model-performance-default.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "eed6ae37f42a2ec6-biobasicsbench-brightfield-paired-regions.svg"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "eef3108f4f4948be-biobasicsbench-channel-2-paired-regions.svg"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > picture:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "7110c63e7d8cf362-biobasicsbench-channel-3-paired-regions.svg"
+        ]
+      },
+      {
+        "id": "biobasicsbench-detection-windows",
+        "source_index": 5,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(25) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-biobasicsbench-detection-windows-default.png"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(29) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "9c6764fa50409a49-plate-and-rim-mark.9c6764fa.png",
+          "08b54f8469b4939c-biobasicsbench-rim-label-inline-centered.svg"
+        ]
+      },
+      {
+        "id": "figure-08",
+        "source_index": 7,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(33) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "f7bcd8a579053125-depth-0s.f7bcd8a5.png",
+          "642c1b130cf4fc68-depth-3s.642c1b13.png",
+          "579b27aa5434de74-depth-6s.579b27aa.png"
+        ]
+      },
+      {
+        "id": "figure-09",
+        "source_index": 8,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(33) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(2)",
+        "kind": "image",
+        "files": [
+          "332948ac34f67db6-depth-9s.332948ac.png",
+          "18f51074e260c07b-depth-12s.18f51074.png",
+          "15017a8aa88845ee-depth-15s.15017a8a.png"
+        ]
+      },
+      {
+        "id": "figure-10",
+        "source_index": 9,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(38) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "9b38de80f9dc6ac3-pcr-lanes.9b38de80.png"
+        ]
+      },
+      {
+        "id": "figure-11",
+        "source_index": 10,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(42) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "dc6074e16950bdef-biobasicsbench-cell-contrast-darker.svg",
+          "319b213893d03a31-biobasicsbench-cell-contrast-lighter.svg"
+        ]
+      },
+      {
+        "id": "figure-12",
+        "source_index": 11,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "d9e76de5aa0e322c-counting-neighbors-original.d9e76de5.png",
+          "25f5526f5fc2760b-counting-neighbors-marked.25f5526f.png"
+        ]
+      },
+      {
+        "id": "figure-13",
+        "source_index": 12,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "3111ff5828d600d9-counting-unmarked-original.3111ff58.png",
+          "518abaf43e8021d3-counting-unmarked-marked.518abaf4.png"
+        ]
+      },
+      {
+        "id": "figure-14",
+        "source_index": 13,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "98da744f0d347527-counting-empty-agar-original.98da744f.png",
+          "6b30ead7bddc6ed0-counting-empty-agar-marked.6b30ead7.png"
+        ]
+      }
+    ]
+  }
+}

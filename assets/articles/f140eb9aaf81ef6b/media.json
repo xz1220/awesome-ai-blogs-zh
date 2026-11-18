@@ -1,0 +1,113 @@
+{
+  "article_id": "f140eb9aaf81ef6b",
+  "article_path": "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md",
+  "source_url": "https://openai.com/index/building-chatgpt-ad-stack/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "04a763dbcb1b8ab9-advertising-desktop-light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3bfD7ZJLF0722p5KBycdFk/8123d88226e58fb25563917cdb5c0dca/advertising-desktop-light.svg?w=3840&q=90",
+      "sha256": "04a763dbcb1b8ab988b9e7f66252006453670ca3083fe2516e0e631ccc488dd7",
+      "bytes": 76524
+    },
+    {
+      "file": "0509bd3a81e7c813-orchestrator-desktop-light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5zteskDpk7VeYDOhPLz2HZ/2c87e51276aeb518fb0502918c94409d/orchestrator-desktop-light.svg?w=3840&q=90",
+      "sha256": "0509bd3a81e7c813962b59c10a5116f3c992628cb02448fc7b99be1f2fac39b5",
+      "bytes": 91974
+    },
+    {
+      "file": "6aeb74b370592a26-printed-throw-pillow.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2FBQczHif8ZhtqpXflsd1Z/0692ded1f726e6f5943a126ea1b90576/printed-throw-pillow.webp?w=256&q=90&fm=webp",
+      "sha256": "6aeb74b370592a269c3535db853a84a750e852490f214466779397dd28e83bb1",
+      "bytes": 23008
+    },
+    {
+      "file": "e225430714bfa026-candidate-desktop-light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6F3yNWmGw0m9mY9u3BtKT8/c811e3d73a0d72b9deb12fe92ac59f2c/candidate-desktop-light.svg?w=3840&q=90",
+      "sha256": "e225430714bfa026851610487b5d013a36e1364cbcfc4033331912ac3ef43e60",
+      "bytes": 105909
+    },
+    {
+      "file": "4f213a293445f3db-selecting-ads-desktop-light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6vmYf9DmmKLaEK7tpg4fcl/81d90e06c50c558a5196fb4b91fb3cc9/selecting-ads-desktop-light.svg?w=3840&q=90",
+      "sha256": "4f213a293445f3dbf23cc94524db9e0f359405af55e65c6e1e1e2744900a7fa9",
+      "bytes": 90834
+    },
+    {
+      "file": "cbdac911bb66d96b-privacy-desktop-light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1pmJyqwks8d8KQ97APZQ5o/5b7b9af4998894ef42b394adaf19bb90/privacy-desktop-light.svg?w=3840&q=90",
+      "sha256": "cbdac911bb66d96bcf66d544cb45b03baffc5bc4904988dd05167f86c3c2ab01",
+      "bytes": 54867
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/building-chatgpt-ad-stack/",
+    "translation_path": "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md",
+    "expected_figure_groups": 6,
+    "complete": true,
+    "source_html_sha256": "e79be9c4a8c594268b3f19fc429089f9c7cd019c2b17d45b584e700029a82c6c",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "04a763dbcb1b8ab9-advertising-desktop-light.svg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(17) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "0509bd3a81e7c813-orchestrator-desktop-light.svg"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "[id=\"_R_4gl5bsnplmjcknpfivb_\"] > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "decorative-image",
+        "files": [
+          "6aeb74b370592a26-printed-throw-pillow.webp"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(31) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "e225430714bfa026-candidate-desktop-light.svg"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "4f213a293445f3db-selecting-ads-desktop-light.svg"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(52) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "cbdac911bb66d96b-privacy-desktop-light.svg"
+        ]
+      }
+    ]
+  }
+}

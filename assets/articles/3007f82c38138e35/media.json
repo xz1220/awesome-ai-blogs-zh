@@ -1,0 +1,145 @@
+{
+  "article_id": "3007f82c38138e35",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md",
+  "source_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "d7ca8a67f6d03a2e9b7a8481.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/bab5121b9ac9a4bc3d4f5a212714bb21736398e8.jpg?w=1920&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "d7ca8a67f6d03a2e9b7a8481a38b4aa8446b80d86135ccbf8e552df7fe918baa",
+      "bytes": 126052
+    },
+    {
+      "file": "9284eb9ab797affce5d2378e.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/57236786c74387213d0080f74ed377bf9b18d485.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "9284eb9ab797affce5d2378ee31145c035eff061549fcc7407047fafcb4bc693",
+      "bytes": 151586
+    },
+    {
+      "file": "ff1264bc956043fbe4c82e4b.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/4ed2e0c6fa45c9b7b703a93cbec1c43835a9ddaa.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "ff1264bc956043fbe4c82e4beef8314eea03d71d7db23402964f1fbd1a9bec56",
+      "bytes": 111912
+    },
+    {
+      "file": "74028cdcf1b711d8d2a31c21.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/6c3a8132d717a3dde02ba53e118defab974177eb.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "74028cdcf1b711d8d2a31c2134e0978bddac877f085397bd88b7d64b29ce9f53",
+      "bytes": 100212
+    },
+    {
+      "file": "2c80b92936157e1a270ff055.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/fe18b9d1335ac903a236cd6f48ba550f164a9bc0.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "2c80b92936157e1a270ff0551a6ea3bf00990fc876b6d3dba2d01657626ccf86",
+      "bytes": 129808
+    },
+    {
+      "file": "ff1fed5b55148e6de4fdde44.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/d81ba75a361b0eb268f9b6e035e4081ce8d7a3c2.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "ff1fed5b55148e6de4fdde443df11e6cdf30950c0e57e33ae4c2f5a052a28705",
+      "bytes": 90114
+    },
+    {
+      "file": "95e48ed393b8523166f0336d.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/e4ba0d5b9417262dd5d08438e157b4e14ee65da0.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "95e48ed393b8523166f0336df16ab16dea8b1c12b618340a06ffcd6a20c708c8",
+      "bytes": 119058
+    },
+    {
+      "file": "b9ef88b662867edaec7be92f.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/ecf7ac7248e403cf7aee943e11d7b8ec6bc1ec01.png?w=3840&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "b9ef88b662867edaec7be92fe1001ba0ff5d75c28590c141555f38566371b18f",
+      "bytes": 96080
+    }
+  ],
+  "coverage": {
+    "source_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md",
+    "expected_figure_groups": 7,
+    "complete": true,
+    "source_html_sha256": "49c4bb8e8b95141e71607ae57872209b28de8342cbad0d39758237425a870226",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "9284eb9ab797affce5d2378e.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "ff1264bc956043fbe4c82e4b.webp"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "74028cdcf1b711d8d2a31c21.webp"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "2c80b92936157e1a270ff055.webp"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "ff1fed5b55148e6de4fdde44.webp"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "95e48ed393b8523166f0336d.webp"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": "article figure",
+        "kind": "image",
+        "files": [
+          "b9ef88b662867edaec7be92f.webp"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "article_id": "64a53e142a390086",
+  "article_path": "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md",
+  "source_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "e62f6e413425805a358e762e.png",
+      "kind": "image",
+      "source_url": "https://img.alicdn.com/imgextra/i2/O1CN01yN4UdkxBF2G7nW9B_!!6000000007738-2-tps-3841-2160.png",
+      "sha256": "e62f6e413425805a358e762e9441fee2860b57cd4a8fd3060951bd1857baacae",
+      "bytes": 2013462
+    },
+    {
+      "file": "511c274d2f2bfd25c110cbeb.png",
+      "kind": "image",
+      "source_url": "https://img.alicdn.com/imgextra/i1/O1CN01ldag0pIAw9J4s7XG_!!6000000004740-2-tps-2400-1626.png",
+      "sha256": "511c274d2f2bfd25c110cbeb425fe4ba34b4a57c3c8c6484f8a46ac79cd972d2",
+      "bytes": 227325
+    },
+    {
+      "file": "eebe586e7ac588a7ca743456.png",
+      "kind": "image",
+      "source_url": "https://img.alicdn.com/imgextra/i4/O1CN01NAru06FwyBE7o1Mj_!!6000000003227-2-tps-3845-2160.png",
+      "sha256": "eebe586e7ac588a7ca74345641fe49503064d494e51a1843edd9353a21d6c83f",
+      "bytes": 1831884
+    },
+    {
+      "file": "71a0054fdc3975580c9b50ca.png",
+      "kind": "image",
+      "source_url": "https://img.alicdn.com/imgextra/i2/O1CN01kYhxxjdH7KK7o1Mj_!!6000000001014-2-tps-3845-2160.png",
+      "sha256": "71a0054fdc3975580c9b50ca880b652c85f5fb4773d9bdb2ccfc4c7eb9b06e93",
+      "bytes": 2141689
+    }
+  ],
+  "coverage": {
+    "source_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/",
+    "translation_path": "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md",
+    "expected_figure_groups": 4,
+    "complete": true,
+    "source_html_sha256": "0e2a3c947d2c4b6ad4d544697c9ae7d65c39274ba9557856388d2ef84e24e798",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article main img",
+        "kind": "image",
+        "files": [
+          "e62f6e413425805a358e762e.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article main img",
+        "kind": "image",
+        "files": [
+          "511c274d2f2bfd25c110cbeb.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article main img",
+        "kind": "image",
+        "files": [
+          "eebe586e7ac588a7ca743456.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article main img",
+        "kind": "image",
+        "files": [
+          "71a0054fdc3975580c9b50ca.png"
+        ]
+      }
+    ]
+  }
+}

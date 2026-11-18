@@ -1,0 +1,56 @@
+{
+  "article_id": "f321c904268bcef2",
+  "article_path": "content/Google DeepMind/官方/2026-11-10_AlphaProof Code：深入验证复杂软件的突破.中文.md",
+  "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "4e503145ce0e773d26f3ab5d.jpg",
+      "kind": "image",
+      "source_url": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
+      "sha256": "4e503145ce0e773d26f3ab5d59449de483254b98dc04fbf6ebebe5d1f17bdfa6",
+      "bytes": 144023
+    },
+    {
+      "file": "c7be216e0ee38bb79ed4cc35.webp",
+      "kind": "image",
+      "source_url": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw",
+      "sha256": "c7be216e0ee38bb79ed4cc352090a57141b8a6e4bfbc0eacd8d748ddedbc2d33",
+      "bytes": 42310
+    },
+    {
+      "file": "7a85dccf8309289e09f1cdfd.jpg",
+      "kind": "image",
+      "source_url": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+      "sha256": "7a85dccf8309289e09f1cdfd8d27aedb973849e89f07d933be2277ce97d0d822",
+      "bytes": 67124
+    }
+  ],
+  "coverage": {
+    "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "translation_path": "content/Google DeepMind/官方/2026-11-10_AlphaProof Code：深入验证复杂软件的突破.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "4a03cc862d755951bb9071e7839a1942e7cf3b0293128ad36260397835c8d048",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "main#page-content (excluding related posts and duplicate dark-theme image)",
+        "kind": "image",
+        "files": [
+          "4e503145ce0e773d26f3ab5d.jpg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "main#page-content (excluding related posts and duplicate dark-theme image)",
+        "kind": "image",
+        "files": [
+          "7a85dccf8309289e09f1cdfd.jpg"
+        ]
+      }
+    ]
+  }
+}

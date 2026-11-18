@@ -1,0 +1,49 @@
+{
+  "article_id": "7b3cfa50ed6df109",
+  "article_path": "content/OpenAI/官方/2026-10-14_设计 OpenAI 模型提供商之间的故障切换.中文.md",
+  "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "rendered-provider-failover-1-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+      "sha256": "277253e4f542cce278d8c7a0675a5ac4f32e990acaf3fb4c5089b76f24b59176",
+      "bytes": 132208
+    },
+    {
+      "file": "rendered-provider-failover-2-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+      "sha256": "84f51df38643461d0f1d603979363d5930de3cb7e611ec97ee4a055a1bba98f7",
+      "bytes": 158636
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+    "translation_path": "content/OpenAI/官方/2026-10-14_设计 OpenAI 模型提供商之间的故障切换.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "2b62221c83ff0e065fa43ba2adb3ef18476146877ae42d915b213e02eaeb9df5",
+    "figure_groups": [
+      {
+        "id": "provider-failover-1",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "html-diagram",
+        "files": [
+          "rendered-provider-failover-1-default.png"
+        ]
+      },
+      {
+        "id": "provider-failover-2",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > figure:nth-of-type(1)",
+        "kind": "html-diagram",
+        "files": [
+          "rendered-provider-failover-2-default.png"
+        ]
+      }
+    ]
+  }
+}

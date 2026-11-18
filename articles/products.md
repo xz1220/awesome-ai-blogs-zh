@@ -1,0 +1,81 @@
+# 产品与应用
+
+[文章目录](README.md) · [首页](../README.md)
+
+产品设计、重要发布和有实质经验的应用案例。 共 75 篇，按已知的首发日期倒序排列。
+
+- [OpenAI 发布 ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales/>) — OpenAI · 2026-11-17。 展示销售插件怎样连接 CRM 和日常工具，用于客户准备与后续沟通。
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol/>) — OpenAI · 2026-11-17。 发布文对比两款模型在专业工作、编程与科学任务中的表现，也列出成本和可用性。
+- [推进面向医疗团队的计算机操作 Agent](<https://openai.com/index/advancing-computer-use-for-healthcare-teams/>) — OpenAI · 2026-11-16。 以医疗授权流程说明跨系统 Agent 的用途，并讨论评估、成本与人工控制。
+- [完整应用 API 开放](<https://api-docs.deepseek.com/zh-cn/updates/#时间-2026-11-13>) — DeepSeek · 2026-11-13 · [官方中文版](../content/DeepSeek/%E5%AE%98%E6%96%B9/2026-11-13_%E5%AE%8C%E6%95%B4%E5%BA%94%E7%94%A8%20API%20%E5%BC%80%E6%94%BE.%E4%B8%AD%E6%96%87.md)。
+- [Kimi Code CLI v2.6.0 发布说明](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai/kimi-code%402.6.0>) — Kimi · 2026-11-12 · [中文全文](../content/Kimi/%E5%AE%98%E6%96%B9/2026-11-12_Kimi%20Code%20CLI%20v2.6.0%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md)。
+- [Qwen Code 功能周报：2026 年 11 月 12 日](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/>) — Qwen · 2026-11-12 · [官方中文版](../content/Qwen/%E5%AE%98%E6%96%B9/2026-11-12_Qwen%20Code%20%E5%8A%9F%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BC%9A2026%20%E5%B9%B4%2011%20%E6%9C%88%2012%20%E6%97%A5.%E4%B8%AD%E6%96%87.md)。
+- [A2UI 1.0：构建流畅可靠的 Agent 交互体验](<https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/>) — Google · 2026-11-11 · [中文全文](../content/Google/%E5%AE%98%E6%96%B9/2026-11-11_A2UI%201.0%EF%BC%9A%E6%9E%84%E5%BB%BA%E6%B5%81%E7%95%85%E5%8F%AF%E9%9D%A0%E7%9A%84%20Agent%20%E4%BA%A4%E4%BA%92%E4%BD%93%E9%AA%8C.%E4%B8%AD%E6%96%87.md)。
+- [Qwen Code 1.0 Preview 发布说明](<https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview>) — Qwen · 2026-11-11 · [中文全文](../content/Qwen/%E5%AE%98%E6%96%B9/2026-11-11_Qwen%20Code%201.0%20Preview%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md)。
+- [Cursor Projects 支持多人协作](<https://cursor.com/blog/projects-multiplayer>) — Cursor · 2026-11-10 · [中文全文](../content/Cursor/%E5%AE%98%E6%96%B9/2026-11-10_Cursor%20Projects%20%E6%94%AF%E6%8C%81%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9C.%E4%B8%AD%E6%96%87.md)。
+- [Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络](<https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude>) — Anthropic · 2026-11-10 · [中文全文](../content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_Curative%20%E5%A6%82%E4%BD%95%E5%80%9F%E5%8A%A9%20Claude%20%E4%B8%8A%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E6%9E%84%E5%BB%BA%E5%85%A8%E5%9B%BD%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E7%BD%91%E7%BB%9C.%E4%B8%AD%E6%96%87.md)。 Curative 将 Claude Agent 应用于全国医疗服务网络建设的实践。
+- [您的应用现在可以在 Claude 中打开，Claude 也能在其中工作](<https://claude.com/resources/articles/interactive-connectors-full-tool>) — Anthropic · 2026-11-10 · [中文全文](../content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_%E6%82%A8%E7%9A%84%E5%BA%94%E7%94%A8%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%20Claude%20%E4%B8%AD%E6%89%93%E5%BC%80%EF%BC%8CClaude%20%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%85%B6%E4%B8%AD%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md)。 通过交互式连接器让 Claude 与应用界面和工具协作。
+- [CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍](<https://openai.com/index/coderabbit-codex-daybreak/>) — OpenAI · 2026-11-09 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-09_CodeRabbit%20%E5%A6%82%E4%BD%95%E6%89%A9%E5%B1%95%20Agent%20%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B9%B6%E5%B0%86%E4%BA%A4%E4%BB%98%E9%87%8F%E6%8F%90%E5%8D%87%E8%87%B3%2020%20%E5%80%8D.%E4%B8%AD%E6%96%87.md)。 异步代码审查、持续演化缺陷基准、Agent部署成本与Codex开发/Daybreak安全治理的案例。
+- [Qodo 与 Codex：将上下文引入 AI 代码审查](<https://openai.com/index/qodo-codex-plugin/>) — OpenAI · 2026-11-02 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-02_Qodo%20%E4%B8%8E%20Codex%EF%BC%9A%E5%B0%86%E4%B8%8A%E4%B8%8B%E6%96%87%E5%BC%95%E5%85%A5%20AI%20%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5.%E4%B8%AD%E6%96%87.md)。 通过Codex插件注入组织规则和跨仓依赖上下文，编写前取知识、编写后独立审查以及Decisions API。
+- [Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测](<https://openai.com/index/greptile-code-review-codex-astra/>) — OpenAI · 2026-10-26 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-26_Greptile%20%E4%B8%8E%20GPT-6%20Astra%EF%BC%9A%E8%B6%85%E8%B6%8A%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5%E7%9A%84%E7%BC%BA%E9%99%B7%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md)。 运行PR开发服务器、浏览器视口/用户路径测试、MCP知识库与独立代码验证的Agent案例。
+- [Kimi K3.1 Pro 发布](<https://www.kimi.com/en/blog/kimi-k3-1-pro>) — Kimi · 2026-10-24。 介绍联合强化学习、采样调度、沙箱和长时工程评测。
+- [Agent SDK 正式发布](<https://cursor.com/blog/agent-sdk>) — Cursor · 2026-10-20 · [中文全文](../content/Cursor/%E5%AE%98%E6%96%B9/2026-10-20_Agent%20SDK%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83.%E4%B8%AD%E6%96%87.md)。
+- [DeepSeek V4.1 Flash 新版本：许愿式编程一键成真](<https://api-docs.deepseek.com/news/news261017/>) — DeepSeek · 2026-10-17。 DeepSeek 1017 的项目开发、工具接口及评测口径。
+- [Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时](<https://openai.com/index/third-moment-research/>) — OpenAI · 2026-10-14 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-14_Third%20Moment%20Research%20%E5%A6%82%E4%BD%95%E8%AE%A9%E4%B8%80%E4%B8%87%E4%B8%AA%20Agent%20%E8%BF%9E%E7%BB%AD%E8%BF%90%E8%A1%8C%E8%B6%85%E8%BF%87%2036%20%E5%B0%8F%E6%97%B6.%E4%B8%AD%E6%96%87.md)。 万Agent长期运行的轨迹分析、回测缓存/内存优化、合成场景与减少上下文轮询浪费。
+- [Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作](<https://openai.com/index/amp-beyond-coding/>) — OpenAI · 2026-10-14 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-14_Amp%20%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20OpenAI%20%E6%A8%A1%E5%9E%8B%E8%AE%A9%20Agent%20%E6%89%BF%E6%8B%85%E7%BC%96%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md)。 Agent产品案例，涵盖编码之外的文档/设计工作、语音交互、实时模型与速度/成本的工作流取舍。
+- [Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一](<https://openai.com/index/asana-browser-agent/>) — OpenAI · 2026-10-09 · [中文全文](../content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-09_Asana%20%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%B0%86%E6%A8%A1%E5%9E%8B%E6%88%90%E6%9C%AC%E9%99%8D%E8%87%B3%E5%8E%9F%E6%9D%A5%E7%9A%84%E4%B8%83%E5%8D%81%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80.%E4%B8%AD%E6%96%87.md)。 浏览器Agent缓存历史、提高文本保留与批量移除截图，144次试验比较成本/速度，明确估算口径。
+- [推出 Anthropic 网络使命](<https://www.anthropic.com/news/anthropic-cyber-mission>) — Anthropic · 2026-10-08。
+- [Claude Haiku 4.5](<https://www.anthropic.com/claude/haiku>) — Anthropic · 2026-10-07。
+- [Claude Mythos 5](<https://www.anthropic.com/claude/mythos>) — Anthropic · 2026-10-06。
+- [Claude Sonnet 4.6](<https://www.anthropic.com/claude/sonnet>) — Anthropic · 2026-09-28。
+- [Claude Opus 4.8](<https://www.anthropic.com/claude/opus>) — Anthropic · 2026-09-22。
+- [推出生命科学验证计划](<https://www.anthropic.com/news/life-sciences-verification-program>) — Anthropic · 2026-09-17。
+- [隆重推出 Agents API](<https://openai.com/index/introducing-the-agents-api/>) — OpenAI · 2026-09-10。 托管 Codex harness、持久会话、沙箱和子 Agent。
+- [Claude Fable 5](<https://www.anthropic.com/claude/fable>) — Anthropic · 2026-09-01。
+- [Claude Cowork](<https://claude.com/product/cowork>) — Anthropic · 2026-08-26。
+- [隆重推出 Claude Opus 5](<https://www.anthropic.com/news/claude-opus-5>) — Anthropic · 2026-07-24。
+- [推出 Claude for Teachers](<https://www.anthropic.com/news/claude-for-teachers>) — Anthropic · 2026-07-14。
+- [推出一种反思你如何使用 Claude 的方式](<https://www.anthropic.com/news/reflect-with-claude>) — Anthropic · 2026-07-09。
+- [介绍 Claude Sonnet 5](<https://www.anthropic.com/news/claude-sonnet-5>) — Anthropic · 2026-06-30。
+- [隆重推出 Claude Tag](<https://www.anthropic.com/news/introducing-claude-tag>) — Anthropic · 2026-06-23。
+- [推出 Claude Corps](<https://www.anthropic.com/news/claude-corps>) — Anthropic · 2026-06-11。
+- [推出 Claude 合作伙伴网络的 Services Track 与 Partner Hub](<https://www.anthropic.com/news/services-track-partner-hub>) — Anthropic · 2026-06-03。
+- [介绍 Claude Opus 4.8](<https://www.anthropic.com/news/claude-opus-4-8>) — Anthropic · 2026-05-28。
+- [推出 Claude for Small Business](<https://www.anthropic.com/news/claude-for-small-business>) — Anthropic · 2026-05-13。
+- [隆重推出 Anthropic Labs 的 Claude Design](<https://www.anthropic.com/news/claude-design-anthropic-labs>) — Anthropic · 2026-04-17。
+- [隆重推出 Claude Opus 4.7](<https://www.anthropic.com/news/claude-opus-4-7>) — Anthropic · 2026-04-16。
+- [Anthropic Institute 正式成立](<https://www.anthropic.com/news/the-anthropic-institute>) — Anthropic · 2026-03-11。
+- [隆重推出 Claude Sonnet 4.6](<https://www.anthropic.com/news/claude-sonnet-4-6>) — Anthropic · 2026-02-17。
+- [发布 Claude Opus 4.6](<https://www.anthropic.com/news/claude-opus-4-6>) — Anthropic · 2026-02-05。
+- [推出 Labs](<https://www.anthropic.com/news/introducing-anthropic-labs>) — Anthropic · 2026-01-13。
+- [在 Claude 开发者平台上推出高级工具使用](<https://www.anthropic.com/engineering/advanced-tool-use>) — Anthropic · 2025-11-24。
+- [隆重推出 Claude Opus 4.5](<https://www.anthropic.com/news/claude-opus-4-5>) — Anthropic · 2025-11-24。
+- [Kimi K2 Thinking 发布](<https://www.kimi.com/en/blog/kimi-k2-thinking>) — Kimi · 2025-11-06。 介绍思考与工具调用交错、长链路执行和量化推理。
+- [推出 Agent Skills](<https://claude.com/resources/articles/skills>) — Anthropic · 2025-10-16。
+- [隆重推出 Claude Haiku 4.5](<https://www.anthropic.com/news/claude-haiku-4-5>) — Anthropic · 2025-10-15。
+- [介绍 Claude Sonnet 4.5](<https://www.anthropic.com/news/claude-sonnet-4-5>) — Anthropic · 2025-09-29。
+- [推出 Anthropic 经济未来计划](<https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program>) — Anthropic · 2025-06-27。
+- [Kimi-Dev：面向问题修复的强开源编程大模型](<https://moonshotai.github.io/Kimi-Dev/>) — Kimi · 2025-06-16。 介绍修复与测试双角色、Docker 测试奖励和真实仓库修复。
+- [介绍 Claude 4](<https://www.anthropic.com/news/claude-4>) — Anthropic · 2025-05-22。
+- [Anthropic 推出-AI for Science-计划](<https://www.anthropic.com/news/ai-for-science-program>) — Anthropic · 2025-05-05。
+- [隆重推出 Anthropic 经济顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council>) — Anthropic · 2025-04-28。
+- [隆重推出 Anthropic 首届开发者大会：Code with Claude](<https://www.anthropic.com/news/Introducing-code-with-claude>) — Anthropic · 2025-04-03。
+- [推出 Claude for Education](<https://www.anthropic.com/news/introducing-claude-for-education>) — Anthropic · 2025-04-02。
+- [推出 Anthropic 透明度中心](<https://www.anthropic.com/news/introducing-anthropic-transparency-hub>) — Anthropic · 2025-02-27。
+- [介绍模型上下文协议](<https://www.anthropic.com/news/model-context-protocol>) — Anthropic · 2024-11-25。
+- [推出计算机使用](<https://www.anthropic.com/news/3-5-models-and-computer-use>) — Anthropic · 2024-10-22。
+- [发布更新后的负责任扩展政策](<https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>) — Anthropic · 2024-10-15。
+- [介绍上下文检索](<https://www.anthropic.com/engineering/contextual-retrieval>) — Anthropic · 2024-09-19。
+- [隆重推出新一代 Claude](<https://www.anthropic.com/news/claude-3-family>) — Anthropic · 2024-03-04。
+- [发布 Claude 2.1](<https://www.anthropic.com/news/claude-2-1>) — Anthropic · 2023-11-21。
+- [Anthropic 发布负责任扩展政策](<https://www.anthropic.com/news/anthropics-responsible-scaling-policy>) — Anthropic · 2023-09-19。
+- [隆重推出 Claude Pro](<https://www.anthropic.com/news/claude-pro>) — Anthropic · 2023-09-07。
+- [推出 100K 上下文窗口](<https://www.anthropic.com/news/100k-context-windows>) — Anthropic · 2023-05-11。
+- [介绍 Claude](<https://www.anthropic.com/news/introducing-claude>) — Anthropic · 2023-03-14。
+- [claude-code](<https://claude.com/product/claude-code>) — Anthropic。
+- [8.1万人希望从AI得到什么](<https://www.anthropic.com/features/81k-interviews>) — Anthropic。
+- [Claude 企业解决方案](<https://claude.com/solutions/enterprise>) — Anthropic。
+- [Claude AI 助力 NASA 完成首次由 AI 规划的火星漫游车行驶](<https://www.anthropic.com/features/claude-on-mars>) — Anthropic。
+- [交易实验](<https://www.anthropic.com/features/project-deal>) — Anthropic。
+- [Claude Code 的诞生](<https://www.anthropic.com/features/making-of-claude-code>) — Anthropic。
+- [疫情简报](<https://www.anthropic.com/features/ebola-response>) — Anthropic。

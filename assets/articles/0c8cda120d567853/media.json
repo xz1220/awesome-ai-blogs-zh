@@ -1,0 +1,388 @@
+{
+  "article_id": "0c8cda120d567853",
+  "article_path": "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md",
+  "source_url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "24cc5a6adbf0c0ff1a7a64be.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/58247642907b2621ae6d414ecb7dc6714bcf1e03.svg",
+      "caption_zh": null,
+      "sha256": "24cc5a6adbf0c0ff1a7a64bea426156d7033d9a5ce9e7b1e252f1ff3dec87f0b",
+      "bytes": 2339
+    },
+    {
+      "file": "e337d0c68325db0c9d88238b.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/547f3af27e33331c1409324c549d765f790ca68d.svg",
+      "caption_zh": null,
+      "sha256": "e337d0c68325db0c9d88238b178a2c3274044e001b80a49073bf7e565fcc4228",
+      "bytes": 9811
+    },
+    {
+      "file": "38ac3186904954a6a5ff624d.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/5348eaceef888ace36b50da1a6c9f8126ad2f1bb.svg",
+      "caption_zh": null,
+      "sha256": "38ac3186904954a6a5ff624da4b67dd1aad0bab422951f6a3d55b6bfc2b715e6",
+      "bytes": 8665
+    },
+    {
+      "file": "aa7c460b6e9ae2df5e150af3.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/6b65c9f5d995c188f6273248826bbe5fc494b4ff.svg",
+      "caption_zh": null,
+      "sha256": "aa7c460b6e9ae2df5e150af3470016579a4089718e111dc8d6c24dcbd9fd495d",
+      "bytes": 10971
+    },
+    {
+      "file": "c0625eecd14ccc7b45c208d1.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/157cc2437bd370ee12b67e1ba178b5cded79cbfc.svg",
+      "caption_zh": null,
+      "sha256": "c0625eecd14ccc7b45c208d1dd0c6a918074ed967adc89cd337360504044bb1b",
+      "bytes": 16488
+    },
+    {
+      "file": "7c0cf08bc8d3d657fd3d33b0.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/5855d903e0e618842304aaf2e9b02e7d648a90e2.png",
+      "caption_zh": null,
+      "sha256": "7c0cf08bc8d3d657fd3d33b0dcac606892c786b0e2d8401cbace570a9642fe15",
+      "bytes": 9100
+    },
+    {
+      "file": "1ea6575462d2651d9a963b82.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/dcd269d39d743ba04bbf4a2e803b60367c0d6b88.svg",
+      "caption_zh": null,
+      "sha256": "1ea6575462d2651d9a963b82d3ee3a04ff9406e56114475d0cacdbf86e77b2b2",
+      "bytes": 1374
+    },
+    {
+      "file": "b19fa43c7bf4b691b17e14ff.svg",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/05128b9e935b6625beecc1bc4c6fa08814473e3e.svg",
+      "caption_zh": null,
+      "sha256": "b19fa43c7bf4b691b17e14ffe163070d72a15633dca0ed037a3094e4c05dbf7c",
+      "bytes": 6803
+    },
+    {
+      "file": "aa694a38749f9cb766a1ff22.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/2b0f5523a07eac627cacb997fda4823706524505.png",
+      "caption_zh": null,
+      "sha256": "aa694a38749f9cb766a1ff22208eed23b9e085434a492e54459d1b744809c833",
+      "bytes": 676848
+    },
+    {
+      "file": "c6c09292c880025c989792ad.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/a6d8144b8cb41f297d29241e3e22bcb6898594d2.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "c6c09292c880025c989792adf9bbdc8b22e42dbb6d05c3cde2c1fc28b5430dcd",
+      "bytes": 3338
+    },
+    {
+      "file": "77ed0bf2dc83e703ee3b337d.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/8146467a01dc8932c5071f62327bec5e7fa4b7bc.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "77ed0bf2dc83e703ee3b337d7fff96ef0c0998b55a3da34ff3d6415a5888407f",
+      "bytes": 7956
+    },
+    {
+      "file": "fa7d8a1b9250527ab132b7e2.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/1921c58bc091958f185f0fc960870d6dd18f7bd3.png",
+      "caption_zh": null,
+      "sha256": "fa7d8a1b9250527ab132b7e2cc27a8848782547793a6fd299520455fbfea2b3a",
+      "bytes": 246331
+    },
+    {
+      "file": "08d35a8105a270e245fcc126.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/20696126082a923a5dc573f7571aadb71caf617e.png",
+      "caption_zh": null,
+      "sha256": "08d35a8105a270e245fcc12638ba511be156c88d526d21abfb29b0daaa345d16",
+      "bytes": 306735
+    },
+    {
+      "file": "cfc6cee743e671f8faaaf60e.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/3a62ff7d092a4f9d3cd4b74f49c1aa2e0a9a8340.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "cfc6cee743e671f8faaaf60ed5e2c0418f7fc8d34bfd4e1e0c4442fe783c4eda",
+      "bytes": 2580
+    },
+    {
+      "file": "03789feb0f83f96545f8c734.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/a4edb94f8444bc21a1fc8aa3d489f15358328129.png",
+      "caption_zh": null,
+      "sha256": "03789feb0f83f96545f8c7347d0bafa0ae7e57c67a2de87688dfe23f35a9c546",
+      "bytes": 234450
+    },
+    {
+      "file": "1f40a543e2d1dff0c86ed480.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/39f487100b408fabef0773334afb8c15e050525f.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "1f40a543e2d1dff0c86ed4806fd3a1d4707fa38a101a61fee508d5c04fa4ade2",
+      "bytes": 3886
+    },
+    {
+      "file": "c4e2b2f106bf4b812f6882db.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/921fd10de481a1094bdd4b483f52933e68791fb2.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "c4e2b2f106bf4b812f6882db89f86b1ad9600d2b5fca1bc94c6252a1cd8b95fb",
+      "bytes": 2798
+    },
+    {
+      "file": "c37d8ffea77323f5f3edfc4b.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/4cf8ac80c074a4f3b28e78bd605ec9a881a611a8.png",
+      "caption_zh": null,
+      "sha256": "c37d8ffea77323f5f3edfc4b536bc05aafa3ac8a1dacdf97260bef5f180b5525",
+      "bytes": 178384
+    },
+    {
+      "file": "ea4b1d1ca413992d29511d4c.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/93f058c356e58c0f49205fd19e8f3585533542bf.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "ea4b1d1ca413992d29511d4c53bff7cd9d2e5adb3e9f1da10c006bbb56d74904",
+      "bytes": 2108
+    },
+    {
+      "file": "469285353724938c471ccbdb.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/04cc4542c1f0cb9d273d22b2597f8e856abe542a.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "469285353724938c471ccbdbf7500ab93b60139696ba44a0f7fd73f37dedf9ca",
+      "bytes": 5040
+    },
+    {
+      "file": "3d684988bc21c95b35e7de07.webp",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/ae41953c096037ea0d3a369b9af1e1f52378367a.jpg?w=168&q=75&fm=webp&fit=max",
+      "caption_zh": null,
+      "sha256": "3d684988bc21c95b35e7de07e5bad48f84133cda8bc1752fdfb7dda0abc29f29",
+      "bytes": 4328
+    },
+    {
+      "file": "67c859383ba5ab34d4efd20a.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/8d3d8fd8252fc93f3bd80bb28ae0a728142a7ef2.png",
+      "caption_zh": null,
+      "sha256": "67c859383ba5ab34d4efd20a20f1e9b1b3bf9d11283d9f7c258f168e26712f6b",
+      "bytes": 229869
+    },
+    {
+      "file": "a1442deea3bae3acddff6661.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/7e4a82b6f73aabecf6a5a5fe148c38a53659ba7a.png",
+      "caption_zh": null,
+      "sha256": "a1442deea3bae3acddff6661c1feeb667f6ab8fc607caf60419c0917135feec4",
+      "bytes": 186151
+    },
+    {
+      "file": "874f8d92c254cbe9c974e416.png",
+      "kind": "image",
+      "source_url": "https://assets.claude.com/8884ca89d9b6e0bf91eb7b426d8546c971d8079d.png",
+      "caption_zh": null,
+      "sha256": "874f8d92c254cbe9c974e416e9089f2b683cb3319ded65ac7597b25d493e5f1c",
+      "bytes": 268016
+    },
+    {
+      "file": "youtube-VojDzHaciKQ.jpg",
+      "kind": "official-video-poster",
+      "source_url": "https://i.ytimg.com/vi/VojDzHaciKQ/hqdefault.jpg",
+      "caption_zh": null,
+      "sha256": "c3bab7519d0f8632f12b033bbe0d8742c7080ec3882301eb289c27f28ec563b2",
+      "bytes": 14074
+    },
+    {
+      "file": "youtube-JhipXUs1Y98.jpg",
+      "kind": "official-video-poster",
+      "source_url": "https://i.ytimg.com/vi/JhipXUs1Y98/hqdefault.jpg",
+      "caption_zh": null,
+      "sha256": "5f9b9a3625bec5ab39581ab79fe9c18f4cbb80462856ebaf25ed8553c5fb8bc8",
+      "bytes": 10912
+    }
+  ],
+  "coverage": {
+    "source_url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+    "translation_path": "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md",
+    "expected_figure_groups": 18,
+    "complete": true,
+    "source_html_sha256": "f5a239b452c5e53c8f7650c5ec4127b9d6553cc0d64110546a00ad59de57b44f",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "youtube-VojDzHaciKQ.jpg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "aa694a38749f9cb766a1ff22.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "c6c09292c880025c989792ad.webp"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "77ed0bf2dc83e703ee3b337d.webp"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "fa7d8a1b9250527ab132b7e2.png"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "08d35a8105a270e245fcc126.png"
+        ]
+      },
+      {
+        "id": "figure-07",
+        "source_index": 6,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "cfc6cee743e671f8faaaf60e.webp"
+        ]
+      },
+      {
+        "id": "figure-08",
+        "source_index": 7,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "03789feb0f83f96545f8c734.png"
+        ]
+      },
+      {
+        "id": "figure-09",
+        "source_index": 8,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "1f40a543e2d1dff0c86ed480.webp"
+        ]
+      },
+      {
+        "id": "figure-10",
+        "source_index": 9,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "c4e2b2f106bf4b812f6882db.webp"
+        ]
+      },
+      {
+        "id": "figure-11",
+        "source_index": 10,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "c37d8ffea77323f5f3edfc4b.png"
+        ]
+      },
+      {
+        "id": "figure-12",
+        "source_index": 11,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "ea4b1d1ca413992d29511d4c.webp"
+        ]
+      },
+      {
+        "id": "figure-13",
+        "source_index": 12,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "469285353724938c471ccbdb.webp"
+        ]
+      },
+      {
+        "id": "figure-14",
+        "source_index": 13,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "3d684988bc21c95b35e7de07.webp"
+        ]
+      },
+      {
+        "id": "figure-15",
+        "source_index": 14,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "67c859383ba5ab34d4efd20a.png"
+        ]
+      },
+      {
+        "id": "figure-16",
+        "source_index": 15,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "youtube-JhipXUs1Y98.jpg"
+        ]
+      },
+      {
+        "id": "figure-17",
+        "source_index": 16,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "a1442deea3bae3acddff6661.png"
+        ]
+      },
+      {
+        "id": "figure-18",
+        "source_index": 17,
+        "source_selector": ".text-rich-text--article figure",
+        "kind": "image",
+        "files": [
+          "874f8d92c254cbe9c974e416.png"
+        ]
+      }
+    ]
+  }
+}

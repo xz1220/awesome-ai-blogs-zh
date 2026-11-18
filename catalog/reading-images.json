@@ -1,0 +1,3752 @@
+{
+  "assets/articles/0c8cda120d567853/03789feb0f83f96545f8c734.png": {
+    "sha256": "03789feb0f83f96545f8c7347d0bafa0ae7e57c67a2de87688dfe23f35a9c546",
+    "bytes": 234450,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/a4edb94f8444bc21a1fc8aa3d489f15358328129.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/08d35a8105a270e245fcc126.png": {
+    "sha256": "08d35a8105a270e245fcc12638ba511be156c88d526d21abfb29b0daaa345d16",
+    "bytes": 306735,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/20696126082a923a5dc573f7571aadb71caf617e.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/1ea6575462d2651d9a963b82.svg": {
+    "sha256": "1ea6575462d2651d9a963b82d3ee3a04ff9406e56114475d0cacdbf86e77b2b2",
+    "bytes": 1374,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/dcd269d39d743ba04bbf4a2e803b60367c0d6b88.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/1f40a543e2d1dff0c86ed480.webp": {
+    "sha256": "1f40a543e2d1dff0c86ed4806fd3a1d4707fa38a101a61fee508d5c04fa4ade2",
+    "bytes": 3886,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/39f487100b408fabef0773334afb8c15e050525f.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/24cc5a6adbf0c0ff1a7a64be.svg": {
+    "sha256": "24cc5a6adbf0c0ff1a7a64bea426156d7033d9a5ce9e7b1e252f1ff3dec87f0b",
+    "bytes": 2339,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/58247642907b2621ae6d414ecb7dc6714bcf1e03.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/38ac3186904954a6a5ff624d.svg": {
+    "sha256": "38ac3186904954a6a5ff624da4b67dd1aad0bab422951f6a3d55b6bfc2b715e6",
+    "bytes": 8665,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/5348eaceef888ace36b50da1a6c9f8126ad2f1bb.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/3d684988bc21c95b35e7de07.webp": {
+    "sha256": "3d684988bc21c95b35e7de07e5bad48f84133cda8bc1752fdfb7dda0abc29f29",
+    "bytes": 4328,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/ae41953c096037ea0d3a369b9af1e1f52378367a.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/469285353724938c471ccbdb.webp": {
+    "sha256": "469285353724938c471ccbdbf7500ab93b60139696ba44a0f7fd73f37dedf9ca",
+    "bytes": 5040,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/04cc4542c1f0cb9d273d22b2597f8e856abe542a.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/67c859383ba5ab34d4efd20a.png": {
+    "sha256": "67c859383ba5ab34d4efd20a20f1e9b1b3bf9d11283d9f7c258f168e26712f6b",
+    "bytes": 229869,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/8d3d8fd8252fc93f3bd80bb28ae0a728142a7ef2.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/77ed0bf2dc83e703ee3b337d.webp": {
+    "sha256": "77ed0bf2dc83e703ee3b337d7fff96ef0c0998b55a3da34ff3d6415a5888407f",
+    "bytes": 7956,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/8146467a01dc8932c5071f62327bec5e7fa4b7bc.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/7c0cf08bc8d3d657fd3d33b0.png": {
+    "sha256": "7c0cf08bc8d3d657fd3d33b0dcac606892c786b0e2d8401cbace570a9642fe15",
+    "bytes": 9100,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/5855d903e0e618842304aaf2e9b02e7d648a90e2.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/874f8d92c254cbe9c974e416.png": {
+    "sha256": "874f8d92c254cbe9c974e416e9089f2b683cb3319ded65ac7597b25d493e5f1c",
+    "bytes": 268016,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/8884ca89d9b6e0bf91eb7b426d8546c971d8079d.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/a1442deea3bae3acddff6661.png": {
+    "sha256": "a1442deea3bae3acddff6661c1feeb667f6ab8fc607caf60419c0917135feec4",
+    "bytes": 186151,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/7e4a82b6f73aabecf6a5a5fe148c38a53659ba7a.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/aa694a38749f9cb766a1ff22.png": {
+    "sha256": "aa694a38749f9cb766a1ff22208eed23b9e085434a492e54459d1b744809c833",
+    "bytes": 676848,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/2b0f5523a07eac627cacb997fda4823706524505.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/aa7c460b6e9ae2df5e150af3.svg": {
+    "sha256": "aa7c460b6e9ae2df5e150af3470016579a4089718e111dc8d6c24dcbd9fd495d",
+    "bytes": 10971,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/6b65c9f5d995c188f6273248826bbe5fc494b4ff.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/b19fa43c7bf4b691b17e14ff.svg": {
+    "sha256": "b19fa43c7bf4b691b17e14ffe163070d72a15633dca0ed037a3094e4c05dbf7c",
+    "bytes": 6803,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/05128b9e935b6625beecc1bc4c6fa08814473e3e.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/c0625eecd14ccc7b45c208d1.svg": {
+    "sha256": "c0625eecd14ccc7b45c208d1dd0c6a918074ed967adc89cd337360504044bb1b",
+    "bytes": 16488,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/157cc2437bd370ee12b67e1ba178b5cded79cbfc.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/c37d8ffea77323f5f3edfc4b.png": {
+    "sha256": "c37d8ffea77323f5f3edfc4b536bc05aafa3ac8a1dacdf97260bef5f180b5525",
+    "bytes": 178384,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/4cf8ac80c074a4f3b28e78bd605ec9a881a611a8.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/c4e2b2f106bf4b812f6882db.webp": {
+    "sha256": "c4e2b2f106bf4b812f6882db89f86b1ad9600d2b5fca1bc94c6252a1cd8b95fb",
+    "bytes": 2798,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/921fd10de481a1094bdd4b483f52933e68791fb2.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/c6c09292c880025c989792ad.webp": {
+    "sha256": "c6c09292c880025c989792adf9bbdc8b22e42dbb6d05c3cde2c1fc28b5430dcd",
+    "bytes": 3338,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/a6d8144b8cb41f297d29241e3e22bcb6898594d2.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/cfc6cee743e671f8faaaf60e.webp": {
+    "sha256": "cfc6cee743e671f8faaaf60ed5e2c0418f7fc8d34bfd4e1e0c4442fe783c4eda",
+    "bytes": 2580,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/3a62ff7d092a4f9d3cd4b74f49c1aa2e0a9a8340.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/e337d0c68325db0c9d88238b.svg": {
+    "sha256": "e337d0c68325db0c9d88238b178a2c3274044e001b80a49073bf7e565fcc4228",
+    "bytes": 9811,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/547f3af27e33331c1409324c549d765f790ca68d.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/ea4b1d1ca413992d29511d4c.webp": {
+    "sha256": "ea4b1d1ca413992d29511d4c53bff7cd9d2e5adb3e9f1da10c006bbb56d74904",
+    "bytes": 2108,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/93f058c356e58c0f49205fd19e8f3585533542bf.jpg?w=168&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/fa7d8a1b9250527ab132b7e2.png": {
+    "sha256": "fa7d8a1b9250527ab132b7e2cc27a8848782547793a6fd299520455fbfea2b3a",
+    "bytes": 246331,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/1921c58bc091958f185f0fc960870d6dd18f7bd3.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/youtube-JhipXUs1Y98.jpg": {
+    "sha256": "5f9b9a3625bec5ab39581ab79fe9c18f4cbb80462856ebaf25ed8553c5fb8bc8",
+    "bytes": 10912,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://i.ytimg.com/vi/JhipXUs1Y98/hqdefault.jpg",
+        "kind": "official-video-poster",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0c8cda120d567853/youtube-VojDzHaciKQ.jpg": {
+    "sha256": "c3bab7519d0f8632f12b033bbe0d8742c7080ec3882301eb289c27f28ec563b2",
+    "bytes": 14074,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_面向初创公司的 Claude Tag 指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://i.ytimg.com/vi/VojDzHaciKQ/hqdefault.jpg",
+        "kind": "official-video-poster",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/1cdae48c01c69c09-weekend-bribe-sequence.webp": {
+    "sha256": "1cdae48c01c69c09c78a8c8477600cb72fe36386bd67efc36950d6670d7069be",
+    "bytes": 46864,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-bribe-sequence.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/1ee6b0bc88f34ce5-juno-voice-study.webp": {
+    "sha256": "1ee6b0bc88f34ce532e5ad88e10bcacf809f692dc4cc48b66b0b228b633b5d8d",
+    "bytes": 40394,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-voice-study.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/2d07280908eb7518-treater-demo-poster.webp": {
+    "sha256": "2d07280908eb75184b86b48a27c1deb96389116606ab7a7b308d8fea3bf03bd0",
+    "bytes": 21346,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/treater-demo-poster.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/3105e38bfed960d7-juno-exhausted-day.webp": {
+    "sha256": "3105e38bfed960d7c4f82d88d3acfe2ab605acd19b292924992a31a164706f96",
+    "bytes": 34168,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-exhausted-day.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/46b2b6c937fccb07-juno-voice-preferences.webp": {
+    "sha256": "46b2b6c937fccb07542b81438e559fe2a572597d59356d2be8d51521b07660ed",
+    "bytes": 29724,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-voice-preferences.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/4e7ffe0aeaa994ae-weekend-header.webp": {
+    "sha256": "4e7ffe0aeaa994ae43647683740ceba0127194afe15109020dfb408f61981b65",
+    "bytes": 18536,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-header.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/5cd646fd9b08b600-picsart-agent-updates.webp": {
+    "sha256": "5cd646fd9b08b600258633dc66b012a305ffe33b6106006fb44235bfc083df82",
+    "bytes": 130214,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-agent-updates.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/67abeaaa35a7d926-juno-header.webp": {
+    "sha256": "67abeaaa35a7d926c6df94d0703d70d88ff2980ac5d90d4a8eaf1e3802860a14",
+    "bytes": 15116,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-header.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/68f4f6ead3b0dbe2-picsart-header.webp": {
+    "sha256": "68f4f6ead3b0dbe26e4191ca861ecb83780da27113017147f25d21c38d168463",
+    "bytes": 15236,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-header.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/78a676286947dc9c-picsart-voice-architecture.webp": {
+    "sha256": "78a676286947dc9ce8b7065f34485cda3eb27587579338b51a5dc2001ed62f7c",
+    "bytes": 165684,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-voice-architecture.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/9954355ccfe70695-juno-demo-poster.webp": {
+    "sha256": "9954355ccfe70695c7b7a0c608634910d9ec2da2efb092eae338b62976176dba",
+    "bytes": 100486,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-demo-poster.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/ad1748d3fa7ab651-picsart-demo-poster.webp": {
+    "sha256": "ad1748d3fa7ab651506d3546fc695e001fa94c93528dab9206106c650b501d4a",
+    "bytes": 13978,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/picsart-demo-poster.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/d26eb99c7d673444-weekend-timberfall.webp": {
+    "sha256": "d26eb99c7d6734448a3680da87b7a89b9dd86614cab78623727ff05d0d923e95",
+    "bytes": 46926,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-timberfall.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/d949e18353e48b47-juno-parallel-logging.webp": {
+    "sha256": "d949e18353e48b47655b91036a2df868454a6c075803598766fd6e6403d6ed15",
+    "bytes": 31670,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/juno-parallel-logging.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/dcbee5aaaa06e931-weekend-two-sessions.webp": {
+    "sha256": "dcbee5aaaa06e931e4eacdd76e825e38dde6e19fa1dca0dbf90e09170ceab617",
+    "bytes": 54520,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-two-sessions.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/defc816d599f2656-weekend-prompt-structure.webp": {
+    "sha256": "defc816d599f2656fbb43040981e02c4c79d8f02dfe9dd6d6b1ddbf7fb2083c2",
+    "bytes": 61814,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-prompt-structure.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/e4c9846d96bf0d3d-weekend-verdict-timing.webp": {
+    "sha256": "e4c9846d96bf0d3d8b014e1cf891de630772b0ee7d4465075fffef26647a1a41",
+    "bytes": 66602,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/weekend-verdict-timing.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/ea7dd9725ad7e91f-treater-header.webp": {
+    "sha256": "ea7dd9725ad7e91f12be9dbb6236b5770c92cb44396904ebb024569122600b81",
+    "bytes": 14286,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/pushing-voice-agents-further/treater-header.webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/treater-stage-1.png": {
+    "sha256": "81b569d5b0963a78daf271e8c6699329e481764854bc092a970b9c43aac56cf2",
+    "bytes": 137968,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+        "kind": "rendered-original-figure",
+        "caption_zh": "目标"
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/treater-stage-2.png": {
+    "sha256": "26c25604e64ed649cf8beb6a777aa4139dee2f16305e0db1d778d8d58dbc4c91",
+    "bytes": 134839,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+        "kind": "rendered-original-figure",
+        "caption_zh": "奖励"
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/treater-stage-3.png": {
+    "sha256": "058f998207e9bf9df22cb22067026d817cc21ebed861422efaf81b75c21c4238",
+    "bytes": 161459,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+        "kind": "rendered-original-figure",
+        "caption_zh": "提出"
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/treater-stage-4.png": {
+    "sha256": "7bf370a168fd7e5ae2eb4ecdaa0e9e90d5e2154d8411649c7add46869b3fffc2",
+    "bytes": 181828,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+        "kind": "rendered-original-figure",
+        "caption_zh": "筛选与批准"
+      }
+    ]
+  },
+  "assets/articles/0d3aedc15fd9cfcf/treater-stage-5.png": {
+    "sha256": "4a0b47a873448567f519f55ce19780bed67a6fdf42aea77aa9687226b6081da2",
+    "bytes": 162966,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_将语音智能体推向更远：四个 GPT-Live 构建案例深度解析.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+        "kind": "rendered-original-figure",
+        "caption_zh": "Bandit 算法"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/1ca56df9abbfd5d5774b0170.png": {
+    "sha256": "1ca56df9abbfd5d5774b0170d564e14ad08d623fa5fa3a971e21dfeac1660eec",
+    "bytes": 128096,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3d9_6af1617f434edee758024802_edd-docs-agent-tool-routing.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/2af42a9685521685b31b21e2.png": {
+    "sha256": "2af42a9685521685b31b21e226e7553f58c195ea8a7d5eb9442a7067ab7c7b80",
+    "bytes": 94356,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3f0_6af16185f9f880e7c023f182_edd-docs-agent-experiments.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/4db08ac7e33d06f2d8cbae2d.png": {
+    "sha256": "4db08ac7e33d06f2d8cbae2d69ef2fe780f2373b425d702ff5f193a06af6786b",
+    "bytes": 186862,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3e7_6af1618055a635070ecd1fc6_edd-docs-agent-dataset.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/9188db019527ae06c9057e2c.png": {
+    "sha256": "9188db019527ae06c9057e2ce5af271644ca55c228835f134e2acab2dab9491a",
+    "bytes": 92340,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3d6_6af1618192ffc787d7c2fc01_edd-docs-agent-evaluator.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/97ffe8c8a3b6de6eb1d12511.png": {
+    "sha256": "97ffe8c8a3b6de6eb1d12511b1cc48ac6b3c28bc09633d729ff94a7e4908f245",
+    "bytes": 153221,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3de_6af161847a181663661b74d2_edd-docs-agent-trace.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/0d5030baccda0d7a/d5785241177e3f077b53d6cf.png": {
+    "sha256": "d5785241177e3f077b53d6cf52db4abfde66c23f130cd3931028fa888eb39609",
+    "bytes": 492115,
+    "used_by": [
+      "content/LangChain/官方/2026-11-09_什么是评测驱动开发：如何改进 AI Agent.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af162500df61e2dc9f2f3ea_6af16183dcab934e2bd88037_edd-docs-agent-comparison.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/10dcfe0bfbc53363/a39744c908fc602c-asana-blue-layered-paper-cover-hero-1080x1080.webp": {
+    "sha256": "a39744c908fc602cd09553c5d706297c35ca231927d80a74832b6e2da38c8211",
+    "bytes": 185384,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-09_Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5jKBDi2Ijxu2ADlbRlTx2l/264f9736cd845e56d3a01e76e1b6c7db/asana-blue-layered-paper-cover-hero-1080x1080.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/10dcfe0bfbc53363/rendered-cost-per-run-default.png": {
+    "sha256": "c1061e0500b60b8fc8b467409602f34e4edd471f57f4a344f4d9cfd6e71e5610",
+    "bytes": 127634,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-09_Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/asana-browser-agent/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/10dcfe0bfbc53363/rendered-policy-model-calls-default.png": {
+    "sha256": "325b957085e2c83a79b9637770683c71534a41dd93a4b94b5601990978fa17a6",
+    "bytes": 157782,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-09_Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/asana-browser-agent/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/10dcfe0bfbc53363/rendered-policy-run-time-default.png": {
+    "sha256": "b399ce483f94c3d9f687641e85f7b7e5e5fe4b58d93d5580eabbc2fea995d75a",
+    "bytes": 152570,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-09_Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/asana-browser-agent/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/14383ac75ba71973/f3362c278284a2a4c900dff3.png": {
+    "sha256": "f3362c278284a2a4c900dff32966d4dca4327ed0c08112786f193e21f1d8ccbd",
+    "bytes": 168520,
+    "used_by": [
+      "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/gpt-5-6-breakpoints-light-9gMZiAGmTyXsAGXKBOqOaGWNCX1zjZ.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/14383ac75ba71973/rendered-figure-1.png": {
+    "sha256": "19e0f3bd8413d2bac75e79a19152078e63c984ad0ec442393c705a61e009c15f",
+    "bytes": 251321,
+    "used_by": [
+      "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cursor.com/blog/improved-token-efficiency",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/14383ac75ba71973/rendered-figure-2.png": {
+    "sha256": "ec58dd8d7a2ef953e35253815828727f582acd17bfaa13f28037f9243557f7b5",
+    "bytes": 281678,
+    "used_by": [
+      "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cursor.com/blog/improved-token-efficiency",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/14383ac75ba71973/rendered-figure-3.png": {
+    "sha256": "98989d2975988dda2f60a13e34a8beae944576223605a75dd799139c3a019d00",
+    "bytes": 165446,
+    "used_by": [
+      "content/Cursor/官方/2026-09-23_提升长时间运行 Agent 的 Token 效率.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cursor.com/blog/improved-token-efficiency",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/19f8bc589a9b194d/d82fe1c704e63a4ef0f37a7d.png": {
+    "sha256": "d82fe1c704e63a4ef0f37a7d9febdca1361a50eadc4afab9b502ba496937b79d",
+    "bytes": 1177792,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-10_您的应用现在可以在 Claude 中打开，Claude 也能在其中工作.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/98d2cbf9c0392a81da0d53ea7666bf08528db80e.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/19f8bc589a9b194d/youtube-Gy1jSeSzAhk.jpg": {
+    "sha256": "323d1d65b59895fd5eda2c35bc7607cc04bff1ae4fc4451647e881aa5bcd7cc1",
+    "bytes": 12467,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-10_您的应用现在可以在 Claude 中打开，Claude 也能在其中工作.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg",
+        "kind": "official-video-poster",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/0be924af63dad30df2c9a485.png": {
+    "sha256": "0be924af63dad30df2c9a485467a11a3c4a4ddabd6e96ee96178133adc89336a",
+    "bytes": 102670,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/c16694e6d979a2ace84d03da0544297b7245c0a8.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/177ae75bbfdcbc3dfe486456.gif": {
+    "sha256": "177ae75bbfdcbc3dfe486456e8e94fa1e2ce8ebb1bb12aff61186ab9d5345fff",
+    "bytes": 729238,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/48757f0a147acfe841c943674c6214d34ed4405a.gif",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/2362d396f2835f86bf61d750.png": {
+    "sha256": "2362d396f2835f86bf61d75018673c42c67a5afe162312703d9f2a19e7cdcab3",
+    "bytes": 204899,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/bb08543a505cea3a24c88c718ceec4405e9c0a79.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/441cec25bae0737a713a460b.gif": {
+    "sha256": "441cec25bae0737a713a460bf5c078b8d3dbfb8254cb59591d750a400ddfdd3c",
+    "bytes": 2702362,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/5dc803bf06d6e92e4aecae762da096626e2fa9ec.gif",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/6a2f17dc7af9699e54c1a858.png": {
+    "sha256": "6a2f17dc7af9699e54c1a8584a98b0a430d3174db035f580e77e35b674851141",
+    "bytes": 131516,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/700b5f3a446f22493c0307ec65751b6b2f82ccb7.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/b71fc0aab4fb181c14a0825b.png": {
+    "sha256": "b71fc0aab4fb181c14a0825b1e90052e24fae92c7928f6d7fc6bff7b2c988af9",
+    "bytes": 114553,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/e5d209d7ef9b3455dec8a27b777dc12bdf806699.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/2fce942bef9f44eb/f1002081ff466000801d6462.gif": {
+    "sha256": "f1002081ff466000801d6462b3cb6a4c32bb9225697cb78385dff47d529867e7",
+    "bytes": 427639,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建全天候运行的智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/9f8df7b2dcc9d4637d27f37dae6e40a2a5851c8a.gif",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/2c80b92936157e1a270ff055.webp": {
+    "sha256": "2c80b92936157e1a270ff0551a6ea3bf00990fc876b6d3dba2d01657626ccf86",
+    "bytes": 129808,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/fe18b9d1335ac903a236cd6f48ba550f164a9bc0.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/74028cdcf1b711d8d2a31c21.webp": {
+    "sha256": "74028cdcf1b711d8d2a31c2134e0978bddac877f085397bd88b7d64b29ce9f53",
+    "bytes": 100212,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/6c3a8132d717a3dde02ba53e118defab974177eb.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/9284eb9ab797affce5d2378e.webp": {
+    "sha256": "9284eb9ab797affce5d2378ee31145c035eff061549fcc7407047fafcb4bc693",
+    "bytes": 151586,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/57236786c74387213d0080f74ed377bf9b18d485.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/95e48ed393b8523166f0336d.webp": {
+    "sha256": "95e48ed393b8523166f0336df16ab16dea8b1c12b618340a06ffcd6a20c708c8",
+    "bytes": 119058,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/e4ba0d5b9417262dd5d08438e157b4e14ee65da0.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/b9ef88b662867edaec7be92f.webp": {
+    "sha256": "b9ef88b662867edaec7be92fe1001ba0ff5d75c28590c141555f38566371b18f",
+    "bytes": 96080,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/ecf7ac7248e403cf7aee943e11d7b8ec6bc1ec01.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/d7ca8a67f6d03a2e9b7a8481.webp": {
+    "sha256": "d7ca8a67f6d03a2e9b7a8481a38b4aa8446b80d86135ccbf8e552df7fe918baa",
+    "bytes": 126052,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/bab5121b9ac9a4bc3d4f5a212714bb21736398e8.jpg?w=1920&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/ff1264bc956043fbe4c82e4b.webp": {
+    "sha256": "ff1264bc956043fbe4c82e4beef8314eea03d71d7db23402964f1fbd1a9bec56",
+    "bytes": 111912,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/4ed2e0c6fa45c9b7b703a93cbec1c43835a9ddaa.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/3007f82c38138e35/ff1fed5b55148e6de4fdde44.webp": {
+    "sha256": "ff1fed5b55148e6de4fdde443df11e6cdf30950c0e57e33ae4c2f5a052a28705",
+    "bytes": 90114,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-13_构建强大的安全评估体系.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/d81ba75a361b0eb268f9b6e035e4081ce8d7a3c2.png?w=3840&q=75&fm=webp&fit=max",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/16c4dd30f8d3f472-photo-04.webp": {
+    "sha256": "16c4dd30f8d3f47234943de5f85b4e0ced6cd8321a9946f94a945b3b79990d0e",
+    "bytes": 118852,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5i50ehjTmYbz5jB0E6lJHZ/16a4356b416bc033df4cfcfdc705b1a6/photo-04.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/2a79c966703136bc-photo-07.webp": {
+    "sha256": "2a79c966703136bc42d6238b93a57906d82c1be069fa1e3a83f52e70ab0fb143",
+    "bytes": 80230,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/618uJhR5QI4ZmuQycqQZx5/4efe8f2977a023df632849ec8c1d5f0b/photo-07.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/303aee174457fe62-photo-10.webp": {
+    "sha256": "303aee174457fe62bc3f7ff7a68c1f7e5b1569ebdcba674851f88420b6ae9628",
+    "bytes": 26208,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/rzxlK2Ggnph5Op4ysnUc4/94c42358418debcc92b7900de0b865da/photo-10.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/54d14b666da7b117-photo-02.webp": {
+    "sha256": "54d14b666da7b117c8819ff16cee4581db389848a61d02e18af629a107f0c08d",
+    "bytes": 29972,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/9irZEa7VuG3EddaIPYWD5/f267058764f8a5eda29a410fe80114d0/photo-02.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/5ab2a76f5a2bcbd8-photo-08.webp": {
+    "sha256": "5ab2a76f5a2bcbd872d5467759db8ddcebf39bc432e708f5ad01cfe0fed866d8",
+    "bytes": 29392,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/M4upvozkrlrSSfvHaYlzF/3a3f9a3f8ecd7ba77d9ad7e79d2c4641/photo-08.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/6a820bd965cd0048-photo-11.webp": {
+    "sha256": "6a820bd965cd0048c7d1959af8dcbdbb614c11c89947e2761030f40062010f8a",
+    "bytes": 28446,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5XfHlU5MluLbVrnc7AoCZK/dc74b9270813c16ae476edc65ff3ade2/photo-11.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/6cd1da6aee636483-photo-05.webp": {
+    "sha256": "6cd1da6aee636483a7a507362b08119429c2bcf5a71f349569fd8f421eafbd72",
+    "bytes": 35084,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7sFzZxKpcOhJP4T1ppAf6b/57fbb1cd4a8a73066261aa1e450117ec/photo-05.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/b104322593f7d4c7-photo-03.webp": {
+    "sha256": "b104322593f7d4c731f7c62967e6d7885fc6b0c0e84b1f5d5fd328ea292b070e",
+    "bytes": 86242,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2lhC1WTyvGX4qBssxZraQj/b7792d227886b7f1adaec281eb2bee01/photo-03.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/b73447e2c8771c76-photo-06.webp": {
+    "sha256": "b73447e2c8771c76f966a9148ea73e91e629a69e72e5fb0edc97e7d2f8589939",
+    "bytes": 70274,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/31Q75V3wFI3n0xK4Nxsog0/f0b03a26cf990bb2254e879dc8678d8b/photo-06.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/d78ee5ecb933a501-photo-09.webp": {
+    "sha256": "d78ee5ecb933a5016188129cf15301a08cf133afdb8700fc90441e076d189e42",
+    "bytes": 41908,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1UfbC89B8yZRrvvmLEpMV/bf244804cb209b62d1be578e6e8b582f/photo-09.webp?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/hero-composite.png": {
+    "sha256": "69a671243592442c8eb2a078d7c099e7ea4eb63f2aacd7d58043aee3a543834d",
+    "bytes": 1750585,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/lifeval/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/rendered-chart-5PmoxgHKKEamFZqgIPnrCM-default.png": {
+    "sha256": "ca0c20c983cf6fecd6e6e3a9acd4ae50b7c0b27bed26f410b9197edf4e788508",
+    "bytes": 105492,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/lifeval/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/rendered-lifeval-api_cost.png": {
+    "sha256": "ace488553fca3a0211ff1d193aaaf68192de93a18680ec851fe6d1aa2d497100",
+    "bytes": 111180,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/lifeval/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/rendered-lifeval-tokens.png": {
+    "sha256": "1bc9301a093f154600aae7d5c8622279766a3c31e154c584c61be6db5a361470",
+    "bytes": 101943,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/lifeval/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/rendered-model-performance-on-everyday-tasks-by-release-date-default.png": {
+    "sha256": "aa61fd27cddb52c3cda905eafdd276169fc40d14dc9423f974edf0e60f1a46b3",
+    "bytes": 83443,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/lifeval/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/37e2550d2086cdee/vimeo-1240955743-preview.gif": {
+    "sha256": "672c4649ba89fcb62138487917924c0039a36859e678bec80381ba10ae1d1a99",
+    "bytes": 3740492,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1240955743?h=dd9318da21&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/449a5ebbef16a4ba/0f50bf5cf961f5d72976635e.png": {
+    "sha256": "0f50bf5cf961f5d72976635e09890925908362301dffb9d453e983b22985155b",
+    "bytes": 256860,
+    "used_by": [
+      "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e9_6ae92f751326add9aa202702_webvoyager-table.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/449a5ebbef16a4ba/349ea4264e7950403692a6bd.gif": {
+    "sha256": "349ea4264e7950403692a6bdfa1f322cf99e7e48022d5beb651c093854ec99b1",
+    "bytes": 223090,
+    "used_by": [
+      "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae2dfdcb361f33b662e9129_agent-browser-demo.gif",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/449a5ebbef16a4ba/6d3ec3215d72cecd8e15cdc2.png": {
+    "sha256": "6d3ec3215d72cecd8e15cdc2e088a16c2758f42cba3a408f598e8429f8b1741c",
+    "bytes": 295519,
+    "used_by": [
+      "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8df_6ae92f756c209f27da7462cf_snapshot-vs-screenshot.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/449a5ebbef16a4ba/c54d35a5d6f1d2d88e654dce.png": {
+    "sha256": "c54d35a5d6f1d2d88e654dce3b78be46520b6ce7c5f8e621513a66e17c04f431",
+    "bytes": 73484,
+    "used_by": [
+      "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e5_6ae92f756c209f27da7462f0_settle-wait.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/449a5ebbef16a4ba/e2e7a0c389b4d392e3024cac.png": {
+    "sha256": "e2e7a0c389b4d392e3024cac5754136a4619d2f1628fabf900e2da9baac71b63",
+    "bytes": 128822,
+    "used_by": [
+      "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e2_6ae92f7534f6a04952d37b0a_stagehand-batching-v3.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/51dc5b66bcc5a8ab/vimeo-1245204408-preview.gif": {
+    "sha256": "c082cd529be272b42463c2c3f77bc8affad292fcafe8a30bf7f5643ad605bf1f",
+    "bytes": 3561575,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1245204408?h=e665f4c47c&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/532d936c683b5e58/vimeo-1238949553-preview.gif": {
+    "sha256": "03d50a88dc67e76fb2dfbe26e404833b0495f4d04276e70f9fcf52cc6c3e7973",
+    "bytes": 3562695,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-26_Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1238949553?h=cf3eabdf75&badge=0&autopause=0&player_id=0&app_id=58479%2Fembed",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/3ca5ee673bcf4ed05a1074b5.png": {
+    "sha256": "3ca5ee673bcf4ed05a1074b5273101bd9c955d9b167946e890c5b7dc99f6ce94",
+    "bytes": 87293,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_2_-_Test_setup.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/3e30279a8301c9e7a15db21c.png": {
+    "sha256": "3e30279a8301c9e7a15db21c2c13aa9f07160f86da7b75f7e4a79de8c241bc2c",
+    "bytes": 110484,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_1_-_Indirect_prompt_injection.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/786e3d296f718f9f52f3f8d9.png": {
+    "sha256": "786e3d296f718f9f52f3f8d9b0707f39cdab7d633e021ced8b21aa3f5c900e8f",
+    "bytes": 329161,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/a7d47da7579f82a7f5ced7b1.png": {
+    "sha256": "a7d47da7579f82a7f5ced7b1596fee6a2138434ce07508e91a0234ee8cebe7a7",
+    "bytes": 95932,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_4_-_Carried-out_harmful_instructions_wit.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/dad627343966a554f2f44fd3.png": {
+    "sha256": "dad627343966a554f2f44fd346f752e74ba96e4d1a843e7f0ccb0e61fbfeeb46",
+    "bytes": 124849,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_3_-_What_happened_to_each_harmful_sessio.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/548af7c4772d0fa2/e975dfd6e1ff84b80a90ca04.png": {
+    "sha256": "e975dfd6e1ff84b80a90ca04bac802adf0ab329d58925d8b9ba8acd8be5826f6",
+    "bytes": 334355,
+    "used_by": [
+      "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Table_-_Results_by_OWASP_category.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/5f3963726dbe36e6/d37b008fec93d7a37595a955.png": {
+    "sha256": "d37b008fec93d7a37595a9553c6f491b82da936b865f23e12491d4ca75e5b753",
+    "bytes": 89215,
+    "used_by": [
+      "content/Hugging Face/官方/2026-11-10_Hugging Face 中的决策模型.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/decision/decision-models.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/5fac02a7030911ab/vimeo-1241442369-preview.gif": {
+    "sha256": "3cfcc194b8b5026e68ba6f8ad6209e2fbffe7b37d377d90283d1f0cdecfc917f",
+    "bytes": 3528154,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-02_Qodo 与 Codex：将上下文引入 AI 代码审查.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1241442369?h=33acf4caa2&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/64a53e142a390086/511c274d2f2bfd25c110cbeb.png": {
+    "sha256": "511c274d2f2bfd25c110cbeb425fe4ba34b4a57c3c8c6484f8a46ac79cd972d2",
+    "bytes": 227325,
+    "used_by": [
+      "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://img.alicdn.com/imgextra/i1/O1CN01ldag0pIAw9J4s7XG_!!6000000004740-2-tps-2400-1626.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/64a53e142a390086/71a0054fdc3975580c9b50ca.png": {
+    "sha256": "71a0054fdc3975580c9b50ca880b652c85f5fb4773d9bdb2ccfc4c7eb9b06e93",
+    "bytes": 2141689,
+    "used_by": [
+      "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://img.alicdn.com/imgextra/i2/O1CN01kYhxxjdH7KK7o1Mj_!!6000000001014-2-tps-3845-2160.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/64a53e142a390086/e62f6e413425805a358e762e.png": {
+    "sha256": "e62f6e413425805a358e762e9441fee2860b57cd4a8fd3060951bd1857baacae",
+    "bytes": 2013462,
+    "used_by": [
+      "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://img.alicdn.com/imgextra/i2/O1CN01yN4UdkxBF2G7nW9B_!!6000000007738-2-tps-3841-2160.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/64a53e142a390086/eebe586e7ac588a7ca743456.png": {
+    "sha256": "eebe586e7ac588a7ca74345641fe49503064d494e51a1843edd9353a21d6c83f",
+    "bytes": 1831884,
+    "used_by": [
+      "content/Qwen/官方/2026-11-12_Qwen Code 功能周报：2026 年 11 月 12 日.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://img.alicdn.com/imgextra/i4/O1CN01NAru06FwyBE7o1Mj_!!6000000003227-2-tps-3845-2160.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/65922cfb61a324a6/0083907265d9d5d5b3847bc8.png": {
+    "sha256": "0083907265d9d5d5b3847bc80d8d75c797d857c00d56074f897cc38664f52626",
+    "bytes": 224893,
+    "used_by": [
+      "content/LangChain/官方/2026-11-14_目标工程：如何设计 Agent 的目标.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af66c061f44e08747451fa2_Outdated%20agent.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/65922cfb61a324a6/689ce46d5abc38178374c77f.png": {
+    "sha256": "689ce46d5abc38178374c77f00b1d7179c21e33af1fc106c2ce8615b10c03f89",
+    "bytes": 246599,
+    "used_by": [
+      "content/LangChain/官方/2026-11-14_目标工程：如何设计 Agent 的目标.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6af66c5601a2317509bbc886_Goal%20oriented%20agents.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/29b4385a2b9c3e87-annotate-preview.webp": {
+    "sha256": "29b4385a2b9c3e87f09dadc2f203c2314bea35e78ebb8ac6357bdfbbf2ff1f49",
+    "bytes": 31490,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/annotate-preview.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/5fdaf825cf9ccb31-room-collisions.webp": {
+    "sha256": "5fdaf825cf9ccb3156ba757e6cdac68d008233cd763d51c018cc9157b6b0fc49",
+    "bytes": 13948,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/room-collisions.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/6d40b33c827baccd-gb-studio-game-world.webp": {
+    "sha256": "6d40b33c827baccd8a9ca95669373bccc44211cecf96332b4e52a12c8d8f22c9",
+    "bytes": 143132,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/gb-studio-game-world.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/88dd8dc473ff46ee-walk-cycle.webp": {
+    "sha256": "88dd8dc473ff46eed54e8837021c4580940eef930e3252c9e21fd9220570d027",
+    "bytes": 328,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/walk-cycle.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/d9145f054d6decb9-playable-preview.webp": {
+    "sha256": "d9145f054d6decb9e6767d820d01d8e269a3938eb494efcc62827e989a66f7eb",
+    "bytes": 61806,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/playable-preview.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/e37a5d3c49265e62-lodge-podge.webp": {
+    "sha256": "e37a5d3c49265e622014620b7431eacfe721286f394fa0d7904277eeab0006ac",
+    "bytes": 5336,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/lodge-podge.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/e7a8056bd86b63d6-playtest-frames.webp": {
+    "sha256": "e7a8056bd86b63d6a3d3b1e21c5098baf813447e5272b36be256638485c81e8b",
+    "bytes": 4440,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/images/blog/build-a-game-with-modretro-chromatic/playtest-frames.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/video-00-preview.gif": {
+    "sha256": "fe92144c52a2e2ceeeb4cf700e48e96b9d517744b20212c63a89401394b2fbab",
+    "bytes": 1419205,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/build-a-game-with-modretro-chromatic-v8.webm",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/video-01-preview.gif": {
+    "sha256": "7b94654bc122d174f9006ec377382ac679a6c51f8c31f3a71645f53d54e2fab6",
+    "bytes": 111320,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/install-plugin-66ee162ee0db.webm",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/video-02-preview.gif": {
+    "sha256": "fc9d53b34840b4052dc2e9ee8c20f8cf99dfcfb03bdea6785728b570bb538810",
+    "bytes": 144391,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/prompt-lodge-podge-f69711af7da7.webm",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/69e94d3b69ad0a46/video-10-preview.gif": {
+    "sha256": "07d0f316135802a4279ed8bb4053efa1d1d1f4549bcc4c70c1d8739fd190af65",
+    "bytes": 2259890,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_用 Codex 与 ModRetro Chromatic 开发复古掌机游戏.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/devhub/blog/build-a-game-with-modretro-chromatic/deploy-to-chromatic-0e10da89508f.webm",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/6d3b5b9ceb736524/rendered-benchcad-2-performance-default.png": {
+    "sha256": "19898c3634d64d5dc8e66152dd4508627bcecfc9f8c22c00d5e2320b10ed2269",
+    "bytes": 63982,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/6d3b5b9ceb736524/rendered-median-daily-codex-use-default.png": {
+    "sha256": "715530bbc054a71f75bd882ec62ba953b49d409fb9c40819155f117630307456",
+    "bytes": 76573,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/6d3b5b9ceb736524/vimeo-1239926138-preview.gif": {
+    "sha256": "b1f778ee38132fad8a053fe4b1a91f0904316ea8a14b8084c55ea68c1e92b2f0",
+    "bytes": 6079197,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1239926138?h=d672ede7a8&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&play_button_position=center",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/6d3b5b9ceb736524/vimeo-1241345329-preview.gif": {
+    "sha256": "d8de4fa40e64e07720519767f840e12bbbded472c7831a217ccc5fe2604ba7b6",
+    "bytes": 196809,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1241345329?h=c8d21ac775&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/6f42239c080ae496/10015242f7a6fcb6df126c87.png": {
+    "sha256": "10015242f7a6fcb6df126c8723a2472b115367be5ec7a863df9cb8c0af9e2c67",
+    "bytes": 235203,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-10_Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/b72a4b872ebbed253dc2492d8d0db2c4664b6b2f.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/6f42239c080ae496/4396680540bf5cf0a59bb93d.png": {
+    "sha256": "4396680540bf5cf0a59bb93d9a6e5f0a875fbe789ac207281a3f3d5ded7aa921",
+    "bytes": 138054,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-10_Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/81117dec18c16ca382f07795da2c7c1202546b9b.png",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/71853833e5fa6c7e/11b3b68199b839f7-securing-our-frontier-model-training-environment-diagram-desktop-light.webp": {
+    "sha256": "11b3b68199b839f7283238d95650eabbdfbfb2efc7fd03e3d29ffd9bbf3913ee",
+    "bytes": 171998,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-23_保护前沿模型训练环境.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/37XEjb1cjzKzPBG9970uRD/beaf4ede49321fe288c09b9771e5da3a/securing-our-frontier-model-training-environment-diagram-desktop-light.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/71853833e5fa6c7e/rendered-urgent-high-candidate-findings-vs-tokens-spent-default.png": {
+    "sha256": "e2859d028262937fd7542494034af6cfe5f54de4881490415a3ac7fdb5807d43",
+    "bytes": 129361,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-23_保护前沿模型训练环境.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/75125cf5ab0826b2/rendered-literature-retrieved-as-workload-increases-default.png": {
+    "sha256": "1f7c3bc853f2959d66cc7e731e65a2f7de29bfe48f92113af887e12a46866417",
+    "bytes": 84978,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/75125cf5ab0826b2/rendered-mean-human-priority-per-report-default.png": {
+    "sha256": "772a22a56f75ba740d180b5ed2928f753d0de4cecfd63d39dcf03d47397f4979",
+    "bytes": 91405,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/75125cf5ab0826b2/vimeo-1237313920-preview.gif": {
+    "sha256": "657f938856c1e14e306603eedfb4f488949ec7c9546b81486d42d5e70c33eb06",
+    "bytes": 1208964,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1237313920?h=0c81b1925b&badge=0&autopause=0&player_id=0&app_id=58479&texttrack=en-x-autogen&cc=1",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/762061e9584cb869/bd6d8ce7e02c3985d2f6d868.png": {
+    "sha256": "bd6d8ce7e02c3985d2f6d8680458e76fc5550178b2fea0ca4213eb2b659aa11e",
+    "bytes": 1535453,
+    "used_by": [
+      "content/AWS/官方/2026-11-13_用 NVIDIA NeMo Switchyard 为编码 Agent 选择合适的模型.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22318-1.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/7b3cfa50ed6df109/rendered-provider-failover-1-default.png": {
+    "sha256": "277253e4f542cce278d8c7a0675a5ac4f32e990acaf3fb4c5089b76f24b59176",
+    "bytes": 132208,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-14_设计 OpenAI 模型提供商之间的故障切换.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/7b3cfa50ed6df109/rendered-provider-failover-2-default.png": {
+    "sha256": "84f51df38643461d0f1d603979363d5930de3cb7e611ec97ee4a055a1bba98f7",
+    "bytes": 158636,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-14_设计 OpenAI 模型提供商之间的故障切换.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/826bb176747af3b1/vimeo-1231839120-preview.gif": {
+    "sha256": "628b899770f96dd1a16a249d4ddd5cee271d5d6b374bb49987f6ba06c2b0793f",
+    "bytes": 322376,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-06_与 Ironclad 一起推进计算机使用能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1231839120?h=31fd7f85fb&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/826bb176747af3b1/vimeo-1231839180-preview.gif": {
+    "sha256": "4e3b85db6707c7cafc59bf0bc7c6c9ee542b1490db33134b71d8adedc9eaf7b7",
+    "bytes": 316611,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-06_与 Ironclad 一起推进计算机使用能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1231839180?h=53f2234f22&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/4ac3130efee53e92-a-thousand-fewer-paths-to-root-research-pipeline.svg": {
+    "sha256": "4ac3130efee53e9253d502e0ec9b3a32683cfa573d0e24e3228e9200372128f3",
+    "bytes": 212967,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1zdANurUN1bSOhWsHkqPjO/b33a68cc99e8c136dae7e05f68bee9ba/a-thousand-fewer-paths-to-root-research-pipeline.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/91541229bf5f8226-a-thousand-fewer-paths-to-root-discovery-workflow.svg": {
+    "sha256": "91541229bf5f8226e4a2b7412ac81ae9f0084e071d33abd1a9f1e5d3e062b6d0",
+    "bytes": 71976,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3BYzc6fYudObxJBi4gfdcc/84f52a0d7c1810143fb2fa1397e6a06d/a-thousand-fewer-paths-to-root-discovery-workflow.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/9f4be3e6002c03ab-a-thousand-fewer-paths-to-root-discovery-funnel.svg": {
+    "sha256": "9f4be3e6002c03abaec5a5650267ebf510e97cf8203d4cd28eb469e9c2c08aad",
+    "bytes": 106290,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5AQJogp4Is4L0Nhh59FtDa/0740682e6eb1a56f1c22eb4b7b7b09ec/a-thousand-fewer-paths-to-root-discovery-funnel.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/d55b573aeaaa57e5-a-thousand-fewer-paths-to-root-validation-system.svg": {
+    "sha256": "d55b573aeaaa57e55ece94d8c8c923dd2b0e67377937cf84e9319084eed42cd5",
+    "bytes": 34387,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7CwMCv5oMWtxiJUhZaRPxy/43711c205a26fbb6632272e06cbc4f70/a-thousand-fewer-paths-to-root-validation-system.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/rendered-chart-449H8PkWRrybDjocxnytps-default.png": {
+    "sha256": "d7e220e9d0d21be276789c2b29dcb9862e0b051904ec4e666d39314bd13442e3",
+    "bytes": 86328,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/rendered-linux-kernel-exploitation-success-rate-default.png": {
+    "sha256": "367929a04fc5f920e4347a28ab5442eb57a30fc248514ff195a2d5c26d2ac63b",
+    "bytes": 64655,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/86d5c720b5bd89c8/vimeo-1235991273-preview.gif": {
+    "sha256": "c1273930495079ec157d20e291bde47e82b8d5456481670a15331d514d65cd5c",
+    "bytes": 296912,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-04_减少一千条通往 root 的路径.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1235991273?h=1b8c5002f9",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/8bc9138e516754eb/49527bc8e3a3cc642c8c2243.png": {
+    "sha256": "49527bc8e3a3cc642c8c22433ad656627010fa9d314746add280b765b7813fa7",
+    "bytes": 26554,
+    "used_by": [
+      "content/GitHub/官方/2026-11-12_一次编写，跨 Agent 运行：Skills 实践指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png?resize=1600%2C850",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/pre-dawn-hero.webp": {
+    "sha256": "bcc13824a182bc45f864d7f66d8dd4f5212cad23174e4bc50b97723e20249885",
+    "bytes": 9410,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/_next/static/immutable/media/pre-dawn.3n171z7_lqvwk.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-chart-2Nlzom1icZtt2WaVyHIxYo.png": {
+    "sha256": "61922c4b71a9a5281e4f41f169dda1eee187e953b1c36a5af31b682ee1fec22c",
+    "bytes": 51330,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-chart-2U4LbSdvQPiNw8CRJFR9u8.png": {
+    "sha256": "1391912e411aa1f0587c48334c22ed60869b96dd53b604605234b958974adb76",
+    "bytes": 87051,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-chart-uGUjYdcG7eaTWxbErmd5N.png": {
+    "sha256": "09ac6a00a7ee85b1285b537dd0bfa8608195006e5e9e8e88e14c7522ef186c9f",
+    "bytes": 41210,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-exploitbench-june-august-2026.png": {
+    "sha256": "2b5cf3397c66c07666be6d99a9db7b4aa0256874105cca86944f7d5a002a9544",
+    "bytes": 45432,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-exploitgym.png": {
+    "sha256": "a326498329877488b8f55331ae0418000302796ab6507645d663fd55dd30f131",
+    "bytes": 47522,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-remoteexploitbench.png": {
+    "sha256": "e54d69b43967d14542ba555147ef39bcc536532189995d0fd5cb54c0eeff7181",
+    "bytes": 40978,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-sre-bench.png": {
+    "sha256": "2b5cf3397c66c07666be6d99a9db7b4aa0256874105cca86944f7d5a002a9544",
+    "bytes": 45432,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9434ac3945d97bda/rendered-cyber-web-pentesting.png": {
+    "sha256": "8ae16589ccbc178328a09b51b8190110f8f7d277342bc9fc42ef888ffc196b63",
+    "bytes": 42226,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-05_GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/217b05bcc9aee0c6-monitoring-the-frontier-monitoring-funnel-diagram.webp": {
+    "sha256": "217b05bcc9aee0c6b11c9ba9d33575bc743e776233c7f49491db8e4ccd44945c",
+    "bytes": 91208,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/AxJ01LQycPgvS648roDUY/16d799a32dac1ff6f7194ef6ccbabbfd/monitoring-the-frontier-monitoring-funnel-diagram.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/3ae86151a334b6da-d1_desktop_light.svg": {
+    "sha256": "3ae86151a334b6da173283372e5c7ea2ffec9f7337727e063a9b9577b4c0f40e",
+    "bytes": 34810,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5rhmXVqt97QSUziNQpodZ6/489ce1991e23d13a2fb36b0ec991cda5/d1_desktop_light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/69d4243d6ea6a16a-monitoring-the-frontier-monitoring-system-diagram.webp": {
+    "sha256": "69d4243d6ea6a16ab4052ad4c9bc4593090e12ebd29d1d0ad04d25acaffbb484",
+    "bytes": 73214,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4jeM8tKIZvFaRPFLn0ffw7/0c201050f8bb34364b2c3e80246b49e0/monitoring-the-frontier-monitoring-system-diagram.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/8f1da065b9b637b3-monitoring-the-frontier-security-alignment-coverage-diagram.webp": {
+    "sha256": "8f1da065b9b637b3851d36ab32d8bd00c56562b51410349184406ef8c7cb686e",
+    "bytes": 69790,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6i2A1vaBJwQJarjvebm7VQ/5c19378d20b3843bc81cbd0ff92f80be/monitoring-the-frontier-security-alignment-coverage-diagram.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/rendered-internal-traffic-default.png": {
+    "sha256": "d4c7a3ab892887d64b2093fc9aaa2829c3669732eb8cdeefc850d704928d280c",
+    "bytes": 118523,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/rendered-monitor-capability-is-important-default.png": {
+    "sha256": "c65ee572fb3e794b05cadb5ee67e856573f7f19790f7d75df48f95ffaafd32ae",
+    "bytes": 110093,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/rendered-training-eval-performance-default.png": {
+    "sha256": "8dfee49b1c05ccfc52b82143830d06e219b32e08946caaabd238e3232af29446",
+    "bytes": 244710,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/964fcb0853dc7408/rendered-training-eval-performance-synthetic.png": {
+    "sha256": "04757a782924328b46abf67d05c05de520735e1e2b41f739c0dd0b811867fb41",
+    "bytes": 296042,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/9c4184d44164e0d7/58d74115c5422184dbe8183a.png": {
+    "sha256": "58d74115c5422184dbe8183a85ee3db51d6892ebef7d3ecde3ac699fd033e4e3",
+    "bytes": 308025,
+    "used_by": [
+      "content/LangChain/官方/2026-11-05_Agent 正在走向异步.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6aece061fd58da9939f252d0_6aece01aea23933948716221_async-subagent-notifications-v3.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/9c4184d44164e0d7/8dec0f20977de2efa537d99b.png": {
+    "sha256": "8dec0f20977de2efa537d99ba46e7ccd657ae36f8d36a7049792b47eeb40cdd7",
+    "bytes": 267359,
+    "used_by": [
+      "content/LangChain/官方/2026-11-05_Agent 正在走向异步.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6aecdfa8017b07753945c843_6aecdf73f7189dcc96aaf4de_sync-vs-async-subagents-v2.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/chart-average-test-pass-rate.png": {
+    "sha256": "03967d10f02a9a3b09437c0d381a73b1448931099e1a44f6b4a698740a77e265",
+    "bytes": 24264,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/chart-sqlite-pass-rate-by-language.png": {
+    "sha256": "444180280a133e6070dfa9fcc228cbcff3ff3ef12c24510efa3be11abe31397d",
+    "bytes": 59876,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/cobol-migration-performance-api-cost.png": {
+    "sha256": "b855712410f23f8eafba329c25a76b8563264634a101722a84f8700ba26a8526",
+    "bytes": 31418,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/cobol-migration-performance-output-tokens.png": {
+    "sha256": "bb62b7071707a60c4e4d4e69240ed9762be38de152622bfc8a915e2c429b46c0",
+    "bytes": 30376,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/hero-low-resource.png": {
+    "sha256": "33d997ab3424f449957086510e474ffbf31453b98e12eaba1b3217fce039425d",
+    "bytes": 103106,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-reward-and-estimated-cost-api-cost.png": {
+    "sha256": "733ce935468b346822e864e11cd039bacbb211d92dbfb2627b6c994cfb5fecb2",
+    "bytes": 30193,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-reward-and-estimated-cost-output-tokens.png": {
+    "sha256": "1196c2d7d79cc506f947869f02f3cd05351818c6cc233b91f222045d4f27f0f5",
+    "bytes": 29439,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-c-api-cost.png": {
+    "sha256": "1981c1b7ad4a6dfd738a2c7334ec7036131aeb444cc02c1463470bf896de840a",
+    "bytes": 30850,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-c-output-tokens.png": {
+    "sha256": "77db8add665696238134c123880a01b0be418f00e96434f8b6a0ad7f044b60a2",
+    "bytes": 30611,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-common-lisp-api-cost.png": {
+    "sha256": "ce8d03bbf8c10e2db2b5b88fdbfcecfe2fc672157bfc3a5d197b19d00da02b7b",
+    "bytes": 32093,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-common-lisp-output-tokens.png": {
+    "sha256": "a1d568157a563b6e98711a89bf2e7eb1281e08579b47404951324d49bd4d34ac",
+    "bytes": 31231,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-cpp-api-cost.png": {
+    "sha256": "a13d7e1355976824d01b94247904aac6839a3dd7ea20a48db5c7af59227f42c8",
+    "bytes": 30805,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-cpp-output-tokens.png": {
+    "sha256": "4d75bc17657a796270c0ad222b01e25ba849a03dc1072004a83d3f36f2381b74",
+    "bytes": 30249,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-csharp-api-cost.png": {
+    "sha256": "be4673fc30fa60df190e8af35ef34d32c8ee8fb01e6e1777219de14282c3d9d6",
+    "bytes": 30852,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-csharp-output-tokens.png": {
+    "sha256": "4f62d9f14a06b082dac9c8fb7922054b9d51ea14c4a4b2f72eefe9f90192ad38",
+    "bytes": 30853,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-fortran-api-cost.png": {
+    "sha256": "4a9f0e5b2dbbad4cc0024dfaf6a84ce7aafef07ae182439dee51b2bd4617fd25",
+    "bytes": 31580,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-fortran-output-tokens.png": {
+    "sha256": "8abb1b58a6ca2f97b08dc3e6632c0897571d211b427964044132525ac3f65ccc",
+    "bytes": 30787,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-go-api-cost.png": {
+    "sha256": "4d28abbdcc83d2a47788aca0ab2a717f31407a3e6eef88ee918166ec9a469dc6",
+    "bytes": 31588,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-go-output-tokens.png": {
+    "sha256": "058947043b013cb6fc88affb21bb87e13573ca14ccecc5fb22b57377060f37f3",
+    "bytes": 30763,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-java-api-cost.png": {
+    "sha256": "4599c205d59b0689303e43139ea06a97a716c1dc99b68b7e965de41e528c4570",
+    "bytes": 31105,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-java-output-tokens.png": {
+    "sha256": "8b2f6bddd280367a50ed3d354af4e1f7214795d7b096a53a9fa14f0989e53711",
+    "bytes": 30689,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-javascript-api-cost.png": {
+    "sha256": "fca0b658f616c1df2cf2f78c5a5c1f470cdfd2407e11b601a56bdd5013cde048",
+    "bytes": 31704,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-javascript-output-tokens.png": {
+    "sha256": "56d06b4c96d6412bd7893dfe3041ddaab70b441ffd8bc1ee4c7e0de4eba93167",
+    "bytes": 31478,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-lean-api-cost.png": {
+    "sha256": "12946197636c50d85ec43047f320a46392d25a7d28ceb7c967590b94e098322f",
+    "bytes": 30857,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-lean-output-tokens.png": {
+    "sha256": "fabc6a562e3a0b49e75684d8afc6de8642b6c0aeb1ffb3fb8970ae9eb1739c16",
+    "bytes": 30123,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ocaml-api-cost.png": {
+    "sha256": "58834fb41205ac7a7d5f96e576b615842e59813f08c747b9e9b856f24c27a631",
+    "bytes": 31409,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ocaml-output-tokens.png": {
+    "sha256": "8655084ed17dd70b86670044ce7589da1b5206dfab74864e9ae32059aee669c8",
+    "bytes": 30718,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-php-api-cost.png": {
+    "sha256": "960c4c21bb6ae3cf51388bd1677e96e9751bc078092f7c6115c31af511e83345",
+    "bytes": 31165,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-php-output-tokens.png": {
+    "sha256": "088cfbe12af9990207741c1286dabf56d06a4a0dcdac03eaae03b67066463680",
+    "bytes": 30541,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-powershell-api-cost.png": {
+    "sha256": "a2c1e08ad32fc83a810d47a7873d97030e850a9d441e927b956fc3a329cfa02f",
+    "bytes": 31583,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-powershell-output-tokens.png": {
+    "sha256": "3e43a1e21190206c1b71b4918dd8973c38b1db1465dc47b35e0c962f04f80228",
+    "bytes": 31237,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-python-api-cost.png": {
+    "sha256": "248bd70bbc1192830083f24852de98bea6e8c158bb5f41a8bc969acb58afae0e",
+    "bytes": 31459,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-python-output-tokens.png": {
+    "sha256": "218029552bcbcd0c677a69b8867f4e6afee2f858331b7ada13bcf01d393dd674",
+    "bytes": 30945,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ruby-api-cost.png": {
+    "sha256": "f40936e45e2d723650399027a507fdf84382c914ce8ec903f3a06ddb44d82ea8",
+    "bytes": 31452,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-ruby-output-tokens.png": {
+    "sha256": "6e0b0c6d940c582e549ffc1e5e2e47b999846c132e31df977cf58c0d854d3b69",
+    "bytes": 30807,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-rust-api-cost.png": {
+    "sha256": "02bc11975d60c1311e71417c980c748042fa685048fc8102338fc1e0f44ba0b0",
+    "bytes": 31145,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-rust-output-tokens.png": {
+    "sha256": "69e6fab0cfdf6380ffaa016a3809a9520ccce01da3e33290a74df6a660aedcda",
+    "bytes": 30464,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-scala-api-cost.png": {
+    "sha256": "a67cfab16fd6faf6fdcef69cee2a058053dae2f4dc2c00de5c548f896e577f5a",
+    "bytes": 31371,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-scala-output-tokens.png": {
+    "sha256": "2ebc61941b3e83569ad95d16a89148fc2b4fb09a1d109a2e26ad17763d31206b",
+    "bytes": 30756,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-swift-api-cost.png": {
+    "sha256": "05d0d880cf977fbe497b7ec8308a50228eaa72d8911e72783f81cd1f469afd0e",
+    "bytes": 31324,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-swift-output-tokens.png": {
+    "sha256": "2bb4a95923ae08aa01e1bc25f2342dd18f40bad871613277fe3fe0d1fe4c7da8",
+    "bytes": 30758,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-visual-basic-api-cost.png": {
+    "sha256": "ecaf64935760b8e2b877d512a8f7e6fe46f84d1a022386194ec7febf17dfcab2",
+    "bytes": 31821,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-visual-basic-output-tokens.png": {
+    "sha256": "7f2730b8e099d2ec2e75a535fa31f1447b5c5e49423e39aa54971eb778e85632",
+    "bytes": 31429,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-zig-api-cost.png": {
+    "sha256": "bafdfdb79b79db2a66994f445f8b74be08aea885fa42ac331e2db5f9d5377666",
+    "bytes": 31095,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/9f6c1d6cd55f3820/sqlite-test-pass-rate-zig-output-tokens.png": {
+    "sha256": "0d21442dfd456e486446d0d3389170b93a156982b8053ae0d762913f152e2a9e",
+    "bytes": 30440,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-19_推进低资源编程语言的编码能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/low-resource-programming-languages/",
+        "kind": "browser-capture"
+      }
+    ]
+  },
+  "assets/articles/b140b110e619a8ce/3642dd354fc8587f15a0115c.webp": {
+    "sha256": "3642dd354fc8587f15a0115cd7157690fb5974aeeecbc83fe5f4e49302ed3c45",
+    "bytes": 18208,
+    "used_by": [
+      "content/NVIDIA/官方/2026-11-10_Agent Substrate：推进 Kubernetes 上的大规模 Agent 运行.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-5-1024x576-jpg.webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/b14df6b73463d1e8/8e2a6ed9eaa0d8a1-peter-steinberger-tweet-textured-light.webp": {
+    "sha256": "8e2a6ed9eaa0d8a189f776677d4a8b902d5ecf60b84c1869ebdd2a999db3a51d",
+    "bytes": 100598,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2OX0vajCJwQiYaxHP7gP6k/98f40c01020b65b1c6f999fd21616d8c/peter-steinberger-tweet-textured-light.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/b14df6b73463d1e8/aa410eca6eb0a9a4-paul-solt-tweet-textured-light.webp": {
+    "sha256": "aa410eca6eb0a9a40f810d70e1770cc4601bb5921753b896a7237f3f890518bf",
+    "bytes": 92990,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6nQdXeHQXmiZChoipK4uRH/36e1a5934003392045ae4cdfa58d5957/paul-solt-tweet-textured-light.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/b14df6b73463d1e8/e321230d156cfb30-higgsfield-tweet-textured-light.webp": {
+    "sha256": "e321230d156cfb30b5bc8b64876bd8ab624f71a77d2d3cb9bcea514cdd5fa642",
+    "bytes": 177384,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-02_GPT-6 系列模型实践指南.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4hpVcAhs91d4pc8IFCucvF/e22b669e9d4de0ff54464d997d39d0d7/higgsfield-tweet-textured-light.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/b40337458a215eb1/vimeo-1235580778-preview.gif": {
+    "sha256": "acec7a7f3d501b73bd9d0f5159b2945857382790f2372fa26dd7fe393f3345de",
+    "bytes": 3044327,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-14_Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://player.vimeo.com/video/1235580778?h=028892e12a&badge=0&autopause=0&player_id=0&app_id=58479",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-01.png": {
+    "sha256": "ce995da669d58e15acd85e47c72ed7a7de3ca772adc4382c8b655c11057f87d1",
+    "bytes": 103860,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "研究人员决定启动一个作业"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-02.png": {
+    "sha256": "16e0aebccacc5dbcede05f95137f3345957aceeb86b934df7c511f4f67e4df95",
+    "bytes": 123687,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "作业开始启动"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-03.png": {
+    "sha256": "1714cc57abed6ee95f15612e73fcff38aba7b6eada03f8cd7325ec8d76c97839",
+    "bytes": 118021,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "作业向 Control Room 注册"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-04.png": {
+    "sha256": "b6a81be2e3b0a90ebf85dcb188c0d9cf9fd3d5a8063c56c0a6b635d863d18ed9",
+    "bytes": 114699,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "Control Room 返回一个作业 ID"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-05.png": {
+    "sha256": "aecf86d363dd2e10cab2afd747bef33e0dbe5156d2960b6d5e67e7289d085b3d",
+    "bytes": 123235,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "作业向推理引擎请求模型输出"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-06.png": {
+    "sha256": "d8476d475501624697cf53be213ec2a3a1d8e800e942e0f496dc88764b55030b",
+    "bytes": 114870,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "引擎检查权限"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-07.png": {
+    "sha256": "ec5652aa686946b2ace70b40cff1e2b80d7cd8246c839ab31287ebfb9e1636b5",
+    "bytes": 113947,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "Control Room 允许该请求"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-08.png": {
+    "sha256": "d19708cd2a260dd4cdfb0b7414aa3fb81e7570e21f1824ee1b9916052f9cd78e",
+    "bytes": 115740,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "引擎返回模型输出"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-09.png": {
+    "sha256": "2465ed662e0a0026951bec06efbfad63a38b5a6ce4d41d5619d7942ea8ad6fe0",
+    "bytes": 126193,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "某个事件触发了停止该作业的决定"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-10.png": {
+    "sha256": "9140c4f42e39df65060e514466efe11233cf4b0852ff911fe7418bc7da8a64d9",
+    "bytes": 114639,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "作业仍可尝试采样模型输出"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-11.png": {
+    "sha256": "9e9afb883dee18760f84d0ecccc9261a7afacd8d9a30e004f92608330e328cc4",
+    "bytes": 118645,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "引擎再次检查权限"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-12.png": {
+    "sha256": "928ca8456aed2c8b5d32dcc29b1fc23e1c0f414d69b33959b2d06efc833190e9",
+    "bytes": 116712,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "下一次授权被拒绝"
+      }
+    ]
+  },
+  "assets/articles/bdeda9dc49a9025e/control-room-step-13.png": {
+    "sha256": "9545c0c3143db8898bd442d0d959a74332d4ffa0add9472ad4fd4fde3340a128",
+    "bytes": 124748,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-09_Control Room 控制室.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/control-room/",
+        "kind": "rendered-original-figure",
+        "caption_zh": "模型输出停止——作业仍保留"
+      }
+    ]
+  },
+  "assets/articles/c3d1bbdfab443c53/41e91edde90b4110327394a6.svg": {
+    "sha256": "41e91edde90b4110327394a68c84728c76285a5b3dda4514503344560ca3b829",
+    "bytes": 12602,
+    "used_by": [
+      "content/Anthropic/官方/工程与研究/2026-11-12_在您的安全边界内运行 Claude 托管智能体.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://assets.claude.com/7607c90e3d3d6e3bf9f7d1af0d39afb006be1413.svg",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/17acbee7f199234153849dc8.png": {
+    "sha256": "17acbee7f199234153849dc891c1c9e3598ee0b4999640150a7bc3606ae74869",
+    "bytes": 706352,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Screenshot_2026-11-04_at_3.06.30PM.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/3c72d40ecdad9f6b1cefc181.png": {
+    "sha256": "3c72d40ecdad9f6b1cefc181fb7a2a6e033c5849da833ae5b0d305c1eaae9833",
+    "bytes": 224014,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/06_atlassian_jira.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/481ae5d7ade5093d25f4dfae.png": {
+    "sha256": "481ae5d7ade5093d25f4dfaed17b86ee05db91eb9f8f993f2352d17562dfa3f9",
+    "bytes": 604502,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-notebook-blog-figure.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/73dcf5e124b5cbecbd3e8ca2.png": {
+    "sha256": "73dcf5e124b5cbecbd3e8ca22ffb31bf04797b5cae06a264c3f6d01728bc1461",
+    "bytes": 418351,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/08_bytedance_lynx.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/8054cdaaa3e0fc2babea3847.png": {
+    "sha256": "8054cdaaa3e0fc2babea3847f318296aeac81a7bfcff75ed67cd72838811a437",
+    "bytes": 639453,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/01_cover.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/e7219e1012f0f68d43aeae54.png": {
+    "sha256": "e7219e1012f0f68d43aeae547688daa23db45f81bbf15e1b6022aec306a551bb",
+    "bytes": 512645,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/07_alation.original.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/video-01-preview.gif": {
+    "sha256": "481583e2e1282f03cb190398feab1404c0204abbe1e27b6543865e1b6ebc2946",
+    "bytes": 474808,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_sick_day_three_ways_2.mp4",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/cc657d3d89f3239f/video-02-preview.gif": {
+    "sha256": "6974d84210e08dce26dda85e77134a8648ffb0f465a6efd1325254af8212ace4",
+    "bytes": 232573,
+    "used_by": [
+      "content/Google/官方/2026-11-11_A2UI 1.0：构建流畅可靠的 Agent 交互体验.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/A2UI_1.0_dinner_every_screen.mp4",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/08b54f8469b4939c-biobasicsbench-rim-label-inline-centered.svg": {
+    "sha256": "08b54f8469b4939ca61cf71eabd636995a8c08b5e33116360794a67a5e4772bc",
+    "bytes": 648776,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/17RD6AxS99qL9qHk9OW2T0/8379bb6fb920c8aff89f9e86d9d1c771/biobasicsbench-rim-label-inline-centered.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/15017a8aa88845ee-depth-15s.15017a8a.png": {
+    "sha256": "15017a8aa88845eea5855adceb5df3f339b22d6cb87a883778e67434c3156717",
+    "bytes": 38731,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-15s.15017a8a.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/18f51074e260c07b-depth-12s.18f51074.png": {
+    "sha256": "18f51074e260c07b36c8eb77d4e2885c8a38841716350b4fef79dfedc02eeff4",
+    "bytes": 58407,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-12s.18f51074.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/25f5526f5fc2760b-counting-neighbors-marked.25f5526f.png": {
+    "sha256": "25f5526f5fc2760b3b0ec4cdd50b232e7ed4f3ee7284ad1b06f8c15eda950541",
+    "bytes": 192860,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-neighbors-marked.25f5526f.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/3111ff5828d600d9-counting-unmarked-original.3111ff58.png": {
+    "sha256": "3111ff5828d600d91e99f549b04055ba1862d1041d42b83f8bb8ef93b5f6f392",
+    "bytes": 406694,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-unmarked-original.3111ff58.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/319b213893d03a31-biobasicsbench-cell-contrast-lighter.svg": {
+    "sha256": "319b213893d03a3172224d2ed832841b403f20c7572b507413eb463d4645c11f",
+    "bytes": 2103747,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3MC7gCtOqgIrJkNwWJFx5c/23494791f1915a2cbfc18b24f9e3ea05/biobasicsbench-cell-contrast-lighter.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/332948ac34f67db6-depth-9s.332948ac.png": {
+    "sha256": "332948ac34f67db65ab8ff8792535e68c0dae9d84c3975099c5b1b1c0796f2b6",
+    "bytes": 100348,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-9s.332948ac.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/518abaf43e8021d3-counting-unmarked-marked.518abaf4.png": {
+    "sha256": "518abaf43e8021d3d4fb11378a8f5f933641cebfdc247b8a2842a3a04bddaebb",
+    "bytes": 410283,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-unmarked-marked.518abaf4.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/579b27aa5434de74-depth-6s.579b27aa.png": {
+    "sha256": "579b27aa5434de745f0581630e20dec3839e4880cdd42206c34e9eabd2837bd5",
+    "bytes": 133107,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-6s.579b27aa.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/642c1b130cf4fc68-depth-3s.642c1b13.png": {
+    "sha256": "642c1b130cf4fc68549ba2a73cf46ffa5ed0d18c2f4879244b5ed8362238ea22",
+    "bytes": 134756,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-3s.642c1b13.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/6b30ead7bddc6ed0-counting-empty-agar-marked.6b30ead7.png": {
+    "sha256": "6b30ead7bddc6ed01bb720ebe16d9939b1aef1e22107a59dc313617f7598c6e8",
+    "bytes": 184187,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-empty-agar-marked.6b30ead7.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/7110c63e7d8cf362-biobasicsbench-channel-3-paired-regions.svg": {
+    "sha256": "7110c63e7d8cf362c0a4fef268a2862a6c78615c081274a65770dbbb730ddd8c",
+    "bytes": 153385,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5TmYJtELT7kRDcnH2LXQOF/d2c17688f201571b681ca0df43f6bc55/biobasicsbench-channel-3-paired-regions.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/98da744f0d347527-counting-empty-agar-original.98da744f.png": {
+    "sha256": "98da744f0d347527a82d129d3b23199910aaaa43d5f46d748c6fa25adafee0e8",
+    "bytes": 176417,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-empty-agar-original.98da744f.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/9b38de80f9dc6ac3-pcr-lanes.9b38de80.png": {
+    "sha256": "9b38de80f9dc6ac39539638529b8019e0e4e43c9b36d36616a9b39972c2ca584",
+    "bytes": 39399,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/pcr-lanes.9b38de80.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/9c6764fa50409a49-plate-and-rim-mark.9c6764fa.png": {
+    "sha256": "9c6764fa50409a49687f43bc56611e6f89d3cd3e62eea5d725b795b628445415",
+    "bytes": 797868,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/plate-and-rim-mark.9c6764fa.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/d9e76de5aa0e322c-counting-neighbors-original.d9e76de5.png": {
+    "sha256": "d9e76de5aa0e322c9d7bf7e520c02303060aabfbaab8241d29ffaa3e60de5f9c",
+    "bytes": 181840,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/counting-neighbors-original.d9e76de5.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/dc6074e16950bdef-biobasicsbench-cell-contrast-darker.svg": {
+    "sha256": "dc6074e16950bdef138368fc4c6ae75db3de142c072921da0c878fa6bcb301d4",
+    "bytes": 2103745,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2aW0ho7APO5LnXzbTPP7fo/0a1404f9559b7a61b31578322efd1337/biobasicsbench-cell-contrast-darker.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/eed6ae37f42a2ec6-biobasicsbench-brightfield-paired-regions.svg": {
+    "sha256": "eed6ae37f42a2ec68b8adc72e3e816437a42b52bda94330dfd897e2a1b6fbc3b",
+    "bytes": 475123,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4jbbwTdCFaIjpSQaPpGxqD/bf38a7e78e4d2843fa3714b0d1379e61/biobasicsbench-brightfield-paired-regions.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/eef3108f4f4948be-biobasicsbench-channel-2-paired-regions.svg": {
+    "sha256": "eef3108f4f4948beb8051e4e8a56842572df5bf87b983c47b0a864ae7fd1070c",
+    "bytes": 531493,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4ZsKWfQkRokWxJzypxZNgo/94e66ff8b65f892f73e663873ce464b4/biobasicsbench-channel-2-paired-regions.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/f7bcd8a579053125-depth-0s.f7bcd8a5.png": {
+    "sha256": "f7bcd8a579053125a6c44f6e0886e92a168db83c89522433f8780a4e44938185",
+    "bytes": 117241,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cdn.openai.com/mdx-assets/16da4f0a-d37c-4056-a78c-4e1db6f08a14/depth-0s.f7bcd8a5.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-detection-windows-default.png": {
+    "sha256": "ec467421f5682c0d9880473959a7ade15747131eafc074b76bb19e260af70f2f",
+    "bytes": 88188,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-model-performance-default.png": {
+    "sha256": "450ea5060ccc2b8c776b172d00005983b831961ae1bd53d083544c8201022b83",
+    "bytes": 160078,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/d5764ee3d06ac915/rendered-biobasicsbench-tasks-by-domain-and-tested-skill-default.png": {
+    "sha256": "6c6b4d4669936ed2463e8bc2913307ee5254ff021d0ea4770181a44286faa2b3",
+    "bytes": 135663,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-06_衡量 AI Agent 处理日常湿实验室科学任务的能力.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/dcc3893e53f42774/d4ac9f62369dd5559e011856.png": {
+    "sha256": "d4ac9f62369dd5559e01185623f81bb57e11734bdeae5a80f0e6c41be27b67ec",
+    "bytes": 2907992,
+    "used_by": [
+      "content/AWS/官方/2026-11-12_从原型到生产：Agent DLC 工程实践.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22085-1.png",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/ea41a986fe715307/video-preview.gif": {
+    "sha256": "8ff5bf0737516913db8fdbc7b659e93dcbf946a25a744de8d6d17af1dc6d59fc",
+    "bytes": 1391972,
+    "used_by": [
+      "content/Cursor/官方/2026-10-20_Agent SDK 正式发布.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://stream.mux.com/wSa1Fv1OwV2H8jzVwJYAb0202Op2tQXQPBn3Ew021zTWuk.m3u8",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/ef460bb7405cc35f/776a1c5bfdb4d0eb-third-moment-research-first-light-cover-1080x1080.webp": {
+    "sha256": "776a1c5bfdb4d0eb235f7e61e87dea15d5149f2f225ea435c0636c5c2aeb503c",
+    "bytes": 127840,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-14_Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6jW3CeAiaMhCGh860oesQH/ae6448a6ed035231f996fb78ba507484/third-moment-research-first-light-cover-1080x1080.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/ef460bb7405cc35f/cec05771382ab9fc-third-moment-agent-improvement-desktop-light-tight.webp": {
+    "sha256": "cec05771382ab9fc88cb4eb8f43555f4f987502762307233973c05b417445185",
+    "bytes": 89722,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-14_Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3CXtAwL9gJruDn0WM9AI9Z/0c03a372b4726b00ac0dc1afa7304f3f/third-moment-agent-improvement-desktop-light-tight.png?w=3840&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/04a763dbcb1b8ab9-advertising-desktop-light.svg": {
+    "sha256": "04a763dbcb1b8ab988b9e7f66252006453670ca3083fe2516e0e631ccc488dd7",
+    "bytes": 76524,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3bfD7ZJLF0722p5KBycdFk/8123d88226e58fb25563917cdb5c0dca/advertising-desktop-light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/0509bd3a81e7c813-orchestrator-desktop-light.svg": {
+    "sha256": "0509bd3a81e7c813962b59c10a5116f3c992628cb02448fc7b99be1f2fac39b5",
+    "bytes": 91974,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5zteskDpk7VeYDOhPLz2HZ/2c87e51276aeb518fb0502918c94409d/orchestrator-desktop-light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/4f213a293445f3db-selecting-ads-desktop-light.svg": {
+    "sha256": "4f213a293445f3dbf23cc94524db9e0f359405af55e65c6e1e1e2744900a7fa9",
+    "bytes": 90834,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6vmYf9DmmKLaEK7tpg4fcl/81d90e06c50c558a5196fb4b91fb3cc9/selecting-ads-desktop-light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/6aeb74b370592a26-printed-throw-pillow.webp": {
+    "sha256": "6aeb74b370592a269c3535db853a84a750e852490f214466779397dd28e83bb1",
+    "bytes": 23008,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2FBQczHif8ZhtqpXflsd1Z/0692ded1f726e6f5943a126ea1b90576/printed-throw-pillow.webp?w=256&q=90&fm=webp",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/cbdac911bb66d96b-privacy-desktop-light.svg": {
+    "sha256": "cbdac911bb66d96bcf66d544cb45b03baffc5bc4904988dd05167f86c3c2ab01",
+    "bytes": 54867,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1pmJyqwks8d8KQ97APZQ5o/5b7b9af4998894ef42b394adaf19bb90/privacy-desktop-light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f140eb9aaf81ef6b/e225430714bfa026-candidate-desktop-light.svg": {
+    "sha256": "e225430714bfa026851610487b5d013a36e1364cbcfc4033331912ac3ef43e60",
+    "bytes": 105909,
+    "used_by": [
+      "content/OpenAI/官方/2026-10-21_我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6F3yNWmGw0m9mY9u3BtKT8/c811e3d73a0d72b9deb12fe92ac59f2c/candidate-desktop-light.svg?w=3840&q=90",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f321c904268bcef2/4e503145ce0e773d26f3ab5d.jpg": {
+    "sha256": "4e503145ce0e773d26f3ab5d59449de483254b98dc04fbf6ebebe5d1f17bdfa6",
+    "bytes": 144023,
+    "used_by": [
+      "content/Google DeepMind/官方/2026-11-10_AlphaProof Code：深入验证复杂软件的突破.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://lh3.googleusercontent.com/PHIZgiGejgu8shHsJV9pVfWv7Kr5rTj-e2yIj73c8LkDKBnTTAr2r28DN9aZd1vLDjCnd1Wi2qOD0t8bPpNN-3DfmbEgxj0TE-TttqVbpdoOD1xmFQk=w1440-h810-n-nu",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f321c904268bcef2/7a85dccf8309289e09f1cdfd.jpg": {
+    "sha256": "7a85dccf8309289e09f1cdfd8d27aedb973849e89f07d933be2277ce97d0d822",
+    "bytes": 67124,
+    "used_by": [
+      "content/Google DeepMind/官方/2026-11-10_AlphaProof Code：深入验证复杂软件的突破.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://lh3.googleusercontent.com/kF75VKGl2JdnK6eQJxqPLwQNsMq0CumACxUSMF5WoUME3lAw2-PBaQWpsOxaD1bTaXYhJd46zDMrx9s3kPW_oL9rg2rKh_HoCzYxN8Xd5XRIPQ2Vsg=w1440-h810-n-nu",
+        "kind": "image"
+      }
+    ]
+  },
+  "assets/articles/f971ad043a6c2482/rendered-figure-2.png": {
+    "sha256": "7d690c787aa83221c020d154179e2d1e651879b0dc7c3a4aa2f761baef9458a1",
+    "bytes": 125289,
+    "used_by": [
+      "content/Cursor/官方/2026-11-10_Cursor Projects 支持多人协作.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://cursor.com/blog/projects-multiplayer",
+        "kind": "rendered-original-figure"
+      }
+    ]
+  },
+  "assets/articles/f971ad043a6c2482/video-preview.gif": {
+    "sha256": "9143d65c041b8c9e25ae709aeaa7072b18dddec760fa73e51bc9b05e8988cc19",
+    "bytes": 944740,
+    "used_by": [
+      "content/Cursor/官方/2026-11-10_Cursor Projects 支持多人协作.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://stream.mux.com/vV21zY7yo1viGho3YhIwEqyfkg601BlCJOxr0002KhzPnA.m3u8",
+        "kind": "video-preview"
+      }
+    ]
+  },
+  "assets/articles/fe0536b279191d4b/1f66e3b82e48b947-cogent-security-cover-sienna.webp": {
+    "sha256": "1f66e3b82e48b9475352ce596d3540f950691b3712d8a083a27f1d8e46c3d58e",
+    "bytes": 139192,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_Cogent 与 OpenAI 为企业打造网络防御工厂.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  },
+  "assets/articles/fe0536b279191d4b/675a993470cca21d-cogent-security-diagram-light.webp": {
+    "sha256": "675a993470cca21d46e32de9bcaf513714e6f86471d976306c1f1272ab6d2a22",
+    "bytes": 56916,
+    "used_by": [
+      "content/OpenAI/官方/2026-11-10_Cogent 与 OpenAI 为企业打造网络防御工厂.中文.md"
+    ],
+    "sources": [
+      {
+        "source_url": "https://images.ctfassets.net/kftzwdyauwt9/78WRVzMMXnkXRcl48nSNt/b37e2ab0da4eadbeca2e6a5ae384d248/cogent-security-diagram-light.png?w=3840&q=90&fm=webp",
+        "kind": "image",
+        "caption_zh": null
+      }
+    ]
+  }
+}

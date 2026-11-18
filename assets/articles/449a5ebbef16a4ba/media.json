@@ -1,0 +1,97 @@
+{
+  "article_id": "449a5ebbef16a4ba",
+  "article_path": "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md",
+  "source_url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "0f50bf5cf961f5d72976635e.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e9_6ae92f751326add9aa202702_webvoyager-table.png",
+      "sha256": "0f50bf5cf961f5d72976635e09890925908362301dffb9d453e983b22985155b",
+      "bytes": 256860
+    },
+    {
+      "file": "349ea4264e7950403692a6bd.gif",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae2dfdcb361f33b662e9129_agent-browser-demo.gif",
+      "sha256": "349ea4264e7950403692a6bdfa1f322cf99e7e48022d5beb651c093854ec99b1",
+      "bytes": 223090
+    },
+    {
+      "file": "6d3ec3215d72cecd8e15cdc2.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8df_6ae92f756c209f27da7462cf_snapshot-vs-screenshot.png",
+      "sha256": "6d3ec3215d72cecd8e15cdc2e088a16c2758f42cba3a408f598e8429f8b1741c",
+      "bytes": 295519
+    },
+    {
+      "file": "e2e7a0c389b4d392e3024cac.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e2_6ae92f7534f6a04952d37b0a_stagehand-batching-v3.png",
+      "sha256": "e2e7a0c389b4d392e3024cac5754136a4619d2f1628fabf900e2da9baac71b63",
+      "bytes": 128822
+    },
+    {
+      "file": "c54d35a5d6f1d2d88e654dce.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6ae92fe00a2bb383cf6fe8e5_6ae92f756c209f27da7462f0_settle-wait.png",
+      "sha256": "c54d35a5d6f1d2d88e654dce3b78be46520b6ce7c5f8e621513a66e17c04f431",
+      "bytes": 73484
+    }
+  ],
+  "coverage": {
+    "source_url": "https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents",
+    "translation_path": "content/LangChain/官方/2026-11-03_我们如何优化 Deep Agents 的浏览器使用.中文.md",
+    "expected_figure_groups": 5,
+    "complete": true,
+    "source_html_sha256": "d71786f9a79b7eddd4f77e56fe06a5735e174be89a10d115527c8aedb5397d3c",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "0f50bf5cf961f5d72976635e.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "349ea4264e7950403692a6bd.gif"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "6d3ec3215d72cecd8e15cdc2.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "e2e7a0c389b4d392e3024cac.png"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "c54d35a5d6f1d2d88e654dce.png"
+        ]
+      }
+    ]
+  }
+}

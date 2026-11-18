@@ -1,0 +1,49 @@
+{
+  "article_id": "9c4184d44164e0d7",
+  "article_path": "content/LangChain/官方/2026-11-05_Agent 正在走向异步.中文.md",
+  "source_url": "https://www.langchain.com/blog/agents-are-going-async",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "8dec0f20977de2efa537d99b.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6aecdfa8017b07753945c843_6aecdf73f7189dcc96aaf4de_sync-vs-async-subagents-v2.png",
+      "sha256": "8dec0f20977de2efa537d99ba46e7ccd657ae36f8d36a7049792b47eeb40cdd7",
+      "bytes": 267359
+    },
+    {
+      "file": "58d74115c5422184dbe8183a.png",
+      "kind": "image",
+      "source_url": "https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/6aece061fd58da9939f252d0_6aece01aea23933948716221_async-subagent-notifications-v3.png",
+      "sha256": "58d74115c5422184dbe8183a85ee3db51d6892ebef7d3ecde3ac699fd033e4e3",
+      "bytes": 308025
+    }
+  ],
+  "coverage": {
+    "source_url": "https://www.langchain.com/blog/agents-are-going-async",
+    "translation_path": "content/LangChain/官方/2026-11-05_Agent 正在走向异步.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "136cf0fa3ddf6ab10dd47d8596cd82b8e7a495ec6fbc5421053a97e2527cc39d",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "8dec0f20977de2efa537d99b.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": ".text-rich-text-v2-blog-post figure",
+        "kind": "image",
+        "files": [
+          "58d74115c5422184dbe8183a.png"
+        ]
+      }
+    ]
+  }
+}

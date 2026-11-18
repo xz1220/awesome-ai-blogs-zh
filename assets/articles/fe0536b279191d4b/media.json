@@ -1,0 +1,52 @@
+{
+  "article_id": "fe0536b279191d4b",
+  "article_path": "content/OpenAI/官方/2026-11-10_Cogent 与 OpenAI 为企业打造网络防御工厂.中文.md",
+  "source_url": "https://openai.com/index/cogent-security/",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [
+    {
+      "file": "1f66e3b82e48b947-cogent-security-cover-sienna.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp",
+      "caption_zh": null,
+      "sha256": "1f66e3b82e48b9475352ce596d3540f950691b3712d8a083a27f1d8e46c3d58e",
+      "bytes": 139192
+    },
+    {
+      "file": "675a993470cca21d-cogent-security-diagram-light.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/78WRVzMMXnkXRcl48nSNt/b37e2ab0da4eadbeca2e6a5ae384d248/cogent-security-diagram-light.png?w=3840&q=90&fm=webp",
+      "caption_zh": null,
+      "sha256": "675a993470cca21d46e32de9bcaf513714e6f86471d976306c1f1272ab6d2a22",
+      "bytes": 56916
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/cogent-security/",
+    "translation_path": "content/OpenAI/官方/2026-11-10_Cogent 与 OpenAI 为企业打造网络防御工厂.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "e45391fc2d7f01e6a79fed8af56b8c91e27860244046df37d596d91c9f12072b",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": null,
+        "kind": "img",
+        "files": [
+          "1f66e3b82e48b947-cogent-security-cover-sienna.webp"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": null,
+        "kind": "figure",
+        "files": [
+          "675a993470cca21d-cogent-security-diagram-light.webp"
+        ]
+      }
+    ]
+  }
+}

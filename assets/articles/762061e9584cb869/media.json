@@ -1,0 +1,40 @@
+{
+  "article_id": "762061e9584cb869",
+  "article_path": "content/AWS/官方/2026-11-13_用 NVIDIA NeMo Switchyard 为编码 Agent 选择合适的模型.中文.md",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "bd6d8ce7e02c3985d2f6d868.png",
+      "kind": "image",
+      "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22318-1.png",
+      "sha256": "bd6d8ce7e02c3985d2f6d8680458e76fc5550178b2fea0ca4213eb2b659aa11e",
+      "bytes": 1535453
+    },
+    {
+      "file": "4fe3d1a7a2c657d7a4350879.png",
+      "kind": "image",
+      "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/11/ML-22318-featured-image.png",
+      "sha256": "4fe3d1a7a2c657d7a435087946cf742952a144238c2bfb269ac4f95114b381c5",
+      "bytes": 66922
+    }
+  ],
+  "coverage": {
+    "source_url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+    "translation_path": "content/AWS/官方/2026-11-13_用 NVIDIA NeMo Switchyard 为编码 Agent 选择合适的模型.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "6e5af636b9ea04f5a08ec44ba39cf0247c0bc982a57ad89207321db3936cc31b",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".blog-post-content (excluding author biographies)",
+        "kind": "image",
+        "files": [
+          "bd6d8ce7e02c3985d2f6d868.png"
+        ]
+      }
+    ]
+  }
+}

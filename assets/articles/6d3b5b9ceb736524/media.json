@@ -1,0 +1,95 @@
+{
+  "article_id": "6d3b5b9ceb736524",
+  "article_path": "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md",
+  "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "62b645d4e4a5043e-2217607397-43ff474d5818268a11d183c8d1b466550731cba62a56eb071b9ef3f3838019a5-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2217607397-43ff474d5818268a11d183c8d1b466550731cba62a56eb071b9ef3f3838019a5-d_295x166?region=us",
+      "sha256": "62b645d4e4a5043ecf12a89b35fb2c6df1fbe1fc7c1015f3b8d0787e9a161b86",
+      "bytes": 6833
+    },
+    {
+      "file": "5258b91a40ca0811-2219334078-a6ff68e73c71958529b3c3e41f0c20af220d1749661b992ca971561f855b1ed9-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2219334078-a6ff68e73c71958529b3c3e41f0c20af220d1749661b992ca971561f855b1ed9-d_295x166?region=us",
+      "sha256": "5258b91a40ca0811a47a8133696f93dba6cccaeb8ab40d1ff6a150e275b99fc2",
+      "bytes": 4681
+    },
+    {
+      "file": "vimeo-1241345329-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1241345329?h=c8d21ac775&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1",
+      "sha256": "d8de4fa40e64e07720519767f840e12bbbded472c7831a217ccc5fe2604ba7b6",
+      "bytes": 196809
+    },
+    {
+      "file": "vimeo-1239926138-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1239926138?h=d672ede7a8&badge=0&autopause=0&player_id=0&app_id=58479&title=0&byline=0&portrait=0&play_button_position=center",
+      "sha256": "b1f778ee38132fad8a053fe4b1a91f0904316ea8a14b8084c55ea68c1e92b2f0",
+      "bytes": 6079197
+    },
+    {
+      "file": "rendered-median-daily-codex-use-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "sha256": "715530bbc054a71f75bd882ec62ba953b49d409fb9c40819155f117630307456",
+      "bytes": 76573
+    },
+    {
+      "file": "rendered-benchcad-2-performance-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+      "sha256": "19898c3634d64d5dc8e66152dd4508627bcecfc9f8c22c00d5e2320b10ed2269",
+      "bytes": 63982
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/",
+    "translation_path": "content/OpenAI/官方/2026-11-03_加速物理世界的工程设计.中文.md",
+    "expected_figure_groups": 4,
+    "complete": true,
+    "source_html_sha256": "b28f87bbdee9b260d19c7defb06419aef600cbde3c728a3fdfb11de5522adfb5",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1239926138-preview.gif"
+        ]
+      },
+      {
+        "id": "median-daily-codex-use",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-median-daily-codex-use-default.png"
+        ]
+      },
+      {
+        "id": "benchcad-2-performance",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(15) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-benchcad-2-performance-default.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(23) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1241345329-preview.gif"
+        ]
+      }
+    ]
+  }
+}

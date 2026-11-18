@@ -1,0 +1,16 @@
+{
+  "article_id": "d7726fc963b24640",
+  "article_path": "content/OpenAI/官方/2026-11-12_OpenAI 如何保障 OpenClaw 等持久型智能体的安全.中文.md",
+  "source_url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+  "verified_date": "2026-11-15",
+  "presentation": "原始配图按正文位置保留；动态与视频提供原位预览及官方入口。",
+  "media": [],
+  "coverage": {
+    "source_url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+    "translation_path": "content/OpenAI/官方/2026-11-12_OpenAI 如何保障 OpenClaw 等持久型智能体的安全.中文.md",
+    "expected_figure_groups": 0,
+    "complete": true,
+    "source_html_sha256": "9cd68faaddfb9d002c7ac3c68d0b72adec05789b4c134581ff602f64005cd1ee",
+    "figure_groups": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "article_id": "f971ad043a6c2482",
+  "article_path": "content/Cursor/官方/2026-11-10_Cursor Projects 支持多人协作.中文.md",
+  "source_url": "https://cursor.com/blog/projects-multiplayer",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "baf6e899ab7906f7d516012d.jpg",
+      "kind": "image",
+      "source_url": "https://image.mux.com/vV21zY7yo1viGho3YhIwEqyfkg601BlCJOxr0002KhzPnA/thumbnail.jpg?time=0",
+      "sha256": "baf6e899ab7906f7d516012d042a5d444b2806079b8957d2137287b9867e6664",
+      "bytes": 134153
+    },
+    {
+      "file": "video-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://stream.mux.com/vV21zY7yo1viGho3YhIwEqyfkg601BlCJOxr0002KhzPnA.m3u8",
+      "sha256": "9143d65c041b8c9e25ae709aeaa7072b18dddec760fa73e51bc9b05e8988cc19",
+      "bytes": 944740
+    },
+    {
+      "file": "rendered-figure-2.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://cursor.com/blog/projects-multiplayer",
+      "sha256": "7d690c787aa83221c020d154179e2d1e651879b0dc7c3a4aa2f761baef9458a1",
+      "bytes": 125289
+    }
+  ],
+  "coverage": {
+    "source_url": "https://cursor.com/blog/projects-multiplayer",
+    "translation_path": "content/Cursor/官方/2026-11-10_Cursor Projects 支持多人协作.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "b9eb1fbf8a77361d90be1e204b8b265b0e7e0744f1ed1b9c7048464baa890147",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "video",
+        "files": [
+          "video-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article.grid-cursor .prose figure",
+        "kind": "rendered-diagram",
+        "files": [
+          "rendered-figure-2.png"
+        ]
+      }
+    ]
+  }
+}

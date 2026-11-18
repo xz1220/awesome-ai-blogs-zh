@@ -1,0 +1,40 @@
+{
+  "article_id": "532d936c683b5e58",
+  "article_path": "content/OpenAI/官方/2026-10-26_Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测.中文.md",
+  "source_url": "https://openai.com/index/greptile-code-review-codex-astra/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "3807b893eb80eeca-2216288958-6d01a5959906238f18a8d73bdc31eac8993335cdf1ddb8216613b4cf651ae9d4-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2216288958-6d01a5959906238f18a8d73bdc31eac8993335cdf1ddb8216613b4cf651ae9d4-d_295x166?region=us",
+      "sha256": "3807b893eb80eecab1567ad12747d0b864fa6f586037e32b4c23ea1a3730047b",
+      "bytes": 10448
+    },
+    {
+      "file": "vimeo-1238949553-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1238949553?h=cf3eabdf75&badge=0&autopause=0&player_id=0&app_id=58479%2Fembed",
+      "sha256": "03d50a88dc67e76fb2dfbe26e404833b0495f4d04276e70f9fcf52cc6c3e7973",
+      "bytes": 3562695
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/greptile-code-review-codex-astra/",
+    "translation_path": "content/OpenAI/官方/2026-10-26_Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "7f637277eab89c92a631d01c3b5c304bc7aa9b58d920c3ef8b57560cb74ba116",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1238949553-preview.gif"
+        ]
+      }
+    ]
+  }
+}

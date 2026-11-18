@@ -1,0 +1,72 @@
+{
+  "article_id": "75125cf5ab0826b2",
+  "article_path": "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md",
+  "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "1e3d312622698636-2214036925-aaa9e6678e2af75935017e9babf99b6118513290bbc46a236c518eca20e166d6-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2214036925-aaa9e6678e2af75935017e9babf99b6118513290bbc46a236c518eca20e166d6-d_295x166?region=us",
+      "sha256": "1e3d312622698636906a28eb562b729e894bd7f6f5c7484844118e7270136778",
+      "bytes": 7628
+    },
+    {
+      "file": "vimeo-1237313920-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1237313920?h=0c81b1925b&badge=0&autopause=0&player_id=0&app_id=58479&texttrack=en-x-autogen&cc=1",
+      "sha256": "657f938856c1e14e306603eedfb4f488949ec7c9546b81486d42d5e70c33eb06",
+      "bytes": 1208964
+    },
+    {
+      "file": "rendered-literature-retrieved-as-workload-increases-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "sha256": "1f7c3bc853f2959d66cc7e731e65a2f7de29bfe48f92113af887e12a46866417",
+      "bytes": 84978
+    },
+    {
+      "file": "rendered-mean-human-priority-per-report-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "sha256": "772a22a56f75ba740d180b5ed2928f753d0de4cecfd63d39dcf03d47397f4979",
+      "bytes": 91405
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "translation_path": "content/OpenAI/官方/2026-10-21_利用数千个 AI Agent 在生物数据中发现新线索.中文.md",
+    "expected_figure_groups": 3,
+    "complete": true,
+    "source_html_sha256": "56f05183668b749cc911a217d4e81c362fdd4abb931cab0f6ec6290fab1f35f3",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1237313920-preview.gif"
+        ]
+      },
+      {
+        "id": "literature-retrieved-as-workload-increases",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(16) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-literature-retrieved-as-workload-increases-default.png"
+        ]
+      },
+      {
+        "id": "mean-human-priority-per-report",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(21) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-mean-human-priority-per-report-default.png"
+        ]
+      }
+    ]
+  }
+}

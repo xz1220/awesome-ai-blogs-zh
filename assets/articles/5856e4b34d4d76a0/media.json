@@ -1,0 +1,23 @@
+{
+  "article_id": "5856e4b34d4d76a0",
+  "article_path": "content/Microsoft/官方/2026-11-11_Microsoft Agent Framework for Go 的预配置 Agent.中文.md",
+  "source_url": "https://devblogs.microsoft.com/go/preconfigured-agents-with-microsoft-agent-framework-for-go/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "d8fc6689f79fbe08bc4a0171.webp",
+      "kind": "image",
+      "source_url": "https://devblogs.microsoft.com/go/wp-content/uploads/sites/80/2026/10/Agent-Framework-Go-Banner.webp",
+      "sha256": "d8fc6689f79fbe08bc4a0171a2bb27e34bb37b3ce33777017dde41d64b5d6289",
+      "bytes": 72988
+    }
+  ],
+  "coverage": {
+    "source_url": "https://devblogs.microsoft.com/go/preconfigured-agents-with-microsoft-agent-framework-for-go/",
+    "translation_path": "content/Microsoft/官方/2026-11-11_Microsoft Agent Framework for Go 的预配置 Agent.中文.md",
+    "expected_figure_groups": 0,
+    "complete": true,
+    "source_html_sha256": "4329e2038a3376848dc1537455fe92980fcfe986e737a84f3ccc52cc721db650",
+    "figure_groups": []
+  }
+}

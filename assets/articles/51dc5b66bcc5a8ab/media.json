@@ -1,0 +1,40 @@
+{
+  "article_id": "51dc5b66bcc5a8ab",
+  "article_path": "content/OpenAI/官方/2026-11-09_CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍.中文.md",
+  "source_url": "https://openai.com/index/coderabbit-codex-daybreak/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "890ebbea1249be2e-2224206190-9bf5bd27906cbc1be35215fe9deb0c9962249d00287d4243983891d4a3a1af93-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2224206190-9bf5bd27906cbc1be35215fe9deb0c9962249d00287d4243983891d4a3a1af93-d_295x166?region=us",
+      "sha256": "890ebbea1249be2ea39f493e21cf865f46fbe4a1b1d14767d59d31ac341dc623",
+      "bytes": 10100
+    },
+    {
+      "file": "vimeo-1245204408-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1245204408?h=e665f4c47c&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "c082cd529be272b42463c2c3f77bc8affad292fcafe8a30bf7f5643ad605bf1f",
+      "bytes": 3561575
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/coderabbit-codex-daybreak/",
+    "translation_path": "content/OpenAI/官方/2026-11-09_CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "859c9bbbd9974ee68e5c11f142c9fd4e0cb5446f802b4f2d3fb8f273470d933c",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1245204408-preview.gif"
+        ]
+      }
+    ]
+  }
+}

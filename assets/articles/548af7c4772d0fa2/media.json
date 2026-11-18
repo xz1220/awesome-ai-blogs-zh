@@ -1,0 +1,120 @@
+{
+  "article_id": "548af7c4772d0fa2",
+  "article_path": "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md",
+  "source_url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "c684dcb8e02feb74fe33f06e.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.2e16d0ba.fill-1200x600.png",
+      "sha256": "c684dcb8e02feb74fe33f06e4c0aa316909de399b1d4a475a741374a0e9a09af",
+      "bytes": 261754
+    },
+    {
+      "file": "786e3d296f718f9f52f3f8d9.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.original.png",
+      "sha256": "786e3d296f718f9f52f3f8d9b0707f39cdab7d633e021ced8b21aa3f5c900e8f",
+      "bytes": 329161
+    },
+    {
+      "file": "3e30279a8301c9e7a15db21c.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_1_-_Indirect_prompt_injection.original.png",
+      "sha256": "3e30279a8301c9e7a15db21c2c13aa9f07160f86da7b75f7e4a79de8c241bc2c",
+      "bytes": 110484
+    },
+    {
+      "file": "3ca5ee673bcf4ed05a1074b5.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_2_-_Test_setup.original.png",
+      "sha256": "3ca5ee673bcf4ed05a1074b5273101bd9c955d9b167946e890c5b7dc99f6ce94",
+      "bytes": 87293
+    },
+    {
+      "file": "dad627343966a554f2f44fd3.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_3_-_What_happened_to_each_harmful_sessio.original.png",
+      "sha256": "dad627343966a554f2f44fd346f752e74ba96e4d1a843e7f0ccb0e61fbfeeb46",
+      "bytes": 124849
+    },
+    {
+      "file": "a7d47da7579f82a7f5ced7b1.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Figure_4_-_Carried-out_harmful_instructions_wit.original.png",
+      "sha256": "a7d47da7579f82a7f5ced7b1596fee6a2138434ce07508e91a0234ee8cebe7a7",
+      "bytes": 95932
+    },
+    {
+      "file": "e975dfd6e1ff84b80a90ca04.png",
+      "kind": "image",
+      "source_url": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Table_-_Results_by_OWASP_category.original.png",
+      "sha256": "e975dfd6e1ff84b80a90ca04bac802adf0ab329d58925d8b9ba8acd8be5826f6",
+      "bytes": 334355
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+    "translation_path": "content/Google/官方/2026-11-12_用外部基准评测 Agent 异常检测.中文.md",
+    "expected_figure_groups": 6,
+    "complete": true,
+    "source_html_sha256": "789f85ba36a4f31b455799bcd34435749be95490dbcec6b7915de27f847bdbf6",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "786e3d296f718f9f52f3f8d9.png"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "3e30279a8301c9e7a15db21c.png"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "3ca5ee673bcf4ed05a1074b5.png"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "e975dfd6e1ff84b80a90ca04.png"
+        ]
+      },
+      {
+        "id": "figure-05",
+        "source_index": 4,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "dad627343966a554f2f44fd3.png"
+        ]
+      },
+      {
+        "id": "figure-06",
+        "source_index": 5,
+        "source_selector": "section.blocks-container",
+        "kind": "image",
+        "files": [
+          "a7d47da7579f82a7f5ced7b1.png"
+        ]
+      }
+    ]
+  }
+}

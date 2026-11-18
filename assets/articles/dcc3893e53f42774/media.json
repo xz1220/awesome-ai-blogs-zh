@@ -1,0 +1,40 @@
+{
+  "article_id": "dcc3893e53f42774",
+  "article_path": "content/AWS/官方/2026-11-12_从原型到生产：Agent DLC 工程实践.中文.md",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "d4ac9f62369dd5559e011856.png",
+      "kind": "image",
+      "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22085-1.png",
+      "sha256": "d4ac9f62369dd5559e01185623f81bb57e11734bdeae5a80f0e6c41be27b67ec",
+      "bytes": 2907992
+    },
+    {
+      "file": "d582496eab5b9b140993b3d8.png",
+      "kind": "image",
+      "source_url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22085-featured-image-1.png",
+      "sha256": "d582496eab5b9b140993b3d8d8d40b17e763e9cc81f052acb6c9719a45d51ccf",
+      "bytes": 58259
+    }
+  ],
+  "coverage": {
+    "source_url": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+    "translation_path": "content/AWS/官方/2026-11-12_从原型到生产：Agent DLC 工程实践.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "ac585a559365e942d01edfa6622f5e46e0445fa754c4afce780bdd8f76429f57",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".blog-post-content (excluding author biographies)",
+        "kind": "image",
+        "files": [
+          "d4ac9f62369dd5559e011856.png"
+        ]
+      }
+    ]
+  }
+}

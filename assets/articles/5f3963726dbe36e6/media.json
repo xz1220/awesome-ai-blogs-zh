@@ -1,0 +1,40 @@
+{
+  "article_id": "5f3963726dbe36e6",
+  "article_path": "content/Hugging Face/官方/2026-11-10_Hugging Face 中的决策模型.中文.md",
+  "source_url": "https://huggingface.co/blog/decision",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "8dfc31eaceebefdb906cb9e1.png",
+      "kind": "image",
+      "source_url": "https://huggingface.co/blog/assets/decision/thumbnail.png",
+      "sha256": "8dfc31eaceebefdb906cb9e12672b2409527e0754dac443fdba293ef68a68575",
+      "bytes": 104429
+    },
+    {
+      "file": "d37b008fec93d7a37595a955.png",
+      "kind": "image",
+      "source_url": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/decision/decision-models.png",
+      "sha256": "d37b008fec93d7a37595a9553c6f491b82da936b865f23e12491d4ca75e5b753",
+      "bytes": 89215
+    }
+  ],
+  "coverage": {
+    "source_url": "https://huggingface.co/blog/decision",
+    "translation_path": "content/Hugging Face/官方/2026-11-10_Hugging Face 中的决策模型.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "4252e49c1b4a35423241d6cc8bff1bd75672ee2cdee1ed796af0663b721fba2e",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": ".blog-content > div.relative.overflow-clip (excluding ToC hydration)",
+        "kind": "image",
+        "files": [
+          "d37b008fec93d7a37595a955.png"
+        ]
+      }
+    ]
+  }
+}

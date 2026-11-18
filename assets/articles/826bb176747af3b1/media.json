@@ -1,0 +1,63 @@
+{
+  "article_id": "826bb176747af3b1",
+  "article_path": "content/OpenAI/官方/2026-10-06_与 Ironclad 一起推进计算机使用能力.中文.md",
+  "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "6190e2114483e1ac-2207097105-3dbe8e16809d016e92eaa7f5c913c50d342cf16dc3531abdf26370646e09230a-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2207097105-3dbe8e16809d016e92eaa7f5c913c50d342cf16dc3531abdf26370646e09230a-d_295x166?region=us",
+      "sha256": "6190e2114483e1acf5d444ee86ebf703d2329c0f4cbc06eb17660109bf6813f9",
+      "bytes": 4709
+    },
+    {
+      "file": "68ace269a9694652-2207097213-4c1511c91bd843676ddb257965b4027dc3298ac73f7255543d7bde51fbc0f2dd-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2207097213-4c1511c91bd843676ddb257965b4027dc3298ac73f7255543d7bde51fbc0f2dd-d_295x166?region=us",
+      "sha256": "68ace269a9694652fcdb8ab3dc2fd9c72ea57dfacad0d8bf9fc416621c82af07",
+      "bytes": 4391
+    },
+    {
+      "file": "vimeo-1231839120-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1231839120?h=31fd7f85fb&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "628b899770f96dd1a16a249d4ddd5cee271d5d6b374bb49987f6ba06c2b0793f",
+      "bytes": 322376
+    },
+    {
+      "file": "vimeo-1231839180-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1231839180?h=53f2234f22&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "4e3b85db6707c7cafc59bf0bc7c6c9ee542b1490db33134b71d8adedc9eaf7b7",
+      "bytes": 316611
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad/",
+    "translation_path": "content/OpenAI/官方/2026-10-06_与 Ironclad 一起推进计算机使用能力.中文.md",
+    "expected_figure_groups": 2,
+    "complete": true,
+    "source_html_sha256": "79af1bacdb0dd9a049834232607804ff59aa3bc81ee38c54bb08003938ae5e1b",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1231839120-preview.gif"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1231839180-preview.gif"
+        ]
+      }
+    ]
+  }
+}

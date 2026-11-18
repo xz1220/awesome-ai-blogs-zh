@@ -1,0 +1,137 @@
+{
+  "article_id": "964fcb0853dc7408",
+  "article_path": "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md",
+  "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "3ae86151a334b6da-d1_desktop_light.svg",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5rhmXVqt97QSUziNQpodZ6/489ce1991e23d13a2fb36b0ec991cda5/d1_desktop_light.svg?w=3840&q=90",
+      "sha256": "3ae86151a334b6da173283372e5c7ea2ffec9f7337727e063a9b9577b4c0f40e",
+      "bytes": 34810
+    },
+    {
+      "file": "69d4243d6ea6a16a-monitoring-the-frontier-monitoring-system-diagram.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4jeM8tKIZvFaRPFLn0ffw7/0c201050f8bb34364b2c3e80246b49e0/monitoring-the-frontier-monitoring-system-diagram.png?w=3840&q=90&fm=webp",
+      "sha256": "69d4243d6ea6a16ab4052ad4c9bc4593090e12ebd29d1d0ad04d25acaffbb484",
+      "bytes": 73214
+    },
+    {
+      "file": "217b05bcc9aee0c6-monitoring-the-frontier-monitoring-funnel-diagram.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/AxJ01LQycPgvS648roDUY/16d799a32dac1ff6f7194ef6ccbabbfd/monitoring-the-frontier-monitoring-funnel-diagram.png?w=3840&q=90&fm=webp",
+      "sha256": "217b05bcc9aee0c6b11c9ba9d33575bc743e776233c7f49491db8e4ccd44945c",
+      "bytes": 91208
+    },
+    {
+      "file": "8f1da065b9b637b3-monitoring-the-frontier-security-alignment-coverage-diagram.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6i2A1vaBJwQJarjvebm7VQ/5c19378d20b3843bc81cbd0ff92f80be/monitoring-the-frontier-security-alignment-coverage-diagram.png?w=3840&q=90&fm=webp",
+      "sha256": "8f1da065b9b637b3851d36ab32d8bd00c56562b51410349184406ef8c7cb686e",
+      "bytes": 69790
+    },
+    {
+      "file": "rendered-internal-traffic-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "sha256": "d4c7a3ab892887d64b2093fc9aaa2829c3669732eb8cdeefc850d704928d280c",
+      "bytes": 118523
+    },
+    {
+      "file": "rendered-training-eval-performance-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "sha256": "8dfee49b1c05ccfc52b82143830d06e219b32e08946caaabd238e3232af29446",
+      "bytes": 244710
+    },
+    {
+      "file": "rendered-training-eval-performance-synthetic.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "sha256": "04757a782924328b46abf67d05c05de520735e1e2b41f739c0dd0b811867fb41",
+      "bytes": 296042
+    },
+    {
+      "file": "rendered-monitor-capability-is-important-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "sha256": "c65ee572fb3e794b05cadb5ee67e856573f7f19790f7d75df48f95ffaafd32ae",
+      "bytes": 110093
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+    "translation_path": "content/OpenAI/官方/2026-10-29_我们如何检测前沿模型的失准行为.中文.md",
+    "expected_figure_groups": 7,
+    "complete": true,
+    "source_html_sha256": "8a26aaaf943622a9beff8b33ebccea17bebaefa8a0a06d8c8411f6d4a40810f0",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(7) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "3ae86151a334b6da-d1_desktop_light.svg"
+        ]
+      },
+      {
+        "id": "figure-02",
+        "source_index": 1,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(11) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "69d4243d6ea6a16a-monitoring-the-frontier-monitoring-system-diagram.webp"
+        ]
+      },
+      {
+        "id": "figure-03",
+        "source_index": 2,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(28) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "217b05bcc9aee0c6-monitoring-the-frontier-monitoring-funnel-diagram.webp"
+        ]
+      },
+      {
+        "id": "figure-04",
+        "source_index": 3,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(34) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "8f1da065b9b637b3-monitoring-the-frontier-security-alignment-coverage-diagram.webp"
+        ]
+      },
+      {
+        "id": "internal-traffic",
+        "source_index": 4,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(45) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-internal-traffic-default.png"
+        ]
+      },
+      {
+        "id": "training-eval-performance",
+        "source_index": 5,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(46) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-training-eval-performance-default.png",
+          "rendered-training-eval-performance-synthetic.png"
+        ]
+      },
+      {
+        "id": "monitor-capability-is-important",
+        "source_index": 6,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(50) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-monitor-capability-is-important-default.png"
+        ]
+      }
+    ]
+  }
+}

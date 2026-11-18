@@ -1,0 +1,17 @@
+name: 推荐来源或文章
+description: 提交值得阅读的 AI 博客、研究文章、产品案例或工程实践
+body:
+  - type: input
+    id: url
+    attributes:
+      label: 首发链接
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 一两句话即可。注明主题，补充已有官方中文链接或官方 RSS（如有）。
+    validations:
+      required: true

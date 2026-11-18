@@ -1,0 +1,369 @@
+{
+  "article_id": "37e2550d2086cdee",
+  "article_path": "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md",
+  "source_url": "https://openai.com/index/lifeval/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "63b8e3cf787354dd-assorted-shopping-cart.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2kDzAYlRLs4Aa5eCBj0c0s/34b28e39a3685c59d40df3f96a439cc8/assorted-shopping-cart.png?w=3840&q=90&fm=webp",
+      "sha256": "63b8e3cf787354dd219ab6760c5b902a3ff55952663e407a93a2fe1695ca65a7",
+      "bytes": 54236
+    },
+    {
+      "file": "0021b71fbf2f89b1-assorted-calendar.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6K0cM0DVuJOf6yY7BA2q4P/fe658bead3bff7217d50ff0689ec971b/assorted-calendar.png?w=3840&q=90&fm=webp",
+      "sha256": "0021b71fbf2f89b1ad0598c8add248a86614e7559a05ea5d863edfa3ef7257f6",
+      "bytes": 38020
+    },
+    {
+      "file": "2e58bcbf3e3305c5-assorted-ecg.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/33prB2g2HLW6Azbom6co0a/a5fd275ffbdef887211846448f2fac6b/assorted-ecg.png?w=3840&q=90&fm=webp",
+      "sha256": "2e58bcbf3e3305c560d9da98dcc90fb8141c6eda0c07be1b6a56dfe0c181acb4",
+      "bytes": 43670
+    },
+    {
+      "file": "b73447e2c8771c76-photo-06.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/31Q75V3wFI3n0xK4Nxsog0/f0b03a26cf990bb2254e879dc8678d8b/photo-06.webp?w=3840&q=90&fm=webp",
+      "sha256": "b73447e2c8771c76f966a9148ea73e91e629a69e72e5fb0edc97e7d2f8589939",
+      "bytes": 70274
+    },
+    {
+      "file": "d78ee5ecb933a501-photo-09.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1UfbC89B8yZRrvvmLEpMV/bf244804cb209b62d1be578e6e8b582f/photo-09.webp?w=3840&q=90&fm=webp",
+      "sha256": "d78ee5ecb933a5016188129cf15301a08cf133afdb8700fc90441e076d189e42",
+      "bytes": 41908
+    },
+    {
+      "file": "6cd1da6aee636483-photo-05.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7sFzZxKpcOhJP4T1ppAf6b/57fbb1cd4a8a73066261aa1e450117ec/photo-05.webp?w=3840&q=90&fm=webp",
+      "sha256": "6cd1da6aee636483a7a507362b08119429c2bcf5a71f349569fd8f421eafbd72",
+      "bytes": 35084
+    },
+    {
+      "file": "2a79c966703136bc-photo-07.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/618uJhR5QI4ZmuQycqQZx5/4efe8f2977a023df632849ec8c1d5f0b/photo-07.webp?w=3840&q=90&fm=webp",
+      "sha256": "2a79c966703136bc42d6238b93a57906d82c1be069fa1e3a83f52e70ab0fb143",
+      "bytes": 80230
+    },
+    {
+      "file": "1aa3adfc8c403654-image__32_.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/3QHEbVZRPTyhQyaKgdES5l/00f4c9670307832bbc5d00740c86fc5f/image__32_.png?w=3840&q=90&fm=webp",
+      "sha256": "1aa3adfc8c403654d9f93bbe519965788d2317c983be9764af68fb5cb45665de",
+      "bytes": 73736
+    },
+    {
+      "file": "a6b41e2f7bcdfdbe-bus.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/0PsOKDe2IX2yO0sZVTxNn/d1de90b42ea9c430a6910aaf9e4f731b/bus.png?w=3840&q=90&fm=webp",
+      "sha256": "a6b41e2f7bcdfdbe3e60d7f2ef65723b231a77f2d7336c08eefec15320d8a59c",
+      "bytes": 15084
+    },
+    {
+      "file": "71abcacecabbec75-water-drop-dingbat.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1hDPV5I4BneWeWnKWVsAvs/6bdf8f993cbedc6b20dc2a03c8824dce/water-drop-dingbat.png?w=3840&q=90&fm=webp",
+      "sha256": "71abcacecabbec757dd71f60fa030b67d5b32e0dfd3f8c5e0b065f5b20787707",
+      "bytes": 18198
+    },
+    {
+      "file": "a9521edd87d93e39-welcome-mat-white-cropped.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/4p9ZKTfC9iNi5m1xXkMCQl/ffdff61608bbc569e5bfa647c1a38c84/welcome-mat-white-cropped.png?w=3840&q=90&fm=webp",
+      "sha256": "a9521edd87d93e392629ddf981e9e2af8191c12be4c41c7d66cd5b5bd6a1edf7",
+      "bytes": 28276
+    },
+    {
+      "file": "4dcdd3cb047dcc55-football.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1EixydflAQZXI6yTNaL6Zg/6cc1f7086d118c3853f3a8c83da589fb/football.png?w=3840&q=90&fm=webp",
+      "sha256": "4dcdd3cb047dcc55bbb2b622c81e4383251aa98b87f520cc88a0f63a3289e62e",
+      "bytes": 14022
+    },
+    {
+      "file": "529aba2e9f1c1b21-cart.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/7cn1KRGTQUsctQue7wawds/5be11f2e14bffbcb227e0ee375f5529e/cart.png?w=3840&q=90&fm=webp",
+      "sha256": "529aba2e9f1c1b210602a5acacab8c31623abc39bcf1c157c4f6a87362181477",
+      "bytes": 59946
+    },
+    {
+      "file": "54d14b666da7b117-photo-02.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/9irZEa7VuG3EddaIPYWD5/f267058764f8a5eda29a410fe80114d0/photo-02.webp?w=3840&q=90&fm=webp",
+      "sha256": "54d14b666da7b117c8819ff16cee4581db389848a61d02e18af629a107f0c08d",
+      "bytes": 29972
+    },
+    {
+      "file": "b104322593f7d4c7-photo-03.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2lhC1WTyvGX4qBssxZraQj/b7792d227886b7f1adaec281eb2bee01/photo-03.webp?w=3840&q=90&fm=webp",
+      "sha256": "b104322593f7d4c731f7c62967e6d7885fc6b0c0e84b1f5d5fd328ea292b070e",
+      "bytes": 86242
+    },
+    {
+      "file": "16c4dd30f8d3f472-photo-04.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5i50ehjTmYbz5jB0E6lJHZ/16a4356b416bc033df4cfcfdc705b1a6/photo-04.webp?w=3840&q=90&fm=webp",
+      "sha256": "16c4dd30f8d3f47234943de5f85b4e0ced6cd8321a9946f94a945b3b79990d0e",
+      "bytes": 118852
+    },
+    {
+      "file": "5ab2a76f5a2bcbd8-photo-08.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/M4upvozkrlrSSfvHaYlzF/3a3f9a3f8ecd7ba77d9ad7e79d2c4641/photo-08.webp?w=3840&q=90&fm=webp",
+      "sha256": "5ab2a76f5a2bcbd872d5467759db8ddcebf39bc432e708f5ad01cfe0fed866d8",
+      "bytes": 29392
+    },
+    {
+      "file": "303aee174457fe62-photo-10.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/rzxlK2Ggnph5Op4ysnUc4/94c42358418debcc92b7900de0b865da/photo-10.webp?w=3840&q=90&fm=webp",
+      "sha256": "303aee174457fe62bc3f7ff7a68c1f7e5b1569ebdcba674851f88420b6ae9628",
+      "bytes": 26208
+    },
+    {
+      "file": "6a820bd965cd0048-photo-11.webp",
+      "kind": "image",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5XfHlU5MluLbVrnc7AoCZK/dc74b9270813c16ae476edc65ff3ade2/photo-11.webp?w=3840&q=90&fm=webp",
+      "sha256": "6a820bd965cd0048c7d1959af8dcbdbb614c11c89947e2761030f40062010f8a",
+      "bytes": 28446
+    },
+    {
+      "file": "4adae6464071ff40-2218861804-b07624bc947100c6d19362c46907bf9e441f2e00ac5b830a8c2e1bc4ec56e2fe-d_29.jpg",
+      "kind": "image",
+      "source_url": "https://i.vimeocdn.com/video/2218861804-b07624bc947100c6d19362c46907bf9e441f2e00ac5b830a8c2e1bc4ec56e2fe-d_295x166?region=us",
+      "sha256": "4adae6464071ff404aee6a43e224f4d87a74122fbbaa89a29168a312934c603a",
+      "bytes": 12949
+    },
+    {
+      "file": "vimeo-1240955743-preview.gif",
+      "kind": "video-preview",
+      "source_url": "https://player.vimeo.com/video/1240955743?h=dd9318da21&badge=0&autopause=0&player_id=0&app_id=58479",
+      "sha256": "672c4649ba89fcb62138487917924c0039a36859e678bec80381ba10ae1d1a99",
+      "bytes": 3740492
+    },
+    {
+      "file": "rendered-model-performance-on-everyday-tasks-by-release-date-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/lifeval/",
+      "sha256": "aa61fd27cddb52c3cda905eafdd276169fc40d14dc9423f974edf0e60f1a46b3",
+      "bytes": 83443
+    },
+    {
+      "file": "rendered-chart-5PmoxgHKKEamFZqgIPnrCM-default.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/lifeval/",
+      "sha256": "ca0c20c983cf6fecd6e6e3a9acd4ae50b7c0b27bed26f410b9197edf4e788508",
+      "bytes": 105492
+    },
+    {
+      "file": "rendered-lifeval-tokens.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/lifeval/",
+      "sha256": "1bc9301a093f154600aae7d5c8622279766a3c31e154c584c61be6db5a361470",
+      "bytes": 101943
+    },
+    {
+      "file": "rendered-lifeval-api_cost.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/lifeval/",
+      "sha256": "ace488553fca3a0211ff1d193aaaf68192de93a18680ec851fe6d1aa2d497100",
+      "bytes": 111180
+    },
+    {
+      "file": "browser-408d0506e68f1799.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/blue-brick.09p9qhhy100mf.webp?w=3840&q=90&fm=webp",
+      "sha256": "22d0258996ec3f47d80d6ac12dc377d24ee5d2d64727a6c80e04f015717e7701",
+      "bytes": 18600
+    },
+    {
+      "file": "browser-3078628b33cded03.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/storage-box.3476weajf3ald.webp?w=3840&q=90&fm=webp",
+      "sha256": "9b7ef0ccb06cf185f23dfc457e3cae7fe52f20b86a0504a56ae95335073b1187",
+      "bytes": 17080
+    },
+    {
+      "file": "browser-eb9c48515c213784.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/school-bus.3by8e4a49l01n.webp?w=3840&q=90&fm=webp",
+      "sha256": "f0bc23034387eb4615e57a6e0f76465f3b767cc06c8ac9be10f1df0a3ea6659b",
+      "bytes": 24898
+    },
+    {
+      "file": "browser-23f13097358695b9.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/pink-case.2xo-x1vhvff_h.webp?w=3840&q=90&fm=webp",
+      "sha256": "6a6fbc7872129b2c2229b234a0a48a5731cbd1c834c8e5cbeefc9ac8f2e0ceba",
+      "bytes": 21740
+    },
+    {
+      "file": "browser-01dac95529f4a4c8.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/glucose-meter.3-90ldcd6b37a.webp?w=3840&q=90&fm=webp",
+      "sha256": "0c5b21a4311758b99b41d8662d758f8e6258f3a9dcca6ab4ec922c0e2a633c49",
+      "bytes": 21542
+    },
+    {
+      "file": "browser-6ed8e1b8d6507bf6.webp",
+      "kind": "image",
+      "source_url": "https://openai.com/_next/static/immutable/media/tomato.2658gdx30jvhr.webp?w=3840&q=90&fm=webp",
+      "sha256": "9630d5ff7b71f2ea1b4b78ba6cfb301ec4e3c7e8c02f1118fa6293beec79fb48",
+      "bytes": 23334
+    },
+    {
+      "file": "hero-composite.png",
+      "kind": "rendered-original-figure",
+      "source_url": "https://openai.com/index/lifeval/",
+      "sha256": "69a671243592442c8eb2a078d7c099e7ea4eb63f2aacd7d58043aee3a543834d",
+      "bytes": 1750585
+    }
+  ],
+  "coverage": {
+    "source_url": "https://openai.com/index/lifeval/",
+    "translation_path": "content/OpenAI/官方/2026-11-02_LifeVal：评测个人 Agent 完成日常事务的能力.中文.md",
+    "expected_figure_groups": 14,
+    "complete": true,
+    "source_html_sha256": "951b07b37abb21f395878119b09e178baee8a3db3c1c5f85ec9aedaffa4bf5da",
+    "figure_groups": [
+      {
+        "id": "hero-composite",
+        "source_index": 0,
+        "source_selector": null,
+        "kind": "rendered-hero",
+        "files": [
+          "hero-composite.png"
+        ]
+      },
+      {
+        "id": "figure-15",
+        "source_index": 14,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > figure:nth-of-type(1)",
+        "kind": "video",
+        "files": [
+          "vimeo-1240955743-preview.gif"
+        ]
+      },
+      {
+        "id": "model-performance-on-everyday-tasks-by-release-date",
+        "source_index": 15,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-model-performance-on-everyday-tasks-by-release-date-default.png"
+        ]
+      },
+      {
+        "id": "chart-5PmoxgHKKEamFZqgIPnrCM",
+        "source_index": 21,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > figure:nth-of-type(1)",
+        "kind": "chart",
+        "files": [
+          "rendered-chart-5PmoxgHKKEamFZqgIPnrCM-default.png",
+          "rendered-lifeval-tokens.png",
+          "rendered-lifeval-api_cost.png"
+        ]
+      },
+      {
+        "id": "figure-23",
+        "source_index": 22,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "54d14b666da7b117-photo-02.webp"
+        ]
+      },
+      {
+        "id": "figure-24",
+        "source_index": 23,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "b104322593f7d4c7-photo-03.webp"
+        ]
+      },
+      {
+        "id": "figure-25",
+        "source_index": 24,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "16c4dd30f8d3f472-photo-04.webp"
+        ]
+      },
+      {
+        "id": "figure-26",
+        "source_index": 25,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "6cd1da6aee636483-photo-05.webp"
+        ]
+      },
+      {
+        "id": "figure-27",
+        "source_index": 26,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "b73447e2c8771c76-photo-06.webp"
+        ]
+      },
+      {
+        "id": "figure-28",
+        "source_index": 27,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "2a79c966703136bc-photo-07.webp"
+        ]
+      },
+      {
+        "id": "figure-29",
+        "source_index": 28,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "5ab2a76f5a2bcbd8-photo-08.webp"
+        ]
+      },
+      {
+        "id": "figure-30",
+        "source_index": 29,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "d78ee5ecb933a501-photo-09.webp"
+        ]
+      },
+      {
+        "id": "figure-31",
+        "source_index": 30,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "303aee174457fe62-photo-10.webp"
+        ]
+      },
+      {
+        "id": "figure-32",
+        "source_index": 31,
+        "source_selector": "article > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(12) > section:nth-of-type(1) > ul:nth-of-type(1) > li:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > img:nth-of-type(1)",
+        "kind": "image",
+        "files": [
+          "6a820bd965cd0048-photo-11.webp"
+        ]
+      }
+    ]
+  }
+}

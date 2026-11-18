@@ -1,0 +1,40 @@
+{
+  "article_id": "b140b110e619a8ce",
+  "article_path": "content/NVIDIA/官方/2026-11-10_Agent Substrate：推进 Kubernetes 上的大规模 Agent 运行.中文.md",
+  "source_url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "3642dd354fc8587f15a0115c.webp",
+      "kind": "image",
+      "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-5-1024x576-jpg.webp",
+      "sha256": "3642dd354fc8587f15a0115cd7157690fb5974aeeecbc83fe5f4e49302ed3c45",
+      "bytes": 18208
+    },
+    {
+      "file": "ef15bd20513da4a6fd3c9829.webp",
+      "kind": "image",
+      "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-5.webp",
+      "sha256": "ef15bd20513da4a6fd3c9829784d01973d60324a112cce24a77a636e9358853a",
+      "bytes": 53574
+    }
+  ],
+  "coverage": {
+    "source_url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+    "translation_path": "content/NVIDIA/官方/2026-11-10_Agent Substrate：推进 Kubernetes 上的大规模 Agent 运行.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "119da059772b836e4cf9faf9c3a35b4d45cd346a3d47586f6a163ada278e5ef9",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "main .entry-content + visible article hero",
+        "kind": "image",
+        "files": [
+          "3642dd354fc8587f15a0115c.webp"
+        ]
+      }
+    ]
+  }
+}

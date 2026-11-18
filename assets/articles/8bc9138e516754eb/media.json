@@ -1,0 +1,40 @@
+{
+  "article_id": "8bc9138e516754eb",
+  "article_path": "content/GitHub/官方/2026-11-12_一次编写，跨 Agent 运行：Skills 实践指南.中文.md",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+  "verified_date": "2026-11-16",
+  "media": [
+    {
+      "file": "630aca20ce2fa2066bef600c.png",
+      "kind": "image",
+      "source_url": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png",
+      "sha256": "630aca20ce2fa2066bef600c163d928f4564756b79b6bf3bab398ab390f78c99",
+      "bytes": 73123
+    },
+    {
+      "file": "49527bc8e3a3cc642c8c2243.png",
+      "kind": "image",
+      "source_url": "https://github.blog/wp-content/uploads/2026/11/5b5fed0ce69f241f469053d4f178383688adb2fb7ef44dff82c1a2dd6a626fa1-1920x1080-1.png?resize=1600%2C850",
+      "sha256": "49527bc8e3a3cc642c8c22433ad656627010fa9d314746add280b765b7813fa7",
+      "bytes": 26554
+    }
+  ],
+  "coverage": {
+    "source_url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "translation_path": "content/GitHub/官方/2026-11-12_一次编写，跨 Agent 运行：Skills 实践指南.中文.md",
+    "expected_figure_groups": 1,
+    "complete": true,
+    "source_html_sha256": "8a133bbbe8bbb13bd91327f8bffa04a6e3a4485d9ba71238d437620b3a73c1a4",
+    "figure_groups": [
+      {
+        "id": "figure-01",
+        "source_index": 0,
+        "source_selector": "section.post__content > html > body + visible article hero",
+        "kind": "image",
+        "files": [
+          "49527bc8e3a3cc642c8c2243.png"
+        ]
+      }
+    ]
+  }
+}

@@ -121,12 +121,17 @@ def external(text, url):
     return f"[{inline(text)}](<{url}>)"
 
 
+def article_source(article):
+    company = article["company"]
+    author = article.get("author") if company == "独立作者" or article["topic"] == "perspectives" else None
+    if isinstance(author, list):
+        author = "、".join(author)
+    return " ".join((author or company).split())
+
+
 def article_line(article):
     title = article.get("title_zh") or article["title"]
-    source = article.get("author") if article["topic"] == "perspectives" else None
-    if isinstance(source, list):
-        source = "、".join(source)
-    info = [inline(source or article["company"])]
+    info = []
     if article.get("date"):
         info.append(article["date"])
     original = article["url"]
@@ -143,7 +148,7 @@ def article_line(article):
         title_link = external(title, original)
         if article.get("original_language") == "zh":
             info.append("中文原文")
-    return f"- {title_link} · {' · '.join(info)}"
+    return "- " + " · ".join([title_link, *info])
 
 
 def source_lines(sources):
@@ -163,16 +168,18 @@ def source_lines(sources):
 
 def render(articles, sources):
     ordered = sorted(articles, key=lambda article: (article.get("date") or "", article["article_id"]), reverse=True)
-    by_topic = {topic: [] for topic in TOPICS}
+    by_topic = {topic: {} for topic in TOPICS}
     for article in ordered:
-        by_topic[article["topic"]].append(article)
+        by_topic[article["topic"]].setdefault(article_source(article), []).append(article)
     main = [
         "## 按主题阅读", "",
-        f"已收录 {len(articles)} 篇。每组按首发日期倒序排列，日期不详的放在最后。点击标题可直接阅读，有中文版时优先打开中文版。",
+        f"已收录 {len(articles)} 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。点击标题直接阅读，有中文版时优先打开中文版。",
         "", " · ".join(f"[{name}](#{name})" for name in TOPICS.values()),
     ]
     for topic, name in TOPICS.items():
-        main += ["", f"### {name}", "", *map(article_line, by_topic[topic])]
+        main += ["", f"### {name}"]
+        for source, entries in sorted(by_topic[topic].items(), key=lambda group: group[0].casefold()):
+            main += ["", f"#### {inline(source)}", "", *map(article_line, entries)]
     readme_path = ROOT / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
     if readme.count(BEGIN) != 1 or readme.count(END) != 1:

@@ -6,7 +6,9 @@
 
 ## 按主题阅读
 
-已收录 659 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。点击标题直接阅读，有中文版时优先打开中文版。
+已收录 659 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+
+点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
 [模型与研究](#模型与研究) · [工程实践](#工程实践) · [基础设施](#基础设施) · [评测与安全](#评测与安全) · [产品与应用](#产品与应用) · [独立观点](#独立观点) · [历史索引](#历史索引)
 
@@ -14,181 +16,181 @@
 
 #### Anthropic
 
-- [Project EVE：Claude 玩 MMORPG](<https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs>) · 2026-11-06
-- [大语言模型可证明推理的进展](<https://www.anthropic.com/research/provable-inference>) · 2026-11-02
-- [AI 智能体如何影响专家的判断决策](<https://www.anthropic.com/research/agents-judgment-calls>) · 2026-10-27
-- [用 Claude 发现并利用关键真实世界软件中的漏洞](<https://www.anthropic.com/research/discovering-vulnerabilities-with-claude>) · 2026-10-27
-- [英国 AISI 网络测试事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-ukaisi>) · 2026-10-23
-- [LLM 正在让大规模形式化软件验证变得可行](<https://www.anthropic.com/research/formal-verification>) · 2026-10-22
-- [用 Claude 减少代码的攻击面](<https://www.anthropic.com/research/attack-surface-reduction>) · 2026-10-20
-- [用 Claude 设计更高效的量子电路](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>) · 2026-10-16
-- [推出面向开源软件的选择加入式漏洞发现服务](<https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source>) · 2026-10-08
-- [天空中缺失的那张地图](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) · 2026-10-08
-- [Claude 式科学](<https://www.anthropic.com/research/claude-shaped-science>) · 2026-10-01
-- [机器人能做哪些工作？](<https://www.anthropic.com/research/what-work-can-robots-do>) · 2026-09-30
-- [GLM-5.3 与先进网络能力的扩散](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) · 2026-09-29
-- [你想从 AI 得到什么？](<https://www.anthropic.com/research/your-thoughts-on-ai>) · 2026-09-29
-- [是的，Claude 能算九圈](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) · 2026-09-25
-- [Project Swap：当智能体替我们做交易时会发生什么？](<https://www.anthropic.com/research/project-swap>) · 2026-09-24
-- [Claude 如何提升生物分子建模能力](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) · 2026-09-17
-- [衡量 AI 模型的战术情报目标定位与常规武器能力](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) · 2026-09-10
-- [对齐](<https://www.anthropic.com/research/team/alignment>) · 2026-09-09
-- [形式化费马大定理](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) · 2026-09-04
-- [自动化研究员能够可靠地缓解对齐失败](<https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures>) · 2026-08-28
-- [支持对-人们如何使用 Claude-的独立研究](<https://www.anthropic.com/research/enabling-independent-research>) · 2026-08-26
-- [Claude 如何加速蛋白质设计与分析化学](<https://www.anthropic.com/research/Claude-accelerates-protein-design>) · 2026-08-18
-- [新兴多智能体系统中的模式与问题](<https://www.anthropic.com/research/multiagent-systems>) · 2026-08-13
-- [审视关于工人再培训项目的证据](<https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs>) · 2026-08-12
-- [进一步了解 Claude 的数学能力](<https://www.anthropic.com/research/riemann-zeta>) · 2026-08-10
-- [用 Claude 发现密码学弱点](<https://www.anthropic.com/research/discovering-cryptographic-weaknesses>) · 2026-07-28
-- [Project Pilot：AI 能控制无人机吗？](<https://www.anthropic.com/research/project-pilot>) · 2026-07-24
-- [加拿大人如何使用 Claude：来自 Anthropic 经济指数的发现](<https://www.anthropic.com/research/how-canada-uses-claude>) · 2026-07-14
-- [Claude 在不同模型与语言中体现的价值观](<https://www.anthropic.com/research/claude-values-models-languages>) · 2026-07-13
-- [Claude 玩转机器人](<https://www.anthropic.com/research/claude-plays-robotics>) · 2026-07-09
-- [AI 模型中双用途知识的开关](<https://www.anthropic.com/research/off-switch-dual-use>) · 2026-07-08
-- [可解释性团队](<https://www.anthropic.com/research/team/interpretability>) · 2026-07-06
-- [语言模型中的全局工作空间](<https://www.anthropic.com/research/global-workspace>) · 2026-07-06
-- [经济学团队](<https://www.anthropic.com/research/team/economics>) · 2026-06-26
-- [Anthropic 经济指数报告：节奏](<https://www.anthropic.com/research/economic-index-june-2026-report>) · 2026-06-26
-- [Fetch 项目：第二阶段](<https://www.anthropic.com/research/project-fetch-phase-two>) · 2026-06-18
-- [智能体编程与专业能力的持久回报](<https://www.anthropic.com/research/claude-code-expertise>) · 2026-06-16
-- [为生物学领域的智能体铺路](<https://www.anthropic.com/research/agents-in-biology>) · 2026-06-08
-- [衡量 LLM 对 N-day 漏洞利用的影响](<https://www.anthropic.com/research/n-days>) · 2026-06-08
-- [让 Claude 成为化学家](<https://www.anthropic.com/research/making-claude-a-chemist>) · 2026-06-05
-- [梳理一整年的 AI 赋能网络威胁后，我们学到了什么](<https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack>) · 2026-06-03
-- [绘制 AI 赋能的网络威胁图谱：来自 LLM ATT&CK Navigator 的洞察](<https://www.anthropic.com/research/attack-navigator>) · 2026-06-03
-- [社会科学领域的编程智能体](<https://www.anthropic.com/research/coding-agents-social-sciences>) · 2026-05-27
-- [Project Glasswing：初步进展更新](<https://www.anthropic.com/research/glasswing-initial-update>) · 2026-05-22
-- [衡量大语言模型开发漏洞利用的能力](<https://www.anthropic.com/research/exploit-evals>) · 2026-05-22
-- [2028：全球 AI 领导地位的两种情景（2028- Two scenarios for global AI leadership）](<https://www.anthropic.com/research/2028-ai-leadership>) · 2026-05-14
-- [教会 Claude「为什么」](<https://www.anthropic.com/research/teaching-claude-why>) · 2026-05-08
-- [自然语言自编码器：把 Claude 的想法变成文字](<https://www.anthropic.com/research/natural-language-autoencoders>) · 2026-05-07
-- [Anthropic 研究院的重点研究领域](<https://www.anthropic.com/research/anthropic-institute-agenda>) · 2026-05-07
-- [捐赠我们的开源对齐工具](<https://www.anthropic.com/research/donating-open-source-petri>) · 2026-05-07
-- [人们如何向 Claude 寻求个人指导](<https://www.anthropic.com/research/claude-personal-guidance>) · 2026-04-30
-- [用 BioMysteryBench 评估 Claude 的生物信息学研究能力](<https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench>) · 2026-04-29
-- [81,000 人告诉我们的 AI 经济学](<https://www.anthropic.com/research/81k-economics>) · 2026-04-22
-- [宣布推出 Anthropic 经济指数调查](<https://www.anthropic.com/research/economic-index-survey-announcement>) · 2026-04-22
-- [自动化对齐研究员：用大语言模型扩展「可扩展监督」](<https://www.anthropic.com/research/automated-alignment-researchers>) · 2026-04-14
-- [实践中的可信智能体](<https://www.anthropic.com/research/trustworthy-agents>) · 2026-04-09
-- [大型语言模型中的情绪概念及其功能](<https://www.anthropic.com/research/emotion-concepts-function>) · 2026-04-02
-- [澳大利亚人如何使用 Claude：来自 Anthropic 经济指数的发现](<https://www.anthropic.com/research/how-australia-uses-claude>) · 2026-03-31
-- [Anthropic 经济指数报告：学习曲线](<https://www.anthropic.com/research/economic-index-march-2026-report>) · 2026-03-24
-- [氛围物理：AI 研究生](<https://www.anthropic.com/research/vibe-physics>) · 2026-03-23
-- [介绍我们的科学博客](<https://www.anthropic.com/research/introducing-anthropic-science>) · 2026-03-23
-- [用于科学计算的长时运行 Claude](<https://www.anthropic.com/research/long-running-Claude>) · 2026-03-23
-- [社会影响](<https://www.anthropic.com/research/team/societal-impacts>) · 2026-03-18
-- [给 AI 用的「diff」工具：在新模型中发现行为差异](<https://www.anthropic.com/research/diff-tool>) · 2026-03-13
-- [逆向分析 Claude 编写的 CVE-2026-2796 漏洞利用代码](<https://www.anthropic.com/research/exploit>) · 2026-03-06
-- [AI 对劳动力市场的影响：一种新度量与早期证据](<https://www.anthropic.com/research/labor-market-impacts>) · 2026-03-05
-- [关于 Claude Opus 3 模型弃用承诺的最新进展](<https://www.anthropic.com/research/deprecation-updates-opus-3>) · 2026-02-25
-- [人格选择模型](<https://www.anthropic.com/research/persona-selection-model>) · 2026-02-23
-- [实际测量 AI 智能体的自主性](<https://www.anthropic.com/research/measuring-agent-autonomy>) · 2026-02-18
-- [印度国家简报：Anthropic 经济指数](<https://www.anthropic.com/research/india-brief-economic-index>) · 2026-02-16
-- [评估并缓解大语言模型发现 0-day 漏洞的日益增长的风险](<https://www.anthropic.com/research/zero-days>) · 2026-02-05
-- [AI 辅助如何影响编程技能的形成](<https://www.anthropic.com/research/AI-assistance-coding-skills>) · 2026-01-29
-- [真实世界 AI 使用中的「去能」模式](<https://www.anthropic.com/research/disempowerment-patterns>) · 2026-01-28
-- [Claude 的新宪法](<https://www.anthropic.com/research/claude-new-constitution>) · 2026-01-22
-- [助手轴：定位并稳定大语言模型的「角色」](<https://www.anthropic.com/research/assistant-axis>) · 2026-01-19
-- [AI 模型在仿真网络靶场上展现出更强的漏洞发现与利用能力](<https://www.anthropic.com/research/cyber-toolkits-update>) · 2026-01-16
-- [Anthropic 经济指数：理解 AI 使用的新基石](<https://www.anthropic.com/research/economic-index-primitives>) · 2026-01-15
-- [Anthropic 经济指数报告：经济原语](<https://www.anthropic.com/research/anthropic-economic-index-january-2026-report>) · 2026-01-15
-- [用 Claude 和基于属性的测试在整个 Python 生态中发现 bug](<https://www.anthropic.com/research/property-based-testing>) · 2026-01-14
-- [Project Vend：第二阶段](<https://www.anthropic.com/research/project-vend-2>) · 2025-12-18
-- [介绍 Anthropic Interviewer：1,250 位专业人士向我们讲述了他们与 AI 共事的经历](<https://www.anthropic.com/research/anthropic-interviewer>) · 2025-12-04
-- [AI 如何改变 Anthropic 的工作方式](<https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic>) · 2025-12-02
-- [AI 智能体在区块链智能合约中发现 460 万美元漏洞利用收益](<https://www.anthropic.com/research/smart-contracts>) · 2025-12-01
-- [从 Claude 对话估算 AI 的生产率提升](<https://www.anthropic.com/research/estimating-productivity-gains>) · 2025-11-25
-- [降低浏览器使用中的提示注入风险](<https://www.anthropic.com/research/prompt-injection-defenses>) · 2025-11-24
-- [Project Fetch：Claude 能训练机器狗吗？](<https://www.anthropic.com/research/project-fetch-robot-dog>) · 2025-11-12
-- [关于模型弃用与保存的承诺](<https://www.anthropic.com/research/deprecation-commitments>) · 2025-11-04
-- [大语言模型内省的迹象](<https://www.anthropic.com/research/introspection>) · 2025-10-29
-- [为 AI 的经济影响做好准备：探索政策应对](<https://www.anthropic.com/research/economic-policy-responses>) · 2025-10-14
-- [少量样本即可毒化任意规模的大语言模型](<https://www.anthropic.com/research/small-samples-poison>) · 2025-10-09
-- [为网络防御者构建 AI](<https://www.anthropic.com/research/building-ai-cyber-defenders>) · 2025-10-03
-- [Anthropic 经济指数报告：不均衡的地理与企业 AI 采用](<https://www.anthropic.com/research/anthropic-economic-index-september-2025-report>) · 2025-09-15
-- [Anthropic 经济指数：追踪 AI 在美国及全球经济中的角色](<https://www.anthropic.com/research/economic-index-geography>) · 2025-09-15
-- [我们为什么认真对待大语言模型作为潜在生物风险来源？](<https://www.anthropic.com/research/biorisk>) · 2025-09-05
-- [Anthropic 教育报告：教育者如何使用 Claude](<https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude>) · 2025-08-27
-- [Claude Opus 4 和 4.1 现在可以结束一小部分罕见的对话](<https://www.anthropic.com/research/end-subset-conversations>) · 2025-08-15
-- [Claude 在（某些）网络安全竞赛中与人类不相上下](<https://www.anthropic.com/research/cyber-competitions>) · 2025-08-09
-- [人格向量：监控并控制语言模型中的性格特质](<https://www.anthropic.com/research/persona-vectors>) · 2025-08-01
-- [人们如何用 Claude 寻求支持、建议与陪伴](<https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship>) · 2025-06-27
-- [Project Vend：Claude 能经营一家小商店吗？（为什么这很重要？）](<https://www.anthropic.com/research/project-vend-1>) · 2025-06-27
-- [基于可信虚拟机的机密推理](<https://www.anthropic.com/research/confidential-inference-trusted-vms>) · 2025-06-18
-- [SHADE-Arena：评估 LLM 智能体的破坏与监控能力](<https://www.anthropic.com/research/shade-arena-sabotage-monitoring>) · 2025-06-16
-- [配备网络工具包的大语言模型可以在企业规模的计算机网络上执行多阶段网络行动](<https://www.anthropic.com/research/cyber-toolkits>) · 2025-06-13
-- [开源回路追踪工具](<https://www.anthropic.com/research/open-source-circuit-tracing>) · 2025-05-29
-- [Anthropic 经济指数：AI 对软件开发的影响](<https://www.anthropic.com/research/impact-software-development>) · 2025-04-28
-- [探索模型福祉](<https://www.anthropic.com/research/exploring-model-welfare>) · 2025-04-24
-- [真实世界中的价值观：发现并分析语言模型真实交互中的价值观](<https://www.anthropic.com/research/values-wild>) · 2025-04-21
-- [Anthropic 教育报告：大学生如何使用 Claude](<https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude>) · 2025-04-08
-- [推理模型并不总是说出它们的真实想法](<https://www.anthropic.com/research/reasoning-models-dont-say-think>) · 2025-04-03
-- [追踪大语言模型的「思维」](<https://www.anthropic.com/research/tracing-thoughts-language-model>) · 2025-03-27
-- [Anthropic 经济指数：来自 Claude 3.7 Sonnet 的洞察](<https://www.anthropic.com/research/anthropic-economic-index-insights-from-claude-sonnet-3-7>) · 2025-03-27
-- [审计语言模型的隐藏目标](<https://www.anthropic.com/research/auditing-hidden-objectives>) · 2025-03-13
-- [预测语言模型的罕见行为](<https://www.anthropic.com/research/forecasting-rare-behaviors>) · 2025-02-25
-- [跨编码器模型差异分析的洞见](<https://www.anthropic.com/research/crosscoder-model-diffing>) · 2025-02-20
-- [Anthropic 经济指数](<https://www.anthropic.com/research/the-anthropic-economic-index>) · 2025-02-10
-- [Clio：一个以隐私保护方式洞察真实世界 AI 使用情况的系统](<https://www.anthropic.com/research/clio>) · 2024-12-12
-- [评估特征引导：减轻社会偏见的案例研究](<https://www.anthropic.com/research/evaluating-feature-steering>) · 2024-10-25
-- [开发计算机操作模型](<https://www.anthropic.com/research/developing-computer-use>) · 2024-10-22
-- [将字典学习特征用作分类器](<https://www.anthropic.com/research/features-as-classifiers>) · 2024-10-16
-- [Circuits 动态更新：2024 年 9 月](<https://www.anthropic.com/research/circuits-updates-sept-2024>) · 2024-10-01
-- [Circuits 动态更新：2024 年 8 月](<https://www.anthropic.com/research/circuits-updates-august-2024>) · 2024-09-06
-- [Circuits 动态更新：2024 年 7 月](<https://www.anthropic.com/research/circuits-updates-july-2024>) · 2024-07-31
-- [Circuits 动态更新：2024 年 6 月](<https://www.anthropic.com/research/circuits-updates-june-2024>) · 2024-06-28
-- [从谄媚到暗中操纵：探究语言模型中的奖励篡改](<https://www.anthropic.com/research/reward-tampering>) · 2024-06-17
-- [扩展可解释性的工程挑战](<https://www.anthropic.com/research/engineering-challenges-interpretability>) · 2024-06-13
-- [Claude 的性格](<https://www.anthropic.com/research/claude-character>) · 2024-06-08
-- [测试并缓解选举相关风险](<https://www.anthropic.com/research/testing-and-mitigating-elections-related-risks>) · 2024-06-06
-- [绘制大型语言模型的-心智-地图](<https://www.anthropic.com/research/mapping-mind-language-model>) · 2024-05-21
-- [电路研究动态——2024 年 4 月](<https://www.anthropic.com/research/circuits-updates-april-2024>) · 2024-04-26
-- [简单的探针就能抓住潜伏特工](<https://www.anthropic.com/research/probes-catch-sleeper-agents>) · 2024-04-23
-- [测量语言模型的说服力](<https://www.anthropic.com/research/measuring-model-persuasiveness>) · 2024-04-09
-- [关于定性研究的思考](<https://www.anthropic.com/research/transformer-circuits>) · 2024-03-08
-- [评估和减轻语言模型决策中的歧视](<https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions>) · 2023-12-07
-- [宪法式 AI 的具体原则与通用原则](<https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai>) · 2023-10-24
-- [理解语言模型中的谄媚行为](<https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models>) · 2023-10-23
-- [集体宪法 AI：让语言模型对齐公众输入](<https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input>) · 2023-10-17
-- [将语言模型分解为可理解的组件](<https://www.anthropic.com/research/decomposing-language-models-into-understandable-components>) · 2023-10-05
-- [迈向单义性：用字典学习分解语言模型](<https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning>) · 2023-10-05
-- [评估 AI 系统的挑战](<https://www.anthropic.com/research/evaluating-ai-systems>) · 2023-10-04
-- [用影响函数研究大语言模型的泛化](<https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions>) · 2023-08-08
-- [追溯模型输出到训练数据](<https://www.anthropic.com/research/influence-functions>) · 2023-08-08
-- [问题分解提升模型生成推理的忠实性](<https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning>) · 2023-07-18
-- [衡量思维链推理的忠实性](<https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning>) · 2023-07-18
-- [衡量语言模型对全球主观观点代表性的探索](<https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models>) · 2023-06-29
-- [可解释性之梦](<https://www.anthropic.com/research/interpretability-dreams>) · 2023-05-24
-- [Circuits 动态更新：2023 年 5 月](<https://www.anthropic.com/research/circuits-updates-may-2023>) · 2023-05-24
-- [分布式表示：组合与叠加](<https://www.anthropic.com/research/distributed-representations-composition-superposition>) · 2023-05-04
-- [Transformer 残差流中的特权基](<https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream>) · 2023-03-16
-- [大型语言模型的道德自我纠错能力](<https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models>) · 2023-02-15
-- [叠加、记忆与双下降](<https://www.anthropic.com/research/superposition-memorization-and-double-descent>) · 2023-01-05
-- [宪法 AI：来自 AI 反馈的无害性](<https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback>) · 2022-12-15
-- [衡量大语言模型可扩展监督的进展](<https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models>) · 2022-11-04
-- [叠加的玩具模型](<https://www.anthropic.com/research/toy-models-of-superposition>) · 2022-09-14
-- [语言模型（大体上）知道自己知道什么](<https://www.anthropic.com/research/language-models-mostly-know-what-they-know>) · 2022-07-11
-- [Softmax 线性单元](<https://www.anthropic.com/research/softmax-linear-units>) · 2022-06-17
-- [基于人类反馈的强化学习训练有用且无害的助手](<https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback>) · 2022-04-12
-- [上下文学习与归纳头](<https://www.anthropic.com/research/in-context-learning-and-induction-heads>) · 2022-03-08
-- [大型生成模型中的可预测性与意外](<https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models>) · 2022-02-15
-- [Transformer 电路的数学框架](<https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits>) · 2021-12-22
-- [作为对齐实验场的通用语言助手](<https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment>) · 2021-12-01
-- [Anthropic 教育报告：AI 流畅度指数](<https://academy.claude.com/tutorials/the-ai-fluency-index>)
-- [A Mathematical Framework for Transformer Circuits](<https://transformer-circuits.pub/2021/framework/index.html>)
-- [Anthropic 经济未来计划](<https://www.anthropic.com/economic-futures/program>)
-- [In-context Learning and Induction Heads](<https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html>)
+- [Project EVE：Claude 玩 MMORPG](<https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs>) · 2026-11-06 · 已有中文全文（本库未公开）
+- [大语言模型可证明推理的进展](<https://www.anthropic.com/research/provable-inference>) · 2026-11-02 · 已有中文全文（本库未公开）
+- [AI 智能体如何影响专家的判断决策](<https://www.anthropic.com/research/agents-judgment-calls>) · 2026-10-27 · 已有中文全文（本库未公开）
+- [用 Claude 发现并利用关键真实世界软件中的漏洞](<https://www.anthropic.com/research/discovering-vulnerabilities-with-claude>) · 2026-10-27 · 已有中文全文（本库未公开）
+- [英国 AISI 网络测试事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-ukaisi>) · 2026-10-23 · 已有中文全文（本库未公开）
+- [LLM 正在让大规模形式化软件验证变得可行](<https://www.anthropic.com/research/formal-verification>) · 2026-10-22 · 已有中文全文（本库未公开）
+- [用 Claude 减少代码的攻击面](<https://www.anthropic.com/research/attack-surface-reduction>) · 2026-10-20 · 已有中文全文（本库未公开）
+- [用 Claude 设计更高效的量子电路](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>) · 2026-10-16 · 已有中文全文（本库未公开）
+- [推出面向开源软件的选择加入式漏洞发现服务](<https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [天空中缺失的那张地图](<https://www.anthropic.com/research/the-missing-map-of-the-sky>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [Claude 式科学](<https://www.anthropic.com/research/claude-shaped-science>) · 2026-10-01 · 已有中文全文（本库未公开）
+- [机器人能做哪些工作？](<https://www.anthropic.com/research/what-work-can-robots-do>) · 2026-09-30 · 已有中文全文（本库未公开）
+- [GLM-5.3 与先进网络能力的扩散](<https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities>) · 2026-09-29 · 已有中文全文（本库未公开）
+- [你想从 AI 得到什么？](<https://www.anthropic.com/research/your-thoughts-on-ai>) · 2026-09-29 · 已有中文全文（本库未公开）
+- [是的，Claude 能算九圈](<https://www.anthropic.com/research/yes-claude-can-do-nine-loops>) · 2026-09-25 · 已有中文全文（本库未公开）
+- [Project Swap：当智能体替我们做交易时会发生什么？](<https://www.anthropic.com/research/project-swap>) · 2026-09-24 · 已有中文全文（本库未公开）
+- [Claude 如何提升生物分子建模能力](<https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling>) · 2026-09-17 · 已有中文全文（本库未公开）
+- [衡量 AI 模型的战术情报目标定位与常规武器能力](<https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities>) · 2026-09-10 · 已有中文全文（本库未公开）
+- [对齐](<https://www.anthropic.com/research/team/alignment>) · 2026-09-09 · 已有中文全文（本库未公开）
+- [形式化费马大定理](<https://www.anthropic.com/research/formalizing-fermats-last-theorem>) · 2026-09-04 · 已有中文全文（本库未公开）
+- [自动化研究员能够可靠地缓解对齐失败](<https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures>) · 2026-08-28 · 已有中文全文（本库未公开）
+- [支持对-人们如何使用 Claude-的独立研究](<https://www.anthropic.com/research/enabling-independent-research>) · 2026-08-26 · 已有中文全文（本库未公开）
+- [Claude 如何加速蛋白质设计与分析化学](<https://www.anthropic.com/research/Claude-accelerates-protein-design>) · 2026-08-18 · 已有中文全文（本库未公开）
+- [新兴多智能体系统中的模式与问题](<https://www.anthropic.com/research/multiagent-systems>) · 2026-08-13 · 已有中文全文（本库未公开）
+- [审视关于工人再培训项目的证据](<https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs>) · 2026-08-12 · 已有中文全文（本库未公开）
+- [进一步了解 Claude 的数学能力](<https://www.anthropic.com/research/riemann-zeta>) · 2026-08-10 · 已有中文全文（本库未公开）
+- [用 Claude 发现密码学弱点](<https://www.anthropic.com/research/discovering-cryptographic-weaknesses>) · 2026-07-28 · 已有中文全文（本库未公开）
+- [Project Pilot：AI 能控制无人机吗？](<https://www.anthropic.com/research/project-pilot>) · 2026-07-24 · 已有中文全文（本库未公开）
+- [加拿大人如何使用 Claude：来自 Anthropic 经济指数的发现](<https://www.anthropic.com/research/how-canada-uses-claude>) · 2026-07-14 · 已有中文全文（本库未公开）
+- [Claude 在不同模型与语言中体现的价值观](<https://www.anthropic.com/research/claude-values-models-languages>) · 2026-07-13 · 已有中文全文（本库未公开）
+- [Claude 玩转机器人](<https://www.anthropic.com/research/claude-plays-robotics>) · 2026-07-09 · 已有中文全文（本库未公开）
+- [AI 模型中双用途知识的开关](<https://www.anthropic.com/research/off-switch-dual-use>) · 2026-07-08 · 已有中文全文（本库未公开）
+- [可解释性团队](<https://www.anthropic.com/research/team/interpretability>) · 2026-07-06 · 已有中文全文（本库未公开）
+- [语言模型中的全局工作空间](<https://www.anthropic.com/research/global-workspace>) · 2026-07-06 · 已有中文全文（本库未公开）
+- [经济学团队](<https://www.anthropic.com/research/team/economics>) · 2026-06-26 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数报告：节奏](<https://www.anthropic.com/research/economic-index-june-2026-report>) · 2026-06-26 · 已有中文全文（本库未公开）
+- [Fetch 项目：第二阶段](<https://www.anthropic.com/research/project-fetch-phase-two>) · 2026-06-18 · 已有中文全文（本库未公开）
+- [智能体编程与专业能力的持久回报](<https://www.anthropic.com/research/claude-code-expertise>) · 2026-06-16 · 已有中文全文（本库未公开）
+- [为生物学领域的智能体铺路](<https://www.anthropic.com/research/agents-in-biology>) · 2026-06-08 · 已有中文全文（本库未公开）
+- [衡量 LLM 对 N-day 漏洞利用的影响](<https://www.anthropic.com/research/n-days>) · 2026-06-08 · 已有中文全文（本库未公开）
+- [让 Claude 成为化学家](<https://www.anthropic.com/research/making-claude-a-chemist>) · 2026-06-05 · 已有中文全文（本库未公开）
+- [梳理一整年的 AI 赋能网络威胁后，我们学到了什么](<https://www.anthropic.com/research/AI-enabled-cyber-threats-mitre-attack>) · 2026-06-03 · 已有中文全文（本库未公开）
+- [绘制 AI 赋能的网络威胁图谱：来自 LLM ATT&CK Navigator 的洞察](<https://www.anthropic.com/research/attack-navigator>) · 2026-06-03 · 已有中文全文（本库未公开）
+- [社会科学领域的编程智能体](<https://www.anthropic.com/research/coding-agents-social-sciences>) · 2026-05-27 · 已有中文全文（本库未公开）
+- [Project Glasswing：初步进展更新](<https://www.anthropic.com/research/glasswing-initial-update>) · 2026-05-22 · 已有中文全文（本库未公开）
+- [衡量大语言模型开发漏洞利用的能力](<https://www.anthropic.com/research/exploit-evals>) · 2026-05-22 · 已有中文全文（本库未公开）
+- [2028：全球 AI 领导地位的两种情景（2028- Two scenarios for global AI leadership）](<https://www.anthropic.com/research/2028-ai-leadership>) · 2026-05-14 · 已有中文全文（本库未公开）
+- [教会 Claude「为什么」](<https://www.anthropic.com/research/teaching-claude-why>) · 2026-05-08 · 已有中文全文（本库未公开）
+- [自然语言自编码器：把 Claude 的想法变成文字](<https://www.anthropic.com/research/natural-language-autoencoders>) · 2026-05-07 · 已有中文全文（本库未公开）
+- [Anthropic 研究院的重点研究领域](<https://www.anthropic.com/research/anthropic-institute-agenda>) · 2026-05-07 · 已有中文全文（本库未公开）
+- [捐赠我们的开源对齐工具](<https://www.anthropic.com/research/donating-open-source-petri>) · 2026-05-07 · 已有中文全文（本库未公开）
+- [人们如何向 Claude 寻求个人指导](<https://www.anthropic.com/research/claude-personal-guidance>) · 2026-04-30 · 已有中文全文（本库未公开）
+- [用 BioMysteryBench 评估 Claude 的生物信息学研究能力](<https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench>) · 2026-04-29 · 已有中文全文（本库未公开）
+- [81,000 人告诉我们的 AI 经济学](<https://www.anthropic.com/research/81k-economics>) · 2026-04-22 · 已有中文全文（本库未公开）
+- [宣布推出 Anthropic 经济指数调查](<https://www.anthropic.com/research/economic-index-survey-announcement>) · 2026-04-22 · 已有中文全文（本库未公开）
+- [自动化对齐研究员：用大语言模型扩展「可扩展监督」](<https://www.anthropic.com/research/automated-alignment-researchers>) · 2026-04-14 · 已有中文全文（本库未公开）
+- [实践中的可信智能体](<https://www.anthropic.com/research/trustworthy-agents>) · 2026-04-09 · 已有中文全文（本库未公开）
+- [大型语言模型中的情绪概念及其功能](<https://www.anthropic.com/research/emotion-concepts-function>) · 2026-04-02 · 已有中文全文（本库未公开）
+- [澳大利亚人如何使用 Claude：来自 Anthropic 经济指数的发现](<https://www.anthropic.com/research/how-australia-uses-claude>) · 2026-03-31 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数报告：学习曲线](<https://www.anthropic.com/research/economic-index-march-2026-report>) · 2026-03-24 · 已有中文全文（本库未公开）
+- [氛围物理：AI 研究生](<https://www.anthropic.com/research/vibe-physics>) · 2026-03-23 · 已有中文全文（本库未公开）
+- [介绍我们的科学博客](<https://www.anthropic.com/research/introducing-anthropic-science>) · 2026-03-23 · 已有中文全文（本库未公开）
+- [用于科学计算的长时运行 Claude](<https://www.anthropic.com/research/long-running-Claude>) · 2026-03-23 · 已有中文全文（本库未公开）
+- [社会影响](<https://www.anthropic.com/research/team/societal-impacts>) · 2026-03-18 · 已有中文全文（本库未公开）
+- [给 AI 用的「diff」工具：在新模型中发现行为差异](<https://www.anthropic.com/research/diff-tool>) · 2026-03-13 · 已有中文全文（本库未公开）
+- [逆向分析 Claude 编写的 CVE-2026-2796 漏洞利用代码](<https://www.anthropic.com/research/exploit>) · 2026-03-06 · 已有中文全文（本库未公开）
+- [AI 对劳动力市场的影响：一种新度量与早期证据](<https://www.anthropic.com/research/labor-market-impacts>) · 2026-03-05 · 已有中文全文（本库未公开）
+- [关于 Claude Opus 3 模型弃用承诺的最新进展](<https://www.anthropic.com/research/deprecation-updates-opus-3>) · 2026-02-25 · 已有中文全文（本库未公开）
+- [人格选择模型](<https://www.anthropic.com/research/persona-selection-model>) · 2026-02-23 · 已有中文全文（本库未公开）
+- [实际测量 AI 智能体的自主性](<https://www.anthropic.com/research/measuring-agent-autonomy>) · 2026-02-18 · 已有中文全文（本库未公开）
+- [印度国家简报：Anthropic 经济指数](<https://www.anthropic.com/research/india-brief-economic-index>) · 2026-02-16 · 已有中文全文（本库未公开）
+- [评估并缓解大语言模型发现 0-day 漏洞的日益增长的风险](<https://www.anthropic.com/research/zero-days>) · 2026-02-05 · 已有中文全文（本库未公开）
+- [AI 辅助如何影响编程技能的形成](<https://www.anthropic.com/research/AI-assistance-coding-skills>) · 2026-01-29 · 已有中文全文（本库未公开）
+- [真实世界 AI 使用中的「去能」模式](<https://www.anthropic.com/research/disempowerment-patterns>) · 2026-01-28 · 已有中文全文（本库未公开）
+- [Claude 的新宪法](<https://www.anthropic.com/research/claude-new-constitution>) · 2026-01-22 · 已有中文全文（本库未公开）
+- [助手轴：定位并稳定大语言模型的「角色」](<https://www.anthropic.com/research/assistant-axis>) · 2026-01-19 · 已有中文全文（本库未公开）
+- [AI 模型在仿真网络靶场上展现出更强的漏洞发现与利用能力](<https://www.anthropic.com/research/cyber-toolkits-update>) · 2026-01-16 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数：理解 AI 使用的新基石](<https://www.anthropic.com/research/economic-index-primitives>) · 2026-01-15 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数报告：经济原语](<https://www.anthropic.com/research/anthropic-economic-index-january-2026-report>) · 2026-01-15 · 已有中文全文（本库未公开）
+- [用 Claude 和基于属性的测试在整个 Python 生态中发现 bug](<https://www.anthropic.com/research/property-based-testing>) · 2026-01-14 · 已有中文全文（本库未公开）
+- [Project Vend：第二阶段](<https://www.anthropic.com/research/project-vend-2>) · 2025-12-18 · 已有中文全文（本库未公开）
+- [介绍 Anthropic Interviewer：1,250 位专业人士向我们讲述了他们与 AI 共事的经历](<https://www.anthropic.com/research/anthropic-interviewer>) · 2025-12-04 · 已有中文全文（本库未公开）
+- [AI 如何改变 Anthropic 的工作方式](<https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic>) · 2025-12-02 · 已有中文全文（本库未公开）
+- [AI 智能体在区块链智能合约中发现 460 万美元漏洞利用收益](<https://www.anthropic.com/research/smart-contracts>) · 2025-12-01 · 已有中文全文（本库未公开）
+- [从 Claude 对话估算 AI 的生产率提升](<https://www.anthropic.com/research/estimating-productivity-gains>) · 2025-11-25 · 已有中文全文（本库未公开）
+- [降低浏览器使用中的提示注入风险](<https://www.anthropic.com/research/prompt-injection-defenses>) · 2025-11-24 · 已有中文全文（本库未公开）
+- [Project Fetch：Claude 能训练机器狗吗？](<https://www.anthropic.com/research/project-fetch-robot-dog>) · 2025-11-12 · 已有中文全文（本库未公开）
+- [关于模型弃用与保存的承诺](<https://www.anthropic.com/research/deprecation-commitments>) · 2025-11-04 · 已有中文全文（本库未公开）
+- [大语言模型内省的迹象](<https://www.anthropic.com/research/introspection>) · 2025-10-29 · 已有中文全文（本库未公开）
+- [为 AI 的经济影响做好准备：探索政策应对](<https://www.anthropic.com/research/economic-policy-responses>) · 2025-10-14 · 已有中文全文（本库未公开）
+- [少量样本即可毒化任意规模的大语言模型](<https://www.anthropic.com/research/small-samples-poison>) · 2025-10-09 · 已有中文全文（本库未公开）
+- [为网络防御者构建 AI](<https://www.anthropic.com/research/building-ai-cyber-defenders>) · 2025-10-03 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数报告：不均衡的地理与企业 AI 采用](<https://www.anthropic.com/research/anthropic-economic-index-september-2025-report>) · 2025-09-15 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数：追踪 AI 在美国及全球经济中的角色](<https://www.anthropic.com/research/economic-index-geography>) · 2025-09-15 · 已有中文全文（本库未公开）
+- [我们为什么认真对待大语言模型作为潜在生物风险来源？](<https://www.anthropic.com/research/biorisk>) · 2025-09-05 · 已有中文全文（本库未公开）
+- [Anthropic 教育报告：教育者如何使用 Claude](<https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude>) · 2025-08-27 · 已有中文全文（本库未公开）
+- [Claude Opus 4 和 4.1 现在可以结束一小部分罕见的对话](<https://www.anthropic.com/research/end-subset-conversations>) · 2025-08-15 · 已有中文全文（本库未公开）
+- [Claude 在（某些）网络安全竞赛中与人类不相上下](<https://www.anthropic.com/research/cyber-competitions>) · 2025-08-09 · 已有中文全文（本库未公开）
+- [人格向量：监控并控制语言模型中的性格特质](<https://www.anthropic.com/research/persona-vectors>) · 2025-08-01 · 已有中文全文（本库未公开）
+- [人们如何用 Claude 寻求支持、建议与陪伴](<https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship>) · 2025-06-27 · 已有中文全文（本库未公开）
+- [Project Vend：Claude 能经营一家小商店吗？（为什么这很重要？）](<https://www.anthropic.com/research/project-vend-1>) · 2025-06-27 · 已有中文全文（本库未公开）
+- [基于可信虚拟机的机密推理](<https://www.anthropic.com/research/confidential-inference-trusted-vms>) · 2025-06-18 · 已有中文全文（本库未公开）
+- [SHADE-Arena：评估 LLM 智能体的破坏与监控能力](<https://www.anthropic.com/research/shade-arena-sabotage-monitoring>) · 2025-06-16 · 已有中文全文（本库未公开）
+- [配备网络工具包的大语言模型可以在企业规模的计算机网络上执行多阶段网络行动](<https://www.anthropic.com/research/cyber-toolkits>) · 2025-06-13 · 已有中文全文（本库未公开）
+- [开源回路追踪工具](<https://www.anthropic.com/research/open-source-circuit-tracing>) · 2025-05-29 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数：AI 对软件开发的影响](<https://www.anthropic.com/research/impact-software-development>) · 2025-04-28 · 已有中文全文（本库未公开）
+- [探索模型福祉](<https://www.anthropic.com/research/exploring-model-welfare>) · 2025-04-24 · 已有中文全文（本库未公开）
+- [真实世界中的价值观：发现并分析语言模型真实交互中的价值观](<https://www.anthropic.com/research/values-wild>) · 2025-04-21 · 已有中文全文（本库未公开）
+- [Anthropic 教育报告：大学生如何使用 Claude](<https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude>) · 2025-04-08 · 已有中文全文（本库未公开）
+- [推理模型并不总是说出它们的真实想法](<https://www.anthropic.com/research/reasoning-models-dont-say-think>) · 2025-04-03 · 已有中文全文（本库未公开）
+- [追踪大语言模型的「思维」](<https://www.anthropic.com/research/tracing-thoughts-language-model>) · 2025-03-27 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数：来自 Claude 3.7 Sonnet 的洞察](<https://www.anthropic.com/research/anthropic-economic-index-insights-from-claude-sonnet-3-7>) · 2025-03-27 · 已有中文全文（本库未公开）
+- [审计语言模型的隐藏目标](<https://www.anthropic.com/research/auditing-hidden-objectives>) · 2025-03-13 · 已有中文全文（本库未公开）
+- [预测语言模型的罕见行为](<https://www.anthropic.com/research/forecasting-rare-behaviors>) · 2025-02-25 · 已有中文全文（本库未公开）
+- [跨编码器模型差异分析的洞见](<https://www.anthropic.com/research/crosscoder-model-diffing>) · 2025-02-20 · 已有中文全文（本库未公开）
+- [Anthropic 经济指数](<https://www.anthropic.com/research/the-anthropic-economic-index>) · 2025-02-10 · 已有中文全文（本库未公开）
+- [Clio：一个以隐私保护方式洞察真实世界 AI 使用情况的系统](<https://www.anthropic.com/research/clio>) · 2024-12-12 · 已有中文全文（本库未公开）
+- [评估特征引导：减轻社会偏见的案例研究](<https://www.anthropic.com/research/evaluating-feature-steering>) · 2024-10-25 · 已有中文全文（本库未公开）
+- [开发计算机操作模型](<https://www.anthropic.com/research/developing-computer-use>) · 2024-10-22 · 已有中文全文（本库未公开）
+- [将字典学习特征用作分类器](<https://www.anthropic.com/research/features-as-classifiers>) · 2024-10-16 · 已有中文全文（本库未公开）
+- [Circuits 动态更新：2024 年 9 月](<https://www.anthropic.com/research/circuits-updates-sept-2024>) · 2024-10-01 · 已有中文全文（本库未公开）
+- [Circuits 动态更新：2024 年 8 月](<https://www.anthropic.com/research/circuits-updates-august-2024>) · 2024-09-06 · 已有中文全文（本库未公开）
+- [Circuits 动态更新：2024 年 7 月](<https://www.anthropic.com/research/circuits-updates-july-2024>) · 2024-07-31 · 已有中文全文（本库未公开）
+- [Circuits 动态更新：2024 年 6 月](<https://www.anthropic.com/research/circuits-updates-june-2024>) · 2024-06-28 · 已有中文全文（本库未公开）
+- [从谄媚到暗中操纵：探究语言模型中的奖励篡改](<https://www.anthropic.com/research/reward-tampering>) · 2024-06-17 · 已有中文全文（本库未公开）
+- [扩展可解释性的工程挑战](<https://www.anthropic.com/research/engineering-challenges-interpretability>) · 2024-06-13 · 已有中文全文（本库未公开）
+- [Claude 的性格](<https://www.anthropic.com/research/claude-character>) · 2024-06-08 · 已有中文全文（本库未公开）
+- [测试并缓解选举相关风险](<https://www.anthropic.com/research/testing-and-mitigating-elections-related-risks>) · 2024-06-06 · 已有中文全文（本库未公开）
+- [绘制大型语言模型的-心智-地图](<https://www.anthropic.com/research/mapping-mind-language-model>) · 2024-05-21 · 已有中文全文（本库未公开）
+- [电路研究动态——2024 年 4 月](<https://www.anthropic.com/research/circuits-updates-april-2024>) · 2024-04-26 · 已有中文全文（本库未公开）
+- [简单的探针就能抓住潜伏特工](<https://www.anthropic.com/research/probes-catch-sleeper-agents>) · 2024-04-23 · 已有中文全文（本库未公开）
+- [测量语言模型的说服力](<https://www.anthropic.com/research/measuring-model-persuasiveness>) · 2024-04-09 · 已有中文全文（本库未公开）
+- [关于定性研究的思考](<https://www.anthropic.com/research/transformer-circuits>) · 2024-03-08 · 已有中文全文（本库未公开）
+- [评估和减轻语言模型决策中的歧视](<https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions>) · 2023-12-07 · 已有中文全文（本库未公开）
+- [宪法式 AI 的具体原则与通用原则](<https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai>) · 2023-10-24 · 已有中文全文（本库未公开）
+- [理解语言模型中的谄媚行为](<https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models>) · 2023-10-23 · 已有中文全文（本库未公开）
+- [集体宪法 AI：让语言模型对齐公众输入](<https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input>) · 2023-10-17 · 已有中文全文（本库未公开）
+- [将语言模型分解为可理解的组件](<https://www.anthropic.com/research/decomposing-language-models-into-understandable-components>) · 2023-10-05 · 已有中文全文（本库未公开）
+- [迈向单义性：用字典学习分解语言模型](<https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning>) · 2023-10-05 · 已有中文全文（本库未公开）
+- [评估 AI 系统的挑战](<https://www.anthropic.com/research/evaluating-ai-systems>) · 2023-10-04 · 已有中文全文（本库未公开）
+- [用影响函数研究大语言模型的泛化](<https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions>) · 2023-08-08 · 已有中文全文（本库未公开）
+- [追溯模型输出到训练数据](<https://www.anthropic.com/research/influence-functions>) · 2023-08-08 · 已有中文全文（本库未公开）
+- [问题分解提升模型生成推理的忠实性](<https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning>) · 2023-07-18 · 已有中文全文（本库未公开）
+- [衡量思维链推理的忠实性](<https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning>) · 2023-07-18 · 已有中文全文（本库未公开）
+- [衡量语言模型对全球主观观点代表性的探索](<https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models>) · 2023-06-29 · 已有中文全文（本库未公开）
+- [可解释性之梦](<https://www.anthropic.com/research/interpretability-dreams>) · 2023-05-24 · 已有中文全文（本库未公开）
+- [Circuits 动态更新：2023 年 5 月](<https://www.anthropic.com/research/circuits-updates-may-2023>) · 2023-05-24 · 已有中文全文（本库未公开）
+- [分布式表示：组合与叠加](<https://www.anthropic.com/research/distributed-representations-composition-superposition>) · 2023-05-04 · 已有中文全文（本库未公开）
+- [Transformer 残差流中的特权基](<https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream>) · 2023-03-16 · 已有中文全文（本库未公开）
+- [大型语言模型的道德自我纠错能力](<https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models>) · 2023-02-15 · 已有中文全文（本库未公开）
+- [叠加、记忆与双下降](<https://www.anthropic.com/research/superposition-memorization-and-double-descent>) · 2023-01-05 · 已有中文全文（本库未公开）
+- [宪法 AI：来自 AI 反馈的无害性](<https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback>) · 2022-12-15 · 已有中文全文（本库未公开）
+- [衡量大语言模型可扩展监督的进展](<https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models>) · 2022-11-04 · 已有中文全文（本库未公开）
+- [叠加的玩具模型](<https://www.anthropic.com/research/toy-models-of-superposition>) · 2022-09-14 · 已有中文全文（本库未公开）
+- [语言模型（大体上）知道自己知道什么](<https://www.anthropic.com/research/language-models-mostly-know-what-they-know>) · 2022-07-11 · 已有中文全文（本库未公开）
+- [Softmax 线性单元](<https://www.anthropic.com/research/softmax-linear-units>) · 2022-06-17 · 已有中文全文（本库未公开）
+- [基于人类反馈的强化学习训练有用且无害的助手](<https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback>) · 2022-04-12 · 已有中文全文（本库未公开）
+- [上下文学习与归纳头](<https://www.anthropic.com/research/in-context-learning-and-induction-heads>) · 2022-03-08 · 已有中文全文（本库未公开）
+- [大型生成模型中的可预测性与意外](<https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models>) · 2022-02-15 · 已有中文全文（本库未公开）
+- [Transformer 电路的数学框架](<https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits>) · 2021-12-22 · 已有中文全文（本库未公开）
+- [作为对齐实验场的通用语言助手](<https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment>) · 2021-12-01 · 已有中文全文（本库未公开）
+- [Anthropic 教育报告：AI 流畅度指数](<https://academy.claude.com/tutorials/the-ai-fluency-index>) · 已有中文全文（本库未公开）
+- [A Mathematical Framework for Transformer Circuits](<https://transformer-circuits.pub/2021/framework/index.html>) · 仅原文
+- [Anthropic 经济未来计划](<https://www.anthropic.com/economic-futures/program>) · 已有中文全文（本库未公开）
+- [In-context Learning and Induction Heads](<https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html>) · 仅原文
 
 #### Cursor
 
 - [提升长时间运行 Agent 的 Token 效率](content/Cursor/%E5%AE%98%E6%96%B9/2026-09-23_%E6%8F%90%E5%8D%87%E9%95%BF%E6%97%B6%E9%97%B4%E8%BF%90%E8%A1%8C%20Agent%20%E7%9A%84%20Token%20%E6%95%88%E7%8E%87.%E4%B8%AD%E6%96%87.md) · 2026-09-23 · 中文译文 · [原文](<https://cursor.com/blog/improved-token-efficiency>)
-- [任意规模的 Git](<https://cursor.com/blog/git-at-any-scale>) · 2026-08-18
+- [任意规模的 Git](<https://cursor.com/cn/blog/git-at-any-scale>) · 2026-08-18 · 官方中文版 · [原文](<https://cursor.com/blog/git-at-any-scale>)
 
 #### DeepSeek
 
-- [DSpark：置信度调度投机解码与半自回归生成](<https://arxiv.org/abs/2607.05147>) · 2026-07-06
-- [DeepSeek-V3 洞察：扩展挑战与 AI 硬件架构思考](<https://arxiv.org/abs/2505.09343>) · 2025-05-14
+- [DSpark：置信度调度投机解码与半自回归生成](<https://arxiv.org/abs/2607.05147>) · 2026-07-06 · 已有中文全文（本库未公开）
+- [DeepSeek-V3 洞察：扩展挑战与 AI 硬件架构思考](<https://arxiv.org/abs/2505.09343>) · 2025-05-14 · 已有中文全文（本库未公开）
 
 #### Google DeepMind
 
@@ -196,72 +198,72 @@
 
 #### Microsoft Research
 
-- [TokenEconomizer：用历史经验降低编码 Agent 的开销](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>) · 2026-11-16
+- [TokenEconomizer：用历史经验降低编码 Agent 的开销](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>) · 2026-11-16 · 仅原文
 
 #### OpenAI
 
-- [科学前沿：研究者如何使用 ChatGPT](<https://openai.com/index/science-at-the-frontier/>) · 2026-11-16
-- [OpenAI 开设科学博客](<https://openai.com/index/our-new-blog-for-science/>) · 2026-11-15
-- [在格点上定义标准模型：向前一步](<https://openai.com/index/step-toward-defining-the-standard-model/>) · 2026-11-15
+- [科学前沿：研究者如何使用 ChatGPT](<https://openai.com/index/science-at-the-frontier/>) · 2026-11-16 · 仅原文
+- [OpenAI 开设科学博客](<https://openai.com/index/our-new-blog-for-science/>) · 2026-11-15 · 仅原文
+- [在格点上定义标准模型：向前一步](<https://openai.com/index/step-toward-defining-the-standard-model/>) · 2026-11-15 · 仅原文
 - [衡量 AI Agent 处理日常湿实验室科学任务的能力](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-06_%E8%A1%A1%E9%87%8F%20AI%20Agent%20%E5%A4%84%E7%90%86%E6%97%A5%E5%B8%B8%E6%B9%BF%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%A7%91%E5%AD%A6%E4%BB%BB%E5%8A%A1%E7%9A%84%E8%83%BD%E5%8A%9B.%E4%B8%AD%E6%96%87.md) · 2026-11-06 · 中文译文 · [原文](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/>)
 - [加速物理世界的工程设计](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-03_%E5%8A%A0%E9%80%9F%E7%89%A9%E7%90%86%E4%B8%96%E7%95%8C%E7%9A%84%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1.%E4%B8%AD%E6%96%87.md) · 2026-11-03 · 中文译文 · [原文](<https://openai.com/index/accelerating-engineering-for-the-physical-world/>)
-- [OpenAI 如何扩展 Git](<https://openai.com/index/scaling-git-at-openai/>) · 2026-11-02
+- [OpenAI 如何扩展 Git](<https://openai.com/zh-Hans-CN/index/scaling-git-at-openai/>) · 2026-11-02 · 官方中文版 · [原文](<https://openai.com/index/scaling-git-at-openai/>)
 - [利用数千个 AI Agent 在生物数据中发现新线索](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-21_%E5%88%A9%E7%94%A8%E6%95%B0%E5%8D%83%E4%B8%AA%20AI%20Agent%20%E5%9C%A8%E7%94%9F%E7%89%A9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%96%B0%E7%BA%BF%E7%B4%A2.%E4%B8%AD%E6%96%87.md) · 2026-10-21 · 中文译文 · [原文](<https://openai.com/index/scaling-ai-research-for-complex-biological-data/>)
 - [推进低资源编程语言的编码能力](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-19_%E6%8E%A8%E8%BF%9B%E4%BD%8E%E8%B5%84%E6%BA%90%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B.%E4%B8%AD%E6%96%87.md) · 2026-10-19 · 中文译文 · [原文](<https://openai.com/index/low-resource-programming-languages/>)
 - [与 Ironclad 一起推进计算机使用能力](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-06_%E4%B8%8E%20Ironclad%20%E4%B8%80%E8%B5%B7%E6%8E%A8%E8%BF%9B%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%BF%E7%94%A8%E8%83%BD%E5%8A%9B.%E4%B8%AD%E6%96%87.md) · 2026-10-06 · 中文译文 · [原文](<https://openai.com/index/advancing-computer-use-with-ironclad/>)
-- [核心转储流行病学：修复一个存在 18 年的缺陷](<https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/>) · 2026-06-30
-- [为 Windows 上的 Codex 构建安全高效的沙箱环境](<https://openai.com/index/building-codex-windows-sandbox/>) · 2026-05-13
-- [Codex 编排的开源规范：Symphony](<https://openai.com/index/open-source-codex-orchestration-symphony/>) · 2026-04-27
-- [从模型到智能体：为 Responses API 配备计算机环境](<https://openai.com/index/equip-responses-api-computer-environment/>) · 2026-03-11
-- [优化 AI 智能体设计：提升对“提示注入”的免疫力](<https://openai.com/index/designing-agents-to-resist-prompt-injection/>) · 2026-03-11
-- [工程技术：在智能体优先的世界中利用 Codex](<https://openai.com/index/harness-engineering/>) · 2026-02-11
-- [解锁 Codex 运行框架：我们如何构建 App Server](<https://openai.com/index/unlocking-the-codex-harness/>) · 2026-02-04
-- [深入了解 OpenAI 的内部数据智能体](<https://openai.com/index/inside-our-in-house-data-agent/>) · 2026-01-29
-- [深入解析 Codex 智能体循环](<https://openai.com/index/unrolling-the-codex-agent-loop/>) · 2026-01-23
-- [我们如何使用 Codex 在 28 天内发布 Android 版 Sora](<https://openai.com/index/shipping-sora-for-android-with-codex/>) · 2025-12-12
+- [核心转储流行病学：修复一个存在 18 年的缺陷](<https://openai.com/zh-Hans-CN/index/core-dump-epidemiology-data-infrastructure-bug/>) · 2026-06-30 · 官方中文版 · [原文](<https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/>)
+- [为 Windows 上的 Codex 构建安全高效的沙箱环境](<https://openai.com/zh-Hans-CN/index/building-codex-windows-sandbox/>) · 2026-05-13 · 官方中文版 · [原文](<https://openai.com/index/building-codex-windows-sandbox/>)
+- [Codex 编排的开源规范：Symphony](<https://openai.com/zh-Hans-CN/index/open-source-codex-orchestration-symphony/>) · 2026-04-27 · 官方中文版 · [原文](<https://openai.com/index/open-source-codex-orchestration-symphony/>)
+- [从模型到智能体：为 Responses API 配备计算机环境](<https://openai.com/zh-Hans-CN/index/equip-responses-api-computer-environment/>) · 2026-03-11 · 官方中文版 · [原文](<https://openai.com/index/equip-responses-api-computer-environment/>)
+- [优化 AI 智能体设计：提升对“提示注入”的免疫力](<https://openai.com/zh-Hans-CN/index/designing-agents-to-resist-prompt-injection/>) · 2026-03-11 · 官方中文版 · [原文](<https://openai.com/index/designing-agents-to-resist-prompt-injection/>)
+- [工程技术：在智能体优先的世界中利用 Codex](<https://openai.com/zh-Hans-CN/index/harness-engineering/>) · 2026-02-11 · 官方中文版 · [原文](<https://openai.com/index/harness-engineering/>)
+- [解锁 Codex 运行框架：我们如何构建 App Server](<https://openai.com/zh-Hans-CN/index/unlocking-the-codex-harness/>) · 2026-02-04 · 官方中文版 · [原文](<https://openai.com/index/unlocking-the-codex-harness/>)
+- [深入了解 OpenAI 的内部数据智能体](<https://openai.com/zh-Hans-CN/index/inside-our-in-house-data-agent/>) · 2026-01-29 · 官方中文版 · [原文](<https://openai.com/index/inside-our-in-house-data-agent/>)
+- [深入解析 Codex 智能体循环](<https://openai.com/zh-Hans-CN/index/unrolling-the-codex-agent-loop/>) · 2026-01-23 · 官方中文版 · [原文](<https://openai.com/index/unrolling-the-codex-agent-loop/>)
+- [我们如何使用 Codex 在 28 天内发布 Android 版 Sora](<https://openai.com/zh-Hans-CN/index/shipping-sora-for-android-with-codex/>) · 2025-12-12 · 官方中文版 · [原文](<https://openai.com/index/shipping-sora-for-android-with-codex/>)
 
 #### Peter Steinberger
 
-- [以推理速度交付](<https://steipete.me/posts/2025/shipping-at-inference-speed>) · 2025-12-28
-- [直接跟它说：Agent 工程的务实之道](<https://steipete.me/posts/just-talk-to-it>) · 2025-10-14
+- [以推理速度交付](<https://steipete.me/posts/2025/shipping-at-inference-speed>) · 2025-12-28 · 已有中文全文（本库未公开）
+- [直接跟它说：Agent 工程的务实之道](<https://steipete.me/posts/just-talk-to-it>) · 2025-10-14 · 已有中文全文（本库未公开）
 
 ### 工程实践
 
 #### Anthropic
 
-- [用混沌测试循环为 Claude Docs 上线做准备](<https://claude.dev/blog/chaos-loop-claude-docs-launch/>) · 2026-11-17
-- [Claude Code 团队如何看待验证](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>) · 2026-11-16
+- [用混沌测试循环为 Claude Docs 上线做准备](<https://claude.dev/blog/chaos-loop-claude-docs-launch/>) · 2026-11-17 · 仅原文
+- [Claude Code 团队如何看待验证](<https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/>) · 2026-11-16 · 仅原文
 - [构建全天候运行的智能体](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E6%9E%84%E5%BB%BA%E5%85%A8%E5%A4%A9%E5%80%99%E8%BF%90%E8%A1%8C%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://claude.com/resources/articles/building-always-on-agents>)
 - [面向初创公司的 Claude Tag 指南](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E9%9D%A2%E5%90%91%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E7%9A%84%20Claude%20Tag%20%E6%8C%87%E5%8D%97.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://claude.com/resources/articles/claude-tag-guide-for-startups>)
-- [该用哪个 Claude 模型来构建？Fable、Opus、Sonnet 还是 Haiku](<https://claude.dev/blog/which-claude-model-should-you-build-with/>) · 2026-11-09
-- [安全地扩展多 Agent 团队：Claude Fable 5.2 的实践](<https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/>) · 2026-11-09
-- [Agent 记忆的组成部分](<https://www.anthropic.com/research/components-of-agent-memory>) · 2026-11-06
-- [用 message threads 让长时间运行的 Agent 更快](<https://claude.com/resources/articles/message-threads>) · 2026-11-02
-- [构建 Agent：何时将 subagent 收编进主 Agent 循环](<https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop>) · 2026-10-22
-- [重新设计 Anthropic 的源代码控制](<https://www.anthropic.com/research/redesigning-source-control>) · 2026-10-13
-- [让你的 Claude Code 会话价值最大化](<https://claude.com/resources/articles/maximizing-the-value-of-your-claude-code-sessions>) · 2026-08-14
-- [我们如何跨产品对 Claude 实施隔离控制](<https://www.anthropic.com/engineering/how-we-contain-claude>) · 2026-05-25
-- [关于近期 Claude Code 质量报告的说明](<https://www.anthropic.com/engineering/april-23-postmortem>) · 2026-04-23
-- [扩展 Managed Agents：把大脑与双手解耦](<https://www.anthropic.com/engineering/managed-agents>) · 2026-04-08
-- [我们如何构建 Claude Code 自动模式：一种更安全的跳过权限方式](<https://www.anthropic.com/engineering/claude-code-auto-mode>) · 2026-03-25
-- [面向长时运行应用开发的脚手架设计](<https://www.anthropic.com/engineering/harness-design-long-running-apps>) · 2026-03-24
-- [Claude Opus 4.6 在 BrowseComp 上的表现中的评测感知](<https://www.anthropic.com/engineering/eval-awareness-browsecomp>) · 2026-03-06
-- [用一支并行 Claude 团队构建 C 编译器](<https://www.anthropic.com/engineering/building-c-compiler>) · 2026-02-05
-- [揭开 AI 智能体评估的神秘面纱](<https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents>) · 2026-01-09
-- [面向长时运行智能体的有效脚手架](<https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents>) · 2025-11-26
-- [用 MCP 执行代码：构建更高效的智能体](<https://www.anthropic.com/engineering/code-execution-with-mcp>) · 2025-11-04
-- [超越权限提示：让 Claude Code 更安全、更自主](<https://www.anthropic.com/engineering/claude-code-sandboxing>) · 2025-10-20
-- [用 Agent Skills 为智能体装备真实世界的能力](<https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills>) · 2025-10-16
-- [使用 Claude Agent SDK 构建智能体](<https://claude.com/blog/building-agents-with-the-claude-agent-sdk>) · 2025-09-29
-- [AI 智能体的有效上下文工程](<https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents>) · 2025-09-29
-- [三个近期问题的事后分析](<https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues>) · 2025-09-17
-- [为智能体编写高效工具——用智能体来写](<https://www.anthropic.com/engineering/writing-tools-for-agents>) · 2025-09-11
-- [桌面扩展：为 Claude Desktop 一键安装 MCP 服务器](<https://www.anthropic.com/engineering/desktop-extensions>) · 2025-06-26
-- [我们如何构建多智能体研究系统](<https://www.anthropic.com/engineering/multi-agent-research-system>) · 2025-06-13
-- [Claude Code 最佳实践](<https://www.anthropic.com/engineering/claude-code-best-practices>) · 2025-04-18
-- [「think」工具：让 Claude 在复杂工具调用场景中停下来思考](<https://www.anthropic.com/engineering/claude-think-tool>) · 2025-03-20
-- [用 Claude 3.5 Sonnet 刷新 SWE-bench Verified 的标杆](<https://www.anthropic.com/engineering/swe-bench-sonnet>) · 2025-01-06
-- [构建高效的智能体](<https://www.anthropic.com/engineering/building-effective-agents>) · 2024-12-19
+- [该用哪个 Claude 模型来构建？Fable、Opus、Sonnet 还是 Haiku](<https://claude.dev/blog/which-claude-model-should-you-build-with/>) · 2026-11-09 · 已有中文全文（本库未公开）
+- [安全地扩展多 Agent 团队：Claude Fable 5.2 的实践](<https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/>) · 2026-11-09 · 已有中文全文（本库未公开）
+- [Agent 记忆的组成部分](<https://www.anthropic.com/research/components-of-agent-memory>) · 2026-11-06 · 已有中文全文（本库未公开）
+- [用 message threads 让长时间运行的 Agent 更快](<https://claude.com/resources/articles/message-threads>) · 2026-11-02 · 已有中文全文（本库未公开）
+- [构建 Agent：何时将 subagent 收编进主 Agent 循环](<https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop>) · 2026-10-22 · 已有中文全文（本库未公开）
+- [重新设计 Anthropic 的源代码控制](<https://www.anthropic.com/research/redesigning-source-control>) · 2026-10-13 · 已有中文全文（本库未公开）
+- [让你的 Claude Code 会话价值最大化](<https://claude.com/resources/articles/maximizing-the-value-of-your-claude-code-sessions>) · 2026-08-14 · 已有中文全文（本库未公开）
+- [我们如何跨产品对 Claude 实施隔离控制](<https://www.anthropic.com/engineering/how-we-contain-claude>) · 2026-05-25 · 已有中文全文（本库未公开）
+- [关于近期 Claude Code 质量报告的说明](<https://www.anthropic.com/engineering/april-23-postmortem>) · 2026-04-23 · 已有中文全文（本库未公开）
+- [扩展 Managed Agents：把大脑与双手解耦](<https://www.anthropic.com/engineering/managed-agents>) · 2026-04-08 · 已有中文全文（本库未公开）
+- [我们如何构建 Claude Code 自动模式：一种更安全的跳过权限方式](<https://www.anthropic.com/engineering/claude-code-auto-mode>) · 2026-03-25 · 已有中文全文（本库未公开）
+- [面向长时运行应用开发的脚手架设计](<https://www.anthropic.com/engineering/harness-design-long-running-apps>) · 2026-03-24 · 已有中文全文（本库未公开）
+- [Claude Opus 4.6 在 BrowseComp 上的表现中的评测感知](<https://www.anthropic.com/engineering/eval-awareness-browsecomp>) · 2026-03-06 · 已有中文全文（本库未公开）
+- [用一支并行 Claude 团队构建 C 编译器](<https://www.anthropic.com/engineering/building-c-compiler>) · 2026-02-05 · 已有中文全文（本库未公开）
+- [揭开 AI 智能体评估的神秘面纱](<https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents>) · 2026-01-09 · 已有中文全文（本库未公开）
+- [面向长时运行智能体的有效脚手架](<https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents>) · 2025-11-26 · 已有中文全文（本库未公开）
+- [用 MCP 执行代码：构建更高效的智能体](<https://www.anthropic.com/engineering/code-execution-with-mcp>) · 2025-11-04 · 已有中文全文（本库未公开）
+- [超越权限提示：让 Claude Code 更安全、更自主](<https://www.anthropic.com/engineering/claude-code-sandboxing>) · 2025-10-20 · 已有中文全文（本库未公开）
+- [用 Agent Skills 为智能体装备真实世界的能力](<https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills>) · 2025-10-16 · 已有中文全文（本库未公开）
+- [使用 Claude Agent SDK 构建智能体](<https://claude.com/blog/building-agents-with-the-claude-agent-sdk>) · 2025-09-29 · 已有中文全文（本库未公开）
+- [AI 智能体的有效上下文工程](<https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents>) · 2025-09-29 · 已有中文全文（本库未公开）
+- [三个近期问题的事后分析](<https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues>) · 2025-09-17 · 已有中文全文（本库未公开）
+- [为智能体编写高效工具——用智能体来写](<https://www.anthropic.com/engineering/writing-tools-for-agents>) · 2025-09-11 · 已有中文全文（本库未公开）
+- [桌面扩展：为 Claude Desktop 一键安装 MCP 服务器](<https://www.anthropic.com/engineering/desktop-extensions>) · 2025-06-26 · 已有中文全文（本库未公开）
+- [我们如何构建多智能体研究系统](<https://www.anthropic.com/engineering/multi-agent-research-system>) · 2025-06-13 · 已有中文全文（本库未公开）
+- [Claude Code 最佳实践](<https://www.anthropic.com/engineering/claude-code-best-practices>) · 2025-04-18 · 已有中文全文（本库未公开）
+- [「think」工具：让 Claude 在复杂工具调用场景中停下来思考](<https://www.anthropic.com/engineering/claude-think-tool>) · 2025-03-20 · 已有中文全文（本库未公开）
+- [用 Claude 3.5 Sonnet 刷新 SWE-bench Verified 的标杆](<https://www.anthropic.com/engineering/swe-bench-sonnet>) · 2025-01-06 · 已有中文全文（本库未公开）
+- [构建高效的智能体](<https://www.anthropic.com/engineering/building-effective-agents>) · 2024-12-19 · 已有中文全文（本库未公开）
 
 #### AWS
 
@@ -270,11 +272,11 @@
 
 #### Cockroach Labs
 
-- [五个月来把 bug 当病人治、把编码 Agent 当医疗团队管](<https://www.cockroachlabs.com/blog/experiment-running-hospital-code/>) · 2026-10-09
+- [五个月来把 bug 当病人治、把编码 Agent 当医疗团队管](<https://www.cockroachlabs.com/blog/experiment-running-hospital-code/>) · 2026-10-09 · 已有中文全文（本库未公开）
 
 #### DeepSeek
 
-- [deepseek-harness](<https://github.com/deepseek-ai/deepseek-harness>)
+- [deepseek-harness](<https://github.com/deepseek-ai/deepseek-harness>) · 已有中文全文（本库未公开）
 
 #### GitHub
 
@@ -286,8 +288,8 @@
 
 #### Kimi
 
-- [Agent 与 subagent](<https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/customization/agents.md>)
-- [会话与上下文](<https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/guides/sessions.md>)
+- [Agent 与 subagent](<https://moonshotai.github.io/kimi-code/zh/customization/agents>) · 官方中文版 · [原文](<https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/customization/agents.md>)
+- [会话与上下文](<https://moonshotai.github.io/kimi-code/zh/guides/sessions>) · 官方中文版 · [原文](<https://github.com/MoonshotAI/kimi-code/blob/main/docs/en/guides/sessions.md>)
 
 #### LangChain
 
@@ -298,7 +300,7 @@
 
 #### Linear
 
-- [AI 编码让 CI 成了瓶颈，所以我们重构了自己的 CI 来跟上节奏](<https://linear.app/now/ci-bottleneck-reworked>) · 2026-09-21
+- [AI 编码让 CI 成了瓶颈，所以我们重构了自己的 CI 来跟上节奏](<https://linear.app/now/ci-bottleneck-reworked>) · 2026-09-21 · 已有中文全文（本库未公开）
 
 #### Microsoft
 
@@ -310,36 +312,36 @@
 - [Cogent 与 OpenAI 为企业打造网络防御工厂](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-10_Cogent%20%E4%B8%8E%20OpenAI%20%E4%B8%BA%E4%BC%81%E4%B8%9A%E6%89%93%E9%80%A0%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1%E5%B7%A5%E5%8E%82.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://openai.com/index/cogent-security/>)
 - [将语音智能体推向更远：四个 GPT-Live 构建案例深度解析](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-10_%E5%B0%86%E8%AF%AD%E9%9F%B3%E6%99%BA%E8%83%BD%E4%BD%93%E6%8E%A8%E5%90%91%E6%9B%B4%E8%BF%9C%EF%BC%9A%E5%9B%9B%E4%B8%AA%20GPT-Live%20%E6%9E%84%E5%BB%BA%E6%A1%88%E4%BE%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://developers.openai.com/blog/pushing-voice-agents-further>)
 - [用 Codex 与 ModRetro Chromatic 开发复古掌机游戏](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-09_%E7%94%A8%20Codex%20%E4%B8%8E%20ModRetro%20Chromatic%20%E5%BC%80%E5%8F%91%E5%A4%8D%E5%8F%A4%E6%8E%8C%E6%9C%BA%E6%B8%B8%E6%88%8F.%E4%B8%AD%E6%96%87.md) · 2026-11-09 · 中文译文 · [原文](<https://developers.openai.com/blog/build-a-game-with-modretro-chromatic>)
-- [快速扩展在线存储，服务超过 10 亿 ChatGPT 用户（第二部分）](<https://openai.com/index/scaling-storage-one-billion-users-part-two/>) · 2026-10-23
+- [快速扩展在线存储，服务超过 10 亿 ChatGPT 用户（第二部分）](<https://openai.com/zh-Hans-CN/index/scaling-storage-one-billion-users-part-two/>) · 2026-10-23 · 官方中文版 · [原文](<https://openai.com/index/scaling-storage-one-billion-users-part-two/>)
 - [我们如何构建兼顾用户信任与相关性的 ChatGPT 广告系统](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-21_%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E5%85%BC%E9%A1%BE%E7%94%A8%E6%88%B7%E4%BF%A1%E4%BB%BB%E4%B8%8E%E7%9B%B8%E5%85%B3%E6%80%A7%E7%9A%84%20ChatGPT%20%E5%B9%BF%E5%91%8A%E7%B3%BB%E7%BB%9F.%E4%B8%AD%E6%96%87.md) · 2026-10-21 · 中文译文 · [原文](<https://openai.com/index/building-chatgpt-ad-stack/>)
-- [用 GPT-6 系列维护软件](<https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family>) · 2026-10-14
+- [用 GPT-6 系列维护软件](<https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family>) · 2026-10-14 · 已有中文全文（本库未公开）
 - [GPT-6 系列模型实践指南](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-02_GPT-6%20%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97.%E4%B8%AD%E6%96%87.md) · 2026-10-02 · 中文译文 · [原文](<https://openai.com/index/practical-guide-building-gpt-6/>)
-- [快速扩展在线存储，为超过10 亿ChatGPT 用户提供服务](<https://openai.com/index/scaling-storage-one-billion-users-part-one/>) · 2026-09-11
-- [用 Codex 自动化 OpenAI 内部的重复性工作](<https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex>) · 2026-08-25
-- [把 Codex 作为平台：在开放的智能体外壳上构建](<https://developers.openai.com/blog/codex-as-a-platform>) · 2026-08-19
-- [用 Traces、Evals 和 Codex 构建 Agent 改进循环](<https://developers.openai.com/cookbook/examples/agents_sdk/agent_improvement_loop>) · 2026-05-12
-- [Shell + Skills + Compaction：让长时间运行的智能体真正干活的实用技巧](<https://developers.openai.com/blog/skills-shell-tips>) · 2026-02-11
-- [用 Evals 系统化测试 Agent Skills](<https://developers.openai.com/blog/eval-skills>) · 2026-01-22
-- [面向个性化的上下文工程——基于长期记忆笔记的状态管理](<https://developers.openai.com/cookbook/examples/agents_sdk/context_personalization>) · 2026-01-05
-- [我们为什么要构建 Responses API](<https://developers.openai.com/blog/responses-api>) · 2025-09-22
-- [上下文工程——用 Session 管理短期记忆](<https://developers.openai.com/cookbook/examples/agents_sdk/session_memory>) · 2025-09-09
+- [快速扩展在线存储，为超过10 亿ChatGPT 用户提供服务](<https://openai.com/zh-Hans-CN/index/scaling-storage-one-billion-users-part-one/>) · 2026-09-11 · 官方中文版 · [原文](<https://openai.com/index/scaling-storage-one-billion-users-part-one/>)
+- [用 Codex 自动化 OpenAI 内部的重复性工作](<https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex>) · 2026-08-25 · 已有中文全文（本库未公开）
+- [把 Codex 作为平台：在开放的智能体外壳上构建](<https://developers.openai.com/blog/codex-as-a-platform>) · 2026-08-19 · 已有中文全文（本库未公开）
+- [用 Traces、Evals 和 Codex 构建 Agent 改进循环](<https://developers.openai.com/cookbook/examples/agents_sdk/agent_improvement_loop>) · 2026-05-12 · 已有中文全文（本库未公开）
+- [Shell + Skills + Compaction：让长时间运行的智能体真正干活的实用技巧](<https://developers.openai.com/blog/skills-shell-tips>) · 2026-02-11 · 已有中文全文（本库未公开）
+- [用 Evals 系统化测试 Agent Skills](<https://developers.openai.com/blog/eval-skills>) · 2026-01-22 · 已有中文全文（本库未公开）
+- [面向个性化的上下文工程——基于长期记忆笔记的状态管理](<https://developers.openai.com/cookbook/examples/agents_sdk/context_personalization>) · 2026-01-05 · 已有中文全文（本库未公开）
+- [我们为什么要构建 Responses API](<https://developers.openai.com/blog/responses-api>) · 2025-09-22 · 已有中文全文（本库未公开）
+- [上下文工程——用 Session 管理短期记忆](<https://developers.openai.com/cookbook/examples/agents_sdk/session_memory>) · 2025-09-09 · 已有中文全文（本库未公开）
 
 ### 基础设施
 
 #### Anthropic
 
-- [量化智能体编程评测中的基础设施噪声](<https://www.anthropic.com/engineering/infrastructure-noise>) · 2026-02-05
-- [用 AI 保卫关键基础设施的实验](<https://www.anthropic.com/research/critical-infrastructure-defense>) · 2026-01-08
-- [Anthropic 向美国 AI 基础设施投资 500 亿美元](<https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure>) · 2025-11-12
-- [从重复数据中学习的规模规律与可解释性](<https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data>) · 2022-05-21
+- [量化智能体编程评测中的基础设施噪声](<https://www.anthropic.com/engineering/infrastructure-noise>) · 2026-02-05 · 已有中文全文（本库未公开）
+- [用 AI 保卫关键基础设施的实验](<https://www.anthropic.com/research/critical-infrastructure-defense>) · 2026-01-08 · 已有中文全文（本库未公开）
+- [Anthropic 向美国 AI 基础设施投资 500 亿美元](<https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure>) · 2025-11-12 · 已有中文全文（本库未公开）
+- [从重复数据中学习的规模规律与可解释性](<https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data>) · 2022-05-21 · 已有中文全文（本库未公开）
 
 #### DeepSeek
 
-- [DualPath：打破智能体 LLM 推理的存储带宽瓶颈](<https://arxiv.org/abs/2602.21548>) · 2026-02-25
+- [DualPath：打破智能体 LLM 推理的存储带宽瓶颈](<https://arxiv.org/abs/2602.21548>) · 2026-02-25 · 已有中文全文（本库未公开）
 
 #### Lilian Weng
 
-- [审慎看待缩放定律](<https://lilianweng.github.io/posts/2026-06-24-scaling-laws/>) · 2026-06-24
+- [审慎看待缩放定律](<https://lilianweng.github.io/posts/2026-06-24-scaling-laws/>) · 2026-06-24 · 已有中文全文（本库未公开）
 
 #### NVIDIA
 
@@ -353,60 +355,60 @@
 
 #### Anthropic
 
-- [Anthropic 更新协调漏洞披露时限](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>) · 2026-11-16
+- [Anthropic 更新协调漏洞披露时限](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>) · 2026-11-16 · 仅原文
 - [构建强大的安全评估体系](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E6%9E%84%E5%BB%BA%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://www.anthropic.com/research/building-strong-safety-evaluations>)
 - [在您的安全边界内运行 Claude 托管智能体](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-12_%E5%9C%A8%E6%82%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E5%86%85%E8%BF%90%E8%A1%8C%20Claude%20%E6%89%98%E7%AE%A1%E6%99%BA%E8%83%BD%E4%BD%93.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://claude.com/resources/articles/self-hosted-claude-managed-agents>)
-- [调查我们在评估和内部使用中发现的非预期模型行为](<https://www.anthropic.com/research/investigating-unintended-model-actions>) · 2026-10-09
-- [前沿红队](<https://www.anthropic.com/research/team/frontier-red-team>) · 2026-10-08
-- [与 Accenture 合作开展嵌入式评估](<https://www.anthropic.com/news/accenture-embedded-evaluation>) · 2026-09-18
-- [对近期网络安全事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) · 2026-09-09
-- [与客户共同开发企业前沿防护措施](<https://www.anthropic.com/news/enterprise-frontier-safeguards>) · 2026-09-01
-- [改进我们的对齐与安全工作](<https://www.anthropic.com/news/improving-alignment-security-efforts>) · 2026-08-31
-- [资助更好地评估 AI 对用户福祉的影响](<https://www.anthropic.com/news/wellbeing-research-grants>) · 2026-08-25
-- [改进 Fable 5 的生物安全防护](<https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards>) · 2026-08-07
-- [调查网络安全评估中的三起真实事件](<https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals>) · 2026-07-30
-- [阿尔伯塔省政府使用 Claude 在整个政府系统中发现并修复网络安全漏洞](<https://www.anthropic.com/news/alberta-government-claude-cybersecurity>) · 2026-07-06
-- [Fable 5 网络安全防护措施与越狱框架的更多细节](<https://www.anthropic.com/news/fable-safeguards-jailbreak-framework>) · 2026-07-02
-- [关于我们选举防护措施的最新进展](<https://www.anthropic.com/news/election-safeguards-update>) · 2026-04-24
-- [评估 Claude Mythos Preview 的网络安全能力](<https://www.anthropic.com/research/mythos-preview>) · 2026-04-07
-- [澳大利亚政府与 Anthropic 签署 AI 安全与研究合作谅解备忘录](<https://www.anthropic.com/news/australia-MOU>) · 2026-03-31
-- [与 Mozilla 合作提升 Firefox 的安全性](<https://www.anthropic.com/research/mozilla-firefox-security>) · 2026-03-06
-- [让防御者用上前沿网络安全能力](<https://www.anthropic.com/news/claude-code-security>) · 2026-02-20
-- [设计抗 AI 的技术评估](<https://www.anthropic.com/engineering/AI-resistant-technical-evaluations>) · 2026-01-21
-- [下一代宪法分类器：更高效地防御通用越狱](<https://www.anthropic.com/research/next-generation-constitutional-classifiers>) · 2026-01-09
-- [介绍 Bloom：用于自动化行为评估的开源工具](<https://www.anthropic.com/research/bloom>) · 2025-12-19
-- [从走捷径到蓄意破坏：奖励破解自然涌现的错位行为](<https://www.anthropic.com/research/emergent-misalignment-reward-hacking>) · 2025-11-21
-- [Anthropic 正式开设东京办公室，与日本 AI 安全研究所签署合作备忘录](<https://www.anthropic.com/news/opening-our-tokyo-office>) · 2025-10-29
-- [Petri：加速 AI 安全研究的开源审计工具](<https://www.anthropic.com/research/petri-open-source-auditing>) · 2025-10-06
-- [通过与美国 CAISI 和英国 AISI 的合作强化我们的防护措施](<https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi>) · 2025-09-12
-- [成立 Anthropic 国家安全与公共部门顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council>) · 2025-08-27
-- [为 AI 开发核安全保障措施](<https://www.anthropic.com/research/nuclear-safeguards-for-ai>) · 2025-08-21
-- [通过公私合作开发 AI 核安全保障](<https://www.anthropic.com/research/developing-nuclear-safeguards-for-ai-through-public-private-partnership>) · 2025-08-21
-- [为 Claude 构建安全保障体系](<https://www.anthropic.com/news/building-safeguards-for-claude>) · 2025-08-12
-- [Claude 4 网络安全能力详细评估](<https://www.anthropic.com/research/claude-4-cyber>) · 2025-07-15
-- [智能体失准：LLM 如何可能成为内部威胁](<https://www.anthropic.com/research/agentic-misalignment>) · 2025-06-20
-- [面向美国国家安全客户的 Claude Gov 模型](<https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers>) · 2025-06-06
-- [启用 AI 安全等级 3 保护措施](<https://www.anthropic.com/news/activating-asl3-protections>) · 2025-05-22
-- [用新的漏洞赏金计划测试我们的安全防御](<https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program>) · 2025-05-14
-- [前沿红队的最新进展](<https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team>) · 2025-03-19
-- [宪法分类器：防御通用越狱](<https://www.anthropic.com/research/constitutional-classifiers>) · 2025-02-03
-- [大型语言模型中的对齐伪装](<https://www.anthropic.com/research/alignment-faking>) · 2024-12-18
-- [模型评估的统计学方法](<https://www.anthropic.com/research/statistical-approach-to-model-evals>) · 2024-11-19
-- [前沿模型的破坏行为评估](<https://www.anthropic.com/research/sabotage-evaluations>) · 2024-10-18
-- [扩展我们的模型安全漏洞赏金计划](<https://www.anthropic.com/news/model-safety-bug-bounty>) · 2024-08-08
-- [一项资助第三方模型评估的新举措](<https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations>) · 2024-07-01
-- [AI 系统红队测试面临的挑战](<https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems>) · 2024-06-12
-- [就儿童安全原则达成一致](<https://www.anthropic.com/news/child-safety-principles>) · 2024-04-23
-- [多样本越狱](<https://www.anthropic.com/research/many-shot-jailbreaking>) · 2024-04-02
-- [潜伏特工：训练能扛过安全训练的欺骗性大语言模型](<https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training>) · 2024-01-14
-- [Dario Amodei 在 AI 安全峰会上关于 Anthropic 负责任扩展政策的发言稿](<https://www.anthropic.com/news/uk-ai-safety-summit>) · 2023-11-01
-- [面向前沿威胁的 AI 安全红队测试](<https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety>) · 2023-07-26
-- [前沿模型安全](<https://www.anthropic.com/news/frontier-model-security>) · 2023-07-25
-- [AI 安全的核心观点：何时、为何、是何、如何](<https://www.anthropic.com/news/core-views-on-ai-safety>) · 2023-03-08
-- [用模型撰写的评估发现语言模型行为](<https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations>) · 2022-12-19
-- [为减少危害而对语言模型进行红队测试：方法、规模规律与经验教训](<https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned>) · 2022-08-22
-- [security](<https://claude.com/product/claude-security>)
-- [Anthropic 的前沿安全路线图](<https://www.anthropic.com/responsible-scaling-policy/roadmap>)
+- [调查我们在评估和内部使用中发现的非预期模型行为](<https://www.anthropic.com/research/investigating-unintended-model-actions>) · 2026-10-09 · 已有中文全文（本库未公开）
+- [前沿红队](<https://www.anthropic.com/research/team/frontier-red-team>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [与 Accenture 合作开展嵌入式评估](<https://www.anthropic.com/news/accenture-embedded-evaluation>) · 2026-09-18 · 已有中文全文（本库未公开）
+- [对近期网络安全事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents>) · 2026-09-09 · 已有中文全文（本库未公开）
+- [与客户共同开发企业前沿防护措施](<https://www.anthropic.com/news/enterprise-frontier-safeguards>) · 2026-09-01 · 已有中文全文（本库未公开）
+- [改进我们的对齐与安全工作](<https://www.anthropic.com/news/improving-alignment-security-efforts>) · 2026-08-31 · 已有中文全文（本库未公开）
+- [资助更好地评估 AI 对用户福祉的影响](<https://www.anthropic.com/news/wellbeing-research-grants>) · 2026-08-25 · 已有中文全文（本库未公开）
+- [改进 Fable 5 的生物安全防护](<https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards>) · 2026-08-07 · 已有中文全文（本库未公开）
+- [调查网络安全评估中的三起真实事件](<https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals>) · 2026-07-30 · 已有中文全文（本库未公开）
+- [阿尔伯塔省政府使用 Claude 在整个政府系统中发现并修复网络安全漏洞](<https://www.anthropic.com/news/alberta-government-claude-cybersecurity>) · 2026-07-06 · 已有中文全文（本库未公开）
+- [Fable 5 网络安全防护措施与越狱框架的更多细节](<https://www.anthropic.com/news/fable-safeguards-jailbreak-framework>) · 2026-07-02 · 已有中文全文（本库未公开）
+- [关于我们选举防护措施的最新进展](<https://www.anthropic.com/news/election-safeguards-update>) · 2026-04-24 · 已有中文全文（本库未公开）
+- [评估 Claude Mythos Preview 的网络安全能力](<https://www.anthropic.com/research/mythos-preview>) · 2026-04-07 · 已有中文全文（本库未公开）
+- [澳大利亚政府与 Anthropic 签署 AI 安全与研究合作谅解备忘录](<https://www.anthropic.com/news/australia-MOU>) · 2026-03-31 · 已有中文全文（本库未公开）
+- [与 Mozilla 合作提升 Firefox 的安全性](<https://www.anthropic.com/research/mozilla-firefox-security>) · 2026-03-06 · 已有中文全文（本库未公开）
+- [让防御者用上前沿网络安全能力](<https://www.anthropic.com/news/claude-code-security>) · 2026-02-20 · 已有中文全文（本库未公开）
+- [设计抗 AI 的技术评估](<https://www.anthropic.com/engineering/AI-resistant-technical-evaluations>) · 2026-01-21 · 已有中文全文（本库未公开）
+- [下一代宪法分类器：更高效地防御通用越狱](<https://www.anthropic.com/research/next-generation-constitutional-classifiers>) · 2026-01-09 · 已有中文全文（本库未公开）
+- [介绍 Bloom：用于自动化行为评估的开源工具](<https://www.anthropic.com/research/bloom>) · 2025-12-19 · 已有中文全文（本库未公开）
+- [从走捷径到蓄意破坏：奖励破解自然涌现的错位行为](<https://www.anthropic.com/research/emergent-misalignment-reward-hacking>) · 2025-11-21 · 已有中文全文（本库未公开）
+- [Anthropic 正式开设东京办公室，与日本 AI 安全研究所签署合作备忘录](<https://www.anthropic.com/news/opening-our-tokyo-office>) · 2025-10-29 · 已有中文全文（本库未公开）
+- [Petri：加速 AI 安全研究的开源审计工具](<https://www.anthropic.com/research/petri-open-source-auditing>) · 2025-10-06 · 已有中文全文（本库未公开）
+- [通过与美国 CAISI 和英国 AISI 的合作强化我们的防护措施](<https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi>) · 2025-09-12 · 已有中文全文（本库未公开）
+- [成立 Anthropic 国家安全与公共部门顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council>) · 2025-08-27 · 已有中文全文（本库未公开）
+- [为 AI 开发核安全保障措施](<https://www.anthropic.com/research/nuclear-safeguards-for-ai>) · 2025-08-21 · 已有中文全文（本库未公开）
+- [通过公私合作开发 AI 核安全保障](<https://www.anthropic.com/research/developing-nuclear-safeguards-for-ai-through-public-private-partnership>) · 2025-08-21 · 已有中文全文（本库未公开）
+- [为 Claude 构建安全保障体系](<https://www.anthropic.com/news/building-safeguards-for-claude>) · 2025-08-12 · 已有中文全文（本库未公开）
+- [Claude 4 网络安全能力详细评估](<https://www.anthropic.com/research/claude-4-cyber>) · 2025-07-15 · 已有中文全文（本库未公开）
+- [智能体失准：LLM 如何可能成为内部威胁](<https://www.anthropic.com/research/agentic-misalignment>) · 2025-06-20 · 已有中文全文（本库未公开）
+- [面向美国国家安全客户的 Claude Gov 模型](<https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers>) · 2025-06-06 · 已有中文全文（本库未公开）
+- [启用 AI 安全等级 3 保护措施](<https://www.anthropic.com/news/activating-asl3-protections>) · 2025-05-22 · 已有中文全文（本库未公开）
+- [用新的漏洞赏金计划测试我们的安全防御](<https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program>) · 2025-05-14 · 已有中文全文（本库未公开）
+- [前沿红队的最新进展](<https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team>) · 2025-03-19 · 已有中文全文（本库未公开）
+- [宪法分类器：防御通用越狱](<https://www.anthropic.com/research/constitutional-classifiers>) · 2025-02-03 · 已有中文全文（本库未公开）
+- [大型语言模型中的对齐伪装](<https://www.anthropic.com/research/alignment-faking>) · 2024-12-18 · 已有中文全文（本库未公开）
+- [模型评估的统计学方法](<https://www.anthropic.com/research/statistical-approach-to-model-evals>) · 2024-11-19 · 已有中文全文（本库未公开）
+- [前沿模型的破坏行为评估](<https://www.anthropic.com/research/sabotage-evaluations>) · 2024-10-18 · 已有中文全文（本库未公开）
+- [扩展我们的模型安全漏洞赏金计划](<https://www.anthropic.com/news/model-safety-bug-bounty>) · 2024-08-08 · 已有中文全文（本库未公开）
+- [一项资助第三方模型评估的新举措](<https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations>) · 2024-07-01 · 已有中文全文（本库未公开）
+- [AI 系统红队测试面临的挑战](<https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems>) · 2024-06-12 · 已有中文全文（本库未公开）
+- [就儿童安全原则达成一致](<https://www.anthropic.com/news/child-safety-principles>) · 2024-04-23 · 已有中文全文（本库未公开）
+- [多样本越狱](<https://www.anthropic.com/research/many-shot-jailbreaking>) · 2024-04-02 · 已有中文全文（本库未公开）
+- [潜伏特工：训练能扛过安全训练的欺骗性大语言模型](<https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training>) · 2024-01-14 · 已有中文全文（本库未公开）
+- [Dario Amodei 在 AI 安全峰会上关于 Anthropic 负责任扩展政策的发言稿](<https://www.anthropic.com/news/uk-ai-safety-summit>) · 2023-11-01 · 已有中文全文（本库未公开）
+- [面向前沿威胁的 AI 安全红队测试](<https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety>) · 2023-07-26 · 已有中文全文（本库未公开）
+- [前沿模型安全](<https://www.anthropic.com/news/frontier-model-security>) · 2023-07-25 · 已有中文全文（本库未公开）
+- [AI 安全的核心观点：何时、为何、是何、如何](<https://www.anthropic.com/news/core-views-on-ai-safety>) · 2023-03-08 · 已有中文全文（本库未公开）
+- [用模型撰写的评估发现语言模型行为](<https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations>) · 2022-12-19 · 已有中文全文（本库未公开）
+- [为减少危害而对语言模型进行红队测试：方法、规模规律与经验教训](<https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned>) · 2022-08-22 · 已有中文全文（本库未公开）
+- [security](<https://claude.com/product/claude-security>) · 已有中文全文（本库未公开）
+- [Anthropic 的前沿安全路线图](<https://www.anthropic.com/responsible-scaling-policy/roadmap>) · 已有中文全文（本库未公开）
 
 #### Google
 
@@ -414,7 +416,7 @@
 
 #### OpenAI
 
-- [OpenAI 的第一阶段嵌入式评估](<https://openai.com/index/our-first-phase-of-embedded-assessments/>) · 2026-11-16
+- [OpenAI 的第一阶段嵌入式评估](<https://openai.com/index/our-first-phase-of-embedded-assessments/>) · 2026-11-16 · 仅原文
 - [Control Room 控制室](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-09_Control%20Room%20%E6%8E%A7%E5%88%B6%E5%AE%A4.%E4%B8%AD%E6%96%87.md) · 2026-11-09 · 中文译文 · [原文](<https://openai.com/index/control-room/>)
 - [GPT-6 Cyber：推进对齐型网络安全 Agent 的能力边界](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-05_GPT-6%20Cyber%EF%BC%9A%E6%8E%A8%E8%BF%9B%E5%AF%B9%E9%BD%90%E5%9E%8B%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%20Agent%20%E7%9A%84%E8%83%BD%E5%8A%9B%E8%BE%B9%E7%95%8C.%E4%B8%AD%E6%96%87.md) · 2026-11-05 · 中文译文 · [原文](<https://openai.com/index/introducing-gpt-6-cyber/>)
 - [减少一千条通往 root 的路径](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-04_%E5%87%8F%E5%B0%91%E4%B8%80%E5%8D%83%E6%9D%A1%E9%80%9A%E5%BE%80%20root%20%E7%9A%84%E8%B7%AF%E5%BE%84.%E4%B8%AD%E6%96%87.md) · 2026-11-04 · 中文译文 · [原文](<https://openai.com/index/a-thousand-fewer-paths-to-root/>)
@@ -430,58 +432,58 @@
 
 - [Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_Curative%20%E5%A6%82%E4%BD%95%E5%80%9F%E5%8A%A9%20Claude%20%E4%B8%8A%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E6%9E%84%E5%BB%BA%E5%85%A8%E5%9B%BD%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E7%BD%91%E7%BB%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude>)
 - [您的应用现在可以在 Claude 中打开，Claude 也能在其中工作](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_%E6%82%A8%E7%9A%84%E5%BA%94%E7%94%A8%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%20Claude%20%E4%B8%AD%E6%89%93%E5%BC%80%EF%BC%8CClaude%20%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%85%B6%E4%B8%AD%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/interactive-connectors-full-tool>)
-- [推出 Anthropic 网络使命](<https://www.anthropic.com/news/anthropic-cyber-mission>) · 2026-10-08
-- [Claude Haiku 4.5](<https://www.anthropic.com/claude/haiku>) · 2026-10-07
-- [Claude Mythos 5](<https://www.anthropic.com/claude/mythos>) · 2026-10-06
-- [Claude Sonnet 4.6](<https://www.anthropic.com/claude/sonnet>) · 2026-09-28
-- [Claude Opus 4.8](<https://www.anthropic.com/claude/opus>) · 2026-09-22
-- [推出生命科学验证计划](<https://www.anthropic.com/news/life-sciences-verification-program>) · 2026-09-17
-- [Claude Fable 5](<https://www.anthropic.com/claude/fable>) · 2026-09-01
-- [Claude Cowork](<https://claude.com/product/cowork>) · 2026-08-26
-- [隆重推出 Claude Opus 5](<https://www.anthropic.com/news/claude-opus-5>) · 2026-07-24
-- [推出 Claude for Teachers](<https://www.anthropic.com/news/claude-for-teachers>) · 2026-07-14
-- [推出一种反思你如何使用 Claude 的方式](<https://www.anthropic.com/news/reflect-with-claude>) · 2026-07-09
-- [介绍 Claude Sonnet 5](<https://www.anthropic.com/news/claude-sonnet-5>) · 2026-06-30
-- [隆重推出 Claude Tag](<https://www.anthropic.com/news/introducing-claude-tag>) · 2026-06-23
-- [推出 Claude Corps](<https://www.anthropic.com/news/claude-corps>) · 2026-06-11
-- [推出 Claude 合作伙伴网络的 Services Track 与 Partner Hub](<https://www.anthropic.com/news/services-track-partner-hub>) · 2026-06-03
-- [介绍 Claude Opus 4.8](<https://www.anthropic.com/news/claude-opus-4-8>) · 2026-05-28
-- [推出 Claude for Small Business](<https://www.anthropic.com/news/claude-for-small-business>) · 2026-05-13
-- [隆重推出 Anthropic Labs 的 Claude Design](<https://www.anthropic.com/news/claude-design-anthropic-labs>) · 2026-04-17
-- [隆重推出 Claude Opus 4.7](<https://www.anthropic.com/news/claude-opus-4-7>) · 2026-04-16
-- [Anthropic Institute 正式成立](<https://www.anthropic.com/news/the-anthropic-institute>) · 2026-03-11
-- [隆重推出 Claude Sonnet 4.6](<https://www.anthropic.com/news/claude-sonnet-4-6>) · 2026-02-17
-- [发布 Claude Opus 4.6](<https://www.anthropic.com/news/claude-opus-4-6>) · 2026-02-05
-- [推出 Labs](<https://www.anthropic.com/news/introducing-anthropic-labs>) · 2026-01-13
-- [在 Claude 开发者平台上推出高级工具使用](<https://www.anthropic.com/engineering/advanced-tool-use>) · 2025-11-24
-- [隆重推出 Claude Opus 4.5](<https://www.anthropic.com/news/claude-opus-4-5>) · 2025-11-24
-- [推出 Agent Skills](<https://claude.com/resources/articles/skills>) · 2025-10-16
-- [隆重推出 Claude Haiku 4.5](<https://www.anthropic.com/news/claude-haiku-4-5>) · 2025-10-15
-- [介绍 Claude Sonnet 4.5](<https://www.anthropic.com/news/claude-sonnet-4-5>) · 2025-09-29
-- [推出 Anthropic 经济未来计划](<https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program>) · 2025-06-27
-- [介绍 Claude 4](<https://www.anthropic.com/news/claude-4>) · 2025-05-22
-- [Anthropic 推出-AI for Science-计划](<https://www.anthropic.com/news/ai-for-science-program>) · 2025-05-05
-- [隆重推出 Anthropic 经济顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council>) · 2025-04-28
-- [隆重推出 Anthropic 首届开发者大会：Code with Claude](<https://www.anthropic.com/news/Introducing-code-with-claude>) · 2025-04-03
-- [推出 Claude for Education](<https://www.anthropic.com/news/introducing-claude-for-education>) · 2025-04-02
-- [推出 Anthropic 透明度中心](<https://www.anthropic.com/news/introducing-anthropic-transparency-hub>) · 2025-02-27
-- [介绍模型上下文协议](<https://www.anthropic.com/news/model-context-protocol>) · 2024-11-25
-- [推出计算机使用](<https://www.anthropic.com/news/3-5-models-and-computer-use>) · 2024-10-22
-- [发布更新后的负责任扩展政策](<https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>) · 2024-10-15
-- [介绍上下文检索](<https://www.anthropic.com/engineering/contextual-retrieval>) · 2024-09-19
-- [隆重推出新一代 Claude](<https://www.anthropic.com/news/claude-3-family>) · 2024-03-04
-- [发布 Claude 2.1](<https://www.anthropic.com/news/claude-2-1>) · 2023-11-21
-- [Anthropic 发布负责任扩展政策](<https://www.anthropic.com/news/anthropics-responsible-scaling-policy>) · 2023-09-19
-- [隆重推出 Claude Pro](<https://www.anthropic.com/news/claude-pro>) · 2023-09-07
-- [推出 100K 上下文窗口](<https://www.anthropic.com/news/100k-context-windows>) · 2023-05-11
-- [介绍 Claude](<https://www.anthropic.com/news/introducing-claude>) · 2023-03-14
-- [claude-code](<https://claude.com/product/claude-code>)
-- [8.1万人希望从AI得到什么](<https://www.anthropic.com/features/81k-interviews>)
-- [Claude 企业解决方案](<https://claude.com/solutions/enterprise>)
-- [Claude AI 助力 NASA 完成首次由 AI 规划的火星漫游车行驶](<https://www.anthropic.com/features/claude-on-mars>)
-- [交易实验](<https://www.anthropic.com/features/project-deal>)
-- [Claude Code 的诞生](<https://www.anthropic.com/features/making-of-claude-code>)
-- [疫情简报](<https://www.anthropic.com/features/ebola-response>)
+- [推出 Anthropic 网络使命](<https://www.anthropic.com/news/anthropic-cyber-mission>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [Claude Haiku 4.5](<https://www.anthropic.com/claude/haiku>) · 2026-10-07 · 已有中文全文（本库未公开）
+- [Claude Mythos 5](<https://www.anthropic.com/claude/mythos>) · 2026-10-06 · 已有中文全文（本库未公开）
+- [Claude Sonnet 4.6](<https://www.anthropic.com/claude/sonnet>) · 2026-09-28 · 已有中文全文（本库未公开）
+- [Claude Opus 4.8](<https://www.anthropic.com/claude/opus>) · 2026-09-22 · 已有中文全文（本库未公开）
+- [推出生命科学验证计划](<https://www.anthropic.com/news/life-sciences-verification-program>) · 2026-09-17 · 已有中文全文（本库未公开）
+- [Claude Fable 5](<https://www.anthropic.com/claude/fable>) · 2026-09-01 · 已有中文全文（本库未公开）
+- [Claude Cowork](<https://claude.com/product/cowork>) · 2026-08-26 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Opus 5](<https://www.anthropic.com/news/claude-opus-5>) · 2026-07-24 · 已有中文全文（本库未公开）
+- [推出 Claude for Teachers](<https://www.anthropic.com/news/claude-for-teachers>) · 2026-07-14 · 已有中文全文（本库未公开）
+- [推出一种反思你如何使用 Claude 的方式](<https://www.anthropic.com/news/reflect-with-claude>) · 2026-07-09 · 已有中文全文（本库未公开）
+- [介绍 Claude Sonnet 5](<https://www.anthropic.com/news/claude-sonnet-5>) · 2026-06-30 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Tag](<https://www.anthropic.com/news/introducing-claude-tag>) · 2026-06-23 · 已有中文全文（本库未公开）
+- [推出 Claude Corps](<https://www.anthropic.com/news/claude-corps>) · 2026-06-11 · 已有中文全文（本库未公开）
+- [推出 Claude 合作伙伴网络的 Services Track 与 Partner Hub](<https://www.anthropic.com/news/services-track-partner-hub>) · 2026-06-03 · 已有中文全文（本库未公开）
+- [介绍 Claude Opus 4.8](<https://www.anthropic.com/news/claude-opus-4-8>) · 2026-05-28 · 已有中文全文（本库未公开）
+- [推出 Claude for Small Business](<https://www.anthropic.com/news/claude-for-small-business>) · 2026-05-13 · 已有中文全文（本库未公开）
+- [隆重推出 Anthropic Labs 的 Claude Design](<https://www.anthropic.com/news/claude-design-anthropic-labs>) · 2026-04-17 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Opus 4.7](<https://www.anthropic.com/news/claude-opus-4-7>) · 2026-04-16 · 已有中文全文（本库未公开）
+- [Anthropic Institute 正式成立](<https://www.anthropic.com/news/the-anthropic-institute>) · 2026-03-11 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Sonnet 4.6](<https://www.anthropic.com/news/claude-sonnet-4-6>) · 2026-02-17 · 已有中文全文（本库未公开）
+- [发布 Claude Opus 4.6](<https://www.anthropic.com/news/claude-opus-4-6>) · 2026-02-05 · 已有中文全文（本库未公开）
+- [推出 Labs](<https://www.anthropic.com/news/introducing-anthropic-labs>) · 2026-01-13 · 已有中文全文（本库未公开）
+- [在 Claude 开发者平台上推出高级工具使用](<https://www.anthropic.com/engineering/advanced-tool-use>) · 2025-11-24 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Opus 4.5](<https://www.anthropic.com/news/claude-opus-4-5>) · 2025-11-24 · 已有中文全文（本库未公开）
+- [推出 Agent Skills](<https://claude.com/resources/articles/skills>) · 2025-10-16 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Haiku 4.5](<https://www.anthropic.com/news/claude-haiku-4-5>) · 2025-10-15 · 已有中文全文（本库未公开）
+- [介绍 Claude Sonnet 4.5](<https://www.anthropic.com/news/claude-sonnet-4-5>) · 2025-09-29 · 已有中文全文（本库未公开）
+- [推出 Anthropic 经济未来计划](<https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program>) · 2025-06-27 · 已有中文全文（本库未公开）
+- [介绍 Claude 4](<https://www.anthropic.com/news/claude-4>) · 2025-05-22 · 已有中文全文（本库未公开）
+- [Anthropic 推出-AI for Science-计划](<https://www.anthropic.com/news/ai-for-science-program>) · 2025-05-05 · 已有中文全文（本库未公开）
+- [隆重推出 Anthropic 经济顾问委员会](<https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council>) · 2025-04-28 · 已有中文全文（本库未公开）
+- [隆重推出 Anthropic 首届开发者大会：Code with Claude](<https://www.anthropic.com/news/Introducing-code-with-claude>) · 2025-04-03 · 已有中文全文（本库未公开）
+- [推出 Claude for Education](<https://www.anthropic.com/news/introducing-claude-for-education>) · 2025-04-02 · 已有中文全文（本库未公开）
+- [推出 Anthropic 透明度中心](<https://www.anthropic.com/news/introducing-anthropic-transparency-hub>) · 2025-02-27 · 已有中文全文（本库未公开）
+- [介绍模型上下文协议](<https://www.anthropic.com/news/model-context-protocol>) · 2024-11-25 · 已有中文全文（本库未公开）
+- [推出计算机使用](<https://www.anthropic.com/news/3-5-models-and-computer-use>) · 2024-10-22 · 已有中文全文（本库未公开）
+- [发布更新后的负责任扩展政策](<https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>) · 2024-10-15 · 已有中文全文（本库未公开）
+- [介绍上下文检索](<https://www.anthropic.com/engineering/contextual-retrieval>) · 2024-09-19 · 已有中文全文（本库未公开）
+- [隆重推出新一代 Claude](<https://www.anthropic.com/news/claude-3-family>) · 2024-03-04 · 已有中文全文（本库未公开）
+- [发布 Claude 2.1](<https://www.anthropic.com/news/claude-2-1>) · 2023-11-21 · 已有中文全文（本库未公开）
+- [Anthropic 发布负责任扩展政策](<https://www.anthropic.com/news/anthropics-responsible-scaling-policy>) · 2023-09-19 · 已有中文全文（本库未公开）
+- [隆重推出 Claude Pro](<https://www.anthropic.com/news/claude-pro>) · 2023-09-07 · 已有中文全文（本库未公开）
+- [推出 100K 上下文窗口](<https://www.anthropic.com/news/100k-context-windows>) · 2023-05-11 · 已有中文全文（本库未公开）
+- [介绍 Claude](<https://www.anthropic.com/news/introducing-claude>) · 2023-03-14 · 已有中文全文（本库未公开）
+- [claude-code](<https://claude.com/product/claude-code>) · 已有中文全文（本库未公开）
+- [8.1万人希望从AI得到什么](<https://www.anthropic.com/features/81k-interviews>) · 已有中文全文（本库未公开）
+- [Claude 企业解决方案](<https://claude.com/solutions/enterprise>) · 已有中文全文（本库未公开）
+- [Claude AI 助力 NASA 完成首次由 AI 规划的火星漫游车行驶](<https://www.anthropic.com/features/claude-on-mars>) · 已有中文全文（本库未公开）
+- [交易实验](<https://www.anthropic.com/features/project-deal>) · 已有中文全文（本库未公开）
+- [Claude Code 的诞生](<https://www.anthropic.com/features/making-of-claude-code>) · 已有中文全文（本库未公开）
+- [疫情简报](<https://www.anthropic.com/features/ebola-response>) · 已有中文全文（本库未公开）
 
 #### Cursor
 
@@ -491,7 +493,7 @@
 #### DeepSeek
 
 - [完整应用 API 开放](content/DeepSeek/%E5%AE%98%E6%96%B9/2026-11-13_%E5%AE%8C%E6%95%B4%E5%BA%94%E7%94%A8%20API%20%E5%BC%80%E6%94%BE.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 官方中文版 · [原文](<https://api-docs.deepseek.com/zh-cn/updates/#时间-2026-11-13>)
-- [DeepSeek V4.1 Flash 新版本：许愿式编程一键成真](<https://api-docs.deepseek.com/news/news261017/>) · 2026-10-17
+- [DeepSeek V4.1 Flash 新版本：许愿式编程一键成真](<https://api-docs.deepseek.com/zh-cn/news/news261017/>) · 2026-10-17 · 官方中文版 · [原文](<https://api-docs.deepseek.com/news/news261017/>)
 
 #### Google
 
@@ -500,22 +502,22 @@
 #### Kimi
 
 - [Kimi Code CLI v2.6.0 发布说明](content/Kimi/%E5%AE%98%E6%96%B9/2026-11-12_Kimi%20Code%20CLI%20v2.6.0%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai/kimi-code%402.6.0>)
-- [Kimi K3.1 Pro 发布](<https://www.kimi.com/en/blog/kimi-k3-1-pro>) · 2026-10-24
-- [Kimi K2 Thinking 发布](<https://www.kimi.com/en/blog/kimi-k2-thinking>) · 2025-11-06
-- [Kimi-Dev：面向问题修复的强开源编程大模型](<https://moonshotai.github.io/Kimi-Dev/>) · 2025-06-16
+- [Kimi K3.1 Pro 发布](<https://www.kimi.com/en/blog/kimi-k3-1-pro>) · 2026-10-24 · 已有中文全文（本库未公开）
+- [Kimi K2 Thinking 发布](<https://www.kimi.com/en/blog/kimi-k2-thinking>) · 2025-11-06 · 已有中文全文（本库未公开）
+- [Kimi-Dev：面向问题修复的强开源编程大模型](<https://moonshotai.github.io/Kimi-Dev/>) · 2025-06-16 · 已有中文全文（本库未公开）
 
 #### OpenAI
 
-- [OpenAI 发布 ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales/>) · 2026-11-17
-- [OpenAI 发布 GPT-6.2 Astra 和 Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol/>) · 2026-11-17
-- [推进面向医疗团队的计算机操作 Agent](<https://openai.com/index/advancing-computer-use-for-healthcare-teams/>) · 2026-11-16
+- [OpenAI 发布 ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales/>) · 2026-11-17 · 仅原文
+- [OpenAI 发布 GPT-6.2 Astra 和 Sol](<https://openai.com/zh-Hans-CN/index/introducing-gpt-6-2-astra-sol/>) · 2026-11-17 · 官方中文版 · [原文](<https://openai.com/index/introducing-gpt-6-2-astra-sol/>)
+- [推进面向医疗团队的计算机操作 Agent](<https://openai.com/index/advancing-computer-use-for-healthcare-teams/>) · 2026-11-16 · 仅原文
 - [CodeRabbit 如何扩展 Agent 软件开发并将交付量提升至 20 倍](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-09_CodeRabbit%20%E5%A6%82%E4%BD%95%E6%89%A9%E5%B1%95%20Agent%20%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B9%B6%E5%B0%86%E4%BA%A4%E4%BB%98%E9%87%8F%E6%8F%90%E5%8D%87%E8%87%B3%2020%20%E5%80%8D.%E4%B8%AD%E6%96%87.md) · 2026-11-09 · 中文译文 · [原文](<https://openai.com/index/coderabbit-codex-daybreak/>)
 - [Qodo 与 Codex：将上下文引入 AI 代码审查](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-02_Qodo%20%E4%B8%8E%20Codex%EF%BC%9A%E5%B0%86%E4%B8%8A%E4%B8%8B%E6%96%87%E5%BC%95%E5%85%A5%20AI%20%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-02 · 中文译文 · [原文](<https://openai.com/index/qodo-codex-plugin/>)
 - [Greptile 与 GPT-6 Astra：超越代码审查的缺陷检测](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-26_Greptile%20%E4%B8%8E%20GPT-6%20Astra%EF%BC%9A%E8%B6%85%E8%B6%8A%E4%BB%A3%E7%A0%81%E5%AE%A1%E6%9F%A5%E7%9A%84%E7%BC%BA%E9%99%B7%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md) · 2026-10-26 · 中文译文 · [原文](<https://openai.com/index/greptile-code-review-codex-astra/>)
 - [Third Moment Research 如何让一万个 Agent 连续运行超过 36 小时](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-14_Third%20Moment%20Research%20%E5%A6%82%E4%BD%95%E8%AE%A9%E4%B8%80%E4%B8%87%E4%B8%AA%20Agent%20%E8%BF%9E%E7%BB%AD%E8%BF%90%E8%A1%8C%E8%B6%85%E8%BF%87%2036%20%E5%B0%8F%E6%97%B6.%E4%B8%AD%E6%96%87.md) · 2026-10-14 · 中文译文 · [原文](<https://openai.com/index/third-moment-research/>)
 - [Amp 如何利用 OpenAI 模型让 Agent 承担编码之外的工作](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-14_Amp%20%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%20OpenAI%20%E6%A8%A1%E5%9E%8B%E8%AE%A9%20Agent%20%E6%89%BF%E6%8B%85%E7%BC%96%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md) · 2026-10-14 · 中文译文 · [原文](<https://openai.com/index/amp-beyond-coding/>)
 - [Asana 如何在浏览器测试中将模型成本降至原来的七十六分之一](content/OpenAI/%E5%AE%98%E6%96%B9/2026-10-09_Asana%20%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%B0%86%E6%A8%A1%E5%9E%8B%E6%88%90%E6%9C%AC%E9%99%8D%E8%87%B3%E5%8E%9F%E6%9D%A5%E7%9A%84%E4%B8%83%E5%8D%81%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80.%E4%B8%AD%E6%96%87.md) · 2026-10-09 · 中文译文 · [原文](<https://openai.com/index/asana-browser-agent/>)
-- [隆重推出 Agents API](<https://openai.com/index/introducing-the-agents-api/>) · 2026-09-10
+- [隆重推出 Agents API](<https://openai.com/zh-Hans-CN/index/introducing-the-agents-api/>) · 2026-09-10 · 官方中文版 · [原文](<https://openai.com/index/introducing-the-agents-api/>)
 
 #### Qwen
 
@@ -526,104 +528,104 @@
 
 #### Addy Osmani
 
-- [棕地 Agent 工程](<https://addyosmani.com/blog/brownfield-agentic-engineering/>) · 2026-09-14
-- [实战循环工程](<https://addyo.substack.com/p/practical-loop-engineering>) · 2026-08-14
-- [Agent 代码审查](<https://addyosmani.com/blog/agentic-code-review/>) · 2026-06-15
+- [棕地 Agent 工程](<https://addyosmani.com/blog/brownfield-agentic-engineering/>) · 2026-09-14 · 已有中文全文（本库未公开）
+- [实战循环工程](<https://addyo.substack.com/p/practical-loop-engineering>) · 2026-08-14 · 已有中文全文（本库未公开）
+- [Agent 代码审查](<https://addyosmani.com/blog/agentic-code-review/>) · 2026-06-15 · 已有中文全文（本库未公开）
 
 #### Alexander Embiricos
 
-- [长会话与并行 subagent 工作方式](<https://x.com/embirico/status/2046033614106931414>) · 2026-04-20
+- [长会话与并行 subagent 工作方式](<https://x.com/embirico/status/2046033614106931414>) · 2026-04-20 · 已有中文全文（本库未公开）
 
 #### Andrej Karpathy
 
-- [2025 年 LLM 回顾](<https://karpathy.bearblog.dev/year-in-review-2025/>) · 2025-12-19
+- [2025 年 LLM 回顾](<https://karpathy.bearblog.dev/year-in-review-2025/>) · 2025-12-19 · 已有中文全文（本库未公开）
 
 #### Boris Cherny
 
-- [Claude Code 个人工作流：13 条技巧](<https://x.com/bcherny/status/2007179832300581177>) · 2026-01-02
+- [Claude Code 个人工作流：13 条技巧](<https://x.com/bcherny/status/2007179832300581177>) · 2026-01-02 · 已有中文全文（本库未公开）
 
 #### Dan Luu
 
-- [我们应该对构建的软件更有雄心](<https://danluu.com/ambitious/>) · 2026-10-24
+- [我们应该对构建的软件更有雄心](<https://danluu.com/ambitious/>) · 2026-10-24 · 已有中文全文（本库未公开）
 
 #### Drew Breunig
 
-- [上下文工程的现状](<https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html>) · 2026-10-24
+- [上下文工程的现状](<https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html>) · 2026-10-24 · 已有中文全文（本库未公开）
 
 #### Eric Provencher
 
-- [为 GPT-6 Astra 重新思考 Skills 与提示词](<https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra>) · 2026-09-11
+- [为 GPT-6 Astra 重新思考 Skills 与提示词](<https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra>) · 2026-09-11 · 已有中文全文（本库未公开）
 
 #### Lance Martin
 
-- [Agent 设计模式](<https://rlancemartin.github.io/2026/01/09/agent_design/>) · 2026-01-09
-- [Claude 日记](<https://rlancemartin.github.io/2025/12/01/claude_diary/>) · 2025-12-01
-- [Agent 的上下文工程](<https://rlancemartin.github.io/2025/06/23/context_engineering/>) · 2025-06-23
+- [Agent 设计模式](<https://rlancemartin.github.io/2026/01/09/agent_design/>) · 2026-01-09 · 已有中文全文（本库未公开）
+- [Claude 日记](<https://rlancemartin.github.io/2025/12/01/claude_diary/>) · 2025-12-01 · 已有中文全文（本库未公开）
+- [Agent 的上下文工程](<https://rlancemartin.github.io/2025/06/23/context_engineering/>) · 2025-06-23 · 已有中文全文（本库未公开）
 
 #### Lilian Weng
 
-- [面向自我改进的 Harness 工程](<https://lilianweng.github.io/posts/2026-07-04-harness/>) · 2026-07-04
-- [我们为何思考](<https://lilianweng.github.io/posts/2025-05-01-thinking/>) · 2025-05-01
-- [强化学习中的奖励作弊](<https://lilianweng.github.io/posts/2024-11-28-reward-hacking/>) · 2024-11-28
-- [大语言模型中的外源性幻觉](<https://lilianweng.github.io/posts/2024-07-07-hallucination/>) · 2024-07-07
-- [用于视频生成的扩散模型](<https://lilianweng.github.io/posts/2024-04-12-diffusion-video/>) · 2024-04-12
-- [关于高质量人类数据的思考](<https://lilianweng.github.io/posts/2024-02-05-human-data-quality/>) · 2024-02-05
-- [针对大语言模型的对抗攻击](<https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/>) · 2023-10-25
-- [由大语言模型驱动的自主智能体](<https://lilianweng.github.io/posts/2023-06-23-agent/>) · 2023-06-23
-- [提示工程](<https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/>) · 2023-03-15
-- [Transformer 家族 2.0 版](<https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/>) · 2023-01-27
-- [大型 Transformer 模型推理优化](<https://lilianweng.github.io/posts/2023-01-10-inference-optimization/>) · 2023-01-10
-- [神经正切核](<https://lilianweng.github.io/posts/2022-09-08-ntk/>) · 2022-09-08
-- [通用视觉语言模型](<https://lilianweng.github.io/posts/2022-06-09-vlm/>) · 2022-06-09
-- [数据不足下的学习 第三部分：数据生成](<https://lilianweng.github.io/posts/2022-04-15-data-gen/>) · 2022-04-15
-- [数据不足下的学习 第二部分：主动学习](<https://lilianweng.github.io/posts/2022-02-20-active-learning/>) · 2022-02-20
-- [数据不足下的学习 第一部分：半监督学习](<https://lilianweng.github.io/posts/2021-12-05-semi-supervised/>) · 2021-12-05
-- [如何在多 GPU 上训练超大模型？](<https://lilianweng.github.io/posts/2021-09-25-train-large/>) · 2021-09-24
-- [什么是扩散模型？](<https://lilianweng.github.io/posts/2021-07-11-diffusion-models/>) · 2021-07-11
-- [对比表示学习](<https://lilianweng.github.io/posts/2021-05-31-contrastive/>) · 2021-05-31
-- [降低语言模型的毒性](<https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/>) · 2021-03-21
-- [可控神经文本生成](<https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/>) · 2021-01-02
-- [如何构建开放域问答系统？](<https://lilianweng.github.io/posts/2020-10-29-odqa/>) · 2020-10-29
-- [神经架构搜索](<https://lilianweng.github.io/posts/2020-08-06-nas/>) · 2020-08-06
-- [深度强化学习中的探索策略](<https://lilianweng.github.io/posts/2020-06-07-exploration-drl/>) · 2020-06-07
-- [Transformer 家族](<https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/>) · 2020-04-07
-- [强化学习中的课程学习](<https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/>) · 2020-01-29
-- [自监督表示学习](<https://lilianweng.github.io/posts/2019-11-10-self-supervised/>) · 2019-11-10
-- [进化策略](<https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/>) · 2019-09-05
-- [元强化学习](<https://lilianweng.github.io/posts/2019-06-23-meta-rl/>) · 2019-06-23
-- [面向 Sim2Real 迁移的域随机化](<https://lilianweng.github.io/posts/2019-05-05-domain-randomization/>) · 2019-05-05
-- [深度神经网络真的严重过拟合了吗？](<https://lilianweng.github.io/posts/2019-03-14-overfit/>) · 2019-03-14
-- [通用语言模型](<https://lilianweng.github.io/posts/2019-01-31-lm/>) · 2019-01-31
-- [目标检测 第四部分：快速检测模型](<https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/>) · 2018-12-27
-- [元学习：学会快速学习](<https://lilianweng.github.io/posts/2018-11-30-meta-learning/>) · 2018-11-30
-- [基于流的深度生成模型](<https://lilianweng.github.io/posts/2018-10-13-flow-models/>) · 2018-10-13
-- [从自编码器到 Beta-VAE](<https://lilianweng.github.io/posts/2018-08-12-vae/>) · 2018-08-12
-- [注意力？注意力！](<https://lilianweng.github.io/posts/2018-06-24-attention/>) · 2018-06-24
-- [用 TensorFlow + OpenAI Gym 实现深度强化学习模型](<https://lilianweng.github.io/posts/2018-05-05-drl-implementation/>) · 2018-05-05
-- [策略梯度算法](<https://lilianweng.github.io/posts/2018-04-08-policy-gradient/>) · 2018-04-08
-- [强化学习（长文）初探](<https://lilianweng.github.io/posts/2018-02-19-rl-overview/>) · 2018-02-19
-- [多臂老虎机问题及其解法](<https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/>) · 2018-01-23
-- [目标检测入门 第三部分：R-CNN 家族](<https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/>) · 2017-12-31
-- [目标检测入门 Part 2：CNN、DPM 与 Overfeat](<https://lilianweng.github.io/posts/2017-12-15-object-recognition-part-2/>) · 2017-12-15
-- [目标检测入门 第一部分：梯度向量、HOG 与 Selective Search](<https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/>) · 2017-10-29
-- [学习词嵌入](<https://lilianweng.github.io/posts/2017-10-15-word-embedding/>) · 2017-10-15
-- [用信息论剖析深度学习](<https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/>) · 2017-09-28
-- [从 GAN 到 WGAN](<https://lilianweng.github.io/posts/2017-08-20-gan/>) · 2017-08-20
-- [如何解释机器学习模型的预测？](<https://lilianweng.github.io/posts/2017-08-01-interpretation/>) · 2017-08-01
-- [用 RNN 预测股价：第二部分](<https://lilianweng.github.io/posts/2017-07-22-stock-rnn-part-2/>) · 2017-07-22
-- [用 RNN 预测股价：第一部分](<https://lilianweng.github.io/posts/2017-07-08-stock-rnn-part-1/>) · 2017-07-08
-- [写给好奇者的深度学习综述](<https://lilianweng.github.io/posts/2017-06-21-overview/>) · 2017-06-21
+- [面向自我改进的 Harness 工程](<https://lilianweng.github.io/posts/2026-07-04-harness/>) · 2026-07-04 · 已有中文全文（本库未公开）
+- [我们为何思考](<https://lilianweng.github.io/posts/2025-05-01-thinking/>) · 2025-05-01 · 已有中文全文（本库未公开）
+- [强化学习中的奖励作弊](<https://lilianweng.github.io/posts/2024-11-28-reward-hacking/>) · 2024-11-28 · 已有中文全文（本库未公开）
+- [大语言模型中的外源性幻觉](<https://lilianweng.github.io/posts/2024-07-07-hallucination/>) · 2024-07-07 · 已有中文全文（本库未公开）
+- [用于视频生成的扩散模型](<https://lilianweng.github.io/posts/2024-04-12-diffusion-video/>) · 2024-04-12 · 已有中文全文（本库未公开）
+- [关于高质量人类数据的思考](<https://lilianweng.github.io/posts/2024-02-05-human-data-quality/>) · 2024-02-05 · 已有中文全文（本库未公开）
+- [针对大语言模型的对抗攻击](<https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/>) · 2023-10-25 · 已有中文全文（本库未公开）
+- [由大语言模型驱动的自主智能体](<https://lilianweng.github.io/posts/2023-06-23-agent/>) · 2023-06-23 · 已有中文全文（本库未公开）
+- [提示工程](<https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/>) · 2023-03-15 · 已有中文全文（本库未公开）
+- [Transformer 家族 2.0 版](<https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/>) · 2023-01-27 · 已有中文全文（本库未公开）
+- [大型 Transformer 模型推理优化](<https://lilianweng.github.io/posts/2023-01-10-inference-optimization/>) · 2023-01-10 · 已有中文全文（本库未公开）
+- [神经正切核](<https://lilianweng.github.io/posts/2022-09-08-ntk/>) · 2022-09-08 · 已有中文全文（本库未公开）
+- [通用视觉语言模型](<https://lilianweng.github.io/posts/2022-06-09-vlm/>) · 2022-06-09 · 已有中文全文（本库未公开）
+- [数据不足下的学习 第三部分：数据生成](<https://lilianweng.github.io/posts/2022-04-15-data-gen/>) · 2022-04-15 · 已有中文全文（本库未公开）
+- [数据不足下的学习 第二部分：主动学习](<https://lilianweng.github.io/posts/2022-02-20-active-learning/>) · 2022-02-20 · 已有中文全文（本库未公开）
+- [数据不足下的学习 第一部分：半监督学习](<https://lilianweng.github.io/posts/2021-12-05-semi-supervised/>) · 2021-12-05 · 已有中文全文（本库未公开）
+- [如何在多 GPU 上训练超大模型？](<https://lilianweng.github.io/posts/2021-09-25-train-large/>) · 2021-09-24 · 已有中文全文（本库未公开）
+- [什么是扩散模型？](<https://lilianweng.github.io/posts/2021-07-11-diffusion-models/>) · 2021-07-11 · 已有中文全文（本库未公开）
+- [对比表示学习](<https://lilianweng.github.io/posts/2021-05-31-contrastive/>) · 2021-05-31 · 已有中文全文（本库未公开）
+- [降低语言模型的毒性](<https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/>) · 2021-03-21 · 已有中文全文（本库未公开）
+- [可控神经文本生成](<https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/>) · 2021-01-02 · 已有中文全文（本库未公开）
+- [如何构建开放域问答系统？](<https://lilianweng.github.io/posts/2020-10-29-odqa/>) · 2020-10-29 · 已有中文全文（本库未公开）
+- [神经架构搜索](<https://lilianweng.github.io/posts/2020-08-06-nas/>) · 2020-08-06 · 已有中文全文（本库未公开）
+- [深度强化学习中的探索策略](<https://lilianweng.github.io/posts/2020-06-07-exploration-drl/>) · 2020-06-07 · 已有中文全文（本库未公开）
+- [Transformer 家族](<https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/>) · 2020-04-07 · 已有中文全文（本库未公开）
+- [强化学习中的课程学习](<https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/>) · 2020-01-29 · 已有中文全文（本库未公开）
+- [自监督表示学习](<https://lilianweng.github.io/posts/2019-11-10-self-supervised/>) · 2019-11-10 · 已有中文全文（本库未公开）
+- [进化策略](<https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/>) · 2019-09-05 · 已有中文全文（本库未公开）
+- [元强化学习](<https://lilianweng.github.io/posts/2019-06-23-meta-rl/>) · 2019-06-23 · 已有中文全文（本库未公开）
+- [面向 Sim2Real 迁移的域随机化](<https://lilianweng.github.io/posts/2019-05-05-domain-randomization/>) · 2019-05-05 · 已有中文全文（本库未公开）
+- [深度神经网络真的严重过拟合了吗？](<https://lilianweng.github.io/posts/2019-03-14-overfit/>) · 2019-03-14 · 已有中文全文（本库未公开）
+- [通用语言模型](<https://lilianweng.github.io/posts/2019-01-31-lm/>) · 2019-01-31 · 已有中文全文（本库未公开）
+- [目标检测 第四部分：快速检测模型](<https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/>) · 2018-12-27 · 已有中文全文（本库未公开）
+- [元学习：学会快速学习](<https://lilianweng.github.io/posts/2018-11-30-meta-learning/>) · 2018-11-30 · 已有中文全文（本库未公开）
+- [基于流的深度生成模型](<https://lilianweng.github.io/posts/2018-10-13-flow-models/>) · 2018-10-13 · 已有中文全文（本库未公开）
+- [从自编码器到 Beta-VAE](<https://lilianweng.github.io/posts/2018-08-12-vae/>) · 2018-08-12 · 已有中文全文（本库未公开）
+- [注意力？注意力！](<https://lilianweng.github.io/posts/2018-06-24-attention/>) · 2018-06-24 · 已有中文全文（本库未公开）
+- [用 TensorFlow + OpenAI Gym 实现深度强化学习模型](<https://lilianweng.github.io/posts/2018-05-05-drl-implementation/>) · 2018-05-05 · 已有中文全文（本库未公开）
+- [策略梯度算法](<https://lilianweng.github.io/posts/2018-04-08-policy-gradient/>) · 2018-04-08 · 已有中文全文（本库未公开）
+- [强化学习（长文）初探](<https://lilianweng.github.io/posts/2018-02-19-rl-overview/>) · 2018-02-19 · 已有中文全文（本库未公开）
+- [多臂老虎机问题及其解法](<https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/>) · 2018-01-23 · 已有中文全文（本库未公开）
+- [目标检测入门 第三部分：R-CNN 家族](<https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/>) · 2017-12-31 · 已有中文全文（本库未公开）
+- [目标检测入门 Part 2：CNN、DPM 与 Overfeat](<https://lilianweng.github.io/posts/2017-12-15-object-recognition-part-2/>) · 2017-12-15 · 已有中文全文（本库未公开）
+- [目标检测入门 第一部分：梯度向量、HOG 与 Selective Search](<https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/>) · 2017-10-29 · 已有中文全文（本库未公开）
+- [学习词嵌入](<https://lilianweng.github.io/posts/2017-10-15-word-embedding/>) · 2017-10-15 · 已有中文全文（本库未公开）
+- [用信息论剖析深度学习](<https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/>) · 2017-09-28 · 已有中文全文（本库未公开）
+- [从 GAN 到 WGAN](<https://lilianweng.github.io/posts/2017-08-20-gan/>) · 2017-08-20 · 已有中文全文（本库未公开）
+- [如何解释机器学习模型的预测？](<https://lilianweng.github.io/posts/2017-08-01-interpretation/>) · 2017-08-01 · 已有中文全文（本库未公开）
+- [用 RNN 预测股价：第二部分](<https://lilianweng.github.io/posts/2017-07-22-stock-rnn-part-2/>) · 2017-07-22 · 已有中文全文（本库未公开）
+- [用 RNN 预测股价：第一部分](<https://lilianweng.github.io/posts/2017-07-08-stock-rnn-part-1/>) · 2017-07-08 · 已有中文全文（本库未公开）
+- [写给好奇者的深度学习综述](<https://lilianweng.github.io/posts/2017-06-21-overview/>) · 2017-06-21 · 已有中文全文（本库未公开）
 
 #### Simon Willison
 
-- [我们几乎需要在所有东西上默认设置硬性预算上限](<https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/>) · 2026-10-03
+- [我们几乎需要在所有东西上默认设置硬性预算上限](<https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/>) · 2026-10-03 · 已有中文全文（本库未公开）
 
 #### Thariq Shihipar
 
-- [构建 Claude Code 的经验：我们如何使用 skills](<https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/>) · 2026-06-03
-- [构建 Claude Code 的经验：提示词缓存就是一切](<https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/>) · 2026-04-30
-- [像 Agent 一样观察：我们如何在 Claude Code 中设计工具](<https://claude.dev/blog/seeing-like-an-agent/>) · 2026-04-10
-- [Claude Code 就够了](<https://x.com/trq212/status/1944877527044120655>) · 2025-07
+- [构建 Claude Code 的经验：我们如何使用 skills](<https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/>) · 2026-06-03 · 已有中文全文（本库未公开）
+- [构建 Claude Code 的经验：提示词缓存就是一切](<https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/>) · 2026-04-30 · 已有中文全文（本库未公开）
+- [像 Agent 一样观察：我们如何在 Claude Code 中设计工具](<https://claude.dev/blog/seeing-like-an-agent/>) · 2026-04-10 · 已有中文全文（本库未公开）
+- [Claude Code 就够了](<https://x.com/trq212/status/1944877527044120655>) · 2025-07 · 已有中文全文（本库未公开）
 
 #### 刘胜与
 
@@ -632,7 +634,7 @@
 
 #### 吴育昕
 
-- [Python 常见引用循环模式](<https://ppwwyyxx.com/blog/2025/Ref-Cycle-Patterns/>) · 2025-11-20
+- [Python 常见引用循环模式](<https://ppwwyyxx.com/blog/2025/Ref-Cycle-Patterns/>) · 2025-11-20 · 已有中文全文（本库未公开）
 
 #### 崔添翼
 
@@ -651,190 +653,190 @@
 
 #### Anthropic
 
-- [Claude Code 团队如何做代码审查](<https://claude.dev/blog/solving-code-review-at-anthropic/>) · 2026-10-15
-- [构建有效的智能体自动化](<https://claude.dev/blog/building-effective-agent-automations/>) · 2026-10-08
-- [深化我们对美国科学发现的承诺](<https://www.anthropic.com/news/genesis-mission-commitment>) · 2026-10-08
-- [2026 年使用政策更新（2026 Usage Policy update）](<https://www.anthropic.com/news/2026-usage-policy-update>) · 2026-10-08
-- [Claude Code 上云：云端会话实战指南](<https://claude.dev/blog/claude-code-in-the-cloud/>) · 2026-10-06
-- [扩展网络验证计划](<https://www.anthropic.com/news/cyber-verification-program>) · 2026-10-06
-- [Anthropic 投资 1 亿美元培训 1 万名工程师，以弥合企业 AI 人才缺口](<https://www.anthropic.com/news/claude-frontier-academy>) · 2026-10-02
-- [Claude Code Mods 入门](<https://claude.dev/blog/getting-started-with-claude-code-mods/>) · 2026-10-01
-- [用 Claude 自动化 eval 设计与爬山优化](<https://claude.dev/blog/automating-eval-design-and-hillclimbing/>) · 2026-09-28
-- [使用 Claude Sonnet 5.5 构建](<https://claude.dev/blog/building-with-claude-sonnet-5-5/>) · 2026-09-28
-- [使用 Claude Code：如何分配推理强度](<https://claude.dev/blog/spending-your-effort/>) · 2026-09-25
-- [Opus 5.5 上完成一个任务要花多少钱](<https://claude.dev/blog/what-a-task-costs-on-opus-5-5/>) · 2026-09-25
-- [Claude 发现一种带有类 CRISPR 重复序列的新型酶系统](<https://www.anthropic.com/news/claude-discovers-novel-enzyme-system>) · 2026-09-23
-- [我们如何在两周内让 claude.ai 快 3 倍](<https://claude.dev/blog/how-we-made-claude-ai-faster/>) · 2026-09-23
-- [充分发挥 Opus 5.5 在 Claude 与 Claude Code 中的能力](<https://claude.dev/blog/getting-the-most-out-of-opus-5-5/>) · 2026-09-22
-- [模型硬件标准预览](<https://www.anthropic.com/news/model-hardware-standard-research-preview>) · 2026-08-27
-- [Claude 的文本水印是如何工作的](<https://www.anthropic.com/news/claude-text-watermark>) · 2026-08-14
-- [Cognizant 与 Anthropic 扩大合作，将 Claude 带给企业客户](<https://www.anthropic.com/news/cognizant-anthropic>) · 2026-07-27
-- [我们对开放权重模型的立场](<https://www.anthropic.com/news/position-open-weights-models>) · 2026-07-27
-- [Claude 5 世代模型的新上下文工程规则](<https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/>) · 2026-07-24
-- [向 Claude 提问 Anthropic 经济指数](<https://www.anthropic.com/news/anthropic-economic-index-connector>) · 2026-07-22
-- [经济未来研究基金研究议程](<https://www.anthropic.com/news/economic-futures-research-fund-agenda>) · 2026-07-22
-- [Anthropic 再向 Public First Action 捐赠 2000 万美元](<https://www.anthropic.com/news/donation-public-first-action>) · 2026-07-21
-- [申请 Anthropic“AI for Science”罕见病研究资助](<https://www.anthropic.com/news/rare-disease-research-grants>) · 2026-07-20
-- [Anthropic 承诺投入 1000 万美元支持加拿大 AI 研究](<https://www.anthropic.com/news/canadian-ai-research>) · 2026-07-14
-- [欢迎大家提出尖锐的问题](<https://www.anthropic.com/news/hard-questions>) · 2026-07-09
-- [UST 将 Claude 引入物理 AI](<https://www.anthropic.com/news/ust-claude>) · 2026-07-09
-- [重新部署 Fable 5](<https://www.anthropic.com/news/redeploying-fable-5>) · 2026-06-30
-- [Claude Science：面向科学家的 AI 工作台正式发布](<https://www.anthropic.com/news/claude-science-ai-workbench>) · 2026-06-30
-- [首期 Anthropic Public Record 调查结果](<https://www.anthropic.com/news/anthropic-public-record>) · 2026-06-12
-- [关于美国政府指令暂停 Fable 5 和 Mythos 5 访问的声明](<https://www.anthropic.com/news/fable-mythos-access>) · 2026-06-12
-- [Claude Fable 5 与 Claude Mythos 5](<https://www.anthropic.com/news/claude-fable-5-mythos-5>) · 2026-06-09
-- [扩展 Project Glasswing](<https://www.anthropic.com/news/expanding-project-glasswing>) · 2026-06-02
-- [为每个任务定制运行框架：Claude Code 中的动态工作流](<https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/>) · 2026-06-02
-- [Anthropic 联合创始人 Chris Olah 就教宗良十四世通谕《Magnifica humanitas》发表的致辞](<https://www.anthropic.com/news/chris-olah-pope-leo-encyclical>) · 2026-05-25
-- [拓宽关于前沿 AI 的对话](<https://www.anthropic.com/news/widening-conversation-ai>) · 2026-05-19
-- [Anthropic 收购 Stainless](<https://www.anthropic.com/news/anthropic-acquires-stainless>) · 2026-05-18
-- [Anthropic 与盖茨基金会达成 2 亿美元合作](<https://www.anthropic.com/news/gates-foundation-partnership>) · 2026-05-14
-- [面向金融服务的智能体](<https://www.anthropic.com/news/finance-agents>) · 2026-05-05
-- [携手 Blackstone、Hellman & Friedman 与高盛，打造一家新的企业级 AI 服务公司](<https://www.anthropic.com/news/enterprise-ai-services-company>) · 2026-05-04
-- [面向创意工作的 Claude](<https://www.anthropic.com/news/claude-for-creative-work>) · 2026-04-28
-- [Anthropic 与 NEC 合作打造日本最大规模的 AI 工程团队](<https://www.anthropic.com/news/anthropic-nec>) · 2026-04-24
-- [Anthropic 与 Amazon 扩大合作，新增高达 5 吉瓦算力](<https://www.anthropic.com/news/anthropic-amazon-compute>) · 2026-04-20
-- [Claude Project Glasswing](<https://www.anthropic.com/project/glasswing>) · 2026-04-07
-- [Anthropic 扩大与 Google 和 Broadcom 的合作，获取数吉瓦级下一代算力](<https://www.anthropic.com/news/google-broadcom-partnership-compute>) · 2026-04-06
-- [与战争部](<https://www.anthropic.com/news/where-stand-department-war>) · 2026-03-05
-- [关于战争部长 Pete Hegseth 言论的声明](<https://www.anthropic.com/news/statement-comments-secretary-war>) · 2026-02-27
-- [Dario Amodei 就我们与战争部](<https://www.anthropic.com/news/statement-department-of-war>) · 2026-02-26
-- [Anthropic 收购 Vercept，推进 Claude 的计算机使用能力](<https://www.anthropic.com/news/acquires-vercept>) · 2026-02-25
-- [Anthropic 负责任扩展政策：3.0 版本](<https://www.anthropic.com/news/responsible-scaling-policy-v3>) · 2026-02-24
-- [检测和防范蒸馏攻击](<https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks>) · 2026-02-23
-- [Anthropic 与 Infosys 合作为电信及其他受监管行业构建 AI 智能体](<https://www.anthropic.com/news/anthropic-infosys>) · 2026-02-17
-- [Anthropic 与卢旺达政府签署医疗卫生与教育领域 AI 合作谅解备忘录](<https://www.anthropic.com/news/anthropic-rwanda-mou>) · 2026-02-17
-- [Anthropic 与 CodePath 合作，将 Claude 引入美国规模最大的大学计算机科学项目](<https://www.anthropic.com/news/anthropic-codepath-partnership>) · 2026-02-13
-- [Anthropic 向 Public First Action 捐赠 2000 万美元](<https://www.anthropic.com/news/donate-public-first-action>) · 2026-02-12
-- [承担我们数据中心带来的电价上涨](<https://www.anthropic.com/news/covering-electricity-price-increases>) · 2026-02-11
-- [Claude 是一个思考的空间](<https://www.anthropic.com/news/claude-is-a-space-to-think>) · 2026-02-04
-- [Apple 的 Xcode 现已支持 Claude Agent SDK](<https://www.anthropic.com/news/apple-xcode-claude-agent-sdk>) · 2026-02-03
-- [Anthropic 与 Allen 研究所及霍华德·休斯医学研究所合作，加速科学发现](<https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute>) · 2026-02-02
-- [ServiceNow 选择 Claude 为客户应用提供动力并提升内部生产力](<https://www.anthropic.com/news/servicenow-anthropic-claude>) · 2026-01-28
-- [Anthropic 与英国政府合作，为 GOV.UK 服务引入 AI 助手](<https://www.anthropic.com/news/gov-UK-partnership>) · 2026-01-27
-- [Anthropic 与 Teach For All 启动面向教育工作者的全球 AI 培训计划](<https://www.anthropic.com/news/anthropic-teach-for-all>) · 2026-01-21
-- [科学家如何使用 Claude 加速研究与发现](<https://www.anthropic.com/news/accelerating-scientific-research>) · 2026-01-15
-- [推动 Claude 在医疗与生命科学领域的发展](<https://www.anthropic.com/news/healthcare-life-sciences>) · 2026-01-11
-- [分享我们针对加州《前沿人工智能透明法案》的合规框架](<https://www.anthropic.com/news/compliance-framework-SB53>) · 2025-12-19
-- [与美国能源部合作，开启科学发现的新时代](<https://www.anthropic.com/news/genesis-mission-partnership>) · 2025-12-18
-- [保护我们用户的福祉](<https://www.anthropic.com/news/protecting-well-being-of-users>) · 2025-12-18
-- [捐赠模型上下文协议并成立 Agentic AI 基金会](<https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation>) · 2025-12-09
-- [Accenture 与 Anthropic 达成多年期合作伙伴关系，推动企业从 AI 试点走向生产](<https://www.anthropic.com/news/anthropic-accenture-partnership>) · 2025-12-09
-- [Anthropic 收购 Bun，Claude Code 达成 10 亿美元里程碑](<https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone>) · 2025-12-03
-- [Snowflake 与 Anthropic 宣布达成 2 亿美元合作，为全球企业带来智能体 AI](<https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership>) · 2025-12-03
-- [Claude 现已登陆 Microsoft Foundry 和 Microsoft 365 Copilot](<https://www.anthropic.com/news/claude-in-microsoft-foundry>) · 2025-11-18
-- [Anthropic 与卢旺达政府及 ALX 合作，为非洲数十万学习者带来 AI 教育](<https://www.anthropic.com/news/rwandan-government-partnership-ai-education>) · 2025-11-18
-- [马里兰州与 Anthropic 合作，更好地服务本州居民](<https://www.anthropic.com/news/maryland-partnership>) · 2025-11-13
-- [衡量 Claude 的政治偏见](<https://www.anthropic.com/news/political-even-handedness>) · 2025-11-13
-- [挫败首例已报告的 AI 主导网络间谍行动](<https://www.anthropic.com/news/disrupting-AI-espionage>) · 2025-11-13
-- [在英国和欧洲启动 Anthropic 经济未来计划](<https://www.anthropic.com/news/economic-futures-uk-europe>) · 2025-11-05
-- [Cognizant 将向 35 万名员工提供 Claude，加速企业 AI 采用与内部转型](<https://www.anthropic.com/news/cognizant-partnership>) · 2025-11-04
-- [Anthropic 与冰岛宣布启动全球首批国家级 AI 教育试点之一](<https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots>) · 2025-11-04
-- [面向金融服务领域升级 Claude](<https://www.anthropic.com/news/advancing-claude-for-financial-services>) · 2025-10-27
-- [扩大对 Google Cloud TPU 及服务的使用](<https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services>) · 2025-10-23
-- [Dario Amodei 关于 Anthropic 致力于美国 AI 领导地位的声明](<https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership>) · 2025-10-21
-- [面向生命科学的 Claude](<https://www.anthropic.com/news/claude-for-life-sciences>) · 2025-10-20
-- [Anthropic 与 Salesforce 扩大合作，将 Claude 引入受监管行业](<https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership>) · 2025-10-14
-- [德勤将向其全球网络的 47 万名员工开放 Claude](<https://www.anthropic.com/news/deloitte-anthropic-partnership>) · 2025-10-06
-- [让 Claude Code 更自主地工作](<https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously>) · 2025-09-29
-- [Claude 现已在 Xcode 中正式发布](<https://www.anthropic.com/news/claude-in-xcode>) · 2025-09-15
-- [Anthropic 支持 SB 53 法案](<https://www.anthropic.com/news/anthropic-is-endorsing-sb-53>) · 2025-09-08
-- [Anthropic 签署白宫-致美国青年：投资 AI 教育-承诺](<https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education>) · 2025-09-04
-- [更新对未受支持地区的销售限制](<https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions>) · 2025-09-04
-- [检测并应对 AI 的滥用：2025 年 8 月](<https://www.anthropic.com/news/detecting-countering-misuse-aug-2025>) · 2025-08-27
-- [Anthropic 成立高等教育顾问委员会并推出 AI 素养课程](<https://www.anthropic.com/news/anthropic-higher-education-initiatives>) · 2025-08-21
-- [Claude Code 与企业版套餐的全新管理员控制功能](<https://www.anthropic.com/news/claude-code-on-team-and-enterprise>) · 2025-08-20
-- [使用政策更新](<https://www.anthropic.com/news/usage-policy-update>) · 2025-08-15
-- [Claude Opus 4.1](<https://www.anthropic.com/news/claude-opus-4-1>) · 2025-08-05
-- [我们开发安全可信智能体的框架](<https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents>) · 2025-08-04
-- [Anthropic 签署 CMS 健康科技生态系统承诺，推进医疗互操作性](<https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability>) · 2025-07-30
-- [Anthropic 各团队如何使用 Claude Code](<https://www.anthropic.com/news/how-anthropic-teams-use-claude-code>) · 2025-07-24
-- [Anthropic 与芝加哥大学 Becker Friedman 研究所合作开展 AI 经济研究](<https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic>) · 2025-07-23
-- [关于美国《AI 行动计划》的思考](<https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan>) · 2025-07-23
-- [在美国建设 AI](<https://www.anthropic.com/news/build-ai-in-america>) · 2025-07-21
-- [Anthropic 将签署《欧盟行为准则》](<https://www.anthropic.com/news/eu-code-practice>) · 2025-07-21
-- [Claude 金融服务版](<https://www.anthropic.com/news/claude-for-financial-services>) · 2025-07-15
-- [投资能源，保障美国的 AI 未来](<https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future>) · 2025-07-15
-- [Anthropic 与美国国防部合作，在国防行动中推进负责任 AI](<https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations>) · 2025-07-14
-- [劳伦斯利弗莫尔国家实验室扩大 Claude 企业版部署，赋能科学家与研究人员](<https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and>) · 2025-07-09
-- [推进 Claude 教育版](<https://www.anthropic.com/news/advancing-claude-for-education>) · 2025-07-09
-- [前沿 AI 为何需要透明度](<https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai>) · 2025-07-07
-- [Amazon Bedrock 中的 Claude：获批用于 FedRAMP High 和 DoD IL4-5 工作负载](<https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high>) · 2025-06-11
-- [确保美国的算力优势：Anthropic 对扩散规则的立场](<https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule>) · 2025-04-30
-- [检测并应对对 Claude 的恶意使用：2025 年 3 月](<https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025>) · 2025-04-23
-- [我们理解与应对 AI 危害的方法](<https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms>) · 2025-04-21
-- [Anthropic 对纽森州长 AI 工作组报告草案的回应](<https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report>) · 2025-03-19
-- [Anthropic 就美国 AI 行动计划向 OSTP 提出的建议](<https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan>) · 2025-03-06
-- [Anthropic 与美国国家实验室合作举办首届“千名科学家 AI Jam”](<https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam>) · 2025-02-28
-- [Claude 与 Alexa+](<https://www.anthropic.com/news/claude-and-alexa-plus>) · 2025-02-26
-- [Claude 3.7 Sonnet 与 Claude Code](<https://www.anthropic.com/news/claude-3-7-sonnet>) · 2025-02-24
-- [Claude 的扩展思考](<https://www.anthropic.com/news/visible-extended-thinking>) · 2025-02-24
-- [Anthropic 与英国政府签署谅解备忘录，探索 AI 如何变革英国公共服务](<https://www.anthropic.com/news/mou-uk-government>) · 2025-02-14
-- [Dario Amodei 关于巴黎人工智能行动峰会的声明](<https://www.anthropic.com/news/paris-ai-summit>) · 2025-02-11
-- [Lyft 将把 Claude 带给超过 4,000 万乘客和 100 多万司机](<https://www.anthropic.com/news/lyft-announcement>) · 2025-02-06
-- [Anthropic 获得负责任 AI 的 ISO 42001 认证](<https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai>) · 2025-01-13
-- [2024 年的选举与 AI：观察与经验](<https://www.anthropic.com/news/elections-ai-2024>) · 2024-12-12
-- [携手 AWS，驱动下一代 AI 开发](<https://www.anthropic.com/news/anthropic-amazon-trainium>) · 2024-11-22
-- [为有针对性的监管而辩护](<https://www.anthropic.com/news/the-case-for-targeted-regulation>) · 2024-10-31
-- [GitHub Copilot 上线 Claude 3.5 Sonnet](<https://www.anthropic.com/news/github-copilot>) · 2024-10-29
-- [美国大选准备情况](<https://www.anthropic.com/news/us-elections-readiness>) · 2024-10-08
-- [Claude 企业版](<https://claude.com/resources/articles/claude-for-enterprise>) · 2024-09-10
-- [Salesforce 携手 Anthropic，以 Claude 增强 Einstein 能力](<https://www.anthropic.com/news/salesforce-partnership>) · 2024-09-03
-- [在 Amazon Bedrock 中微调 Claude 3 Haiku](<https://claude.com/resources/articles/fine-tune-claude-3-haiku>) · 2024-07-10
-- [扩大政府用户对 Claude 的访问](<https://www.anthropic.com/news/expanding-access-to-claude-for-government>) · 2024-06-26
-- [在 Projects 中与 Claude 协作](<https://www.anthropic.com/news/projects>) · 2024-06-25
-- [Claude 3.5 Sonnet](<https://www.anthropic.com/news/claude-3-5-sonnet>) · 2024-06-21
-- [金门大桥 Claude](<https://www.anthropic.com/news/golden-gate-claude>) · 2024-05-23
-- [对我们《负责任扩展政策》的反思](<https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy>) · 2024-05-20
-- [更新我们的使用政策](<https://www.anthropic.com/news/updating-our-usage-policy>) · 2024-05-10
-- [第三方测试：AI 政策的关键要素](<https://www.anthropic.com/news/third-party-testing>) · 2024-03-25
-- [Anthropic、AWS 与埃森哲联手为企业构建可信赖的解决方案](<https://www.anthropic.com/news/accenture-aws-anthropic>) · 2024-03-20
-- [Claude 3 模型正式登陆 Vertex AI](<https://www.anthropic.com/news/google-vertex-general-availability>) · 2024-03-19
-- [Claude 3 Haiku：我们迄今最快的模型](<https://www.anthropic.com/news/claude-3-haiku>) · 2024-03-13
-- [面向业务成效的提示词工程](<https://www.anthropic.com/news/prompt-engineering-for-business-performance>) · 2024-02-29
-- [为 2024 年全球大选做准备](<https://www.anthropic.com/news/preparing-for-global-elections-in-2024>) · 2024-02-16
-- [扩大法律保障范围并改进我们的 API](<https://www.anthropic.com/news/expanded-legal-protections-api-improvements>) · 2023-12-19
-- [关于美国行政命令、G7 行为准则与布莱切利园峰会的思考](<https://www.anthropic.com/news/policy-recap-q4-2023>) · 2023-11-05
-- [携手 Amazon，扩大安全 AI 的覆盖范围](<https://www.anthropic.com/news/anthropic-amazon>) · 2023-09-25
-- [面向 Claude 长上下文窗口的提示工程](<https://www.anthropic.com/news/prompting-long-context>) · 2023-09-23
-- [长期利益信托](<https://www.anthropic.com/news/the-long-term-benefit-trust>) · 2023-09-19
-- [Anthropic 与 BCG 达成合作](<https://www.anthropic.com/news/anthropic-bcg>) · 2023-09-14
-- [SKT 合作伙伴关系公告](<https://www.anthropic.com/news/skt-partnership-announcement>) · 2023-08-15
-- [发布 Claude Instant 1.2](<https://www.anthropic.com/news/releasing-claude-instant-1-2>) · 2023-08-09
-- [Claude 2](<https://www.anthropic.com/news/claude-2>) · 2023-07-11
-- [规划通往 AI 问责制的路径](<https://www.anthropic.com/news/charting-a-path-to-ai-accountability>) · 2023-06-13
-- [Claude 的“宪法”](<https://www.anthropic.com/news/claudes-constitution>) · 2023-05-09
-- [与 Scale 合作，将生成式 AI 带入企业](<https://www.anthropic.com/news/partnering-with-scale>) · 2023-04-26
-- [当下可用的 AI 政策工具：大力投资 NIST](<https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist>) · 2023-04-20
-- [Anthropic 与 Google Cloud 达成合作](<https://www.anthropic.com/news/anthropic-partners-with-google-cloud>) · 2023-02-03
-- [既往目标](<https://www.anthropic.com/responsible-scaling-policy/updates>)
-- [我们的经济未来会是什么样子？](<https://www.anthropic.com/institute/econ-scenarios>)
-- [当 AI 构建它自己](<https://www.anthropic.com/institute/recursive-self-improvement>)
-- [关于 AI 指数级发展的政策](<https://www.anthropic.com/policy-on-the-ai-exponential/aaif>)
-- [Anthropic 透明度中心](<https://www.anthropic.com/transparency/system-trust-reporting>)
-- [Anthropic 透明度中心：自愿承诺](<https://www.anthropic.com/transparency/voluntary-commitments>)
-- [关于 AI 指数级发展的政策_51c0c8](<https://www.anthropic.com/policy-on-the-ai-exponential/epf>)
-- [Anthropic 透明度中心：模型报告](<https://www.anthropic.com/transparency/model-report>)
-- [衡量前沿实验室内部 AI 发展节奏的指标](<https://www.anthropic.com/institute/measuring-pace-of-ai-development>)
+- [Claude Code 团队如何做代码审查](<https://claude.dev/blog/solving-code-review-at-anthropic/>) · 2026-10-15 · 已有中文全文（本库未公开）
+- [构建有效的智能体自动化](<https://claude.dev/blog/building-effective-agent-automations/>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [深化我们对美国科学发现的承诺](<https://www.anthropic.com/news/genesis-mission-commitment>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [2026 年使用政策更新（2026 Usage Policy update）](<https://www.anthropic.com/news/2026-usage-policy-update>) · 2026-10-08 · 已有中文全文（本库未公开）
+- [Claude Code 上云：云端会话实战指南](<https://claude.dev/blog/claude-code-in-the-cloud/>) · 2026-10-06 · 已有中文全文（本库未公开）
+- [扩展网络验证计划](<https://www.anthropic.com/news/cyber-verification-program>) · 2026-10-06 · 已有中文全文（本库未公开）
+- [Anthropic 投资 1 亿美元培训 1 万名工程师，以弥合企业 AI 人才缺口](<https://www.anthropic.com/news/claude-frontier-academy>) · 2026-10-02 · 已有中文全文（本库未公开）
+- [Claude Code Mods 入门](<https://claude.dev/blog/getting-started-with-claude-code-mods/>) · 2026-10-01 · 已有中文全文（本库未公开）
+- [用 Claude 自动化 eval 设计与爬山优化](<https://claude.dev/blog/automating-eval-design-and-hillclimbing/>) · 2026-09-28 · 已有中文全文（本库未公开）
+- [使用 Claude Sonnet 5.5 构建](<https://claude.dev/blog/building-with-claude-sonnet-5-5/>) · 2026-09-28 · 已有中文全文（本库未公开）
+- [使用 Claude Code：如何分配推理强度](<https://claude.dev/blog/spending-your-effort/>) · 2026-09-25 · 已有中文全文（本库未公开）
+- [Opus 5.5 上完成一个任务要花多少钱](<https://claude.dev/blog/what-a-task-costs-on-opus-5-5/>) · 2026-09-25 · 已有中文全文（本库未公开）
+- [Claude 发现一种带有类 CRISPR 重复序列的新型酶系统](<https://www.anthropic.com/news/claude-discovers-novel-enzyme-system>) · 2026-09-23 · 已有中文全文（本库未公开）
+- [我们如何在两周内让 claude.ai 快 3 倍](<https://claude.dev/blog/how-we-made-claude-ai-faster/>) · 2026-09-23 · 已有中文全文（本库未公开）
+- [充分发挥 Opus 5.5 在 Claude 与 Claude Code 中的能力](<https://claude.dev/blog/getting-the-most-out-of-opus-5-5/>) · 2026-09-22 · 已有中文全文（本库未公开）
+- [模型硬件标准预览](<https://www.anthropic.com/news/model-hardware-standard-research-preview>) · 2026-08-27 · 已有中文全文（本库未公开）
+- [Claude 的文本水印是如何工作的](<https://www.anthropic.com/news/claude-text-watermark>) · 2026-08-14 · 已有中文全文（本库未公开）
+- [Cognizant 与 Anthropic 扩大合作，将 Claude 带给企业客户](<https://www.anthropic.com/news/cognizant-anthropic>) · 2026-07-27 · 已有中文全文（本库未公开）
+- [我们对开放权重模型的立场](<https://www.anthropic.com/news/position-open-weights-models>) · 2026-07-27 · 已有中文全文（本库未公开）
+- [Claude 5 世代模型的新上下文工程规则](<https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/>) · 2026-07-24 · 已有中文全文（本库未公开）
+- [向 Claude 提问 Anthropic 经济指数](<https://www.anthropic.com/news/anthropic-economic-index-connector>) · 2026-07-22 · 已有中文全文（本库未公开）
+- [经济未来研究基金研究议程](<https://www.anthropic.com/news/economic-futures-research-fund-agenda>) · 2026-07-22 · 已有中文全文（本库未公开）
+- [Anthropic 再向 Public First Action 捐赠 2000 万美元](<https://www.anthropic.com/news/donation-public-first-action>) · 2026-07-21 · 已有中文全文（本库未公开）
+- [申请 Anthropic“AI for Science”罕见病研究资助](<https://www.anthropic.com/news/rare-disease-research-grants>) · 2026-07-20 · 已有中文全文（本库未公开）
+- [Anthropic 承诺投入 1000 万美元支持加拿大 AI 研究](<https://www.anthropic.com/news/canadian-ai-research>) · 2026-07-14 · 已有中文全文（本库未公开）
+- [欢迎大家提出尖锐的问题](<https://www.anthropic.com/news/hard-questions>) · 2026-07-09 · 已有中文全文（本库未公开）
+- [UST 将 Claude 引入物理 AI](<https://www.anthropic.com/news/ust-claude>) · 2026-07-09 · 已有中文全文（本库未公开）
+- [重新部署 Fable 5](<https://www.anthropic.com/news/redeploying-fable-5>) · 2026-06-30 · 已有中文全文（本库未公开）
+- [Claude Science：面向科学家的 AI 工作台正式发布](<https://www.anthropic.com/news/claude-science-ai-workbench>) · 2026-06-30 · 已有中文全文（本库未公开）
+- [首期 Anthropic Public Record 调查结果](<https://www.anthropic.com/news/anthropic-public-record>) · 2026-06-12 · 已有中文全文（本库未公开）
+- [关于美国政府指令暂停 Fable 5 和 Mythos 5 访问的声明](<https://www.anthropic.com/news/fable-mythos-access>) · 2026-06-12 · 已有中文全文（本库未公开）
+- [Claude Fable 5 与 Claude Mythos 5](<https://www.anthropic.com/news/claude-fable-5-mythos-5>) · 2026-06-09 · 已有中文全文（本库未公开）
+- [扩展 Project Glasswing](<https://www.anthropic.com/news/expanding-project-glasswing>) · 2026-06-02 · 已有中文全文（本库未公开）
+- [为每个任务定制运行框架：Claude Code 中的动态工作流](<https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/>) · 2026-06-02 · 已有中文全文（本库未公开）
+- [Anthropic 联合创始人 Chris Olah 就教宗良十四世通谕《Magnifica humanitas》发表的致辞](<https://www.anthropic.com/news/chris-olah-pope-leo-encyclical>) · 2026-05-25 · 已有中文全文（本库未公开）
+- [拓宽关于前沿 AI 的对话](<https://www.anthropic.com/news/widening-conversation-ai>) · 2026-05-19 · 已有中文全文（本库未公开）
+- [Anthropic 收购 Stainless](<https://www.anthropic.com/news/anthropic-acquires-stainless>) · 2026-05-18 · 已有中文全文（本库未公开）
+- [Anthropic 与盖茨基金会达成 2 亿美元合作](<https://www.anthropic.com/news/gates-foundation-partnership>) · 2026-05-14 · 已有中文全文（本库未公开）
+- [面向金融服务的智能体](<https://www.anthropic.com/news/finance-agents>) · 2026-05-05 · 已有中文全文（本库未公开）
+- [携手 Blackstone、Hellman & Friedman 与高盛，打造一家新的企业级 AI 服务公司](<https://www.anthropic.com/news/enterprise-ai-services-company>) · 2026-05-04 · 已有中文全文（本库未公开）
+- [面向创意工作的 Claude](<https://www.anthropic.com/news/claude-for-creative-work>) · 2026-04-28 · 已有中文全文（本库未公开）
+- [Anthropic 与 NEC 合作打造日本最大规模的 AI 工程团队](<https://www.anthropic.com/news/anthropic-nec>) · 2026-04-24 · 已有中文全文（本库未公开）
+- [Anthropic 与 Amazon 扩大合作，新增高达 5 吉瓦算力](<https://www.anthropic.com/news/anthropic-amazon-compute>) · 2026-04-20 · 已有中文全文（本库未公开）
+- [Claude Project Glasswing](<https://www.anthropic.com/project/glasswing>) · 2026-04-07 · 已有中文全文（本库未公开）
+- [Anthropic 扩大与 Google 和 Broadcom 的合作，获取数吉瓦级下一代算力](<https://www.anthropic.com/news/google-broadcom-partnership-compute>) · 2026-04-06 · 已有中文全文（本库未公开）
+- [与战争部](<https://www.anthropic.com/news/where-stand-department-war>) · 2026-03-05 · 已有中文全文（本库未公开）
+- [关于战争部长 Pete Hegseth 言论的声明](<https://www.anthropic.com/news/statement-comments-secretary-war>) · 2026-02-27 · 已有中文全文（本库未公开）
+- [Dario Amodei 就我们与战争部](<https://www.anthropic.com/news/statement-department-of-war>) · 2026-02-26 · 已有中文全文（本库未公开）
+- [Anthropic 收购 Vercept，推进 Claude 的计算机使用能力](<https://www.anthropic.com/news/acquires-vercept>) · 2026-02-25 · 已有中文全文（本库未公开）
+- [Anthropic 负责任扩展政策：3.0 版本](<https://www.anthropic.com/news/responsible-scaling-policy-v3>) · 2026-02-24 · 已有中文全文（本库未公开）
+- [检测和防范蒸馏攻击](<https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks>) · 2026-02-23 · 已有中文全文（本库未公开）
+- [Anthropic 与 Infosys 合作为电信及其他受监管行业构建 AI 智能体](<https://www.anthropic.com/news/anthropic-infosys>) · 2026-02-17 · 已有中文全文（本库未公开）
+- [Anthropic 与卢旺达政府签署医疗卫生与教育领域 AI 合作谅解备忘录](<https://www.anthropic.com/news/anthropic-rwanda-mou>) · 2026-02-17 · 已有中文全文（本库未公开）
+- [Anthropic 与 CodePath 合作，将 Claude 引入美国规模最大的大学计算机科学项目](<https://www.anthropic.com/news/anthropic-codepath-partnership>) · 2026-02-13 · 已有中文全文（本库未公开）
+- [Anthropic 向 Public First Action 捐赠 2000 万美元](<https://www.anthropic.com/news/donate-public-first-action>) · 2026-02-12 · 已有中文全文（本库未公开）
+- [承担我们数据中心带来的电价上涨](<https://www.anthropic.com/news/covering-electricity-price-increases>) · 2026-02-11 · 已有中文全文（本库未公开）
+- [Claude 是一个思考的空间](<https://www.anthropic.com/news/claude-is-a-space-to-think>) · 2026-02-04 · 已有中文全文（本库未公开）
+- [Apple 的 Xcode 现已支持 Claude Agent SDK](<https://www.anthropic.com/news/apple-xcode-claude-agent-sdk>) · 2026-02-03 · 已有中文全文（本库未公开）
+- [Anthropic 与 Allen 研究所及霍华德·休斯医学研究所合作，加速科学发现](<https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute>) · 2026-02-02 · 已有中文全文（本库未公开）
+- [ServiceNow 选择 Claude 为客户应用提供动力并提升内部生产力](<https://www.anthropic.com/news/servicenow-anthropic-claude>) · 2026-01-28 · 已有中文全文（本库未公开）
+- [Anthropic 与英国政府合作，为 GOV.UK 服务引入 AI 助手](<https://www.anthropic.com/news/gov-UK-partnership>) · 2026-01-27 · 已有中文全文（本库未公开）
+- [Anthropic 与 Teach For All 启动面向教育工作者的全球 AI 培训计划](<https://www.anthropic.com/news/anthropic-teach-for-all>) · 2026-01-21 · 已有中文全文（本库未公开）
+- [科学家如何使用 Claude 加速研究与发现](<https://www.anthropic.com/news/accelerating-scientific-research>) · 2026-01-15 · 已有中文全文（本库未公开）
+- [推动 Claude 在医疗与生命科学领域的发展](<https://www.anthropic.com/news/healthcare-life-sciences>) · 2026-01-11 · 已有中文全文（本库未公开）
+- [分享我们针对加州《前沿人工智能透明法案》的合规框架](<https://www.anthropic.com/news/compliance-framework-SB53>) · 2025-12-19 · 已有中文全文（本库未公开）
+- [与美国能源部合作，开启科学发现的新时代](<https://www.anthropic.com/news/genesis-mission-partnership>) · 2025-12-18 · 已有中文全文（本库未公开）
+- [保护我们用户的福祉](<https://www.anthropic.com/news/protecting-well-being-of-users>) · 2025-12-18 · 已有中文全文（本库未公开）
+- [捐赠模型上下文协议并成立 Agentic AI 基金会](<https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation>) · 2025-12-09 · 已有中文全文（本库未公开）
+- [Accenture 与 Anthropic 达成多年期合作伙伴关系，推动企业从 AI 试点走向生产](<https://www.anthropic.com/news/anthropic-accenture-partnership>) · 2025-12-09 · 已有中文全文（本库未公开）
+- [Anthropic 收购 Bun，Claude Code 达成 10 亿美元里程碑](<https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone>) · 2025-12-03 · 已有中文全文（本库未公开）
+- [Snowflake 与 Anthropic 宣布达成 2 亿美元合作，为全球企业带来智能体 AI](<https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership>) · 2025-12-03 · 已有中文全文（本库未公开）
+- [Claude 现已登陆 Microsoft Foundry 和 Microsoft 365 Copilot](<https://www.anthropic.com/news/claude-in-microsoft-foundry>) · 2025-11-18 · 已有中文全文（本库未公开）
+- [Anthropic 与卢旺达政府及 ALX 合作，为非洲数十万学习者带来 AI 教育](<https://www.anthropic.com/news/rwandan-government-partnership-ai-education>) · 2025-11-18 · 已有中文全文（本库未公开）
+- [马里兰州与 Anthropic 合作，更好地服务本州居民](<https://www.anthropic.com/news/maryland-partnership>) · 2025-11-13 · 已有中文全文（本库未公开）
+- [衡量 Claude 的政治偏见](<https://www.anthropic.com/news/political-even-handedness>) · 2025-11-13 · 已有中文全文（本库未公开）
+- [挫败首例已报告的 AI 主导网络间谍行动](<https://www.anthropic.com/news/disrupting-AI-espionage>) · 2025-11-13 · 已有中文全文（本库未公开）
+- [在英国和欧洲启动 Anthropic 经济未来计划](<https://www.anthropic.com/news/economic-futures-uk-europe>) · 2025-11-05 · 已有中文全文（本库未公开）
+- [Cognizant 将向 35 万名员工提供 Claude，加速企业 AI 采用与内部转型](<https://www.anthropic.com/news/cognizant-partnership>) · 2025-11-04 · 已有中文全文（本库未公开）
+- [Anthropic 与冰岛宣布启动全球首批国家级 AI 教育试点之一](<https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots>) · 2025-11-04 · 已有中文全文（本库未公开）
+- [面向金融服务领域升级 Claude](<https://www.anthropic.com/news/advancing-claude-for-financial-services>) · 2025-10-27 · 已有中文全文（本库未公开）
+- [扩大对 Google Cloud TPU 及服务的使用](<https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services>) · 2025-10-23 · 已有中文全文（本库未公开）
+- [Dario Amodei 关于 Anthropic 致力于美国 AI 领导地位的声明](<https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership>) · 2025-10-21 · 已有中文全文（本库未公开）
+- [面向生命科学的 Claude](<https://www.anthropic.com/news/claude-for-life-sciences>) · 2025-10-20 · 已有中文全文（本库未公开）
+- [Anthropic 与 Salesforce 扩大合作，将 Claude 引入受监管行业](<https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership>) · 2025-10-14 · 已有中文全文（本库未公开）
+- [德勤将向其全球网络的 47 万名员工开放 Claude](<https://www.anthropic.com/news/deloitte-anthropic-partnership>) · 2025-10-06 · 已有中文全文（本库未公开）
+- [让 Claude Code 更自主地工作](<https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously>) · 2025-09-29 · 已有中文全文（本库未公开）
+- [Claude 现已在 Xcode 中正式发布](<https://www.anthropic.com/news/claude-in-xcode>) · 2025-09-15 · 已有中文全文（本库未公开）
+- [Anthropic 支持 SB 53 法案](<https://www.anthropic.com/news/anthropic-is-endorsing-sb-53>) · 2025-09-08 · 已有中文全文（本库未公开）
+- [Anthropic 签署白宫-致美国青年：投资 AI 教育-承诺](<https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education>) · 2025-09-04 · 已有中文全文（本库未公开）
+- [更新对未受支持地区的销售限制](<https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions>) · 2025-09-04 · 已有中文全文（本库未公开）
+- [检测并应对 AI 的滥用：2025 年 8 月](<https://www.anthropic.com/news/detecting-countering-misuse-aug-2025>) · 2025-08-27 · 已有中文全文（本库未公开）
+- [Anthropic 成立高等教育顾问委员会并推出 AI 素养课程](<https://www.anthropic.com/news/anthropic-higher-education-initiatives>) · 2025-08-21 · 已有中文全文（本库未公开）
+- [Claude Code 与企业版套餐的全新管理员控制功能](<https://www.anthropic.com/news/claude-code-on-team-and-enterprise>) · 2025-08-20 · 已有中文全文（本库未公开）
+- [使用政策更新](<https://www.anthropic.com/news/usage-policy-update>) · 2025-08-15 · 已有中文全文（本库未公开）
+- [Claude Opus 4.1](<https://www.anthropic.com/news/claude-opus-4-1>) · 2025-08-05 · 已有中文全文（本库未公开）
+- [我们开发安全可信智能体的框架](<https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents>) · 2025-08-04 · 已有中文全文（本库未公开）
+- [Anthropic 签署 CMS 健康科技生态系统承诺，推进医疗互操作性](<https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability>) · 2025-07-30 · 已有中文全文（本库未公开）
+- [Anthropic 各团队如何使用 Claude Code](<https://www.anthropic.com/news/how-anthropic-teams-use-claude-code>) · 2025-07-24 · 已有中文全文（本库未公开）
+- [Anthropic 与芝加哥大学 Becker Friedman 研究所合作开展 AI 经济研究](<https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic>) · 2025-07-23 · 已有中文全文（本库未公开）
+- [关于美国《AI 行动计划》的思考](<https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan>) · 2025-07-23 · 已有中文全文（本库未公开）
+- [在美国建设 AI](<https://www.anthropic.com/news/build-ai-in-america>) · 2025-07-21 · 已有中文全文（本库未公开）
+- [Anthropic 将签署《欧盟行为准则》](<https://www.anthropic.com/news/eu-code-practice>) · 2025-07-21 · 已有中文全文（本库未公开）
+- [Claude 金融服务版](<https://www.anthropic.com/news/claude-for-financial-services>) · 2025-07-15 · 已有中文全文（本库未公开）
+- [投资能源，保障美国的 AI 未来](<https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future>) · 2025-07-15 · 已有中文全文（本库未公开）
+- [Anthropic 与美国国防部合作，在国防行动中推进负责任 AI](<https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations>) · 2025-07-14 · 已有中文全文（本库未公开）
+- [劳伦斯利弗莫尔国家实验室扩大 Claude 企业版部署，赋能科学家与研究人员](<https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and>) · 2025-07-09 · 已有中文全文（本库未公开）
+- [推进 Claude 教育版](<https://www.anthropic.com/news/advancing-claude-for-education>) · 2025-07-09 · 已有中文全文（本库未公开）
+- [前沿 AI 为何需要透明度](<https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai>) · 2025-07-07 · 已有中文全文（本库未公开）
+- [Amazon Bedrock 中的 Claude：获批用于 FedRAMP High 和 DoD IL4-5 工作负载](<https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high>) · 2025-06-11 · 已有中文全文（本库未公开）
+- [确保美国的算力优势：Anthropic 对扩散规则的立场](<https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule>) · 2025-04-30 · 已有中文全文（本库未公开）
+- [检测并应对对 Claude 的恶意使用：2025 年 3 月](<https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025>) · 2025-04-23 · 已有中文全文（本库未公开）
+- [我们理解与应对 AI 危害的方法](<https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms>) · 2025-04-21 · 已有中文全文（本库未公开）
+- [Anthropic 对纽森州长 AI 工作组报告草案的回应](<https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report>) · 2025-03-19 · 已有中文全文（本库未公开）
+- [Anthropic 就美国 AI 行动计划向 OSTP 提出的建议](<https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan>) · 2025-03-06 · 已有中文全文（本库未公开）
+- [Anthropic 与美国国家实验室合作举办首届“千名科学家 AI Jam”](<https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam>) · 2025-02-28 · 已有中文全文（本库未公开）
+- [Claude 与 Alexa+](<https://www.anthropic.com/news/claude-and-alexa-plus>) · 2025-02-26 · 已有中文全文（本库未公开）
+- [Claude 3.7 Sonnet 与 Claude Code](<https://www.anthropic.com/news/claude-3-7-sonnet>) · 2025-02-24 · 已有中文全文（本库未公开）
+- [Claude 的扩展思考](<https://www.anthropic.com/news/visible-extended-thinking>) · 2025-02-24 · 已有中文全文（本库未公开）
+- [Anthropic 与英国政府签署谅解备忘录，探索 AI 如何变革英国公共服务](<https://www.anthropic.com/news/mou-uk-government>) · 2025-02-14 · 已有中文全文（本库未公开）
+- [Dario Amodei 关于巴黎人工智能行动峰会的声明](<https://www.anthropic.com/news/paris-ai-summit>) · 2025-02-11 · 已有中文全文（本库未公开）
+- [Lyft 将把 Claude 带给超过 4,000 万乘客和 100 多万司机](<https://www.anthropic.com/news/lyft-announcement>) · 2025-02-06 · 已有中文全文（本库未公开）
+- [Anthropic 获得负责任 AI 的 ISO 42001 认证](<https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai>) · 2025-01-13 · 已有中文全文（本库未公开）
+- [2024 年的选举与 AI：观察与经验](<https://www.anthropic.com/news/elections-ai-2024>) · 2024-12-12 · 已有中文全文（本库未公开）
+- [携手 AWS，驱动下一代 AI 开发](<https://www.anthropic.com/news/anthropic-amazon-trainium>) · 2024-11-22 · 已有中文全文（本库未公开）
+- [为有针对性的监管而辩护](<https://www.anthropic.com/news/the-case-for-targeted-regulation>) · 2024-10-31 · 已有中文全文（本库未公开）
+- [GitHub Copilot 上线 Claude 3.5 Sonnet](<https://www.anthropic.com/news/github-copilot>) · 2024-10-29 · 已有中文全文（本库未公开）
+- [美国大选准备情况](<https://www.anthropic.com/news/us-elections-readiness>) · 2024-10-08 · 已有中文全文（本库未公开）
+- [Claude 企业版](<https://claude.com/resources/articles/claude-for-enterprise>) · 2024-09-10 · 已有中文全文（本库未公开）
+- [Salesforce 携手 Anthropic，以 Claude 增强 Einstein 能力](<https://www.anthropic.com/news/salesforce-partnership>) · 2024-09-03 · 已有中文全文（本库未公开）
+- [在 Amazon Bedrock 中微调 Claude 3 Haiku](<https://claude.com/resources/articles/fine-tune-claude-3-haiku>) · 2024-07-10 · 已有中文全文（本库未公开）
+- [扩大政府用户对 Claude 的访问](<https://www.anthropic.com/news/expanding-access-to-claude-for-government>) · 2024-06-26 · 已有中文全文（本库未公开）
+- [在 Projects 中与 Claude 协作](<https://www.anthropic.com/news/projects>) · 2024-06-25 · 已有中文全文（本库未公开）
+- [Claude 3.5 Sonnet](<https://www.anthropic.com/news/claude-3-5-sonnet>) · 2024-06-21 · 已有中文全文（本库未公开）
+- [金门大桥 Claude](<https://www.anthropic.com/news/golden-gate-claude>) · 2024-05-23 · 已有中文全文（本库未公开）
+- [对我们《负责任扩展政策》的反思](<https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy>) · 2024-05-20 · 已有中文全文（本库未公开）
+- [更新我们的使用政策](<https://www.anthropic.com/news/updating-our-usage-policy>) · 2024-05-10 · 已有中文全文（本库未公开）
+- [第三方测试：AI 政策的关键要素](<https://www.anthropic.com/news/third-party-testing>) · 2024-03-25 · 已有中文全文（本库未公开）
+- [Anthropic、AWS 与埃森哲联手为企业构建可信赖的解决方案](<https://www.anthropic.com/news/accenture-aws-anthropic>) · 2024-03-20 · 已有中文全文（本库未公开）
+- [Claude 3 模型正式登陆 Vertex AI](<https://www.anthropic.com/news/google-vertex-general-availability>) · 2024-03-19 · 已有中文全文（本库未公开）
+- [Claude 3 Haiku：我们迄今最快的模型](<https://www.anthropic.com/news/claude-3-haiku>) · 2024-03-13 · 已有中文全文（本库未公开）
+- [面向业务成效的提示词工程](<https://www.anthropic.com/news/prompt-engineering-for-business-performance>) · 2024-02-29 · 已有中文全文（本库未公开）
+- [为 2024 年全球大选做准备](<https://www.anthropic.com/news/preparing-for-global-elections-in-2024>) · 2024-02-16 · 已有中文全文（本库未公开）
+- [扩大法律保障范围并改进我们的 API](<https://www.anthropic.com/news/expanded-legal-protections-api-improvements>) · 2023-12-19 · 已有中文全文（本库未公开）
+- [关于美国行政命令、G7 行为准则与布莱切利园峰会的思考](<https://www.anthropic.com/news/policy-recap-q4-2023>) · 2023-11-05 · 已有中文全文（本库未公开）
+- [携手 Amazon，扩大安全 AI 的覆盖范围](<https://www.anthropic.com/news/anthropic-amazon>) · 2023-09-25 · 已有中文全文（本库未公开）
+- [面向 Claude 长上下文窗口的提示工程](<https://www.anthropic.com/news/prompting-long-context>) · 2023-09-23 · 已有中文全文（本库未公开）
+- [长期利益信托](<https://www.anthropic.com/news/the-long-term-benefit-trust>) · 2023-09-19 · 已有中文全文（本库未公开）
+- [Anthropic 与 BCG 达成合作](<https://www.anthropic.com/news/anthropic-bcg>) · 2023-09-14 · 已有中文全文（本库未公开）
+- [SKT 合作伙伴关系公告](<https://www.anthropic.com/news/skt-partnership-announcement>) · 2023-08-15 · 已有中文全文（本库未公开）
+- [发布 Claude Instant 1.2](<https://www.anthropic.com/news/releasing-claude-instant-1-2>) · 2023-08-09 · 已有中文全文（本库未公开）
+- [Claude 2](<https://www.anthropic.com/news/claude-2>) · 2023-07-11 · 已有中文全文（本库未公开）
+- [规划通往 AI 问责制的路径](<https://www.anthropic.com/news/charting-a-path-to-ai-accountability>) · 2023-06-13 · 已有中文全文（本库未公开）
+- [Claude 的“宪法”](<https://www.anthropic.com/news/claudes-constitution>) · 2023-05-09 · 已有中文全文（本库未公开）
+- [与 Scale 合作，将生成式 AI 带入企业](<https://www.anthropic.com/news/partnering-with-scale>) · 2023-04-26 · 已有中文全文（本库未公开）
+- [当下可用的 AI 政策工具：大力投资 NIST](<https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist>) · 2023-04-20 · 已有中文全文（本库未公开）
+- [Anthropic 与 Google Cloud 达成合作](<https://www.anthropic.com/news/anthropic-partners-with-google-cloud>) · 2023-02-03 · 已有中文全文（本库未公开）
+- [既往目标](<https://www.anthropic.com/responsible-scaling-policy/updates>) · 已有中文全文（本库未公开）
+- [我们的经济未来会是什么样子？](<https://www.anthropic.com/institute/econ-scenarios>) · 已有中文全文（本库未公开）
+- [当 AI 构建它自己](<https://www.anthropic.com/institute/recursive-self-improvement>) · 已有中文全文（本库未公开）
+- [关于 AI 指数级发展的政策](<https://www.anthropic.com/policy-on-the-ai-exponential/aaif>) · 已有中文全文（本库未公开）
+- [Anthropic 透明度中心](<https://www.anthropic.com/transparency/system-trust-reporting>) · 已有中文全文（本库未公开）
+- [Anthropic 透明度中心：自愿承诺](<https://www.anthropic.com/transparency/voluntary-commitments>) · 已有中文全文（本库未公开）
+- [关于 AI 指数级发展的政策_51c0c8](<https://www.anthropic.com/policy-on-the-ai-exponential/epf>) · 已有中文全文（本库未公开）
+- [Anthropic 透明度中心：模型报告](<https://www.anthropic.com/transparency/model-report>) · 已有中文全文（本库未公开）
+- [衡量前沿实验室内部 AI 发展节奏的指标](<https://www.anthropic.com/institute/measuring-pace-of-ai-development>) · 已有中文全文（本库未公开）
 
 #### DeepSeek
 
 - [Super-agent 设计探索：迈向更自主的 Agent 系统](<https://zhuanlan.zhihu.com/p/2099987320443237060>) · 2026-10-31 · 中文原文
 - [DeepSeek 弹性计算：面向大规模 Agent 训练的沙盒基础设施](<https://zhuanlan.zhihu.com/p/2088265189233779592>) · 2026-09-29 · 中文原文
-- [时空可组合的编程范式](<https://github.com/cordiverse/paper>) · 2026-08
-- [DeepSeek-V4 预览：迈入百万 token 上下文普惠时代](<https://www.deepseek.com/en/news/v4-preview/>) · 2026-04-24
-- [DeepSeek-V3.2：推动开源大模型前沿](<https://deepseek.com/en/news/deepseek-v3-2/>) · 2025-12-01
-- [DeepInfer](<https://github.com/deepseek-ai/DeepInfer>)
+- [时空可组合的编程范式](<https://github.com/cordiverse/paper>) · 2026-08 · 已有中文全文（本库未公开）
+- [DeepSeek-V4 预览：迈入百万 token 上下文普惠时代](<https://www.deepseek.com/zh/news/v4-preview/>) · 2026-04-24 · 官方中文版 · [原文](<https://www.deepseek.com/en/news/v4-preview/>)
+- [DeepSeek-V3.2：推动开源大模型前沿](<https://www.deepseek.com/news/deepseek-v3-2/>) · 2025-12-01 · 官方中文版 · [原文](<https://deepseek.com/en/news/deepseek-v3-2/>)
+- [DeepInfer](<https://github.com/deepseek-ai/DeepInfer>) · 已有中文全文（本库未公开）
 
 #### Kimi
 
 - [Kimi Hosted Agents 正式发布：Harness as a Service](<https://www.kimi.com/news/kimi-hosted-agents>) · 2026-11-05 · 中文原文
-- [Kimi K3：开放前沿智能](<https://www.kimi.com/en/blog/kimi-k3>) · 2026-07-16
-- [Kimi K2.6：推进开源编程](<https://www.kimi.com/en/blog/kimi-k2-6>) · 2026-04-20
-- [Kimi K2.5：视觉智能体智能](<https://www.kimi.com/en/blog/kimi-k2-5>) · 2026-01-27
-- [Kimi K2：开放智能体智能](<https://www.kimi.com/en/blog/kimi-k2>) · 2025-07-11
-- [Kimi-Researcher：端到端强化学习训练智能体能力](<https://moonshotai.github.io/Kimi-Researcher/>) · 2025-06-20
-- [Kimi Vendor Verifier：重建「信任链」](<https://www.kimi.com/en/blog/kimi-vendor-verifier>)
+- [Kimi K3：开放前沿智能](<https://www.kimi.com/en/blog/kimi-k3>) · 2026-07-16 · 已有中文全文（本库未公开）
+- [Kimi K2.6：推进开源编程](<https://www.kimi.com/en/blog/kimi-k2-6>) · 2026-04-20 · 已有中文全文（本库未公开）
+- [Kimi K2.5：视觉智能体智能](<https://www.kimi.com/en/blog/kimi-k2-5>) · 2026-01-27 · 已有中文全文（本库未公开）
+- [Kimi K2：开放智能体智能](<https://www.kimi.com/en/blog/kimi-k2>) · 2025-07-11 · 已有中文全文（本库未公开）
+- [Kimi-Researcher：端到端强化学习训练智能体能力](<https://moonshotai.github.io/Kimi-Researcher/>) · 2025-06-20 · 已有中文全文（本库未公开）
+- [Kimi Vendor Verifier：重建「信任链」](<https://www.kimi.com/en/blog/kimi-vendor-verifier>) · 已有中文全文（本库未公开）
 
 <!-- catalog:end -->
 

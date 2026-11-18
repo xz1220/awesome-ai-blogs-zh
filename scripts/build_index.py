@@ -78,6 +78,8 @@ def check_catalog(articles, sources):
                 raise ValueError(f"invalid date: {article_id}: {published}")
         if article.get("chinese_url"):
             http_url(article["chinese_url"])
+        if "chinese_archived" in article and not isinstance(article["chinese_archived"], bool):
+            raise ValueError(f"invalid Chinese archive flag: {article_id}")
         path = article.get("translation_path")
         if path:
             full_path = (ROOT / path).resolve()
@@ -148,6 +150,10 @@ def article_line(article):
         title_link = external(title, original)
         if article.get("original_language") == "zh":
             info.append("中文原文")
+        elif article.get("chinese_archived"):
+            info.append("已有中文全文（本库未公开）")
+        else:
+            info.append("仅原文")
     return "- " + " · ".join([title_link, *info])
 
 
@@ -173,7 +179,9 @@ def render(articles, sources):
         by_topic[article["topic"]].setdefault(article_source(article), []).append(article)
     main = [
         "## 按主题阅读", "",
-        f"已收录 {len(articles)} 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。点击标题直接阅读，有中文版时优先打开中文版。",
+        f"已收录 {len(articles)} 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。",
+        "",
+        "点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。",
         "", " · ".join(f"[{name}](#{name})" for name in TOPICS.values()),
     ]
     for topic, name in TOPICS.items():

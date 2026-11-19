@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 738 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 739 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -670,6 +670,10 @@
 - [Qwen Code 功能周报：2026 年 11 月 12 日](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-12_Qwen%20Code%20%E5%8A%9F%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BC%9A2026%20%E5%B9%B4%2011%20%E6%9C%88%2012%20%E6%97%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/>)
 - [Qwen Code 1.0 Preview 发布说明](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-11_Qwen%20Code%201.0%20Preview%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview>)
 - [走出终端：桌面端与 Web Shell 中的 Qwen Code](<https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/>) · 2026-11-02 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/quickstart/web-shell-and-desktop/>)
+
+#### Viviennn
+
+- [AI 时代如何做产品｜Manus张涛北大分享逐字稿](<https://x.com/whereisvivien/status/2123103532182282353>) · 2026-11-19 · 中文原文
 
 ### 独立观点
 

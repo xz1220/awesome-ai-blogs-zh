@@ -3302,6 +3302,20 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/core-dump-epidemiology-data-infrastructure-bug/"
   },
   {
+    "article_id": "6825b211859f7a7c",
+    "company": "独立作者",
+    "title": "AI 时代如何做产品｜Manus张涛北大分享逐字稿",
+    "url": "https://x.com/whereisvivien/status/2123103532182282353",
+    "date": "2026-11-19",
+    "topic": "products",
+    "aliases": [
+      "https://x.com/i/article/2123098528675418112"
+    ],
+    "original_language": "zh",
+    "description": "Manus 张涛在北大的分享，谈如何从聊天走向执行、赢得非技术用户的信任，以及用付费验证需求。",
+    "author": "Viviennn"
+  },
+  {
     "article_id": "6841e619fcd7e8d9",
     "company": "Hugging Face",
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",

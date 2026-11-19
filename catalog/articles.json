@@ -21,6 +21,28 @@
     "chinese_archived": true
   },
   {
+    "article_id": "001cd33c965241bc",
+    "company": "Anthropic",
+    "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "date": "2026-11-10",
+    "topic": "products",
+    "title_zh": "推出 Claude Whiteboards、Claude Sheets 和 Claude Data",
+    "original_language": "en",
+    "description": "展示 Claude 的白板、表格与数据如何融入团队协作和分析。"
+  },
+  {
+    "article_id": "00a064e6720eae62",
+    "company": "Google",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "date": "2026-11-18",
+    "topic": "products",
+    "title_zh": "Gemini 应用支持内存较小的 Android 设备",
+    "original_language": "en",
+    "description": "说明面向 Android Go 设备的支持范围与使用入口。"
+  },
+  {
     "article_id": "0131ab3df6b38017",
     "company": "OpenAI",
     "title": "Flow-based Deep Generative Models",
@@ -259,6 +281,17 @@
     "topic": "research",
     "title_zh": "Softmax 线性单元",
     "chinese_archived": true
+  },
+  {
+    "article_id": "0c77ff5e2b269a81",
+    "company": "Anthropic",
+    "title": "Testing Claude on real-world electronics design",
+    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "date": "2026-11-09",
+    "topic": "research",
+    "title_zh": "用真实电子设备检验 Claude 的设计能力",
+    "original_language": "en",
+    "description": "用实际打样测试模型生成的电子设计，区分图纸可用性和成品表现。"
   },
   {
     "article_id": "0c8cda120d567853",
@@ -524,6 +557,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "1309e96d95184df1",
+    "company": "OpenAI",
+    "title": "Astra for Law leads in legal intelligence",
+    "url": "https://openai.com/index/astra-law-6-2/",
+    "date": "2026-11-17",
+    "topic": "products",
+    "title_zh": "Astra for Law：法律工作中的专业 AI",
+    "original_language": "en",
+    "description": "围绕法律推理与文书任务介绍 Astra for Law 的评测及产品定位。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/astra-law-6-2/"
+  },
+  {
     "article_id": "13225fd2d3574734",
     "company": "Anthropic",
     "title": "Building agents: When to fold subagents into your main agent loop",
@@ -649,6 +694,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "1656ac248b719257",
+    "company": "独立作者",
+    "title": "最佳学习率调度的变分估计",
+    "url": "https://kexue.fm/archives/12010",
+    "date": "2026-11-17",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "用变分思路推导学习率曲线，并联系训练进度与学习率安排。",
+    "author": "苏剑林"
+  },
+  {
     "article_id": "17af56100ac622bb",
     "company": "Anthropic",
     "title": "Circuits Updates – April 2024",
@@ -712,6 +768,17 @@
     "topic": "research",
     "title_zh": "AI 模型在仿真网络靶场上展现出更强的漏洞发现与利用能力",
     "chinese_archived": true
+  },
+  {
+    "article_id": "19f28f0c0d925ff4",
+    "company": "Microsoft",
+    "title": "Build once, reuse across your agent fleet: Tools and Toolboxes in Foundry",
+    "url": "https://devblogs.microsoft.com/foundry/build-once-reuse-across-your-agent-fleet-tools-and-toolboxes-in-foundry/",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "在 Foundry 为多套 Agent 复用工具",
+    "original_language": "en",
+    "description": "介绍把工具接口组织成可复用工具箱的方式。"
   },
   {
     "article_id": "19f8bc589a9b194d",
@@ -880,6 +947,17 @@
     "topic": "evaluation",
     "title_zh": "Anthropic 的前沿安全路线图",
     "chinese_archived": true
+  },
+  {
+    "article_id": "1ef243007176e85c",
+    "company": "Mistral AI",
+    "title": "Introducing Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "date": "2026-10-06",
+    "topic": "products",
+    "title_zh": "推出 Mistral Large 4",
+    "original_language": "en",
+    "description": "介绍 Mistral 的新一代通用模型以及开放和部署方式。"
   },
   {
     "article_id": "20098dd31ad4a35c",
@@ -1150,6 +1228,18 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/harness-engineering/"
   },
   {
+    "article_id": "297f77279829b406",
+    "company": "OpenAI",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+    "date": "2026-11-05",
+    "topic": "infrastructure",
+    "title_zh": "为负责任的 AI 基础设施建设树立新标准",
+    "original_language": "en",
+    "description": "介绍算力基础设施建设对水、能源和当地社区的承诺。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/setting-new-standard-responsible-ai-infrastructure/"
+  },
+  {
     "article_id": "29e932cdb1e364e8",
     "company": "Anthropic",
     "title": "Specific versus general principles for Constitutional AI",
@@ -1158,6 +1248,17 @@
     "topic": "research",
     "title_zh": "宪法式 AI 的具体原则与通用原则",
     "chinese_archived": true
+  },
+  {
+    "article_id": "2a783f6259dc0b2d",
+    "company": "LangChain",
+    "title": "LangSmith for Coding Agents: Now track spend by outcome",
+    "url": "https://www.langchain.com/blog/langsmith-coding-agents-roi",
+    "date": "2026-11-18",
+    "topic": "evaluation",
+    "title_zh": "LangSmith：按任务结果统计编码 Agent 的开销",
+    "original_language": "en",
+    "description": "讨论如何把编码 Agent 的跟踪数据与实际任务成效关联起来。"
   },
   {
     "article_id": "2ab0d2c099317874",
@@ -1285,6 +1386,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "2f1c65ad4b7ec380",
+    "company": "GitHub",
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "date": "2026-11-17",
+    "topic": "engineering",
+    "title_zh": "构建 Agent Host Protocol：让会话跨设备接续",
+    "original_language": "en",
+    "description": "介绍 GitHub 如何让不同客户端连接同一 Agent 会话及其运行状态。"
+  },
+  {
     "article_id": "2f22c4fbcfb394f6",
     "company": "Anthropic",
     "title": "Emotion concepts and their function in a large language model",
@@ -1325,6 +1437,17 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "3000094dcd5a15ad",
+    "company": "独立作者",
+    "title": "连续化 Softmax Attention",
+    "url": "https://kexue.fm/archives/11980",
+    "date": "2026-10-19",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "从连续化视角理解 Softmax 注意力中的加权混合。",
+    "author": "苏剑林"
   },
   {
     "article_id": "3007f82c38138e35",
@@ -1407,6 +1530,20 @@
     "topic": "research",
     "title_zh": "开源回路追踪工具",
     "chinese_archived": true
+  },
+  {
+    "article_id": "329b02e00108e185",
+    "company": "Google",
+    "title": "Accelerating development for massive Git repositories",
+    "url": "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/",
+    "date": "2026-11-17",
+    "topic": "infrastructure",
+    "title_zh": "加速大型 Git 仓库上的开发",
+    "original_language": "en",
+    "description": "介绍开源构建文件服务 ABFS 怎样降低大型代码库的本地准备成本。",
+    "aliases": [
+      "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"
+    ]
   },
   {
     "article_id": "337e3f19ed608da6",
@@ -2006,6 +2143,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "4429488f9fb4f9f1",
+    "company": "OpenAI",
+    "title": "Research acceleration: The jagged frontier",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier/",
+    "date": "2026-11-18",
+    "topic": "research",
+    "title_zh": "科研提速：参差不齐的能力前沿",
+    "original_language": "en",
+    "description": "讨论 AI 在科研任务上表现不均的原因，以及如何判断哪些环节已经能提速。"
+  },
+  {
     "article_id": "449a5ebbef16a4ba",
     "company": "LangChain",
     "title": "How We Optimized Browser Use for Deep Agents",
@@ -2167,6 +2315,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "498cd30f46b56bf2",
+    "company": "OpenAI",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work/",
+    "date": "2026-11-10",
+    "topic": "research",
+    "title_zh": "工作前沿：AI 对自由职业的影响",
+    "original_language": "en",
+    "description": "以自由职业任务观察 AI 对工作内容及专业技能的影响。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/ai-effect-on-freelance-work/"
+  },
+  {
     "article_id": "4ba107b71a0707f9",
     "company": "Anthropic",
     "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -2239,6 +2399,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "4dfe549bec27e775",
+    "company": "独立作者",
+    "title": "慢即是快：2. Adam的尽头还是Muon？",
+    "url": "https://kexue.fm/archives/11964",
+    "date": "2026-10-15",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "从优化几何比较 Adam 与 Muon，讨论预条件方法。",
+    "author": "苏剑林"
+  },
+  {
     "article_id": "4e6009943a7de781",
     "company": "Anthropic",
     "title": "Updating our coordinated vulnerability disclosure policy timelines",
@@ -2308,6 +2479,17 @@
     "topic": "research",
     "title_zh": "叠加、记忆与双下降",
     "chinese_archived": true
+  },
+  {
+    "article_id": "5181d27e5a049f50",
+    "company": "独立作者",
+    "title": "让炼丹更科学一些（十一）：无调度学习率新思路",
+    "url": "https://kexue.fm/archives/12003",
+    "date": "2026-11-09",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "探讨不预先设定总训练步数的学习率安排与收敛。",
+    "author": "苏剑林"
   },
   {
     "article_id": "51c0c8ea3e83e9be",
@@ -2391,6 +2573,20 @@
     "chinese_archived": true
   },
   {
+    "article_id": "52f6bc9a43b3606d",
+    "company": "Google DeepMind",
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "date": "2026-11-18",
+    "topic": "products",
+    "title_zh": "Genie 4 开放使用",
+    "original_language": "en",
+    "description": "说明世界模拟模型 Genie 4 的使用入口及本次可用范围。",
+    "aliases": [
+      "https://deepmind.google/blog/genie-4-is-now-available/"
+    ]
+  },
+  {
     "article_id": "532d936c683b5e58",
     "company": "OpenAI",
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -2441,6 +2637,17 @@
     "original_language": "zh",
     "description": "审稿人解释架构命名、设计选择和研究原型的边界。",
     "author": "崔添翼"
+  },
+  {
+    "article_id": "543c99d1a39c17b8",
+    "company": "AWS",
+    "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+    "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "用 SageMaker AI 无服务器服务做全参数微调",
+    "original_language": "en",
+    "description": "介绍在 SageMaker AI 中建立全参数微调任务的工作流。"
   },
   {
     "article_id": "54598078fe4f64c7",
@@ -2591,6 +2798,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "5ab783dcdbdb11e3",
+    "company": "Cloudflare",
+    "title": "Kitesurf is now open source",
+    "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+    "date": "2026-11-13",
+    "topic": "engineering",
+    "title_zh": "Cloudflare 开源面向 AI Agent 的 Kitesurf",
+    "original_language": "en",
+    "description": "了解实验性浏览器引擎的架构，以及如何把它用于 Agent 测试和部署。"
+  },
+  {
     "article_id": "5b18db4042eebc5d",
     "company": "Anthropic",
     "title": "Agentic misalignment: How LLMs could be insider threats",
@@ -2609,6 +2827,17 @@
     "topic": "evaluation",
     "title_zh": "前沿红队",
     "chinese_archived": true
+  },
+  {
+    "article_id": "5b89a2db7f60ae90",
+    "company": "Hugging Face",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "date": "2026-11-18",
+    "topic": "research",
+    "title_zh": "Rumble-2-Flash：支持 40 多种语言的轻量开放语音模型",
+    "original_language": "en",
+    "description": "查看开放语音模型的语言覆盖、评估和使用方式。"
   },
   {
     "article_id": "5c11131c78a9342e",
@@ -2803,6 +3032,17 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "5fe21d2b4ecab0b0",
+    "company": "Anthropic",
+    "title": "Claude solves two open problems in the physics of black holes",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "date": "2026-11-17",
+    "topic": "research",
+    "title_zh": "Claude 解出两个黑洞物理开放问题",
+    "original_language": "en",
+    "description": "记录 Claude 如何协助理论物理计算，以及研究人员如何验证结果。"
+  },
+  {
     "article_id": "6037d3bdef49eff0",
     "company": "Anthropic",
     "title": "Towards monosemanticity: Decomposing language models with dictionary learning",
@@ -2811,6 +3051,17 @@
     "topic": "research",
     "title_zh": "迈向单义性：用字典学习分解语言模型",
     "chinese_archived": true
+  },
+  {
+    "article_id": "60e6f0629036df1b",
+    "company": "vLLM",
+    "title": "Migrating vLLM to the LibTorch Stable ABI",
+    "url": "https://vllm.ai/blog/2026-11-06-stable-abi-cuda",
+    "date": "2026-11-06",
+    "topic": "infrastructure",
+    "title_zh": "vLLM 迁移到 LibTorch 稳定 ABI",
+    "original_language": "en",
+    "description": "介绍迁移 CUDA 构建和编译依赖后如何减少版本绑定。"
   },
   {
     "article_id": "6131dada9eeed197",
@@ -3051,6 +3302,17 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/core-dump-epidemiology-data-infrastructure-bug/"
   },
   {
+    "article_id": "6841e619fcd7e8d9",
+    "company": "Hugging Face",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "date": "2026-11-13",
+    "topic": "engineering",
+    "title_zh": "llama.cpp v1.0.0：为本地 AI 生态打基础",
+    "original_language": "en",
+    "description": "由项目团队说明稳定版本对本地推理与下游集成的影响。"
+  },
+  {
     "article_id": "688b06fb84f51f17",
     "company": "Anthropic",
     "title": "Our position on open-weights models",
@@ -3069,6 +3331,17 @@
     "topic": "archive",
     "title_zh": "拓宽关于前沿 AI 的对话",
     "chinese_archived": true
+  },
+  {
+    "article_id": "68e2ee5d21f7dc1b",
+    "company": "Cloudflare",
+    "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+    "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+    "date": "2026-10-19",
+    "topic": "infrastructure",
+    "title_zh": "Cloudflare 如何把推理账单降低 68%",
+    "original_language": "en",
+    "description": "用代码审查 Agent 的生产日志说明如何借助提示缓存和模型路由降低推理成本。"
   },
   {
     "article_id": "68ffcf2c57450e50",
@@ -3233,6 +3506,18 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "6d4f0f4b29eb23d4",
+    "company": "独立作者",
+    "title": "Context Inertia: When Agents Won’t Let Go",
+    "url": "https://www.dbreunig.com/2026/10/14/context-inertia.html",
+    "date": "2026-10-14",
+    "topic": "perspectives",
+    "title_zh": "上下文惯性：Agent 为什么不愿放下旧计划",
+    "original_language": "en",
+    "description": "分析已有上下文如何令 Agent 固守旧判断，以及如何观察这种行为。",
+    "author": "Drew Breunig"
+  },
+  {
     "article_id": "6d9cb3eac49029e5",
     "company": "Anthropic",
     "title": "Project Vend: Phase two",
@@ -3274,6 +3559,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "6e7f8202885667a0",
+    "company": "独立作者",
+    "title": "平均之路：从Attention到TTT",
+    "url": "https://kexue.fm/archives/11993",
+    "date": "2026-11-01",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "从平均操作出发，比较注意力机制与测试时训练中的关联。",
+    "author": "苏剑林"
+  },
+  {
     "article_id": "6ea961812c060d5c",
     "company": "Anthropic",
     "title": "Claude 3.5 Sonnet on GitHub Copilot",
@@ -3295,6 +3591,17 @@
     "description": "从会话日志提炼经验，再更新持久记忆的具体实现。",
     "author": "Lance Martin",
     "chinese_archived": true
+  },
+  {
+    "article_id": "6f397884428e9f0f",
+    "company": "GitHub",
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+    "date": "2026-10-05",
+    "topic": "evaluation",
+    "title_zh": "ReviewBench：AI 代码审查的开放基准",
+    "original_language": "en",
+    "description": "看 GitHub 如何设计面向 AI 代码审查的可重复评估。"
   },
   {
     "article_id": "6f42239c080ae496",
@@ -3319,6 +3626,29 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "6f83cc8ccaf2e246",
+    "company": "Cursor",
+    "title": "An update on our recent security incident",
+    "url": "https://cursor.com/blog/security-incident-update",
+    "date": "2026-11-13",
+    "topic": "evaluation",
+    "title_zh": "Cursor 更新近期安全事件调查",
+    "original_language": "en",
+    "description": "记录安全事件调查与用户保护措施，供读者了解应对进度。",
+    "chinese_url": "https://cursor.com/cn/blog/security-incident-update"
+  },
+  {
+    "article_id": "70c82430c7b2a8f8",
+    "company": "vLLM",
+    "title": "Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM",
+    "url": "https://vllm.ai/blog/2026-11-18-flydsl-monokernels",
+    "date": "2026-11-18",
+    "topic": "infrastructure",
+    "title_zh": "用 FlyDSL MonoKernels 提升 vLLM 的交互式解码表现",
+    "original_language": "en",
+    "description": "从内核设计看如何在 Agent 推理中降低解码延迟并提升交互性。"
   },
   {
     "article_id": "7160cfc6b1914a7e",
@@ -3361,6 +3691,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "71d333ab8e8f0644",
+    "company": "AWS",
+    "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+    "url": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+    "date": "2026-11-18",
+    "topic": "infrastructure",
+    "title_zh": "Exa 如何在 AWS 芯片上提升嵌入吞吐",
+    "original_language": "en",
+    "description": "以十亿级文档索引为例，介绍 Exa 衡量和提升向量嵌入吞吐的方法。"
+  },
+  {
     "article_id": "72076035c6e10260",
     "company": "Anthropic",
     "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
@@ -3391,6 +3732,17 @@
     "topic": "archive",
     "title_zh": "在 Projects 中与 Claude 协作",
     "chinese_archived": true
+  },
+  {
+    "article_id": "7259f5e9d5bd8cf8",
+    "company": "NVIDIA",
+    "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+    "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/",
+    "date": "2026-11-17",
+    "topic": "infrastructure",
+    "title_zh": "协同设计稀疏注意力以提升长上下文推理效率",
+    "original_language": "en",
+    "description": "关注长上下文推理如何结合稀疏算法和底层执行优化。"
   },
   {
     "article_id": "7261e794218dcc9b",
@@ -3521,6 +3873,16 @@
     "chinese_archived": true
   },
   {
+    "article_id": "756563a4144915c6",
+    "company": "Qwen",
+    "title": "Qwen4-Max：新同事，已就位",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "date": "2026-11-16",
+    "topic": "products",
+    "original_language": "zh",
+    "description": "介绍 Qwen4-Max 的模型设计与长时任务能力，以及不同工作流中的评测表现。"
+  },
+  {
     "article_id": "757c4a0eaeb2d4a7",
     "company": "Anthropic",
     "title": "Automating eval design and hillclimbing with Claude",
@@ -3613,6 +3975,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "779abe288b1c01da",
+    "company": "Anthropic",
+    "title": "Introducing Claude Meetings",
+    "url": "https://claude.com/resources/articles/claude-meetings",
+    "date": "2026-11-12",
+    "topic": "products",
+    "title_zh": "推出 Claude Meetings",
+    "original_language": "en",
+    "description": "展示如何把会议内容转成摘要和后续行动。"
+  },
+  {
     "article_id": "77bcdf2c55ab0fc2",
     "company": "Anthropic",
     "title": "Introducing our Science Blog",
@@ -3645,6 +4018,17 @@
     "title_zh": "强化学习中的课程学习",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "7951c5b8003d194f",
+    "company": "Anthropic",
+    "title": "AI for scientific discovery : How researchers use Claude",
+    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+    "date": "2026-11-05",
+    "topic": "research",
+    "title_zh": "AI 如何辅助科研：研究者怎样使用 Claude",
+    "original_language": "en",
+    "description": "用真实使用数据观察不同学科如何使用 AI，哪些研究环节更难委托给它。"
   },
   {
     "article_id": "7a21b9c5237a8a16",
@@ -3716,6 +4100,18 @@
     "topic": "archive",
     "title_zh": "Anthropic 与 BCG 达成合作",
     "chinese_archived": true
+  },
+  {
+    "article_id": "7bd7f3cfa0f78e8e",
+    "company": "OpenAI",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education/",
+    "date": "2026-11-10",
+    "topic": "research",
+    "title_zh": "弥补教育领域的 AI 使用指导缺口",
+    "original_language": "en",
+    "description": "依据学生与教育机构的数据，讨论课堂内外的 AI 使用与指导。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/closing-ai-guidance-gap-education/"
   },
   {
     "article_id": "7c2cc3d7e8ae53dc",
@@ -3835,6 +4231,20 @@
     "original_language": "en",
     "description": "通过实验解释推理强度对验证、边界测试、质量和成本的影响。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "80edea19d5fdcf28",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "topic": "products",
+    "title_zh": "推出 Gemini 4 Hydrogen",
+    "original_language": "en",
+    "description": "了解面向低延迟和实时任务的 Gemini 4 Hydrogen。",
+    "aliases": [
+      "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    ]
   },
   {
     "article_id": "8147e5470addb193",
@@ -4168,6 +4578,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "8a424d75a52656da",
+    "company": "Anthropic",
+    "title": "Teaching AI to build scientific models",
+    "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "date": "2026-11-06",
+    "topic": "research",
+    "title_zh": "教 AI 建立科学模型",
+    "original_language": "en",
+    "description": "讨论如何检验模型把科学现象转化为可验证解释的能力。"
+  },
+  {
     "article_id": "8a71a2808988c5c7",
     "company": "OpenAI",
     "title": "Introducing the Agents API",
@@ -4271,6 +4692,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "8c4d3bb629c2f49b",
+    "company": "OpenAI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "url": "https://openai.com/index/kuken/",
+    "date": "2026-11-09",
+    "topic": "products",
+    "title_zh": "Kuken 如何让跨越 70 年的工程图纸可检索",
+    "original_language": "en",
+    "description": "以制造业案例说明如何给旧图纸建立可用的查找入口。"
+  },
+  {
     "article_id": "8ce7eabf07520571",
     "company": "Anthropic",
     "title": "Project EVE: Claude plays MMORPGs",
@@ -4366,6 +4798,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "90a5432ca3c3d97a",
+    "company": "OpenAI",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+    "date": "2026-11-13",
+    "topic": "products",
+    "title_zh": "推出 ChatGPT Wallet",
+    "original_language": "en",
+    "description": "介绍 ChatGPT 中存放和管理支付方式的功能与边界。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-chatgpt-wallet/"
+  },
+  {
     "article_id": "9132274d1e438bd7",
     "company": "OpenAI",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -4401,6 +4845,17 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "91acaa948be0ef77",
+    "company": "AWS",
+    "title": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+    "date": "2026-11-17",
+    "topic": "infrastructure",
+    "title_zh": "SageMaker AI 实时端点支持感知 KV 缓存的路由",
+    "original_language": "en",
+    "description": "解释如何将请求优先发给已有匹配缓存的推理实例。"
   },
   {
     "article_id": "922aa308a950ec90",
@@ -4442,6 +4897,17 @@
     "topic": "research",
     "title_zh": "Anthropic 经济未来计划",
     "chinese_archived": true
+  },
+  {
+    "article_id": "9434292048106a1c",
+    "company": "Anthropic",
+    "title": "Linked billing on the Claude Platform",
+    "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+    "date": "2026-11-17",
+    "topic": "products",
+    "title_zh": "Claude Platform 的关联计费",
+    "original_language": "en",
+    "description": "说明如何为使用 Claude API 的工作流关联计费关系。"
   },
   {
     "article_id": "9434ac3945d97bda",
@@ -4593,6 +5059,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "975b335a9d954829",
+    "company": "LangChain",
+    "title": "We rebuilt LangSmith around the agent",
+    "url": "https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent",
+    "date": "2026-11-16",
+    "topic": "products",
+    "title_zh": "以 Agent 为核心重做 LangSmith",
+    "original_language": "en",
+    "description": "从 LangSmith 的变化看如何围绕 Agent 组织追踪和调试。"
+  },
+  {
     "article_id": "97b257fa17e97865",
     "company": "Anthropic",
     "title": "Persona vectors: Monitoring and controlling character traits in language models",
@@ -4690,6 +5167,28 @@
     "chinese_archived": true
   },
   {
+    "article_id": "9adace783a79978c",
+    "company": "OpenAI",
+    "title": "The Silent Consensus",
+    "url": "https://openai.com/index/the-silent-consensus/",
+    "date": "2026-11-18",
+    "topic": "evaluation",
+    "title_zh": "沉默的共识",
+    "original_language": "en",
+    "description": "从公共演讲看先进 AI 对网络防御、治理和制度能力提出的新要求。"
+  },
+  {
+    "article_id": "9ae8e8056fa907ed",
+    "company": "独立作者",
+    "title": "如何让GDN2更稳定一些？",
+    "url": "https://kexue.fm/archives/11945",
+    "date": "2026-10-09",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "围绕递推结构讨论 GDN2 的稳定性及改进思路。",
+    "author": "苏剑林"
+  },
+  {
     "article_id": "9aff26cd5f3d002d",
     "company": "Anthropic",
     "title": "Expanded legal protections and improvements to our API",
@@ -4759,6 +5258,29 @@
     "topic": "research",
     "title_zh": "大语言模型内省的迹象",
     "chinese_archived": true
+  },
+  {
+    "article_id": "9c1e9b470a847724",
+    "company": "NVIDIA",
+    "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
+    "date": "2026-11-16",
+    "topic": "evaluation",
+    "title_zh": "NVIDIA Vera Rubin NVL72 的 MLPerf Agent 推理测试",
+    "original_language": "en",
+    "description": "看 MLPerf Endpoints 如何以 Agent 工作负载测量系统推理表现。",
+    "chinese_url": "https://developer.nvidia.cn/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/"
+  },
+  {
+    "article_id": "9c3c49db7f134b02",
+    "company": "AWS",
+    "title": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+    "url": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+    "date": "2026-11-17",
+    "topic": "infrastructure",
+    "title_zh": "降低 Bedrock AgentCore JSON 工作负载的 Token 开销和延迟",
+    "original_language": "en",
+    "description": "从结构化载荷入手讨论 Agent 调用的成本和响应时间。"
   },
   {
     "article_id": "9c4184d44164e0d7",
@@ -4969,6 +5491,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "9fcc06b5f6248614",
+    "company": "OpenAI",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "url": "https://openai.com/index/managing-frontier-ai-risk/",
+    "date": "2026-11-18",
+    "topic": "evaluation",
+    "title_zh": "从训练到部署：OpenAI 如何管理前沿 AI 风险",
+    "original_language": "en",
+    "description": "介绍训练、评估、发布和上线后监测如何共同构成风险管理流程。"
+  },
+  {
     "article_id": "a00847af92fd67bd",
     "company": "Anthropic",
     "title": "Anthropic Signs White House Pledge to America's Youth: Investing in AI Education",
@@ -5009,6 +5542,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a21fce88cc4561ec",
+    "company": "OpenAI",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+    "date": "2026-11-10",
+    "topic": "products",
+    "title_zh": "推出 ChatGPT 中的 Businesses",
+    "original_language": "en",
+    "description": "介绍企业在 ChatGPT 内与消费者连接的方式。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-businesses-chatgpt/"
+  },
+  {
     "article_id": "a2cf0d0271acb097",
     "company": "Anthropic",
     "title": "Introducing the next generation of Claude",
@@ -5027,6 +5572,17 @@
     "topic": "engineering",
     "title_zh": "使用 Claude Agent SDK 构建智能体",
     "chinese_archived": true
+  },
+  {
+    "article_id": "a373cca9a4fe103c",
+    "company": "LangChain",
+    "title": "Protect sensitive data in your traces: new controls in LangSmith",
+    "url": "https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith",
+    "date": "2026-11-17",
+    "topic": "evaluation",
+    "title_zh": "用 LangSmith 的数据控制保护追踪中的敏感信息",
+    "original_language": "en",
+    "description": "区分 Agent 可观测性所需数据与应当脱敏、限制保存的数据。"
   },
   {
     "article_id": "a3afc1e8c7c23916",
@@ -5313,6 +5869,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "ad5b9db8ae2b02cb",
+    "company": "LangChain",
+    "title": "What We’ve Learned Building Proactive Agents",
+    "url": "https://www.langchain.com/blog/what-weve-learned-building-proactive-agents",
+    "date": "2026-11-17",
+    "topic": "engineering",
+    "title_zh": "构建主动式 Agent 的经验",
+    "original_language": "en",
+    "description": "总结何时触发 Agent、怎样给它上下文、如何把反馈接入持续运行的工作流。"
+  },
+  {
     "article_id": "adb5d062eb221e6e",
     "company": "Kimi",
     "title": "Rebuilding the “Chain of Trust”: Kimi Vendor Verifier",
@@ -5455,6 +6022,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "b16529c64c250181",
+    "company": "Microsoft",
+    "title": "Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries",
+    "url": "https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "在企业环境中把 Foundry 托管 Agent 从试点推向生产",
+    "original_language": "en",
+    "description": "介绍 Foundry 托管 Agent 的运行环境、部署方式和企业控制。"
+  },
+  {
     "article_id": "b1aa14adf7d8adb2",
     "company": "OpenAI",
     "title": "An Overview of Deep Learning for Curious People",
@@ -5496,6 +6074,28 @@
     "original_language": "en",
     "description": "用增量传输减少长会话每轮的请求载荷。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "b25a782d8681abe9",
+    "company": "Apple",
+    "title": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+    "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+    "date": "2026-11-10",
+    "topic": "evaluation",
+    "title_zh": "评估评估者：用 LLM 裁判衡量个性化写作风格",
+    "original_language": "en",
+    "description": "观察模型裁判在识别和衡量个人写作风格时的可靠性。"
+  },
+  {
+    "article_id": "b28ecfb79591f96a",
+    "company": "Microsoft Research",
+    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+    "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "date": "2026-11-05",
+    "topic": "evaluation",
+    "title_zh": "用 PDD Kit 形式化验证 Agent 编写的全栈 Web 应用",
+    "original_language": "en",
+    "description": "展示如何从开发意图构建可验证的规格，并对 Agent 生成的程序进行验证。"
   },
   {
     "article_id": "b36169a44d2ecc6a",
@@ -5578,6 +6178,29 @@
     "title_zh": "深度强化学习中的探索策略",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "b49ec3bd8394c6fb",
+    "company": "Google",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "date": "2026-10-27",
+    "topic": "research",
+    "title_zh": "Sleep 框架：让大模型在持续学习中保留知识",
+    "original_language": "en",
+    "description": "介绍应对持续学习中知识遗忘的一种研究方法。"
+  },
+  {
+    "article_id": "b4a8d1fd3ac56367",
+    "company": "Qwen",
+    "title": "Beyond the Terminal: Qwen Code on Desktop and in the Web Shell",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/quickstart/web-shell-and-desktop/",
+    "date": "2026-11-02",
+    "topic": "products",
+    "title_zh": "走出终端：桌面端与 Web Shell 中的 Qwen Code",
+    "original_language": "en",
+    "description": "说明同一编码 Agent 如何通过不同界面工作，并比较适用场景。",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/"
   },
   {
     "article_id": "b6ae768c43e42f99",
@@ -5668,6 +6291,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "bc121fc85136463b",
+    "company": "Anthropic",
+    "title": "Introducing Claude for Manufacturing",
+    "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+    "date": "2026-11-12",
+    "topic": "products",
+    "title_zh": "推出面向制造业的 Claude",
+    "original_language": "en",
+    "description": "展示制造团队可以在现有系统中如何用 AI 处理报价、质量和供应商流程。"
+  },
+  {
     "article_id": "bc3d372aee816807",
     "company": "Anthropic",
     "title": "Anthropic partners with Google Cloud",
@@ -5742,6 +6376,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "bdc7b775ab8d2106",
+    "company": "Anthropic",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "date": "2026-10-22",
+    "topic": "engineering",
+    "title_zh": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation",
+    "original_language": "en",
+    "description": "介绍 Agent Skills 标准的治理变化及跨工具互操作方向。"
+  },
+  {
     "article_id": "bdeda9dc49a9025e",
     "company": "OpenAI",
     "title": "Control Room",
@@ -5774,6 +6419,28 @@
     "chinese_archived": true
   },
   {
+    "article_id": "bea6f68aca51de60",
+    "company": "Google",
+    "title": "Advancing science & engineering with Antigravity’s /teamwork",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "date": "2026-11-13",
+    "topic": "engineering",
+    "title_zh": "用 Antigravity 的 /teamwork 功能推进科学与工程",
+    "original_language": "en",
+    "description": "用项目案例说明如何分解任务，让多个 Agent 配合完成研究和工程工作。"
+  },
+  {
+    "article_id": "bf12ec006e6180d1",
+    "company": "OpenAI",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/",
+    "date": "2026-11-16",
+    "topic": "products",
+    "title_zh": "ChatGPT for Healthcare 如何支持更多医疗工作",
+    "original_language": "en",
+    "description": "梳理医疗机构使用的工作流与权限等新功能。"
+  },
+  {
     "article_id": "bf7945e53d0d2f53",
     "company": "Anthropic",
     "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
@@ -5782,6 +6449,18 @@
     "topic": "archive",
     "title_zh": "Anthropic 与卢旺达政府及 ALX 合作，为非洲数十万学习者带来 AI 教育",
     "chinese_archived": true
+  },
+  {
+    "article_id": "bf969a55aa85cdaa",
+    "company": "Cursor",
+    "title": "Navan cuts a month-long migration down to a week, without freezing the codebase",
+    "url": "https://cursor.com/blog/navan",
+    "date": "2026-10-16",
+    "topic": "engineering",
+    "title_zh": "Navan 如何用 Cursor 加速大型迁移",
+    "original_language": "en",
+    "description": "以真实代码库为例，观察 AI 编程如何与持续交付并行。",
+    "chinese_url": "https://cursor.com/cn/blog/navan"
   },
   {
     "article_id": "bfc4355d370530a8",
@@ -5862,6 +6541,17 @@
     "description": "解释 Shell、文件系统、数据库和网络如何组成执行环境。",
     "chinese_archived": true,
     "chinese_url": "https://openai.com/zh-Hans-CN/index/equip-responses-api-computer-environment/"
+  },
+  {
+    "article_id": "c2c536427a66b7cf",
+    "company": "AWS",
+    "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "Airbnb 如何按任务成本运营编码 Agent",
+    "original_language": "en",
+    "description": "说明 Airbnb 怎样把任务结果和成本结合起来看编码 Agent 的运营表现。"
   },
   {
     "article_id": "c2cfd72baafd64a9",
@@ -5953,6 +6643,28 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "c3f9aa1e97f35f24",
+    "company": "Anthropic",
+    "title": "An update on independent evaluators",
+    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "date": "2026-10-15",
+    "topic": "evaluation",
+    "title_zh": "Anthropic 更新独立评估安排",
+    "original_language": "en",
+    "description": "记录独立评估机构和模型开发者如何划分职责。"
+  },
+  {
+    "article_id": "c42330bc780a5261",
+    "company": "Apple",
+    "title": "Theoretical Limits of Language Model Alignment",
+    "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+    "date": "2026-11-12",
+    "topic": "evaluation",
+    "title_zh": "语言模型对齐的理论界限",
+    "original_language": "en",
+    "description": "从理论上讨论语言模型对齐能达到的边界。"
+  },
+  {
     "article_id": "c4386c9e2b4614c0",
     "company": "Anthropic",
     "title": "Experimenting with AI to defend critical infrastructure",
@@ -5993,6 +6705,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "c62a0320aad2551d",
+    "company": "OpenAI",
+    "title": "Inside the Codex sandbox",
+    "url": "https://openai.com/index/inside-the-codex-sandbox/",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "深入了解 Codex 沙箱",
+    "original_language": "en",
+    "description": "介绍 Codex 如何在不同操作系统上隔离命令执行并落实文件系统与网络权限。"
+  },
+  {
     "article_id": "c68867c9d61d5c16",
     "company": "DeepSeek",
     "title": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures",
@@ -6003,6 +6726,18 @@
     "original_language": "en",
     "description": "系统论文，讨论 MLA、MoE、FP8、通信和软硬件协同设计。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "c72468ea526bf5de",
+    "company": "OpenAI",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/",
+    "date": "2026-11-16",
+    "topic": "research",
+    "title_zh": "让更多科研人员用上 AI",
+    "original_language": "en",
+    "description": "说明向科研人员开放高级模型与相关工具的试点及申请方式。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/expanding-chatgpt-for-academic-researchers/"
   },
   {
     "article_id": "c765441e9673d957",
@@ -6035,6 +6770,20 @@
     "original_language": "en",
     "description": "介绍自动审查、风险分层、人工注意力分配和快速回滚。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "c81cd7c6e8a0570f",
+    "company": "Google",
+    "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+    "url": "https://developers.googleblog.com/en/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+    "date": "2026-11-17",
+    "topic": "products",
+    "title_zh": "在 Google AI Studio 用 Gemini 构建全栈 Android 应用",
+    "original_language": "en",
+    "description": "查看开发者如何从提示生成、运行并测试 Android 应用。",
+    "aliases": [
+      "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/"
+    ]
   },
   {
     "article_id": "c84785b7885bca32",
@@ -6070,6 +6819,17 @@
     "original_language": "en",
     "description": "解释面向 Agent 的状态、推理内容、工具调用和缓存设计。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "c9098ac47ad21321",
+    "company": "Cloudflare",
+    "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+    "url": "https://blog.cloudflare.com/open-clairic/",
+    "date": "2026-11-18",
+    "topic": "products",
+    "title_zh": "Cloudflare 开放新版 Clairic 与 Clairic-flash 权重",
+    "original_language": "en",
+    "description": "介绍面向结构化提取的新版模型、适用任务与开放方式。"
   },
   {
     "article_id": "c99702fc56c66e79",
@@ -6137,6 +6897,17 @@
     "title_zh": "数据不足下的学习 第三部分：数据生成",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "cb0bf0e1617ea810",
+    "company": "Mistral AI",
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/",
+    "date": "2026-10-22",
+    "topic": "products",
+    "title_zh": "推出 Voxtral 3",
+    "original_language": "en",
+    "description": "了解新一代语音模型以及多语言转写和实时交互场景。"
   },
   {
     "article_id": "cbef9a7a25f712ac",
@@ -6269,6 +7040,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "d0f9bf46fa9dba7c",
+    "company": "Google DeepMind",
+    "title": "Opening the datasets behind our AI weather models",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "date": "2026-11-13",
+    "topic": "research",
+    "title_zh": "开放 AI 气象模型背后的数据集",
+    "original_language": "en",
+    "description": "说明开放哪些气象数据，以及研究人员如何复用它们评估和改进模型。"
+  },
+  {
     "article_id": "d106b7c971cab4e4",
     "company": "Anthropic",
     "title": "Claude Security",
@@ -6373,6 +7155,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "d47347f1fb8e842f",
+    "company": "OpenAI",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/",
+    "date": "2026-11-17",
+    "topic": "evaluation",
+    "title_zh": "用 AI 加强北约及盟国的网络防御",
+    "original_language": "en",
+    "description": "介绍防御研究、漏洞协调以及机构合作的安排。"
+  },
+  {
     "article_id": "d481cd87ba49c2ba",
     "company": "Anthropic",
     "title": "Prompt engineering for business performance",
@@ -6422,6 +7215,17 @@
     "topic": "engineering",
     "title_zh": "我们如何构建 Claude Code 自动模式：一种更安全的跳过权限方式",
     "chinese_archived": true
+  },
+  {
+    "article_id": "d635ebbfdbb6654d",
+    "company": "Apple",
+    "title": "Split-and-Scale Latent 3D Representations",
+    "url": "https://machinelearning.apple.com/research/split-scale-latent-3d",
+    "date": "2026-11-16",
+    "topic": "research",
+    "title_zh": "拆分与缩放：三维潜在表示",
+    "original_language": "en",
+    "description": "介绍一种可按尺度组织 3D 潜在表示的研究方法。"
   },
   {
     "article_id": "d6c83eff09565929",
@@ -6846,6 +7650,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "e88bc937214729b3",
+    "company": "OpenAI",
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "date": "2026-11-18",
+    "topic": "research",
+    "title_zh": "用 OpenAI 模型推进芯片设计",
+    "original_language": "en",
+    "description": "以芯片设计任务为例，讨论 AI 辅助验证及硬件工程的能力与限制。"
+  },
+  {
     "article_id": "e88ccf3c8afff595",
     "company": "Anthropic",
     "title": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
@@ -6956,6 +7771,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "ec56b5eff9affb1c",
+    "company": "Hugging Face",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "date": "2026-11-18",
+    "topic": "infrastructure",
+    "title_zh": "用 32GB 内存运行 1800 亿参数 MoE 模型",
+    "original_language": "en",
+    "description": "介绍 Transformers 如何按需流式加载专家，以减少推理内存占用。"
+  },
+  {
     "article_id": "ec5849af482856f3",
     "company": "Kimi",
     "title": "Kimi Code CLI: Agents and Sub-Agents",
@@ -6987,6 +7813,17 @@
     "topic": "archive",
     "title_zh": "既往目标",
     "chinese_archived": true
+  },
+  {
+    "article_id": "ede6a9e6d61f7fb8",
+    "company": "vLLM",
+    "title": "Encoder Disaggregation in vLLM: Scaling Multimodal Serving with EPD",
+    "url": "https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd",
+    "date": "2026-11-11",
+    "topic": "infrastructure",
+    "title_zh": "vLLM 分离编码器：用 EPD 扩展多模态服务",
+    "original_language": "en",
+    "description": "介绍把视觉编码与语言模型推理拆分部署的架构与权衡。"
   },
   {
     "article_id": "ee5039d49e7833a4",
@@ -7040,6 +7877,17 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "ef7ad9c97589abff",
+    "company": "Cockroach Labs",
+    "title": "Introducing the CockroachDB plugin for ChatGPT and Codex: Database expertise for the agentic era",
+    "url": "https://www.cockroachlabs.com/blog/cockroachdb-plugin-for-chatgpt-and-codex/",
+    "date": "2026-11-05",
+    "topic": "products",
+    "title_zh": "推出面向 ChatGPT 和 Codex 的 CockroachDB 插件",
+    "original_language": "en",
+    "description": "用数据库运维场景了解专用知识如何接入通用 Agent。"
   },
   {
     "article_id": "efe2b5110c7bf124",
@@ -7213,6 +8061,20 @@
     "chinese_archived": true
   },
   {
+    "article_id": "f539fcdaf975fdb9",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "topic": "products",
+    "title_zh": "推出 Gemini 4 Neon",
+    "original_language": "en",
+    "description": "介绍 Gemini 4 Neon 的模型能力、评估结果与可用入口。",
+    "aliases": [
+      "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    ]
+  },
+  {
     "article_id": "f5b07b38319ac9ea",
     "company": "Anthropic",
     "title": "Claude Code and new admin controls for business plans",
@@ -7221,6 +8083,17 @@
     "topic": "archive",
     "title_zh": "Claude Code 与企业版套餐的全新管理员控制功能",
     "chinese_archived": true
+  },
+  {
+    "article_id": "f5efa1f91d2ffd55",
+    "company": "LangChain",
+    "title": "New context engineering challenges in late 2026",
+    "url": "https://www.langchain.com/blog/context-engineering-challenges-late-2026",
+    "date": "2026-11-02",
+    "topic": "engineering",
+    "title_zh": "2026 年末的上下文工程挑战",
+    "original_language": "en",
+    "description": "梳理上下文工程在长时间和多 Agent 工作流中遇到的问题。"
   },
   {
     "article_id": "f6150bc1c8aaa427",
@@ -7232,6 +8105,17 @@
     "original_language": "zh",
     "description": "澄清原文对手写算子、AI 协作与职业变化的观点。",
     "author": "刘胜与"
+  },
+  {
+    "article_id": "f67896274fc0d873",
+    "company": "Anthropic",
+    "title": "The AI expectations gap",
+    "url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "date": "2026-10-16",
+    "topic": "research",
+    "title_zh": "人们对 AI 的预期差距",
+    "original_language": "en",
+    "description": "比较普通公众与前沿 AI 从业者的调查回答，观察他们对能力与采用速度的不同判断。"
   },
   {
     "article_id": "f6a301346a05e615",
@@ -7255,6 +8139,17 @@
     "title_zh": "学习词嵌入",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "f7ac8eb11ad257e2",
+    "company": "独立作者",
+    "title": "从参数对称性到有效学习率",
+    "url": "https://kexue.fm/archives/11985",
+    "date": "2026-10-27",
+    "topic": "research",
+    "original_language": "zh",
+    "description": "讨论参数的缩放对称性怎样影响实际的优化步长。",
+    "author": "苏剑林"
   },
   {
     "article_id": "f8527223e4270952",

@@ -725,6 +725,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "1807859b8106b1f9",
+    "company": "Kimi",
+    "title": "Kimi Code CLI 2.7.0",
+    "url": "https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.7.0",
+    "date": "2026-11-19",
+    "topic": "products",
+    "title_zh": "Kimi Code CLI 2.7.0 发布",
+    "original_language": "en",
+    "description": "查看 Bedrock 提供商、跟进消息可介入当前回合和会话控制等主要更新。"
+  },
+  {
     "article_id": "18816edf464a073a",
     "company": "Anthropic",
     "title": "Introducing Claude Sonnet 4.5",
@@ -809,6 +820,17 @@
     "topic": "research",
     "title_zh": "助手轴：定位并稳定大语言模型的「角色」",
     "chinese_archived": true
+  },
+  {
+    "article_id": "1b3aafed7dd5d45c",
+    "company": "Google",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "Gemini API 推出工具检索",
+    "original_language": "en",
+    "description": "说明当 Agent 连接大量工具时，如何按任务检索相关工具，减少上下文开销。"
   },
   {
     "article_id": "1b78f0aebe0fadea",
@@ -1751,6 +1773,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "3a089ca65887f5b7",
+    "company": "NVIDIA",
+    "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+    "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+    "date": "2026-11-19",
+    "topic": "infrastructure",
+    "title_zh": "用 NVIDIA Dynamo 缓解强化学习的采样瓶颈",
+    "original_language": "en",
+    "description": "讨论在强化学习训练过程中如何提高模型生成轨迹时的吞吐。"
+  },
+  {
     "article_id": "3ac21b56f945c964",
     "company": "Anthropic",
     "title": "Anthropic launches higher education advisory board and AI Fluency courses",
@@ -1769,6 +1802,20 @@
     "topic": "research",
     "title_zh": "衡量语言模型对全球主观观点代表性的探索",
     "chinese_archived": true
+  },
+  {
+    "article_id": "3bd4391ba5a25ae1",
+    "company": "Google",
+    "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+    "url": "https://developers.googleblog.com/en/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+    "date": "2026-11-19",
+    "topic": "infrastructure",
+    "title_zh": "用 MaxText 的 Streaming DiLoCo 跨地区训练大模型",
+    "original_language": "en",
+    "description": "从训练通信和分布式同步的取舍理解如何使用跨地域算力。",
+    "aliases": [
+      "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/"
+    ]
   },
   {
     "article_id": "3c6f08515b77762a",
@@ -2076,6 +2123,17 @@
       "https://www.anthropic.com/news/anthropic-economic-index-january-2026-report"
     ],
     "chinese_archived": true
+  },
+  {
+    "article_id": "42d26b1d4ca7524a",
+    "company": "AWS",
+    "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "宝马集团如何治理数百个 Agent",
+    "original_language": "en",
+    "description": "从企业实践理解如何在数千名开发者间统一管理 Agent 权限、发现与运营。"
   },
   {
     "article_id": "4307222bc7e5f2e4",
@@ -2523,6 +2581,20 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "51f845820480334b",
+    "company": "Google",
+    "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+    "url": "https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+    "date": "2026-11-19",
+    "topic": "research",
+    "title_zh": "在 Google TPU 上用 Tunix 与 Gemma 4 做多轮 Agent 强化学习",
+    "original_language": "en",
+    "description": "介绍如何为可交互的多轮任务组织训练轨迹、工具反馈和奖励。",
+    "aliases": [
+      "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/"
+    ]
+  },
+  {
     "article_id": "521645e00650b7db",
     "company": "Anthropic",
     "title": "Progress from our Frontier Red Team",
@@ -2626,6 +2698,17 @@
     "topic": "archive",
     "title_zh": "Anthropic 与 Amazon 扩大合作，新增高达 5 吉瓦算力",
     "chinese_archived": true
+  },
+  {
+    "article_id": "53e75dc7387ba029",
+    "company": "Kimi",
+    "title": "Kimi Code Desktop 1.4.0",
+    "url": "https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.4.0",
+    "date": "2026-11-19",
+    "topic": "products",
+    "title_zh": "Kimi Code Desktop 1.4.0 发布",
+    "original_language": "en",
+    "description": "介绍如何在桌面端连接其他编码 Agent，衔接会话并查看工作记录。"
   },
   {
     "article_id": "53f8a7a981fbea42",
@@ -3223,6 +3306,17 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "65d68f6bba50e6be",
+    "company": "Microsoft",
+    "title": "Build trusted autonomous agents for your team with Microsoft Foundry",
+    "url": "https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "在 Microsoft Foundry 为团队构建可信的自主 Agent",
+    "original_language": "en",
+    "description": "讨论如何把团队知识、身份与治理约束纳入自主 Agent 的设计。"
+  },
+  {
     "article_id": "670397a4d6a66138",
     "company": "Anthropic",
     "title": "Language models (mostly) know what they know",
@@ -3365,6 +3459,17 @@
     "date": "2025-08-05",
     "topic": "archive",
     "chinese_archived": true
+  },
+  {
+    "article_id": "69d162e3003a2077",
+    "company": "Google",
+    "title": "Let Gemini tackle repetitive chores on your Mac",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+    "date": "2026-11-19",
+    "topic": "products",
+    "title_zh": "让 Gemini 在 Mac 上操作应用和处理重复任务",
+    "original_language": "en",
+    "description": "了解 Gemini 的计算机操作功能如何在 Mac 上完成跨应用任务，以及它的使用范围。"
   },
   {
     "article_id": "69e94d3b69ad0a46",
@@ -3801,6 +3906,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "7303cf34c367e545",
+    "company": "Cloudflare",
+    "title": "Agents aren’t humans (but they kinda are)",
+    "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+    "date": "2026-11-05",
+    "topic": "evaluation",
+    "title_zh": "当网站访问者是受用户委托的 Agent",
+    "original_language": "en",
+    "description": "讨论如何在不丢失用户授权和站点控制的情况下识别 Agent 请求。"
+  },
+  {
     "article_id": "73d80170d2947e94",
     "company": "OpenAI",
     "title": "How we used Codex to build Sora for Android in 28 days",
@@ -3833,6 +3949,17 @@
     "title_zh": "数据不足下的学习 第一部分：半监督学习",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "74f0816ca7f55a71",
+    "company": "NVIDIA",
+    "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+    "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "用 GPU 原生数据采集为科研仪器提供实时 AI",
+    "original_language": "en",
+    "description": "从数据采集路径理解如何为高速仪器数据降低传输和处理延迟。"
   },
   {
     "article_id": "75125cf5ab0826b2",
@@ -4128,6 +4255,17 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/closing-ai-guidance-gap-education/"
   },
   {
+    "article_id": "7c0429e1122f880b",
+    "company": "AWS",
+    "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
+    "date": "2026-11-19",
+    "topic": "infrastructure",
+    "title_zh": "SageMaker AI 如何识别推理端点的延迟漂移与 GPU 闲置",
+    "original_language": "en",
+    "description": "介绍怎样让推理监测发现性能回退和资源利用问题。"
+  },
+  {
     "article_id": "7c2cc3d7e8ae53dc",
     "company": "Anthropic",
     "title": "Challenges in evaluating AI systems",
@@ -4200,6 +4338,17 @@
     "original_language": "en",
     "description": "介绍修复与测试双角色、Docker 测试奖励和真实仓库修复。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "7f76fde50a9a4114",
+    "company": "Microsoft Research",
+    "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+    "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "date": "2026-10-30",
+    "topic": "evaluation",
+    "title_zh": "从合成企业数据到可信的 Copilot 评估",
+    "original_language": "en",
+    "description": "介绍怎样用合成数据复现企业使用场景，并验证基准接近真实任务。"
   },
   {
     "article_id": "7f7a70a676497580",
@@ -4790,6 +4939,17 @@
     "topic": "evaluation",
     "title_zh": "改进我们的对齐与安全工作",
     "chinese_archived": true
+  },
+  {
+    "article_id": "8f04818f54f6aea1",
+    "company": "LangChain",
+    "title": "From tasks to goals",
+    "url": "https://www.langchain.com/blog/from-tasks-to-goals",
+    "date": "2026-11-16",
+    "topic": "engineering",
+    "title_zh": "从任务到目标",
+    "original_language": "en",
+    "description": "讨论如何把长期目标交给 Agent，以及维持上下文和约束工具所需的设计。"
   },
   {
     "article_id": "8f63dfa1697f2fa8",
@@ -5643,6 +5803,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a52104fdae873a31",
+    "company": "Microsoft",
+    "title": "Azure DevOps integration with the GitHub Copilot app (public preview)",
+    "url": "https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/",
+    "date": "2026-11-19",
+    "topic": "products",
+    "title_zh": "GitHub Copilot 应用与 Azure DevOps 集成进入公测",
+    "original_language": "en",
+    "description": "了解团队如何在 Copilot 的工作流中使用 Azure DevOps 的现有项目。"
+  },
+  {
     "article_id": "a52e9d71e445a462",
     "company": "Anthropic",
     "title": "How Claude is accelerating protein design and analytical chemistry",
@@ -5940,6 +6111,28 @@
     "chinese_archived": true
   },
   {
+    "article_id": "ae9f706a66d5f1b1",
+    "company": "OpenAI",
+    "title": "Prompting GPT-Live for languages and regional accents",
+    "url": "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "用提示词为 GPT-Live 设计语言和地区口音",
+    "original_language": "en",
+    "description": "说明怎样选择、描述和测试多语言语音 Agent 的口音与发音，覆盖地区差异和语言切换。"
+  },
+  {
+    "article_id": "aef632472a5e3af7",
+    "company": "IBM Research",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "date": "2026-11-18",
+    "topic": "research",
+    "title_zh": "在 Streamhouse 中使用时间序列模型",
+    "original_language": "en",
+    "description": "介绍时间序列基础模型如何与流式数据和实际预测场景结合。"
+  },
+  {
     "article_id": "af173630d9ccc1b0",
     "company": "Anthropic",
     "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
@@ -5959,6 +6152,17 @@
     "title_zh": "用信息论剖析深度学习",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "b017db0483658dfc",
+    "company": "LangChain",
+    "title": "Building Evidence-Grounded Agent Memory with OpenWiki and Graphs",
+    "url": "https://www.langchain.com/blog/building-agent-memory-openwiki-graphs",
+    "date": "2026-10-28",
+    "topic": "engineering",
+    "title_zh": "用 OpenWiki 和图结构为 Agent 搭建可追溯的记忆",
+    "original_language": "en",
+    "description": "讨论如何把原始证据、知识关联和检索结合起来，便于核查 Agent 的记忆。"
   },
   {
     "article_id": "b05d2a6ff4893e4d",
@@ -6068,6 +6272,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "b20735166121b5f2",
+    "company": "Figma",
+    "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+    "url": "https://huggingface.co/blog/figma-ai/motion-graphics-bench",
+    "date": "2026-11-10",
+    "topic": "evaluation",
+    "title_zh": "MotionGraphicsBench：用程序校验评估动态图形生成",
+    "original_language": "en",
+    "description": "用前端设计任务说明如何把视觉产物的要求写成可以自动运行的检查。"
+  },
+  {
     "article_id": "b223b57277700a87",
     "company": "Anthropic",
     "title": "Economics",
@@ -6171,6 +6386,17 @@
     "topic": "research",
     "title_zh": "Claude 如何提升生物分子建模能力",
     "chinese_archived": true
+  },
+  {
+    "article_id": "b451aff394adbb42",
+    "company": "Google",
+    "title": "Put Gemini to work for you",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "date": "2026-11-17",
+    "topic": "products",
+    "title_zh": "让 Gemini 按计划执行任务",
+    "original_language": "en",
+    "description": "介绍 Gemini Tasks 的调度方式及免费版新开放的功能。"
   },
   {
     "article_id": "b452070c7a90e2aa",
@@ -6500,6 +6726,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "c06fca3b9549fb95",
+    "company": "Google",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "date": "2026-11-11",
+    "topic": "research",
+    "title_zh": "Gemini Decisions API：快速且经过校准的多模态判断",
+    "original_language": "en",
+    "description": "关注如何把多模态模型的判断接入需要低延迟与置信度的应用。"
+  },
+  {
     "article_id": "c078dfd4bd19c2c9",
     "company": "DeepSeek",
     "title": "DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real",
@@ -6512,6 +6749,17 @@
     "author": "DeepSeek",
     "chinese_archived": true,
     "chinese_url": "https://api-docs.deepseek.com/zh-cn/news/news261017/"
+  },
+  {
+    "article_id": "c1e0d9c67afc6eb7",
+    "company": "AWS",
+    "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+    "date": "2026-11-12",
+    "topic": "engineering",
+    "title_zh": "在 AWS 用 A2A 搭建可组合的多 Agent 系统",
+    "original_language": "en",
+    "description": "展示分别部署的 Agent 如何通过协议通信并将各自的能力组合起来。"
   },
   {
     "article_id": "c20f7adcf71664e6",
@@ -7096,6 +7344,21 @@
     "chinese_archived": true
   },
   {
+    "article_id": "d271dd5b7b9d38d0",
+    "company": "OpenAI",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "OpenAI 的 Performance Factory 如何让 ChatGPT 保持快速",
+    "original_language": "en",
+    "description": "讲解如何把真实使用中的性能问题纳入可重复测量和回归检查，再持续验证提速方案。",
+    "author": [
+      "Okay Zed",
+      "Cyrus Forbes"
+    ]
+  },
+  {
     "article_id": "d28ee743c76f5eaa",
     "company": "OpenAI",
     "title": "The Multi-Armed Bandit Problem and Its Solutions",
@@ -7167,6 +7430,17 @@
     "topic": "archive",
     "title_zh": "检测和防范蒸馏攻击",
     "chinese_archived": true
+  },
+  {
+    "article_id": "d40b37a43fa11767",
+    "company": "LangChain",
+    "title": "LangSmith Tool Gateway: Secure, governed tool use for agents",
+    "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "LangSmith Tool Gateway：集中治理 Agent 的工具调用",
+    "original_language": "en",
+    "description": "介绍如何让团队共用工具，同时保留身份、访问控制和审计能力。"
   },
   {
     "article_id": "d47347f1fb8e842f",
@@ -7376,6 +7650,17 @@
     "topic": "archive",
     "title_zh": "劳伦斯利弗莫尔国家实验室扩大 Claude 企业版部署，赋能科学家与研究人员",
     "chinese_archived": true
+  },
+  {
+    "article_id": "da3414a9602a319d",
+    "company": "NVIDIA",
+    "title": "Build Tool-Calling Parsers in Rust with AI Agents",
+    "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "用 AI Agent 在 Rust 中构建工具调用解析器",
+    "original_language": "en",
+    "description": "讨论模型输出采用不同格式且分段到达时，怎样测试和维护解析行为。"
   },
   {
     "article_id": "dae8a87d79470879",
@@ -7607,6 +7892,17 @@
       "confirmed_on": "2026-11-16"
     },
     "qa": "passed"
+  },
+  {
+    "article_id": "e63c44ee253751eb",
+    "company": "Anthropic",
+    "title": "AI for Science expands to foundations and research institutions",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "date": "2026-10-28",
+    "topic": "research",
+    "title_zh": "Claude 的 AI for Science 计划扩展到基金会与研究机构",
+    "original_language": "en",
+    "description": "介绍以合作机构为入口，让科学研究团队使用模型的方式。"
   },
   {
     "article_id": "e68246067eeddf6e",
@@ -8393,6 +8689,28 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "fe1eb0476877e73f",
+    "company": "AWS",
+    "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "Bedrock AgentCore 新增 Strands 默认配置、内置工具与生命周期钩子",
+    "original_language": "en",
+    "description": "从平台设计理解哪些 Agent 运行机制可以复用，哪些需要按工作流扩展。"
+  },
+  {
+    "article_id": "fe28edf5c5c55f32",
+    "company": "AWS",
+    "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+    "date": "2026-11-19",
+    "topic": "infrastructure",
+    "title_zh": "用 SageMaker AI 跨区域路由缓解推理容量短缺",
+    "original_language": "en",
+    "description": "讨论托管推理在区域算力不足时如何分配请求以保持服务。"
   },
   {
     "article_id": "fe3f51bba975fd89",

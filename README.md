@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 739 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 767 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -22,6 +22,7 @@
 - [教 AI 建立科学模型](<https://www.anthropic.com/research/teaching-ai-to-build-scientific-models>) · 2026-11-06 · 仅原文
 - [AI 如何辅助科研：研究者怎样使用 Claude](<https://www.anthropic.com/research/how-researchers-use-claude>) · 2026-11-05 · 仅原文
 - [大语言模型可证明推理的进展](<https://www.anthropic.com/research/provable-inference>) · 2026-11-02 · 已有中文全文（本库未公开）
+- [Claude 的 AI for Science 计划扩展到基金会与研究机构](<https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions>) · 2026-10-28 · 仅原文
 - [AI 智能体如何影响专家的判断决策](<https://www.anthropic.com/research/agents-judgment-calls>) · 2026-10-27 · 已有中文全文（本库未公开）
 - [用 Claude 发现并利用关键真实世界软件中的漏洞](<https://www.anthropic.com/research/discovering-vulnerabilities-with-claude>) · 2026-10-27 · 已有中文全文（本库未公开）
 - [英国 AISI 网络测试事件的对齐评估](<https://www.anthropic.com/research/alignment-assessment-ukaisi>) · 2026-10-23 · 已有中文全文（本库未公开）
@@ -203,6 +204,8 @@
 
 #### Google
 
+- [在 Google TPU 上用 Tunix 与 Gemma 4 做多轮 Agent 强化学习](<https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>) · 2026-11-19 · 仅原文
+- [Gemini Decisions API：快速且经过校准的多模态判断](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/>) · 2026-11-11 · 仅原文
 - [Sleep 框架：让大模型在持续学习中保留知识](<https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/>) · 2026-10-27 · 仅原文
 
 #### Google DeepMind
@@ -213,6 +216,10 @@
 #### Hugging Face
 
 - [Rumble-2-Flash：支持 40 多种语言的轻量开放语音模型](<https://huggingface.co/blog/rumble-2-flash>) · 2026-11-18 · 仅原文
+
+#### IBM Research
+
+- [在 Streamhouse 中使用时间序列模型](<https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse>) · 2026-11-18 · 仅原文
 
 #### Microsoft Research
 
@@ -301,10 +308,13 @@
 
 #### AWS
 
+- [Bedrock AgentCore 新增 Strands 默认配置、内置工具与生命周期钩子](<https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/>) · 2026-11-19 · 仅原文
+- [宝马集团如何治理数百个 Agent](<https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/>) · 2026-11-19 · 仅原文
 - [Airbnb 如何按任务成本运营编码 Agent](<https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/>) · 2026-11-18 · 仅原文
 - [用 SageMaker AI 无服务器服务做全参数微调](<https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/>) · 2026-11-18 · 仅原文
 - [用 NVIDIA NeMo Switchyard 为编码 Agent 选择合适的模型](content/AWS/%E5%AE%98%E6%96%B9/2026-11-13_%E7%94%A8%20NVIDIA%20NeMo%20Switchyard%20%E4%B8%BA%E7%BC%96%E7%A0%81%20Agent%20%E9%80%89%E6%8B%A9%E5%90%88%E9%80%82%E7%9A%84%E6%A8%A1%E5%9E%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/>)
 - [从原型到生产：Agent DLC 工程实践](content/AWS/%E5%AE%98%E6%96%B9/2026-11-12_%E4%BB%8E%E5%8E%9F%E5%9E%8B%E5%88%B0%E7%94%9F%E4%BA%A7%EF%BC%9AAgent%20DLC%20%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/>)
+- [在 AWS 用 A2A 搭建可组合的多 Agent 系统](<https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/>) · 2026-11-12 · 仅原文
 
 #### Cloudflare
 
@@ -329,6 +339,7 @@
 
 #### Google
 
+- [Gemini API 推出工具检索](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>) · 2026-11-19 · 仅原文
 - [用 Antigravity 的 /teamwork 功能推进科学与工程](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>) · 2026-11-13 · 仅原文
 
 #### Hugging Face
@@ -343,12 +354,15 @@
 
 #### LangChain
 
+- [LangSmith Tool Gateway：集中治理 Agent 的工具调用](<https://www.langchain.com/blog/langsmith-tool-gateway>) · 2026-11-19 · 仅原文
 - [构建主动式 Agent 的经验](<https://www.langchain.com/blog/what-weve-learned-building-proactive-agents>) · 2026-11-17 · 仅原文
+- [从任务到目标](<https://www.langchain.com/blog/from-tasks-to-goals>) · 2026-11-16 · 仅原文
 - [目标工程：如何设计 Agent 的目标](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-14_%E7%9B%AE%E6%A0%87%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%20Agent%20%E7%9A%84%E7%9B%AE%E6%A0%87.%E4%B8%AD%E6%96%87.md) · 2026-11-14 · 中文译文 · [原文](<https://www.langchain.com/blog/goal-engineering>)
 - [什么是评测驱动开发：如何改进 AI Agent](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-09_%E4%BB%80%E4%B9%88%E6%98%AF%E8%AF%84%E6%B5%8B%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%EF%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E8%BF%9B%20AI%20Agent.%E4%B8%AD%E6%96%87.md) · 2026-11-09 · 中文译文 · [原文](<https://www.langchain.com/blog/what-is-eval-driven-development>)
 - [Agent 正在走向异步](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-05_Agent%20%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%90%91%E5%BC%82%E6%AD%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-05 · 中文译文 · [原文](<https://www.langchain.com/blog/agents-are-going-async>)
 - [我们如何优化 Deep Agents 的浏览器使用](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-03_%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%20Deep%20Agents%20%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8.%E4%B8%AD%E6%96%87.md) · 2026-11-03 · 中文译文 · [原文](<https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents>)
 - [2026 年末的上下文工程挑战](<https://www.langchain.com/blog/context-engineering-challenges-late-2026>) · 2026-11-02 · 仅原文
+- [用 OpenWiki 和图结构为 Agent 搭建可追溯的记忆](<https://www.langchain.com/blog/building-agent-memory-openwiki-graphs>) · 2026-10-28 · 仅原文
 
 #### Linear
 
@@ -356,12 +370,20 @@
 
 #### Microsoft
 
+- [在 Microsoft Foundry 为团队构建可信的自主 Agent](<https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/>) · 2026-11-19 · 仅原文
 - [在企业环境中把 Foundry 托管 Agent 从试点推向生产](<https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/>) · 2026-11-18 · 仅原文
 - [在 Foundry 为多套 Agent 复用工具](<https://devblogs.microsoft.com/foundry/build-once-reuse-across-your-agent-fleet-tools-and-toolboxes-in-foundry/>) · 2026-11-18 · 仅原文
 - [Microsoft Agent Framework for Go 的预配置 Agent](content/Microsoft/%E5%AE%98%E6%96%B9/2026-11-11_Microsoft%20Agent%20Framework%20for%20Go%20%E7%9A%84%E9%A2%84%E9%85%8D%E7%BD%AE%20Agent.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://devblogs.microsoft.com/go/preconfigured-agents-with-microsoft-agent-framework-for-go/>)
 
+#### NVIDIA
+
+- [用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>) · 2026-11-19 · 仅原文
+- [用 GPU 原生数据采集为科研仪器提供实时 AI](<https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/>) · 2026-11-19 · 仅原文
+
 #### OpenAI
 
+- [OpenAI 的 Performance Factory 如何让 ChatGPT 保持快速](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/>) · 2026-11-19 · 仅原文
+- [用提示词为 GPT-Live 设计语言和地区口音](<https://developers.openai.com/blog/prompting-multilingual-voice-agents>) · 2026-11-19 · 仅原文
 - [深入了解 Codex 沙箱](<https://openai.com/index/inside-the-codex-sandbox/>) · 2026-11-18 · 仅原文
 - [OpenAI 如何保障 OpenClaw 等持久型智能体的安全](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-12_OpenAI%20%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C%20OpenClaw%20%E7%AD%89%E6%8C%81%E4%B9%85%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E5%AE%89%E5%85%A8.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai>)
 - [Cogent 与 OpenAI 为企业打造网络防御工厂](content/OpenAI/%E5%AE%98%E6%96%B9/2026-11-10_Cogent%20%E4%B8%8E%20OpenAI%20%E4%B8%BA%E4%BC%81%E4%B8%9A%E6%89%93%E9%80%A0%E7%BD%91%E7%BB%9C%E9%98%B2%E5%BE%A1%E5%B7%A5%E5%8E%82.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://openai.com/index/cogent-security/>)
@@ -392,6 +414,8 @@
 
 #### AWS
 
+- [用 SageMaker AI 跨区域路由缓解推理容量短缺](<https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/>) · 2026-11-19 · 仅原文
+- [SageMaker AI 如何识别推理端点的延迟漂移与 GPU 闲置](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/>) · 2026-11-19 · 仅原文
 - [Exa 如何在 AWS 芯片上提升嵌入吞吐](<https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/>) · 2026-11-18 · 仅原文
 - [降低 Bedrock AgentCore JSON 工作负载的 Token 开销和延迟](<https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/>) · 2026-11-17 · 仅原文
 - [SageMaker AI 实时端点支持感知 KV 缓存的路由](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/>) · 2026-11-17 · 仅原文
@@ -406,6 +430,7 @@
 
 #### Google
 
+- [用 MaxText 的 Streaming DiLoCo 跨地区训练大模型](<https://developers.googleblog.com/en/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>) · 2026-11-19 · 仅原文
 - [加速大型 Git 仓库上的开发](<https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/>) · 2026-11-17 · 仅原文
 
 #### Hugging Face
@@ -418,6 +443,7 @@
 
 #### NVIDIA
 
+- [用 NVIDIA Dynamo 缓解强化学习的采样瓶颈](<https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/>) · 2026-11-19 · 仅原文
 - [协同设计稀疏注意力以提升长上下文推理效率](<https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/>) · 2026-11-17 · 仅原文
 - [Agent Substrate：推进 Kubernetes 上的大规模 Agent 运行](content/NVIDIA/%E5%AE%98%E6%96%B9/2026-11-10_Agent%20Substrate%EF%BC%9A%E6%8E%A8%E8%BF%9B%20Kubernetes%20%E4%B8%8A%E7%9A%84%E5%A4%A7%E8%A7%84%E6%A8%A1%20Agent%20%E8%BF%90%E8%A1%8C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/>)
 
@@ -497,9 +523,17 @@
 - [语言模型对齐的理论界限](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) · 2026-11-12 · 仅原文
 - [评估评估者：用 LLM 裁判衡量个性化写作风格](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) · 2026-11-10 · 仅原文
 
+#### Cloudflare
+
+- [当网站访问者是受用户委托的 Agent](<https://blog.cloudflare.com/trusted-agent-delegation/>) · 2026-11-05 · 仅原文
+
 #### Cursor
 
 - [Cursor 更新近期安全事件调查](<https://cursor.com/cn/blog/security-incident-update>) · 2026-11-13 · 官方中文版 · [原文](<https://cursor.com/blog/security-incident-update>)
+
+#### Figma
+
+- [MotionGraphicsBench：用程序校验评估动态图形生成](<https://huggingface.co/blog/figma-ai/motion-graphics-bench>) · 2026-11-10 · 仅原文
 
 #### GitHub
 
@@ -517,6 +551,7 @@
 #### Microsoft Research
 
 - [用 PDD Kit 形式化验证 Agent 编写的全栈 Web 应用](<https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/>) · 2026-11-05 · 仅原文
+- [从合成企业数据到可信的 Copilot 评估](<https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/>) · 2026-10-30 · 仅原文
 
 #### NVIDIA
 
@@ -620,8 +655,10 @@
 
 #### Google
 
+- [让 Gemini 在 Mac 上操作应用和处理重复任务](<https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/>) · 2026-11-19 · 仅原文
 - [Gemini 应用支持内存较小的 Android 设备](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>) · 2026-11-18 · 仅原文
 - [在 Google AI Studio 用 Gemini 构建全栈 Android 应用](<https://developers.googleblog.com/en/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>) · 2026-11-17 · 仅原文
+- [让 Gemini 按计划执行任务](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/>) · 2026-11-17 · 仅原文
 - [A2UI 1.0：构建流畅可靠的 Agent 交互体验](content/Google/%E5%AE%98%E6%96%B9/2026-11-11_A2UI%201.0%EF%BC%9A%E6%9E%84%E5%BB%BA%E6%B5%81%E7%95%85%E5%8F%AF%E9%9D%A0%E7%9A%84%20Agent%20%E4%BA%A4%E4%BA%92%E4%BD%93%E9%AA%8C.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://developers.googleblog.com/en/a2ui-10-build-delightful-fast-reliable-agentic-experiences/>)
 
 #### Google DeepMind
@@ -632,6 +669,8 @@
 
 #### Kimi
 
+- [Kimi Code Desktop 1.4.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.4.0>) · 2026-11-19 · 仅原文
+- [Kimi Code CLI 2.7.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.7.0>) · 2026-11-19 · 仅原文
 - [Kimi Code CLI v2.6.0 发布说明](content/Kimi/%E5%AE%98%E6%96%B9/2026-11-12_Kimi%20Code%20CLI%20v2.6.0%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai/kimi-code%402.6.0>)
 - [Kimi K3.1 Pro 发布](<https://www.kimi.com/en/blog/kimi-k3-1-pro>) · 2026-10-24 · 已有中文全文（本库未公开）
 - [Kimi K2 Thinking 发布](<https://www.kimi.com/en/blog/kimi-k2-thinking>) · 2025-11-06 · 已有中文全文（本库未公开）
@@ -640,6 +679,10 @@
 #### LangChain
 
 - [以 Agent 为核心重做 LangSmith](<https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent>) · 2026-11-16 · 仅原文
+
+#### Microsoft
+
+- [GitHub Copilot 应用与 Azure DevOps 集成进入公测](<https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/>) · 2026-11-19 · 仅原文
 
 #### Mistral AI
 

@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 767 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 799 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -190,6 +190,7 @@
 
 #### Apple
 
+- [Depth Pro 2：清晰且时序一致的单目深度估计](<https://machinelearning.apple.com/research/depth-pro-2-monocular>) · 2026-11-20 · 仅原文
 - [拆分与缩放：三维潜在表示](<https://machinelearning.apple.com/research/split-scale-latent-3d>) · 2026-11-16 · 仅原文
 
 #### Cursor
@@ -220,6 +221,10 @@
 #### IBM Research
 
 - [在 Streamhouse 中使用时间序列模型](<https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse>) · 2026-11-18 · 仅原文
+
+#### Metric AI
+
+- [Ayb：面向亚美尼亚语的语言模型](<https://huggingface.co/blog/Metric-AI/ayb-05-intro>) · 2026-11-20 · 仅原文
 
 #### Microsoft Research
 
@@ -256,6 +261,10 @@
 
 - [以推理速度交付](<https://steipete.me/posts/2025/shipping-at-inference-speed>) · 2025-12-28 · 已有中文全文（本库未公开）
 - [直接跟它说：Agent 工程的务实之道](<https://steipete.me/posts/just-talk-to-it>) · 2025-10-14 · 已有中文全文（本库未公开）
+
+#### Thinking Machines Lab
+
+- [端到端的 4 位训练](<https://thinkingmachines.ai/blog/end-to-end-4-bit-training/>) · 2026-11-13 · 仅原文
 
 #### 苏剑林
 
@@ -309,6 +318,7 @@
 #### AWS
 
 - [Bedrock AgentCore 新增 Strands 默认配置、内置工具与生命周期钩子](<https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/>) · 2026-11-19 · 仅原文
+- [在 Kimi Code CLI 中使用 Amazon Bedrock 模型](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>) · 2026-11-19 · 仅原文
 - [宝马集团如何治理数百个 Agent](<https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/>) · 2026-11-19 · 仅原文
 - [Airbnb 如何按任务成本运营编码 Agent](<https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/>) · 2026-11-18 · 仅原文
 - [用 SageMaker AI 无服务器服务做全参数微调](<https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/>) · 2026-11-18 · 仅原文
@@ -339,11 +349,15 @@
 
 #### Google
 
+- [将内部 Cloud Run MCP 服务安全接入 Gemini Enterprise](<https://developers.googleblog.com/en/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/>) · 2026-11-20 · 仅原文
+- [从 Google Duplex 到 Gemini 代打商家电话](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>) · 2026-11-20 · 仅原文
+- [在 Gemini Enterprise 自定义界面中处理多层认证](<https://developers.googleblog.com/en/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/>) · 2026-11-20 · 仅原文
 - [Gemini API 推出工具检索](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>) · 2026-11-19 · 仅原文
 - [用 Antigravity 的 /teamwork 功能推进科学与工程](<https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/>) · 2026-11-13 · 仅原文
 
 #### Hugging Face
 
+- [Harness Adapter：让模型更适配 Agent 的运行框架](<https://huggingface.co/blog/harness-adapters-at-scale>) · 2026-11-20 · 仅原文
 - [llama.cpp v1.0.0：为本地 AI 生态打基础](<https://huggingface.co/blog/ggml-org/llama-cpp-v1>) · 2026-11-13 · 仅原文
 - [Hugging Face 中的决策模型](content/Hugging%20Face/%E5%AE%98%E6%96%B9/2026-11-10_Hugging%20Face%20%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E6%A8%A1%E5%9E%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://huggingface.co/blog/decision>)
 
@@ -370,6 +384,7 @@
 
 #### Microsoft
 
+- [在 Azure SQL Database 中为 RAG 拆分文档](<https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/>) · 2026-11-20 · 仅原文
 - [在 Microsoft Foundry 为团队构建可信的自主 Agent](<https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/>) · 2026-11-19 · 仅原文
 - [在企业环境中把 Foundry 托管 Agent 从试点推向生产](<https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/>) · 2026-11-18 · 仅原文
 - [在 Foundry 为多套 Agent 复用工具](<https://devblogs.microsoft.com/foundry/build-once-reuse-across-your-agent-fleet-tools-and-toolboxes-in-foundry/>) · 2026-11-18 · 仅原文
@@ -382,6 +397,8 @@
 
 #### OpenAI
 
+- [在 Codex 中用 Ultrafast 保持开发节奏](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>) · 2026-11-20 · 仅原文
+- [个人 Agent 的时间感知与异步输入](<https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents>) · 2026-11-20 · 仅原文
 - [OpenAI 的 Performance Factory 如何让 ChatGPT 保持快速](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/>) · 2026-11-19 · 仅原文
 - [用提示词为 GPT-Live 设计语言和地区口音](<https://developers.openai.com/blog/prompting-multilingual-voice-agents>) · 2026-11-19 · 仅原文
 - [深入了解 Codex 沙箱](<https://openai.com/index/inside-the-codex-sandbox/>) · 2026-11-18 · 仅原文
@@ -403,6 +420,10 @@
 - [我们为什么要构建 Responses API](<https://developers.openai.com/blog/responses-api>) · 2025-09-22 · 已有中文全文（本库未公开）
 - [上下文工程——用 Session 管理短期记忆](<https://developers.openai.com/cookbook/examples/agents_sdk/session_memory>) · 2025-09-09 · 已有中文全文（本库未公开）
 
+#### Thinking Machines Lab
+
+- [Tinker 一年：把领域经验转成定制模型](<https://thinkingmachines.ai/news/one-year-of-tinker/>) · 2026-10-15 · 仅原文
+
 ### 基础设施
 
 #### Anthropic
@@ -414,6 +435,9 @@
 
 #### AWS
 
+- [SageMaker HyperPod 增强训练可观测性](<https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/>) · 2026-11-20 · 仅原文
+- [用分布式 KV 缓存降低自托管模型成本和延迟](<https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/>) · 2026-11-20 · 仅原文
+- [SageMaker HyperPod 推出全局推理网关](<https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/>) · 2026-11-20 · 仅原文
 - [用 SageMaker AI 跨区域路由缓解推理容量短缺](<https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/>) · 2026-11-19 · 仅原文
 - [SageMaker AI 如何识别推理端点的延迟漂移与 GPU 闲置](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/>) · 2026-11-19 · 仅原文
 - [Exa 如何在 AWS 芯片上提升嵌入吞吐](<https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/>) · 2026-11-18 · 仅原文
@@ -441,6 +465,10 @@
 
 - [审慎看待缩放定律](<https://lilianweng.github.io/posts/2026-06-24-scaling-laws/>) · 2026-06-24 · 已有中文全文（本库未公开）
 
+#### Microsoft
+
+- [用 Foundry Managed Compute 部署开放模型](<https://devblogs.microsoft.com/foundry/managed-compute-ga/>) · 2026-11-20 · 仅原文
+
 #### NVIDIA
 
 - [用 NVIDIA Dynamo 缓解强化学习的采样瓶颈](<https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/>) · 2026-11-19 · 仅原文
@@ -454,6 +482,7 @@
 
 #### vLLM
 
+- [vLLM 首日支持循环架构模型 Inkling 2 Mini](<https://vllm.ai/blog/2026-11-20-inkling2-mini>) · 2026-11-20 · 仅原文
 - [用 FlyDSL MonoKernels 提升 vLLM 的交互式解码表现](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>) · 2026-11-18 · 仅原文
 - [vLLM 分离编码器：用 EPD 扩展多模态服务](<https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd>) · 2026-11-11 · 仅原文
 - [vLLM 迁移到 LibTorch 稳定 ABI](<https://vllm.ai/blog/2026-11-06-stable-abi-cuda>) · 2026-11-06 · 仅原文
@@ -523,6 +552,10 @@
 - [语言模型对齐的理论界限](<https://machinelearning.apple.com/research/theoretical-limits-alignment>) · 2026-11-12 · 仅原文
 - [评估评估者：用 LLM 裁判衡量个性化写作风格](<https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges>) · 2026-11-10 · 仅原文
 
+#### AWS
+
+- [渣打银行集团自动化生成式 AI 风险评估的实践](<https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/>) · 2026-11-20 · 仅原文
+
 #### Cloudflare
 
 - [当网站访问者是受用户委托的 Agent](<https://blog.cloudflare.com/trusted-agent-delegation/>) · 2026-11-05 · 仅原文
@@ -541,10 +574,12 @@
 
 #### Google
 
+- [Agent 异常检测扩展至其他云环境](<https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>) · 2026-11-20 · 仅原文
 - [用外部基准评测 Agent 异常检测](content/Google/%E5%AE%98%E6%96%B9/2026-11-12_%E7%94%A8%E5%A4%96%E9%83%A8%E5%9F%BA%E5%87%86%E8%AF%84%E6%B5%8B%20Agent%20%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
 
 #### LangChain
 
+- [为什么 Agent 治理要从可观测性开始](<https://www.langchain.com/blog/agent-governance-observability>) · 2026-11-19 · 仅原文
 - [LangSmith：按任务结果统计编码 Agent 的开销](<https://www.langchain.com/blog/langsmith-coding-agents-roi>) · 2026-11-18 · 仅原文
 - [用 LangSmith 的数据控制保护追踪中的敏感信息](<https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith>) · 2026-11-17 · 仅原文
 
@@ -559,6 +594,8 @@
 
 #### OpenAI
 
+- [MedChemBench：评估 AI 在药物化学中的能力](<https://openai.com/index/introducing-medchembench/>) · 2026-11-20 · 仅原文
+- [应对未经授权的模型蒸馏](<https://openai.com/index/combatting-adversarial-distillation/>) · 2026-11-20 · 仅原文
 - [从训练到部署：OpenAI 如何管理前沿 AI 风险](<https://openai.com/index/managing-frontier-ai-risk/>) · 2026-11-18 · 仅原文
 - [沉默的共识](<https://openai.com/index/the-silent-consensus/>) · 2026-11-18 · 仅原文
 - [用 AI 加强北约及盟国的网络防御](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai/>) · 2026-11-17 · 仅原文
@@ -579,6 +616,7 @@
 - [Claude Platform 的关联计费](<https://claude.com/resources/articles/linked-billing-on-claude-platform>) · 2026-11-17 · 仅原文
 - [推出面向制造业的 Claude](<https://claude.com/resources/articles/claude-for-manufacturing>) · 2026-11-12 · 仅原文
 - [推出 Claude Meetings](<https://claude.com/resources/articles/claude-meetings>) · 2026-11-12 · 仅原文
+- [用 Claude Opus 5.5 处理日常知识工作](<https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>) · 2026-11-12 · 仅原文
 - [Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_Curative%20%E5%A6%82%E4%BD%95%E5%80%9F%E5%8A%A9%20Claude%20%E4%B8%8A%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E6%9E%84%E5%BB%BA%E5%85%A8%E5%9B%BD%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E7%BD%91%E7%BB%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude>)
 - [您的应用现在可以在 Claude 中打开，Claude 也能在其中工作](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_%E6%82%A8%E7%9A%84%E5%BA%94%E7%94%A8%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%20Claude%20%E4%B8%AD%E6%89%93%E5%BC%80%EF%BC%8CClaude%20%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%85%B6%E4%B8%AD%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/interactive-connectors-full-tool>)
 - [推出 Claude Whiteboards、Claude Sheets 和 Claude Data](<https://claude.com/resources/articles/sheets-whiteboards-data>) · 2026-11-10 · 仅原文
@@ -635,6 +673,10 @@
 - [Claude Code 的诞生](<https://www.anthropic.com/features/making-of-claude-code>) · 已有中文全文（本库未公开）
 - [疫情简报](<https://www.anthropic.com/features/ebola-response>) · 已有中文全文（本库未公开）
 
+#### AWS
+
+- [Amazon Textract Insights：可核查的文档理解](<https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/>) · 2026-11-20 · 仅原文
+
 #### Cloudflare
 
 - [Cloudflare 开放新版 Clairic 与 Clairic-flash 权重](<https://blog.cloudflare.com/open-clairic/>) · 2026-11-18 · 仅原文
@@ -682,7 +724,13 @@
 
 #### Microsoft
 
+- [Copilot 代码审查在 Azure Repos 正式可用](<https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available/>) · 2026-11-20 · 仅原文
 - [GitHub Copilot 应用与 Azure DevOps 集成进入公测](<https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/>) · 2026-11-19 · 仅原文
+
+#### MiniMax
+
+- [MiniMax 发布 H3-Image，开放 4K 图像生成模型](<https://www.minimax.cn/blog/minimax-h3-image>) · 2026-11-10 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-h3-image>)
+- [MiniMax 发布 M3.1 Flash](<https://www.minimax.cn/blog/minimax-m31f>) · 2026-10-19 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-m31f>)
 
 #### Mistral AI
 
@@ -691,6 +739,7 @@
 
 #### OpenAI
 
+- [Hebbia 如何用 GPT-6 Astra 改进金融研究](<https://openai.com/business/customer-stories/hebbia/>) · 2026-11-20 · 仅原文
 - [OpenAI 发布 ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales/>) · 2026-11-17 · 仅原文
 - [Astra for Law：法律工作中的专业 AI](<https://openai.com/zh-Hans-CN/index/astra-law-6-2/>) · 2026-11-17 · 官方中文版 · [原文](<https://openai.com/index/astra-law-6-2/>)
 - [OpenAI 发布 GPT-6.2 Astra 和 Sol](<https://openai.com/zh-Hans-CN/index/introducing-gpt-6-2-astra-sol/>) · 2026-11-17 · 官方中文版 · [原文](<https://openai.com/index/introducing-gpt-6-2-astra-sol/>)
@@ -709,10 +758,16 @@
 
 #### Qwen
 
+- [Qwen Code 周报：Qwen4-Max、多会话 Worktree 与群聊推送](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/>) · 2026-11-19 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-19/>)
 - [Qwen4-Max：新同事，已就位](<https://qwen.ai/blog?id=qwen4-max>) · 2026-11-16 · 中文原文
 - [Qwen Code 功能周报：2026 年 11 月 12 日](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-12_Qwen%20Code%20%E5%8A%9F%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BC%9A2026%20%E5%B9%B4%2011%20%E6%9C%88%2012%20%E6%97%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/>)
 - [Qwen Code 1.0 Preview 发布说明](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-11_Qwen%20Code%201.0%20Preview%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview>)
 - [走出终端：桌面端与 Web Shell 中的 Qwen Code](<https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/>) · 2026-11-02 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/quickstart/web-shell-and-desktop/>)
+
+#### Thinking Machines Lab
+
+- [Thinking Machines Lab 发布 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>) · 2026-11-20 · 仅原文
+- [Thinking Machines Lab 发布 Inkling 2 Small](<https://thinkingmachines.ai/news/inkling-2-small/>) · 2026-11-05 · 仅原文
 
 #### Viviennn
 
@@ -750,6 +805,10 @@
 #### Eric Provencher
 
 - [为 GPT-6 Astra 重新思考 Skills 与提示词](<https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra>) · 2026-09-11 · 已有中文全文（本库未公开）
+
+#### Eugene Yan
+
+- [公开评测如何发挥作用、怎样失效，又该怎么改](<https://eugeneyan.com/writing/public-evals>) · 2026-11-19 · 仅原文
 
 #### Lance Martin
 

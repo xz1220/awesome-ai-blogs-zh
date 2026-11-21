@@ -20,16 +20,19 @@
 - [DeepSeek API 更新](<https://api-docs.deepseek.com/zh-cn/updates/>) — DeepSeek 模型与 API 的官方中文更新。
 - [Qwen Blog](<https://qwenlm.github.io/blog/>) — 通义千问模型、评测及开源生态。
 - [Mistral AI News](<https://mistral.ai/news/>) — Mistral 模型、研究及产品发布。
+- [Thinking Machines Lab · Connectionism](<https://thinkingmachines.ai/blog/>) — 语言模型训练、推理和系统设计的研究文章。
+- [Thinking Machines Lab · News](<https://thinkingmachines.ai/news/>) — Inkling 模型、Tinker 训练服务及项目更新。
+- [MiniMax Research](<https://www.minimax.io/blog>) — MiniMax 的模型研发、技术报告及产品发布。
 
 ### 工程团队与产品博客
 
 - [OpenAI Developers Blog](<https://developers.openai.com/blog>) — API、Codex、开发实践和真实构建案例。
 - [Anthropic Engineering](<https://www.anthropic.com/engineering>) — Agent 架构、工具设计、上下文管理和生产经验。
-- [Claude Blog](<https://claude.com/resources/articles>) — Claude 产品使用经验、性能改进和案例。
+- [Claude Blog](<https://claude.com/resources/articles>) — Claude 产品使用经验、性能改进和案例。 [订阅](<https://claude.com/resources/articles/rss.xml>)
 - [Claude Developer Blog](<https://claude.dev/>) — 面向 Claude API、Claude Code 与 Agent 开发者的实战文章。
 - [Claude 资源库](<https://claude.com/resources>) — 产品指南、工作流、客户实施案例和教程。
 - [Cursor Blog](<https://cursor.com/blog>) — AI 编程产品、长程 Agent 和内部工程实践。
-- [Google AI Blog](<https://blog.google/innovation-and-ai/technology/ai/>) — Google 的 AI 产品、模型应用与用户体验。
+- [Google AI Blog](<https://blog.google/innovation-and-ai/technology/ai/>) — Google 的 AI 产品、模型应用与用户体验。 [订阅](<https://blog.google/innovation-and-ai/technology/ai/rss/>)
 - [Google Developers Blog](<https://developers.googleblog.com/>) — Gemini、Agent UI 和开发平台的实现与用法。
 - [GitHub Blog · AI & ML](<https://github.blog/ai-and-ml/>) — Copilot、编码 Agent、开源协作与开发流程。
 - [Microsoft Developer Blogs](<https://devblogs.microsoft.com/>) — Agent Framework 与开发工具的实践指南。
@@ -53,5 +56,5 @@
 - [Simon Willison's Weblog](<https://simonwillison.net/>) — 模型实测、工具尝试和 AI 安全观察。
 - [Eugene Yan](<https://eugeneyan.com/writing/>) — 生产机器学习、LLM 评测和推荐系统的实践。
 - [Chip Huyen](<https://huyenchip.com/blog/>) — 从系统设计和产品需求出发讨论 AI 工程。
-- [科学空间 · 苏剑林](<https://spaces.ac.cn/>) — 中文技术长文，关注模型结构、训练与优化器。
+- [科学空间 · 苏剑林](<https://spaces.ac.cn/>) — 中文技术长文，关注模型结构、训练与优化器。 [订阅](<https://kexue.fm/feed>)
 - [Drew Breunig](<https://www.dbreunig.com/>) — 上下文工程、Agent 项目与数据工作的独立观察。

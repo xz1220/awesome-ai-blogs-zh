@@ -186,6 +186,20 @@
     "chinese_archived": true
   },
   {
+    "article_id": "0636b88bf3262520",
+    "company": "Google",
+    "title": "How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI",
+    "url": "https://developers.googleblog.com/en/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "在 Gemini Enterprise 自定义界面中处理多层认证",
+    "original_language": "en",
+    "description": "区分用户、数据连接器和 Agent 身份各自的认证边界。",
+    "aliases": [
+      "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/"
+    ]
+  },
+  {
     "article_id": "071e2abe4d468a8c",
     "company": "Anthropic",
     "title": "Disempowerment patterns in real-world AI usage",
@@ -240,6 +254,18 @@
     "original_language": "en",
     "description": "通过 BootLoops 案例讨论如何围绕 Agent 长处设计科研运行框架。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "0ada1934a0788fbd",
+    "company": "独立作者",
+    "title": "How Public Evals Work and Fail, and What Should Change",
+    "url": "https://eugeneyan.com/writing/public-evals",
+    "date": "2026-11-19",
+    "topic": "perspectives",
+    "title_zh": "公开评测如何发挥作用、怎样失效，又该怎么改",
+    "original_language": "en",
+    "description": "讨论公开基准的用途与局限，以及怎样让评测更贴近真实任务。",
+    "author": "Eugene Yan"
   },
   {
     "article_id": "0adb702ae2c07335",
@@ -412,6 +438,18 @@
       "https://www.anthropic.com/news/2028-ai-leadership"
     ],
     "chinese_archived": true
+  },
+  {
+    "article_id": "0e365028518c38e9",
+    "company": "MiniMax",
+    "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era",
+    "url": "https://www.minimax.io/blog/minimax-h3-image",
+    "date": "2026-11-10",
+    "topic": "products",
+    "title_zh": "MiniMax 发布 H3-Image，开放 4K 图像生成模型",
+    "original_language": "en",
+    "description": "了解开放权重图像模型的生成速度、指令遵循和多参考图能力。",
+    "chinese_url": "https://www.minimax.cn/blog/minimax-h3-image"
   },
   {
     "article_id": "0e537c3c4d4b3d5b",
@@ -1057,6 +1095,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "21c1ce1eda763bf0",
+    "company": "Anthropic",
+    "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+    "url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
+    "date": "2026-11-12",
+    "topic": "products",
+    "title_zh": "用 Claude Opus 5.5 处理日常知识工作",
+    "original_language": "en",
+    "description": "按常见办公任务比较不同 Claude 模型，并说明哪些工作值得选用 Opus 5.5。"
+  },
+  {
     "article_id": "21e96d4f9b19988e",
     "company": "Anthropic",
     "title": "Mapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
@@ -1075,6 +1124,17 @@
     "topic": "archive",
     "title_zh": "Claude 与 Alexa+",
     "chinese_archived": true
+  },
+  {
+    "article_id": "227c0cb62bf0dc78",
+    "company": "vLLM",
+    "title": "Inkling 2 Mini on vLLM: Day-0 Support for a Looped Model",
+    "url": "https://vllm.ai/blog/2026-11-20-inkling2-mini",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "vLLM 首日支持循环架构模型 Inkling 2 Mini",
+    "original_language": "en",
+    "description": "从推理引擎视角理解循环模型的执行、缓存与本地部署。"
   },
   {
     "article_id": "22b0273a7c1efebd",
@@ -1331,6 +1391,17 @@
     "title_zh": "什么是扩散模型？",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "2c8db03360879ea3",
+    "company": "Metric AI",
+    "title": "Ayb: Language models for Armenian",
+    "url": "https://huggingface.co/blog/Metric-AI/ayb-05-intro",
+    "date": "2026-11-20",
+    "topic": "research",
+    "title_zh": "Ayb：面向亚美尼亚语的语言模型",
+    "original_language": "en",
+    "description": "从小语种模型案例了解数据收集、训练取舍与语言能力评估。"
   },
   {
     "article_id": "2d1285a60414f246",
@@ -2273,6 +2344,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "4589680bbb8c9718",
+    "company": "OpenAI",
+    "title": "Hebbia sees improvements in financial research with GPT‑6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia/",
+    "date": "2026-11-20",
+    "topic": "products",
+    "title_zh": "Hebbia 如何用 GPT-6 Astra 改进金融研究",
+    "original_language": "en",
+    "description": "介绍金融研究助手怎样衡量跨文档分析、证据引用和任务质量。"
+  },
+  {
     "article_id": "46dc397f07117c38",
     "company": "Anthropic",
     "title": "Claude Claude Mythos 5",
@@ -2301,6 +2383,17 @@
     "topic": "research",
     "title_zh": "Project Pilot：AI 能控制无人机吗？",
     "chinese_archived": true
+  },
+  {
+    "article_id": "48003ca6dcdc0ce9",
+    "company": "AWS",
+    "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "SageMaker HyperPod 推出全局推理网关",
+    "original_language": "en",
+    "description": "介绍如何用单个入口连接不同区域和集群中的推理服务。"
   },
   {
     "article_id": "482b7139a29a7e0d",
@@ -2690,6 +2783,29 @@
     "chinese_archived": true
   },
   {
+    "article_id": "5366723156519556",
+    "company": "OpenAI",
+    "title": "Time awareness and async input for personal agents",
+    "url": "https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "个人 Agent 的时间感知与异步输入",
+    "original_language": "en",
+    "description": "介绍怎样让个人 Agent 理解时间约束，并在等待用户反馈时继续处理独立任务。",
+    "author": "Kevin Whinnery"
+  },
+  {
+    "article_id": "536d4386c711aad4",
+    "company": "Google",
+    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "从 Google Duplex 到 Gemini 代打商家电话",
+    "original_language": "en",
+    "description": "梳理早期语音系统如何演进到能根据用户需求致电商家的产品。"
+  },
+  {
     "article_id": "53ae5204e4458d81",
     "company": "Anthropic",
     "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
@@ -2763,6 +2879,17 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "54dba77600cdab09",
+    "company": "Microsoft",
+    "title": "How to Chunk Documents in Azure SQL Database for RAG",
+    "url": "https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "在 Azure SQL Database 中为 RAG 拆分文档",
+    "original_language": "en",
+    "description": "比较文本分块方式及其在数据库检索流程中的作用。"
   },
   {
     "article_id": "55cc348bcfa4f00c",
@@ -2869,6 +2996,28 @@
     "topic": "evaluation",
     "title_zh": "前沿模型安全",
     "chinese_archived": true
+  },
+  {
+    "article_id": "5a5ba5d784f0202e",
+    "company": "OpenAI",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation/",
+    "date": "2026-11-20",
+    "topic": "evaluation",
+    "title_zh": "应对未经授权的模型蒸馏",
+    "original_language": "en",
+    "description": "了解模型提供方如何识别大规模滥用并协调防护。"
+  },
+  {
+    "article_id": "5a5c979144e9fcd2",
+    "company": "AWS",
+    "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "在 Kimi Code CLI 中使用 Amazon Bedrock 模型",
+    "original_language": "en",
+    "description": "介绍将编码工具接入托管模型时的配置和身份管理。"
   },
   {
     "article_id": "5a89de0ea6554ddf",
@@ -3115,6 +3264,17 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "5fcd8ead51bf2926",
+    "company": "OpenAI",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench/",
+    "date": "2026-11-20",
+    "topic": "evaluation",
+    "title_zh": "MedChemBench：评估 AI 在药物化学中的能力",
+    "original_language": "en",
+    "description": "介绍药物研发评测的目标、验证方式，以及模型结果如何与专家判断比较。"
+  },
+  {
     "article_id": "5fe21d2b4ecab0b0",
     "company": "Anthropic",
     "title": "Claude solves two open problems in the physics of black holes",
@@ -3198,6 +3358,17 @@
     "topic": "archive",
     "title_zh": "Anthropic 收购 Vercept，推进 Claude 的计算机使用能力",
     "chinese_archived": true
+  },
+  {
+    "article_id": "6345fcfaa01a824d",
+    "company": "Apple",
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "url": "https://machinelearning.apple.com/research/depth-pro-2-monocular",
+    "date": "2026-11-20",
+    "topic": "research",
+    "title_zh": "Depth Pro 2：清晰且时序一致的单目深度估计",
+    "original_language": "en",
+    "description": "研究如何从单目输入估计物理尺度上的深度，同时保留边界细节与视频帧间一致性。"
   },
   {
     "article_id": "63c3c4dae3e38767",
@@ -3759,6 +3930,17 @@
     "chinese_url": "https://cursor.com/cn/blog/security-incident-update"
   },
   {
+    "article_id": "701a571706ec6c00",
+    "company": "Hugging Face",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "Harness Adapter：让模型更适配 Agent 的运行框架",
+    "original_language": "en",
+    "description": "讨论如何针对运行框架调整模型行为，再比较工具调用、任务表现和成本。"
+  },
+  {
     "article_id": "70c82430c7b2a8f8",
     "company": "vLLM",
     "title": "Keeping Agents Fast: High-Interactivity Decode with FlyDSL MonoKernels in vLLM",
@@ -4022,6 +4204,17 @@
     "topic": "products",
     "original_language": "zh",
     "description": "介绍 Qwen4-Max 的模型设计与长时任务能力，以及不同工作流中的评测表现。"
+  },
+  {
+    "article_id": "756bd32258a5ff4a",
+    "company": "AWS",
+    "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+    "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "用分布式 KV 缓存降低自托管模型成本和延迟",
+    "original_language": "en",
+    "description": "介绍从部署、缓存命中和规模变化评估推理服务复用 KV 缓存的效果。"
   },
   {
     "article_id": "757c4a0eaeb2d4a7",
@@ -4410,6 +4603,18 @@
     ]
   },
   {
+    "article_id": "811406bb47719439",
+    "company": "Thinking Machines Lab",
+    "title": "End‑to‑End 4‑Bit Training",
+    "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+    "date": "2026-11-13",
+    "topic": "research",
+    "title_zh": "端到端的 4 位训练",
+    "original_language": "en",
+    "description": "讨论如何把低精度计算扩大到训练的多个阶段，并检验精度与效率之间的取舍。",
+    "author": "Jack Cook"
+  },
+  {
     "article_id": "8147e5470addb193",
     "company": "Anthropic",
     "title": "Agents for financial services",
@@ -4491,6 +4696,17 @@
     "topic": "archive",
     "title_zh": "面向创意工作的 Claude",
     "chinese_archived": true
+  },
+  {
+    "article_id": "8332904eb70bcbc5",
+    "company": "AWS",
+    "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+    "date": "2026-11-20",
+    "topic": "evaluation",
+    "title_zh": "渣打银行集团自动化生成式 AI 风险评估的实践",
+    "original_language": "en",
+    "description": "以银行案例说明如何把风险登记、控制检查和人工审批串成可追溯的流程。"
   },
   {
     "article_id": "83b187f91a7c6b88",
@@ -4731,6 +4947,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "89c1b5008b7af961",
+    "company": "Thinking Machines Lab",
+    "title": "Introducing Inkling 2 Mini",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "date": "2026-11-20",
+    "topic": "products",
+    "title_zh": "Thinking Machines Lab 发布 Inkling 2 Mini",
+    "original_language": "en",
+    "description": "介绍面向个人设备的开放权重模型，以及本地运行所需的资源。"
+  },
+  {
     "article_id": "89df73f468616e60",
     "company": "Anthropic",
     "title": "Advancing Claude for Education",
@@ -4931,6 +5158,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "8ece5e32cabe185a",
+    "company": "AWS",
+    "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+    "date": "2026-11-20",
+    "topic": "products",
+    "title_zh": "Amazon Textract Insights：可核查的文档理解",
+    "original_language": "en",
+    "description": "介绍从文档中提取信息时如何保留来源证据，帮助用户核查生成结果。"
+  },
+  {
     "article_id": "8ed1599eb95bc766",
     "company": "Anthropic",
     "title": "Improving our alignment and security efforts",
@@ -4996,6 +5234,20 @@
     "author": "Jon Lee、Chaomin Yu、Ben Ries",
     "chinese_archived": true,
     "chinese_url": "https://openai.com/zh-Hans-CN/index/scaling-storage-one-billion-users-part-one/"
+  },
+  {
+    "article_id": "9168478b30816b36",
+    "company": "Google",
+    "title": "How to securely connect internal Cloud Run MCP servers to Gemini Enterprise",
+    "url": "https://developers.googleblog.com/en/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "将内部 Cloud Run MCP 服务安全接入 Gemini Enterprise",
+    "original_language": "en",
+    "description": "说明如何让企业 Agent 使用内部服务，同时保持访问边界和权限控制。",
+    "aliases": [
+      "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/"
+    ]
   },
   {
     "article_id": "9191d43918fc91a1",
@@ -5339,6 +5591,17 @@
     "title_zh": "Transformer 家族 2.0 版",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "9a9f7eafdd9b739d",
+    "company": "AWS",
+    "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "SageMaker HyperPod 增强训练可观测性",
+    "original_language": "en",
+    "description": "了解怎样把 GPU 训练任务和集群遥测联系起来，定位卡顿与资源异常。"
   },
   {
     "article_id": "9adace783a79978c",
@@ -5907,6 +6170,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a7656926765155cf",
+    "company": "OpenAI",
+    "title": "How I stay in the flow with Ultrafast",
+    "url": "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
+    "date": "2026-11-20",
+    "topic": "engineering",
+    "title_zh": "在 Codex 中用 Ultrafast 保持开发节奏",
+    "original_language": "en",
+    "description": "通过界面迭代的真实工作流，讨论什么时候更快的模型响应有价值。",
+    "author": "Dominik Kundel"
+  },
+  {
     "article_id": "a88ccd9cde45b630",
     "company": "Anthropic",
     "title": "Vibe physics: The AI grad student",
@@ -6327,6 +6602,17 @@
     "description": "展示如何从开发意图构建可验证的规格，并对 Agent 生成的程序进行验证。"
   },
   {
+    "article_id": "b33c817b59b1b559",
+    "company": "Microsoft",
+    "title": "Copilot Code Reviews for Azure Repos is generally available",
+    "url": "https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available/",
+    "date": "2026-11-20",
+    "topic": "products",
+    "title_zh": "Copilot 代码审查在 Azure Repos 正式可用",
+    "original_language": "en",
+    "description": "了解团队如何在现有 PR 工作流中配置和使用模型审查。"
+  },
+  {
     "article_id": "b36169a44d2ecc6a",
     "company": "Anthropic",
     "title": "A global workspace in language models",
@@ -6481,6 +6767,18 @@
     "topic": "research"
   },
   {
+    "article_id": "b984a5c544e63137",
+    "company": "MiniMax",
+    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "date": "2026-10-19",
+    "topic": "products",
+    "title_zh": "MiniMax 发布 M3.1 Flash",
+    "original_language": "en",
+    "description": "观察面向 Agent 工作负载的模型如何取舍响应速度、任务表现和使用成本。",
+    "chinese_url": "https://www.minimax.cn/blog/minimax-m31f"
+  },
+  {
     "article_id": "ba2481e5e2dcdf31",
     "company": "Anthropic",
     "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
@@ -6489,6 +6787,17 @@
     "topic": "archive",
     "title_zh": "携手 Blackstone、Hellman & Friedman 与高盛，打造一家新的企业级 AI 服务公司",
     "chinese_archived": true
+  },
+  {
+    "article_id": "babf886c356786ce",
+    "company": "Thinking Machines Lab",
+    "title": "One Year of Tinker: Turning Your Expertise into Custom Models",
+    "url": "https://thinkingmachines.ai/news/one-year-of-tinker/",
+    "date": "2026-10-15",
+    "topic": "engineering",
+    "title_zh": "Tinker 一年：把领域经验转成定制模型",
+    "original_language": "en",
+    "description": "回顾训练服务首年在定制模型上的实践，包括研究和开发团队怎样使用它。"
   },
   {
     "article_id": "baf1413b738d4bdf",
@@ -6614,6 +6923,17 @@
     "topic": "research",
     "title_zh": "追溯模型输出到训练数据",
     "chinese_archived": true
+  },
+  {
+    "article_id": "bd6d84a2ddccd371",
+    "company": "Microsoft",
+    "title": "Serve open models in production with Foundry Managed Compute",
+    "url": "https://devblogs.microsoft.com/foundry/managed-compute-ga/",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "用 Foundry Managed Compute 部署开放模型",
+    "original_language": "en",
+    "description": "说明托管算力如何支持开放模型在生产环境上线和扩缩容。"
   },
   {
     "article_id": "bdc7b775ab8d2106",
@@ -7083,6 +7403,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "c9007427c31b4a2e",
+    "company": "LangChain",
+    "title": "Why agent governance starts with observability",
+    "url": "https://www.langchain.com/blog/agent-governance-observability",
+    "date": "2026-11-19",
+    "topic": "evaluation",
+    "title_zh": "为什么 Agent 治理要从可观测性开始",
+    "original_language": "en",
+    "description": "讨论如何用可追溯的执行记录判断 Agent 权限和策略在运行中是否有效。"
+  },
+  {
     "article_id": "c9098ac47ad21321",
     "company": "Cloudflare",
     "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
@@ -7412,6 +7743,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "d37bd867c272ee77",
+    "company": "Qwen",
+    "title": "Qwen Code Weekly: New Flagship Qwen4-Max Is Available, Parallel Sessions Work in Their Own Worktrees, Task Results Go Straight to Feishu/WeCom/DingTalk Groups",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-19/",
+    "date": "2026-11-19",
+    "topic": "products",
+    "title_zh": "Qwen Code 周报：Qwen4-Max、多会话 Worktree 与群聊推送",
+    "original_language": "en",
+    "description": "介绍不同工作树隔离并行会话，以及把任务结果发送到团队协作工具的新功能。",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/"
+  },
+  {
     "article_id": "d3ae286e89daf459",
     "company": "Anthropic",
     "title": "Where things stand with the Department of War",
@@ -7462,6 +7805,20 @@
     "topic": "archive",
     "title_zh": "面向业务成效的提示词工程",
     "chinese_archived": true
+  },
+  {
+    "article_id": "d55232d36d003595",
+    "company": "Google",
+    "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+    "url": "https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+    "date": "2026-11-20",
+    "topic": "evaluation",
+    "title_zh": "Agent 异常检测扩展至其他云环境",
+    "original_language": "en",
+    "description": "了解跨云运行的 Agent 如何接入监测并报告偏离预期的行为。",
+    "aliases": [
+      "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/"
+    ]
   },
   {
     "article_id": "d5764ee3d06ac915",
@@ -7892,6 +8249,17 @@
       "confirmed_on": "2026-11-16"
     },
     "qa": "passed"
+  },
+  {
+    "article_id": "e5707d4ca802e66e",
+    "company": "Thinking Machines Lab",
+    "title": "Introducing Inkling 2 Small",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "date": "2026-11-05",
+    "topic": "products",
+    "title_zh": "Thinking Machines Lab 发布 Inkling 2 Small",
+    "original_language": "en",
+    "description": "介绍开放权重的循环架构模型及其推理表现。"
   },
   {
     "article_id": "e63c44ee253751eb",

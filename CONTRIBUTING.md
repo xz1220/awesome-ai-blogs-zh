@@ -12,19 +12,19 @@
 | 路径 | 内容 |
 | --- | --- |
 | `README.md` | 按主题、来源分组的完整文章目录，同一来源按首发日期倒序排列 |
-| `articles/` | 旧分类页的兼容入口，指向首页对应主题 |
+| `articles/` | 近 7 天新增索引及旧分类页入口 |
 | `sources/` | 可跟踪的博客与官方订阅源 |
 | `content/` | 已获授权的中文全文及官方中文版 |
 | `assets/` | 全文引用的图、预览和图组记录 |
 | `catalog/` | 文章、来源与配图的机器可读索引 |
 | `scripts/` | 生成目录及校验链接、图片的脚本 |
 
-修改 `catalog/articles.json` 或 `catalog/sources.json` 后重新生成目录。记录中文显示名、来源、首发日期、一句推荐理由和原文链接；首页标题优先链接中文版。日期不明留空，持续更新页面可保留原页面首次发布日期，后续版本独立记录时应有固定锚点或发布链接。
+修改 `catalog/articles.json` 或 `catalog/sources.json` 后重新生成目录。记录中文显示名、来源、首发日期、一句推荐理由和原文链接；首页标题优先链接中文版。首发日期不明时留空，持续更新页面的独立版本应有固定入口。新收录的文章在提交前用 `--record-added` 记录首次收录日期，已有文章的收录日期保留。
 
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r scripts/requirements-images.txt
-.venv/bin/python scripts/build_index.py
+.venv/bin/python scripts/build_index.py --record-added
 .venv/bin/python scripts/check_images.py --allow-untracked
 ```
 

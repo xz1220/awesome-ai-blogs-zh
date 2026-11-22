@@ -21,12 +21,14 @@
 
 ## 发布与恢复
 
+每天用 `--record-added` 生成目录。脚本为新条目补记北京时间的首次收录日期（`added_on`），并生成 `articles/recent.md`，展示含今天在内的过去 7 个自然日。首批导入的存量文章没有 `added_on`，不算新增。当天没有新文章也要刷新窗口，过期条目会自动移出；只有窗口滚动时不发送通知。
+
 从仓库根目录运行：
 
 ```sh
 python3 -m venv .venv
 .venv/bin/python -m pip install -r scripts/requirements-images.txt
-.venv/bin/python scripts/build_index.py
+.venv/bin/python scripts/build_index.py --record-added
 .venv/bin/python scripts/check_links.py
 ```
 

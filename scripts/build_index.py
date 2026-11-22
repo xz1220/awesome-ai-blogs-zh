@@ -4,12 +4,18 @@
 import argparse
 import json
 import re
-from datetime import date
+import subprocess
+from datetime import date, datetime, timedelta
+from itertools import groupby
 from pathlib import Path
 from urllib.parse import quote, urlsplit, urlunsplit
+from zoneinfo import ZoneInfo
 
 
 ROOT = Path(__file__).resolve().parents[1]
+SHANGHAI = ZoneInfo("Asia/Shanghai")
+RECENT_PATH = ROOT / "articles/recent.md"
+RECENT_DATE = re.compile(r"^<!-- recent-as-of: (\d{4}-\d{2}-\d{2}) -->$", re.MULTILINE)
 TOPICS = {
     "research": "模型与研究",
     "engineering": "工程实践",
@@ -76,6 +82,11 @@ def check_catalog(articles, sources):
                 date.fromisoformat(published)
             else:
                 raise ValueError(f"invalid date: {article_id}: {published}")
+        if "added_on" in article:
+            added_on = article["added_on"]
+            if not isinstance(added_on, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", added_on):
+                raise ValueError(f"invalid collection date: {article_id}: {added_on}")
+            date.fromisoformat(added_on)
         if article.get("chinese_url"):
             http_url(article["chinese_url"])
         if "chinese_archived" in article and not isinstance(article["chinese_archived"], bool):
@@ -131,14 +142,14 @@ def article_source(article):
     return " ".join((author or company).split())
 
 
-def article_line(article):
+def article_line(article, *, root_prefix="", show_context=False):
     title = article.get("title_zh") or article["title"]
-    info = []
+    info = [inline(article_source(article)), TOPICS[article["topic"]]] if show_context else []
     if article.get("date"):
-        info.append(article["date"])
+        info.append(("首发 " if show_context else "") + article["date"])
     original = article["url"]
     if path := article.get("translation_path"):
-        title_link = f"[{inline(title)}]({quote(path)})"
+        title_link = f"[{inline(title)}]({root_prefix}{quote(path)})"
         info.append("官方中文版" if article["edition"] == "official-zh" else "中文译文")
         info.append(external("原文", original))
     elif chinese_url := article.get("chinese_url"):
@@ -172,7 +183,43 @@ def source_lines(sources):
     return result
 
 
-def render(articles, sources):
+def render_recent(articles, as_of):
+    start = (as_of - timedelta(days=6)).isoformat()
+    end = as_of.isoformat()
+    recent = sorted(
+        (a for a in articles if start <= a.get("added_on", "") <= end),
+        key=lambda a: (a["added_on"], a.get("date") or "", a["article_id"]),
+        reverse=True,
+    )
+    lines = [
+        "# 近 7 天新增", "",
+        f"<!-- recent-as-of: {end} -->", "",
+        "[查看完整目录](../README.md#按主题阅读)", "",
+        f"**{start} 至 {end}（北京时间）** · **新增 {len(recent)} 篇**", "",
+        "按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。",
+    ]
+    for added_on, group in groupby(recent, key=lambda a: a["added_on"]):
+        lines += ["", f"## {added_on}", ""]
+        lines.extend(article_line(a, root_prefix="../", show_context=True) for a in group)
+    if not recent:
+        lines += ["", "近 7 天没有新收录的文章。"]
+    return "\n".join(lines) + "\n"
+
+
+def record_additions(articles, as_of):
+    baseline = json.loads(subprocess.check_output(
+        ["git", "show", "HEAD:catalog/articles.json"], cwd=ROOT, encoding="utf-8",
+    ))
+    existing_ids = {a["article_id"] for a in baseline}
+    changed = False
+    for article in articles:
+        if article["article_id"] not in existing_ids and "added_on" not in article:
+            article["added_on"] = as_of.isoformat()
+            changed = True
+    return changed
+
+
+def render(articles, sources, as_of):
     ordered = sorted(articles, key=lambda article: (article.get("date") or "", article["article_id"]), reverse=True)
     by_topic = {topic: {} for topic in TOPICS}
     for article in ordered:
@@ -182,6 +229,7 @@ def render(articles, sources):
         f"已收录 {len(articles)} 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。",
         "",
         "点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。",
+        "", "**[近 7 天新增](articles/recent.md)**",
         "", " · ".join(f"[{name}](#{name})" for name in TOPICS.values()),
     ]
     for topic, name in TOPICS.items():
@@ -197,8 +245,9 @@ def render(articles, sources):
     yield readme_path, before + BEGIN + "\n\n" + "\n".join(main) + "\n\n" + END + after
     # Keep the old catalog URLs as pointers to the single list on the homepage.
     yield ROOT / "articles/README.md", "\n".join([
-        "# 文章目录", "", "[在首页浏览全部文章](../README.md#按主题阅读)", "",
+        "# 文章目录", "", "[在首页浏览全部文章](../README.md#按主题阅读) · [近 7 天新增](recent.md)", "",
     ])
+    yield RECENT_PATH, render_recent(articles, as_of)
     for topic, name in TOPICS.items():
         yield ROOT / f"articles/{topic}.md", f"# {name}\n\n[在首页浏览本主题的文章](../README.md#{name})\n"
     yield ROOT / "sources/README.md", "\n".join([
@@ -210,12 +259,27 @@ def render(articles, sources):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--check", action="store_true")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--check", action="store_true")
+    mode.add_argument("--record-added", action="store_true", help="date newly added catalog IDs before generating")
     args = parser.parse_args()
+    if args.check:
+        # Verify the checked-in snapshot even when CI runs later in another time zone.
+        recorded = RECENT_DATE.findall(RECENT_PATH.read_text(encoding="utf-8")) if RECENT_PATH.is_file() else []
+        if len(recorded) != 1:
+            parser.exit(1, "Missing index date; run scripts/build_index.py\n")
+        as_of = date.fromisoformat(recorded[0])
+    else:
+        as_of = datetime.now(SHANGHAI).date()
     articles, sources = (load(name) for name in ("articles", "sources"))
+    recorded_additions = args.record_added and record_additions(articles, as_of)
     check_catalog(articles, sources)
+    if recorded_additions:
+        (ROOT / "catalog/articles.json").write_text(
+            json.dumps(articles, ensure_ascii=False, indent=2) + "\n", encoding="utf-8",
+        )
     mismatches = []
-    for path, text in render(articles, sources):
+    for path, text in render(articles, sources, as_of):
         if args.check:
             if not path.is_file() or path.read_text(encoding="utf-8") != text:
                 mismatches.append(path.relative_to(ROOT).as_posix())

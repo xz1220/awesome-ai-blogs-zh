@@ -29,7 +29,8 @@
     "topic": "products",
     "title_zh": "推出 Claude Whiteboards、Claude Sheets 和 Claude Data",
     "original_language": "en",
-    "description": "展示 Claude 的白板、表格与数据如何融入团队协作和分析。"
+    "description": "展示 Claude 的白板、表格与数据如何融入团队协作和分析。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "00a064e6720eae62",
@@ -40,7 +41,8 @@
     "topic": "products",
     "title_zh": "Gemini 应用支持内存较小的 Android 设备",
     "original_language": "en",
-    "description": "说明面向 Android Go 设备的支持范围与使用入口。"
+    "description": "说明面向 Android Go 设备的支持范围与使用入口。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "0131ab3df6b38017",
@@ -197,7 +199,8 @@
     "description": "区分用户、数据连接器和 Agent 身份各自的认证边界。",
     "aliases": [
       "https://developers.googleblog.com/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/"
-    ]
+    ],
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "071e2abe4d468a8c",
@@ -265,7 +268,8 @@
     "title_zh": "公开评测如何发挥作用、怎样失效，又该怎么改",
     "original_language": "en",
     "description": "讨论公开基准的用途与局限，以及怎样让评测更贴近真实任务。",
-    "author": "Eugene Yan"
+    "author": "Eugene Yan",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "0adb702ae2c07335",
@@ -317,7 +321,8 @@
     "topic": "research",
     "title_zh": "用真实电子设备检验 Claude 的设计能力",
     "original_language": "en",
-    "description": "用实际打样测试模型生成的电子设计，区分图纸可用性和成品表现。"
+    "description": "用实际打样测试模型生成的电子设计，区分图纸可用性和成品表现。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "0c8cda120d567853",
@@ -449,7 +454,8 @@
     "title_zh": "MiniMax 发布 H3-Image，开放 4K 图像生成模型",
     "original_language": "en",
     "description": "了解开放权重图像模型的生成速度、指令遵循和多参考图能力。",
-    "chinese_url": "https://www.minimax.cn/blog/minimax-h3-image"
+    "chinese_url": "https://www.minimax.cn/blog/minimax-h3-image",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "0e537c3c4d4b3d5b",
@@ -604,7 +610,8 @@
     "title_zh": "Astra for Law：法律工作中的专业 AI",
     "original_language": "en",
     "description": "围绕法律推理与文书任务介绍 Astra for Law 的评测及产品定位。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/astra-law-6-2/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/astra-law-6-2/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "13225fd2d3574734",
@@ -740,7 +747,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "用变分思路推导学习率曲线，并联系训练进度与学习率安排。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "17af56100ac622bb",
@@ -771,7 +779,8 @@
     "topic": "products",
     "title_zh": "Kimi Code CLI 2.7.0 发布",
     "original_language": "en",
-    "description": "查看 Bedrock 提供商、跟进消息可介入当前回合和会话控制等主要更新。"
+    "description": "查看 Bedrock 提供商、跟进消息可介入当前回合和会话控制等主要更新。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "18816edf464a073a",
@@ -827,7 +836,8 @@
     "topic": "engineering",
     "title_zh": "在 Foundry 为多套 Agent 复用工具",
     "original_language": "en",
-    "description": "介绍把工具接口组织成可复用工具箱的方式。"
+    "description": "介绍把工具接口组织成可复用工具箱的方式。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "19f8bc589a9b194d",
@@ -868,7 +878,8 @@
     "topic": "engineering",
     "title_zh": "Gemini API 推出工具检索",
     "original_language": "en",
-    "description": "说明当 Agent 连接大量工具时，如何按任务检索相关工具，减少上下文开销。"
+    "description": "说明当 Agent 连接大量工具时，如何按任务检索相关工具，减少上下文开销。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "1b78f0aebe0fadea",
@@ -1017,7 +1028,8 @@
     "topic": "products",
     "title_zh": "推出 Mistral Large 4",
     "original_language": "en",
-    "description": "介绍 Mistral 的新一代通用模型以及开放和部署方式。"
+    "description": "介绍 Mistral 的新一代通用模型以及开放和部署方式。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "20098dd31ad4a35c",
@@ -1103,7 +1115,8 @@
     "topic": "products",
     "title_zh": "用 Claude Opus 5.5 处理日常知识工作",
     "original_language": "en",
-    "description": "按常见办公任务比较不同 Claude 模型，并说明哪些工作值得选用 Opus 5.5。"
+    "description": "按常见办公任务比较不同 Claude 模型，并说明哪些工作值得选用 Opus 5.5。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "21e96d4f9b19988e",
@@ -1134,7 +1147,8 @@
     "topic": "infrastructure",
     "title_zh": "vLLM 首日支持循环架构模型 Inkling 2 Mini",
     "original_language": "en",
-    "description": "从推理引擎视角理解循环模型的执行、缓存与本地部署。"
+    "description": "从推理引擎视角理解循环模型的执行、缓存与本地部署。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "22b0273a7c1efebd",
@@ -1319,7 +1333,8 @@
     "title_zh": "为负责任的 AI 基础设施建设树立新标准",
     "original_language": "en",
     "description": "介绍算力基础设施建设对水、能源和当地社区的承诺。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/setting-new-standard-responsible-ai-infrastructure/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/setting-new-standard-responsible-ai-infrastructure/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "29e932cdb1e364e8",
@@ -1340,7 +1355,8 @@
     "topic": "evaluation",
     "title_zh": "LangSmith：按任务结果统计编码 Agent 的开销",
     "original_language": "en",
-    "description": "讨论如何把编码 Agent 的跟踪数据与实际任务成效关联起来。"
+    "description": "讨论如何把编码 Agent 的跟踪数据与实际任务成效关联起来。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "2ab0d2c099317874",
@@ -1401,7 +1417,8 @@
     "topic": "research",
     "title_zh": "Ayb：面向亚美尼亚语的语言模型",
     "original_language": "en",
-    "description": "从小语种模型案例了解数据收集、训练取舍与语言能力评估。"
+    "description": "从小语种模型案例了解数据收集、训练取舍与语言能力评估。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "2d1285a60414f246",
@@ -1438,7 +1455,8 @@
     "author": [
       "Daan van Esch",
       "Uche Okonkwo"
-    ]
+    ],
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "2e50ab69ebea3b2c",
@@ -1502,7 +1520,8 @@
     "topic": "engineering",
     "title_zh": "构建 Agent Host Protocol：让会话跨设备接续",
     "original_language": "en",
-    "description": "介绍 GitHub 如何让不同客户端连接同一 Agent 会话及其运行状态。"
+    "description": "介绍 GitHub 如何让不同客户端连接同一 Agent 会话及其运行状态。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "2f22c4fbcfb394f6",
@@ -1555,7 +1574,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "从连续化视角理解 Softmax 注意力中的加权混合。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "3007f82c38138e35",
@@ -1651,7 +1671,8 @@
     "description": "介绍开源构建文件服务 ABFS 怎样降低大型代码库的本地准备成本。",
     "aliases": [
       "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/"
-    ]
+    ],
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "337e3f19ed608da6",
@@ -1867,7 +1888,8 @@
     "topic": "infrastructure",
     "title_zh": "用 NVIDIA Dynamo 缓解强化学习的采样瓶颈",
     "original_language": "en",
-    "description": "讨论在强化学习训练过程中如何提高模型生成轨迹时的吞吐。"
+    "description": "讨论在强化学习训练过程中如何提高模型生成轨迹时的吞吐。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "3ac21b56f945c964",
@@ -1901,7 +1923,8 @@
     "description": "从训练通信和分布式同步的取舍理解如何使用跨地域算力。",
     "aliases": [
       "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/"
-    ]
+    ],
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "3c6f08515b77762a",
@@ -2219,7 +2242,8 @@
     "topic": "engineering",
     "title_zh": "宝马集团如何治理数百个 Agent",
     "original_language": "en",
-    "description": "从企业实践理解如何在数千名开发者间统一管理 Agent 权限、发现与运营。"
+    "description": "从企业实践理解如何在数千名开发者间统一管理 Agent 权限、发现与运营。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "4307222bc7e5f2e4",
@@ -2295,7 +2319,8 @@
     "topic": "research",
     "title_zh": "科研提速：参差不齐的能力前沿",
     "original_language": "en",
-    "description": "讨论 AI 在科研任务上表现不均的原因，以及如何判断哪些环节已经能提速。"
+    "description": "讨论 AI 在科研任务上表现不均的原因，以及如何判断哪些环节已经能提速。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "449a5ebbef16a4ba",
@@ -2367,7 +2392,8 @@
     "topic": "products",
     "title_zh": "Hebbia 如何用 GPT-6 Astra 改进金融研究",
     "original_language": "en",
-    "description": "介绍金融研究助手怎样衡量跨文档分析、证据引用和任务质量。"
+    "description": "介绍金融研究助手怎样衡量跨文档分析、证据引用和任务质量。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "46dc397f07117c38",
@@ -2399,7 +2425,8 @@
     "title_zh": "Foundry 托管 Agent 接入私有网络时的五项检查",
     "original_language": "en",
     "description": "用管理页面超时的案例说明如何分辨网络、访问权限及运行环境的配置问题。",
-    "author": "Muzz Imam"
+    "author": "Muzz Imam",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "47fb1c35deeeb68f",
@@ -2420,7 +2447,8 @@
     "topic": "infrastructure",
     "title_zh": "SageMaker HyperPod 推出全局推理网关",
     "original_language": "en",
-    "description": "介绍如何用单个入口连接不同区域和集群中的推理服务。"
+    "description": "介绍如何用单个入口连接不同区域和集群中的推理服务。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "482b7139a29a7e0d",
@@ -2502,7 +2530,8 @@
     "title_zh": "工作前沿：AI 对自由职业的影响",
     "original_language": "en",
     "description": "以自由职业任务观察 AI 对工作内容及专业技能的影响。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/ai-effect-on-freelance-work/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/ai-effect-on-freelance-work/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "4ba107b71a0707f9",
@@ -2585,7 +2614,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "从优化几何比较 Adam 与 Muon，讨论预条件方法。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "4e6009943a7de781",
@@ -2667,7 +2697,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "探讨不预先设定总训练步数的学习率安排与收敛。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "51c0c8ea3e83e9be",
@@ -2712,7 +2743,8 @@
     "description": "介绍如何为可交互的多轮任务组织训练轨迹、工具反馈和奖励。",
     "aliases": [
       "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/"
-    ]
+    ],
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "521645e00650b7db",
@@ -2776,7 +2808,8 @@
     "description": "说明世界模拟模型 Genie 4 的使用入口及本次可用范围。",
     "aliases": [
       "https://deepmind.google/blog/genie-4-is-now-available/"
-    ]
+    ],
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "532d936c683b5e58",
@@ -2819,7 +2852,8 @@
     "title_zh": "个人 Agent 的时间感知与异步输入",
     "original_language": "en",
     "description": "介绍怎样让个人 Agent 理解时间约束，并在等待用户反馈时继续处理独立任务。",
-    "author": "Kevin Whinnery"
+    "author": "Kevin Whinnery",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "536d4386c711aad4",
@@ -2830,7 +2864,8 @@
     "topic": "engineering",
     "title_zh": "从 Google Duplex 到 Gemini 代打商家电话",
     "original_language": "en",
-    "description": "梳理早期语音系统如何演进到能根据用户需求致电商家的产品。"
+    "description": "梳理早期语音系统如何演进到能根据用户需求致电商家的产品。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "53ae5204e4458d81",
@@ -2851,7 +2886,8 @@
     "topic": "products",
     "title_zh": "Kimi Code Desktop 1.4.0 发布",
     "original_language": "en",
-    "description": "介绍如何在桌面端连接其他编码 Agent，衔接会话并查看工作记录。"
+    "description": "介绍如何在桌面端连接其他编码 Agent，衔接会话并查看工作记录。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "53f8a7a981fbea42",
@@ -2873,7 +2909,8 @@
     "topic": "engineering",
     "title_zh": "用 SageMaker AI 无服务器服务做全参数微调",
     "original_language": "en",
-    "description": "介绍在 SageMaker AI 中建立全参数微调任务的工作流。"
+    "description": "介绍在 SageMaker AI 中建立全参数微调任务的工作流。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "54598078fe4f64c7",
@@ -2916,7 +2953,8 @@
     "topic": "engineering",
     "title_zh": "在 Azure SQL Database 中为 RAG 拆分文档",
     "original_language": "en",
-    "description": "比较文本分块方式及其在数据库检索流程中的作用。"
+    "description": "比较文本分块方式及其在数据库检索流程中的作用。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "55cc348bcfa4f00c",
@@ -2961,7 +2999,8 @@
     "topic": "engineering",
     "title_zh": "如何为 Agent 建立知识工厂",
     "original_language": "en",
-    "description": "以团队内部实践为例，说明如何把零散文档和工作经验整理成可持续更新的 Agent 上下文。"
+    "description": "以团队内部实践为例，说明如何把零散文档和工作经验整理成可持续更新的 Agent 上下文。",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "57f01cae307e1cb1",
@@ -3044,7 +3083,8 @@
     "topic": "evaluation",
     "title_zh": "应对未经授权的模型蒸馏",
     "original_language": "en",
-    "description": "了解模型提供方如何识别大规模滥用并协调防护。"
+    "description": "了解模型提供方如何识别大规模滥用并协调防护。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "5a5c979144e9fcd2",
@@ -3055,7 +3095,8 @@
     "topic": "engineering",
     "title_zh": "在 Kimi Code CLI 中使用 Amazon Bedrock 模型",
     "original_language": "en",
-    "description": "介绍将编码工具接入托管模型时的配置和身份管理。"
+    "description": "介绍将编码工具接入托管模型时的配置和身份管理。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "5a89de0ea6554ddf",
@@ -3076,7 +3117,8 @@
     "topic": "engineering",
     "title_zh": "Cloudflare 开源面向 AI Agent 的 Kitesurf",
     "original_language": "en",
-    "description": "了解实验性浏览器引擎的架构，以及如何把它用于 Agent 测试和部署。"
+    "description": "了解实验性浏览器引擎的架构，以及如何把它用于 Agent 测试和部署。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "5b18db4042eebc5d",
@@ -3107,7 +3149,8 @@
     "topic": "research",
     "title_zh": "Rumble-2-Flash：支持 40 多种语言的轻量开放语音模型",
     "original_language": "en",
-    "description": "查看开放语音模型的语言覆盖、评估和使用方式。"
+    "description": "查看开放语音模型的语言覆盖、评估和使用方式。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "5beef147a7815df4",
@@ -3119,7 +3162,8 @@
     "title_zh": "开发者怎样用前沿 AI Agent 把想法变成仿真",
     "original_language": "en",
     "description": "从多个 Omniverse 项目了解开发团队如何把 Agent 接入仿真工具、验证场景并迭代设计。",
-    "author": "NVIDIA Writers"
+    "author": "NVIDIA Writers",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "5c11131c78a9342e",
@@ -3177,7 +3221,8 @@
     "aliases": [
       "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
     ],
-    "author": "Koray Kavukcuoglu"
+    "author": "Koray Kavukcuoglu",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "5d9ec4463df8a668",
@@ -3337,7 +3382,8 @@
     "topic": "evaluation",
     "title_zh": "MedChemBench：评估 AI 在药物化学中的能力",
     "original_language": "en",
-    "description": "介绍药物研发评测的目标、验证方式，以及模型结果如何与专家判断比较。"
+    "description": "介绍药物研发评测的目标、验证方式，以及模型结果如何与专家判断比较。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "5fe21d2b4ecab0b0",
@@ -3348,7 +3394,8 @@
     "topic": "research",
     "title_zh": "Claude 解出两个黑洞物理开放问题",
     "original_language": "en",
-    "description": "记录 Claude 如何协助理论物理计算，以及研究人员如何验证结果。"
+    "description": "记录 Claude 如何协助理论物理计算，以及研究人员如何验证结果。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6037d3bdef49eff0",
@@ -3369,7 +3416,8 @@
     "topic": "infrastructure",
     "title_zh": "vLLM 迁移到 LibTorch 稳定 ABI",
     "original_language": "en",
-    "description": "介绍迁移 CUDA 构建和编译依赖后如何减少版本绑定。"
+    "description": "介绍迁移 CUDA 构建和编译依赖后如何减少版本绑定。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6131dada9eeed197",
@@ -3433,7 +3481,8 @@
     "topic": "research",
     "title_zh": "Depth Pro 2：清晰且时序一致的单目深度估计",
     "original_language": "en",
-    "description": "研究如何从单目输入估计物理尺度上的深度，同时保留边界细节与视频帧间一致性。"
+    "description": "研究如何从单目输入估计物理尺度上的深度，同时保留边界细节与视频帧间一致性。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "63c3c4dae3e38767",
@@ -3550,7 +3599,8 @@
     "topic": "engineering",
     "title_zh": "在 Microsoft Foundry 为团队构建可信的自主 Agent",
     "original_language": "en",
-    "description": "讨论如何把团队知识、身份与治理约束纳入自主 Agent 的设计。"
+    "description": "讨论如何把团队知识、身份与治理约束纳入自主 Agent 的设计。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "670397a4d6a66138",
@@ -3643,7 +3693,8 @@
     ],
     "original_language": "zh",
     "description": "Manus 张涛在北大的分享，谈如何从聊天走向执行、赢得非技术用户的信任，以及用付费验证需求。",
-    "author": "Viviennn"
+    "author": "Viviennn",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6841e619fcd7e8d9",
@@ -3654,7 +3705,8 @@
     "topic": "engineering",
     "title_zh": "llama.cpp v1.0.0：为本地 AI 生态打基础",
     "original_language": "en",
-    "description": "由项目团队说明稳定版本对本地推理与下游集成的影响。"
+    "description": "由项目团队说明稳定版本对本地推理与下游集成的影响。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "688b06fb84f51f17",
@@ -3685,7 +3737,8 @@
     "topic": "infrastructure",
     "title_zh": "Cloudflare 如何把推理账单降低 68%",
     "original_language": "en",
-    "description": "用代码审查 Agent 的生产日志说明如何借助提示缓存和模型路由降低推理成本。"
+    "description": "用代码审查 Agent 的生产日志说明如何借助提示缓存和模型路由降低推理成本。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "68ffcf2c57450e50",
@@ -3705,7 +3758,8 @@
     "topic": "products",
     "title_zh": "让 Gemini 在 Mac 上操作应用和处理重复任务",
     "original_language": "en",
-    "description": "了解 Gemini 的计算机操作功能如何在 Mac 上完成跨应用任务，以及它的使用范围。"
+    "description": "了解 Gemini 的计算机操作功能如何在 Mac 上完成跨应用任务，以及它的使用范围。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "69e94d3b69ad0a46",
@@ -3778,7 +3832,8 @@
     "title_zh": "AWS Quick 更新工作流和 Agent 协作",
     "original_language": "en",
     "description": "了解工作流如何连接多个 Agent 和业务数据，以及网页端的交互变化。",
-    "author": "Hillary Lovric"
+    "author": "Hillary Lovric",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "6bb24256b5371451",
@@ -3882,7 +3937,8 @@
     "title_zh": "上下文惯性：Agent 为什么不愿放下旧计划",
     "original_language": "en",
     "description": "分析已有上下文如何令 Agent 固守旧判断，以及如何观察这种行为。",
-    "author": "Drew Breunig"
+    "author": "Drew Breunig",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6d9cb3eac49029e5",
@@ -3934,7 +3990,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "从平均操作出发，比较注意力机制与测试时训练中的关联。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6ea961812c060d5c",
@@ -3968,7 +4025,8 @@
     "topic": "evaluation",
     "title_zh": "ReviewBench：AI 代码审查的开放基准",
     "original_language": "en",
-    "description": "看 GitHub 如何设计面向 AI 代码审查的可重复评估。"
+    "description": "看 GitHub 如何设计面向 AI 代码审查的可重复评估。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "6f42239c080ae496",
@@ -4004,7 +4062,8 @@
     "title_zh": "Cursor 更新近期安全事件调查",
     "original_language": "en",
     "description": "记录安全事件调查与用户保护措施，供读者了解应对进度。",
-    "chinese_url": "https://cursor.com/cn/blog/security-incident-update"
+    "chinese_url": "https://cursor.com/cn/blog/security-incident-update",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "701a571706ec6c00",
@@ -4015,7 +4074,8 @@
     "topic": "engineering",
     "title_zh": "Harness Adapter：让模型更适配 Agent 的运行框架",
     "original_language": "en",
-    "description": "讨论如何针对运行框架调整模型行为，再比较工具调用、任务表现和成本。"
+    "description": "讨论如何针对运行框架调整模型行为，再比较工具调用、任务表现和成本。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "70c82430c7b2a8f8",
@@ -4026,7 +4086,8 @@
     "topic": "infrastructure",
     "title_zh": "用 FlyDSL MonoKernels 提升 vLLM 的交互式解码表现",
     "original_language": "en",
-    "description": "从内核设计看如何在 Agent 推理中降低解码延迟并提升交互性。"
+    "description": "从内核设计看如何在 Agent 推理中降低解码延迟并提升交互性。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "7160cfc6b1914a7e",
@@ -4077,7 +4138,8 @@
     "topic": "infrastructure",
     "title_zh": "Exa 如何在 AWS 芯片上提升嵌入吞吐",
     "original_language": "en",
-    "description": "以十亿级文档索引为例，介绍 Exa 衡量和提升向量嵌入吞吐的方法。"
+    "description": "以十亿级文档索引为例，介绍 Exa 衡量和提升向量嵌入吞吐的方法。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "72076035c6e10260",
@@ -4120,7 +4182,8 @@
     "topic": "infrastructure",
     "title_zh": "协同设计稀疏注意力以提升长上下文推理效率",
     "original_language": "en",
-    "description": "关注长上下文推理如何结合稀疏算法和底层执行优化。"
+    "description": "关注长上下文推理如何结合稀疏算法和底层执行优化。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "7261e794218dcc9b",
@@ -4173,7 +4236,8 @@
     "topic": "evaluation",
     "title_zh": "当网站访问者是受用户委托的 Agent",
     "original_language": "en",
-    "description": "讨论如何在不丢失用户授权和站点控制的情况下识别 Agent 请求。"
+    "description": "讨论如何在不丢失用户授权和站点控制的情况下识别 Agent 请求。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "73d80170d2947e94",
@@ -4218,7 +4282,8 @@
     "topic": "engineering",
     "title_zh": "用 GPU 原生数据采集为科研仪器提供实时 AI",
     "original_language": "en",
-    "description": "从数据采集路径理解如何为高速仪器数据降低传输和处理延迟。"
+    "description": "从数据采集路径理解如何为高速仪器数据降低传输和处理延迟。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "75125cf5ab0826b2",
@@ -4280,7 +4345,8 @@
     "date": "2026-11-16",
     "topic": "products",
     "original_language": "zh",
-    "description": "介绍 Qwen4-Max 的模型设计与长时任务能力，以及不同工作流中的评测表现。"
+    "description": "介绍 Qwen4-Max 的模型设计与长时任务能力，以及不同工作流中的评测表现。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "756bd32258a5ff4a",
@@ -4291,7 +4357,8 @@
     "topic": "infrastructure",
     "title_zh": "用分布式 KV 缓存降低自托管模型成本和延迟",
     "original_language": "en",
-    "description": "介绍从部署、缓存命中和规模变化评估推理服务复用 KV 缓存的效果。"
+    "description": "介绍从部署、缓存命中和规模变化评估推理服务复用 KV 缓存的效果。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "757c4a0eaeb2d4a7",
@@ -4394,7 +4461,8 @@
     "topic": "products",
     "title_zh": "推出 Claude Meetings",
     "original_language": "en",
-    "description": "展示如何把会议内容转成摘要和后续行动。"
+    "description": "展示如何把会议内容转成摘要和后续行动。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "77bcdf2c55ab0fc2",
@@ -4439,7 +4507,8 @@
     "topic": "research",
     "title_zh": "AI 如何辅助科研：研究者怎样使用 Claude",
     "original_language": "en",
-    "description": "用真实使用数据观察不同学科如何使用 AI，哪些研究环节更难委托给它。"
+    "description": "用真实使用数据观察不同学科如何使用 AI，哪些研究环节更难委托给它。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "7a21b9c5237a8a16",
@@ -4522,7 +4591,8 @@
     "title_zh": "弥补教育领域的 AI 使用指导缺口",
     "original_language": "en",
     "description": "依据学生与教育机构的数据，讨论课堂内外的 AI 使用与指导。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/closing-ai-guidance-gap-education/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/closing-ai-guidance-gap-education/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "7c0429e1122f880b",
@@ -4533,7 +4603,8 @@
     "topic": "infrastructure",
     "title_zh": "SageMaker AI 如何识别推理端点的延迟漂移与 GPU 闲置",
     "original_language": "en",
-    "description": "介绍怎样让推理监测发现性能回退和资源利用问题。"
+    "description": "介绍怎样让推理监测发现性能回退和资源利用问题。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "7c2cc3d7e8ae53dc",
@@ -4618,7 +4689,8 @@
     "topic": "evaluation",
     "title_zh": "从合成企业数据到可信的 Copilot 评估",
     "original_language": "en",
-    "description": "介绍怎样用合成数据复现企业使用场景，并验证基准接近真实任务。"
+    "description": "介绍怎样用合成数据复现企业使用场景，并验证基准接近真实任务。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "7f7a70a676497580",
@@ -4677,7 +4749,8 @@
     "description": "了解面向低延迟和实时任务的 Gemini 4 Hydrogen。",
     "aliases": [
       "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-    ]
+    ],
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "811406bb47719439",
@@ -4689,7 +4762,8 @@
     "title_zh": "端到端的 4 位训练",
     "original_language": "en",
     "description": "讨论如何把低精度计算扩大到训练的多个阶段，并检验精度与效率之间的取舍。",
-    "author": "Jack Cook"
+    "author": "Jack Cook",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "8147e5470addb193",
@@ -4783,7 +4857,8 @@
     "topic": "evaluation",
     "title_zh": "渣打银行集团自动化生成式 AI 风险评估的实践",
     "original_language": "en",
-    "description": "以银行案例说明如何把风险登记、控制检查和人工审批串成可追溯的流程。"
+    "description": "以银行案例说明如何把风险登记、控制检查和人工审批串成可追溯的流程。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "83b187f91a7c6b88",
@@ -5032,7 +5107,8 @@
     "topic": "products",
     "title_zh": "Thinking Machines Lab 发布 Inkling 2 Mini",
     "original_language": "en",
-    "description": "介绍面向个人设备的开放权重模型，以及本地运行所需的资源。"
+    "description": "介绍面向个人设备的开放权重模型，以及本地运行所需的资源。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "89df73f468616e60",
@@ -5053,7 +5129,8 @@
     "topic": "research",
     "title_zh": "教 AI 建立科学模型",
     "original_language": "en",
-    "description": "讨论如何检验模型把科学现象转化为可验证解释的能力。"
+    "description": "讨论如何检验模型把科学现象转化为可验证解释的能力。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "8a71a2808988c5c7",
@@ -5167,7 +5244,8 @@
     "topic": "products",
     "title_zh": "Kuken 如何让跨越 70 年的工程图纸可检索",
     "original_language": "en",
-    "description": "以制造业案例说明如何给旧图纸建立可用的查找入口。"
+    "description": "以制造业案例说明如何给旧图纸建立可用的查找入口。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "8ce7eabf07520571",
@@ -5243,7 +5321,8 @@
     "topic": "products",
     "title_zh": "Amazon Textract Insights：可核查的文档理解",
     "original_language": "en",
-    "description": "介绍从文档中提取信息时如何保留来源证据，帮助用户核查生成结果。"
+    "description": "介绍从文档中提取信息时如何保留来源证据，帮助用户核查生成结果。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "8ed1599eb95bc766",
@@ -5264,7 +5343,8 @@
     "topic": "engineering",
     "title_zh": "从任务到目标",
     "original_language": "en",
-    "description": "讨论如何把长期目标交给 Agent，以及维持上下文和约束工具所需的设计。"
+    "description": "讨论如何把长期目标交给 Agent，以及维持上下文和约束工具所需的设计。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "8f63dfa1697f2fa8",
@@ -5296,7 +5376,8 @@
     "title_zh": "推出 ChatGPT Wallet",
     "original_language": "en",
     "description": "介绍 ChatGPT 中存放和管理支付方式的功能与边界。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-chatgpt-wallet/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-chatgpt-wallet/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9132274d1e438bd7",
@@ -5324,7 +5405,8 @@
     "description": "说明如何让企业 Agent 使用内部服务，同时保持访问边界和权限控制。",
     "aliases": [
       "https://developers.googleblog.com/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/"
-    ]
+    ],
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "9191d43918fc91a1",
@@ -5358,7 +5440,8 @@
     "topic": "infrastructure",
     "title_zh": "SageMaker AI 实时端点支持感知 KV 缓存的路由",
     "original_language": "en",
-    "description": "解释如何将请求优先发给已有匹配缓存的推理实例。"
+    "description": "解释如何将请求优先发给已有匹配缓存的推理实例。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "922aa308a950ec90",
@@ -5410,7 +5493,8 @@
     "topic": "products",
     "title_zh": "Claude Platform 的关联计费",
     "original_language": "en",
-    "description": "说明如何为使用 Claude API 的工作流关联计费关系。"
+    "description": "说明如何为使用 Claude API 的工作流关联计费关系。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9434ac3945d97bda",
@@ -5570,7 +5654,8 @@
     "topic": "products",
     "title_zh": "以 Agent 为核心重做 LangSmith",
     "original_language": "en",
-    "description": "从 LangSmith 的变化看如何围绕 Agent 组织追踪和调试。"
+    "description": "从 LangSmith 的变化看如何围绕 Agent 组织追踪和调试。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "97b257fa17e97865",
@@ -5678,7 +5763,8 @@
     "topic": "infrastructure",
     "title_zh": "SageMaker HyperPod 增强训练可观测性",
     "original_language": "en",
-    "description": "了解怎样把 GPU 训练任务和集群遥测联系起来，定位卡顿与资源异常。"
+    "description": "了解怎样把 GPU 训练任务和集群遥测联系起来，定位卡顿与资源异常。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "9adace783a79978c",
@@ -5689,7 +5775,8 @@
     "topic": "evaluation",
     "title_zh": "沉默的共识",
     "original_language": "en",
-    "description": "从公共演讲看先进 AI 对网络防御、治理和制度能力提出的新要求。"
+    "description": "从公共演讲看先进 AI 对网络防御、治理和制度能力提出的新要求。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9ae8e8056fa907ed",
@@ -5700,7 +5787,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "围绕递推结构讨论 GDN2 的稳定性及改进思路。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9aff26cd5f3d002d",
@@ -5783,7 +5871,8 @@
     "title_zh": "NVIDIA Vera Rubin NVL72 的 MLPerf Agent 推理测试",
     "original_language": "en",
     "description": "看 MLPerf Endpoints 如何以 Agent 工作负载测量系统推理表现。",
-    "chinese_url": "https://developer.nvidia.cn/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/"
+    "chinese_url": "https://developer.nvidia.cn/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9c3c49db7f134b02",
@@ -5794,7 +5883,8 @@
     "topic": "infrastructure",
     "title_zh": "降低 Bedrock AgentCore JSON 工作负载的 Token 开销和延迟",
     "original_language": "en",
-    "description": "从结构化载荷入手讨论 Agent 调用的成本和响应时间。"
+    "description": "从结构化载荷入手讨论 Agent 调用的成本和响应时间。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "9c4184d44164e0d7",
@@ -6013,7 +6103,8 @@
     "topic": "evaluation",
     "title_zh": "从训练到部署：OpenAI 如何管理前沿 AI 风险",
     "original_language": "en",
-    "description": "介绍训练、评估、发布和上线后监测如何共同构成风险管理流程。"
+    "description": "介绍训练、评估、发布和上线后监测如何共同构成风险管理流程。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "a00847af92fd67bd",
@@ -6065,7 +6156,8 @@
     "title_zh": "推出 ChatGPT 中的 Businesses",
     "original_language": "en",
     "description": "介绍企业在 ChatGPT 内与消费者连接的方式。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-businesses-chatgpt/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/introducing-businesses-chatgpt/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "a2cf0d0271acb097",
@@ -6096,7 +6188,8 @@
     "topic": "evaluation",
     "title_zh": "用 LangSmith 的数据控制保护追踪中的敏感信息",
     "original_language": "en",
-    "description": "区分 Agent 可观测性所需数据与应当脱敏、限制保存的数据。"
+    "description": "区分 Agent 可观测性所需数据与应当脱敏、限制保存的数据。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "a3afc1e8c7c23916",
@@ -6151,7 +6244,8 @@
     "topic": "products",
     "title_zh": "GitHub Copilot 应用与 Azure DevOps 集成进入公测",
     "original_language": "en",
-    "description": "了解团队如何在 Copilot 的工作流中使用 Azure DevOps 的现有项目。"
+    "description": "了解团队如何在 Copilot 的工作流中使用 Azure DevOps 的现有项目。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "a52e9d71e445a462",
@@ -6256,7 +6350,8 @@
     "title_zh": "在 Codex 中用 Ultrafast 保持开发节奏",
     "original_language": "en",
     "description": "通过界面迭代的真实工作流，讨论什么时候更快的模型响应有价值。",
-    "author": "Dominik Kundel"
+    "author": "Dominik Kundel",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "a88ccd9cde45b630",
@@ -6414,7 +6509,8 @@
     "topic": "engineering",
     "title_zh": "构建主动式 Agent 的经验",
     "original_language": "en",
-    "description": "总结何时触发 Agent、怎样给它上下文、如何把反馈接入持续运行的工作流。"
+    "description": "总结何时触发 Agent、怎样给它上下文、如何把反馈接入持续运行的工作流。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "adb5d062eb221e6e",
@@ -6471,7 +6567,8 @@
     "topic": "engineering",
     "title_zh": "用提示词为 GPT-Live 设计语言和地区口音",
     "original_language": "en",
-    "description": "说明怎样选择、描述和测试多语言语音 Agent 的口音与发音，覆盖地区差异和语言切换。"
+    "description": "说明怎样选择、描述和测试多语言语音 Agent 的口音与发音，覆盖地区差异和语言切换。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "aef632472a5e3af7",
@@ -6482,7 +6579,8 @@
     "topic": "research",
     "title_zh": "在 Streamhouse 中使用时间序列模型",
     "original_language": "en",
-    "description": "介绍时间序列基础模型如何与流式数据和实际预测场景结合。"
+    "description": "介绍时间序列基础模型如何与流式数据和实际预测场景结合。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "af173630d9ccc1b0",
@@ -6514,7 +6612,8 @@
     "topic": "engineering",
     "title_zh": "用 OpenWiki 和图结构为 Agent 搭建可追溯的记忆",
     "original_language": "en",
-    "description": "讨论如何把原始证据、知识关联和检索结合起来，便于核查 Agent 的记忆。"
+    "description": "讨论如何把原始证据、知识关联和检索结合起来，便于核查 Agent 的记忆。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "b05d2a6ff4893e4d",
@@ -6600,7 +6699,8 @@
     "topic": "engineering",
     "title_zh": "在企业环境中把 Foundry 托管 Agent 从试点推向生产",
     "original_language": "en",
-    "description": "介绍 Foundry 托管 Agent 的运行环境、部署方式和企业控制。"
+    "description": "介绍 Foundry 托管 Agent 的运行环境、部署方式和企业控制。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "b1aa14adf7d8adb2",
@@ -6632,7 +6732,8 @@
     "topic": "evaluation",
     "title_zh": "MotionGraphicsBench：用程序校验评估动态图形生成",
     "original_language": "en",
-    "description": "用前端设计任务说明如何把视觉产物的要求写成可以自动运行的检查。"
+    "description": "用前端设计任务说明如何把视觉产物的要求写成可以自动运行的检查。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "b223b57277700a87",
@@ -6665,7 +6766,8 @@
     "topic": "evaluation",
     "title_zh": "评估评估者：用 LLM 裁判衡量个性化写作风格",
     "original_language": "en",
-    "description": "观察模型裁判在识别和衡量个人写作风格时的可靠性。"
+    "description": "观察模型裁判在识别和衡量个人写作风格时的可靠性。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "b28ecfb79591f96a",
@@ -6676,7 +6778,8 @@
     "topic": "evaluation",
     "title_zh": "用 PDD Kit 形式化验证 Agent 编写的全栈 Web 应用",
     "original_language": "en",
-    "description": "展示如何从开发意图构建可验证的规格，并对 Agent 生成的程序进行验证。"
+    "description": "展示如何从开发意图构建可验证的规格，并对 Agent 生成的程序进行验证。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "b33c817b59b1b559",
@@ -6687,7 +6790,8 @@
     "topic": "products",
     "title_zh": "Copilot 代码审查在 Azure Repos 正式可用",
     "original_language": "en",
-    "description": "了解团队如何在现有 PR 工作流中配置和使用模型审查。"
+    "description": "了解团队如何在现有 PR 工作流中配置和使用模型审查。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "b36169a44d2ecc6a",
@@ -6759,7 +6863,8 @@
     "topic": "products",
     "title_zh": "让 Gemini 按计划执行任务",
     "original_language": "en",
-    "description": "介绍 Gemini Tasks 的调度方式及免费版新开放的功能。"
+    "description": "介绍 Gemini Tasks 的调度方式及免费版新开放的功能。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "b452070c7a90e2aa",
@@ -6791,7 +6896,8 @@
     "topic": "research",
     "title_zh": "Sleep 框架：让大模型在持续学习中保留知识",
     "original_language": "en",
-    "description": "介绍应对持续学习中知识遗忘的一种研究方法。"
+    "description": "介绍应对持续学习中知识遗忘的一种研究方法。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "b4a8d1fd3ac56367",
@@ -6803,7 +6909,8 @@
     "title_zh": "走出终端：桌面端与 Web Shell 中的 Qwen Code",
     "original_language": "en",
     "description": "说明同一编码 Agent 如何通过不同界面工作，并比较适用场景。",
-    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/"
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "b6ae768c43e42f99",
@@ -6853,7 +6960,8 @@
     "title_zh": "MiniMax 发布 M3.1 Flash",
     "original_language": "en",
     "description": "观察面向 Agent 工作负载的模型如何取舍响应速度、任务表现和使用成本。",
-    "chinese_url": "https://www.minimax.cn/blog/minimax-m31f"
+    "chinese_url": "https://www.minimax.cn/blog/minimax-m31f",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "ba2481e5e2dcdf31",
@@ -6874,7 +6982,8 @@
     "topic": "engineering",
     "title_zh": "Tinker 一年：把领域经验转成定制模型",
     "original_language": "en",
-    "description": "回顾训练服务首年在定制模型上的实践，包括研究和开发团队怎样使用它。"
+    "description": "回顾训练服务首年在定制模型上的实践，包括研究和开发团队怎样使用它。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "baf1413b738d4bdf",
@@ -6925,7 +7034,8 @@
     "topic": "products",
     "title_zh": "推出面向制造业的 Claude",
     "original_language": "en",
-    "description": "展示制造团队可以在现有系统中如何用 AI 处理报价、质量和供应商流程。"
+    "description": "展示制造团队可以在现有系统中如何用 AI 处理报价、质量和供应商流程。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "bc3d372aee816807",
@@ -7010,7 +7120,8 @@
     "topic": "infrastructure",
     "title_zh": "用 Foundry Managed Compute 部署开放模型",
     "original_language": "en",
-    "description": "说明托管算力如何支持开放模型在生产环境上线和扩缩容。"
+    "description": "说明托管算力如何支持开放模型在生产环境上线和扩缩容。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "bdc7b775ab8d2106",
@@ -7021,7 +7132,8 @@
     "topic": "engineering",
     "title_zh": "Anthropic 将 Agent Skills 捐赠给 Agentic AI Foundation",
     "original_language": "en",
-    "description": "介绍 Agent Skills 标准的治理变化及跨工具互操作方向。"
+    "description": "介绍 Agent Skills 标准的治理变化及跨工具互操作方向。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "bdeda9dc49a9025e",
@@ -7064,7 +7176,8 @@
     "topic": "engineering",
     "title_zh": "用 Antigravity 的 /teamwork 功能推进科学与工程",
     "original_language": "en",
-    "description": "用项目案例说明如何分解任务，让多个 Agent 配合完成研究和工程工作。"
+    "description": "用项目案例说明如何分解任务，让多个 Agent 配合完成研究和工程工作。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "bf12ec006e6180d1",
@@ -7075,7 +7188,8 @@
     "topic": "products",
     "title_zh": "ChatGPT for Healthcare 如何支持更多医疗工作",
     "original_language": "en",
-    "description": "梳理医疗机构使用的工作流与权限等新功能。"
+    "description": "梳理医疗机构使用的工作流与权限等新功能。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "bf7945e53d0d2f53",
@@ -7097,7 +7211,8 @@
     "title_zh": "Navan 如何用 Cursor 加速大型迁移",
     "original_language": "en",
     "description": "以真实代码库为例，观察 AI 编程如何与持续交付并行。",
-    "chinese_url": "https://cursor.com/cn/blog/navan"
+    "chinese_url": "https://cursor.com/cn/blog/navan",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "bfc4355d370530a8",
@@ -7131,7 +7246,8 @@
     "topic": "research",
     "title_zh": "Gemini Decisions API：快速且经过校准的多模态判断",
     "original_language": "en",
-    "description": "关注如何把多模态模型的判断接入需要低延迟与置信度的应用。"
+    "description": "关注如何把多模态模型的判断接入需要低延迟与置信度的应用。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "c078dfd4bd19c2c9",
@@ -7156,7 +7272,8 @@
     "topic": "engineering",
     "title_zh": "在 AWS 用 A2A 搭建可组合的多 Agent 系统",
     "original_language": "en",
-    "description": "展示分别部署的 Agent 如何通过协议通信并将各自的能力组合起来。"
+    "description": "展示分别部署的 Agent 如何通过协议通信并将各自的能力组合起来。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "c20f7adcf71664e6",
@@ -7210,7 +7327,8 @@
     "topic": "engineering",
     "title_zh": "Airbnb 如何按任务成本运营编码 Agent",
     "original_language": "en",
-    "description": "说明 Airbnb 怎样把任务结果和成本结合起来看编码 Agent 的运营表现。"
+    "description": "说明 Airbnb 怎样把任务结果和成本结合起来看编码 Agent 的运营表现。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c2cfd72baafd64a9",
@@ -7310,7 +7428,8 @@
     "topic": "evaluation",
     "title_zh": "Anthropic 更新独立评估安排",
     "original_language": "en",
-    "description": "记录独立评估机构和模型开发者如何划分职责。"
+    "description": "记录独立评估机构和模型开发者如何划分职责。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c42330bc780a5261",
@@ -7321,7 +7440,8 @@
     "topic": "evaluation",
     "title_zh": "语言模型对齐的理论界限",
     "original_language": "en",
-    "description": "从理论上讨论语言模型对齐能达到的边界。"
+    "description": "从理论上讨论语言模型对齐能达到的边界。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c4386c9e2b4614c0",
@@ -7372,7 +7492,8 @@
     "topic": "engineering",
     "title_zh": "深入了解 Codex 沙箱",
     "original_language": "en",
-    "description": "介绍 Codex 如何在不同操作系统上隔离命令执行并落实文件系统与网络权限。"
+    "description": "介绍 Codex 如何在不同操作系统上隔离命令执行并落实文件系统与网络权限。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c68867c9d61d5c16",
@@ -7396,7 +7517,8 @@
     "title_zh": "让更多科研人员用上 AI",
     "original_language": "en",
     "description": "说明向科研人员开放高级模型与相关工具的试点及申请方式。",
-    "chinese_url": "https://openai.com/zh-Hans-CN/index/expanding-chatgpt-for-academic-researchers/"
+    "chinese_url": "https://openai.com/zh-Hans-CN/index/expanding-chatgpt-for-academic-researchers/",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c765441e9673d957",
@@ -7442,7 +7564,8 @@
     "description": "查看开发者如何从提示生成、运行并测试 Android 应用。",
     "aliases": [
       "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/"
-    ]
+    ],
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c84785b7885bca32",
@@ -7488,7 +7611,8 @@
     "topic": "evaluation",
     "title_zh": "为什么 Agent 治理要从可观测性开始",
     "original_language": "en",
-    "description": "讨论如何用可追溯的执行记录判断 Agent 权限和策略在运行中是否有效。"
+    "description": "讨论如何用可追溯的执行记录判断 Agent 权限和策略在运行中是否有效。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "c9098ac47ad21321",
@@ -7499,7 +7623,8 @@
     "topic": "products",
     "title_zh": "Cloudflare 开放新版 Clairic 与 Clairic-flash 权重",
     "original_language": "en",
-    "description": "介绍面向结构化提取的新版模型、适用任务与开放方式。"
+    "description": "介绍面向结构化提取的新版模型、适用任务与开放方式。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "c99702fc56c66e79",
@@ -7577,7 +7702,8 @@
     "topic": "products",
     "title_zh": "推出 Voxtral 3",
     "original_language": "en",
-    "description": "了解新一代语音模型以及多语言转写和实时交互场景。"
+    "description": "了解新一代语音模型以及多语言转写和实时交互场景。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "cbef9a7a25f712ac",
@@ -7718,7 +7844,8 @@
     "topic": "research",
     "title_zh": "开放 AI 气象模型背后的数据集",
     "original_language": "en",
-    "description": "说明开放哪些气象数据，以及研究人员如何复用它们评估和改进模型。"
+    "description": "说明开放哪些气象数据，以及研究人员如何复用它们评估和改进模型。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "d106b7c971cab4e4",
@@ -7764,7 +7891,8 @@
     "author": [
       "Okay Zed",
       "Cyrus Forbes"
-    ]
+    ],
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "d28ee743c76f5eaa",
@@ -7829,7 +7957,8 @@
     "title_zh": "Qwen Code 周报：Qwen4-Max、多会话 Worktree 与群聊推送",
     "original_language": "en",
     "description": "介绍不同工作树隔离并行会话，以及把任务结果发送到团队协作工具的新功能。",
-    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/"
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "d3ae286e89daf459",
@@ -7860,7 +7989,8 @@
     "topic": "engineering",
     "title_zh": "LangSmith Tool Gateway：集中治理 Agent 的工具调用",
     "original_language": "en",
-    "description": "介绍如何让团队共用工具，同时保留身份、访问控制和审计能力。"
+    "description": "介绍如何让团队共用工具，同时保留身份、访问控制和审计能力。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "d47347f1fb8e842f",
@@ -7871,7 +8001,8 @@
     "topic": "evaluation",
     "title_zh": "用 AI 加强北约及盟国的网络防御",
     "original_language": "en",
-    "description": "介绍防御研究、漏洞协调以及机构合作的安排。"
+    "description": "介绍防御研究、漏洞协调以及机构合作的安排。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "d481cd87ba49c2ba",
@@ -7895,7 +8026,8 @@
     "description": "了解跨云运行的 Agent 如何接入监测并报告偏离预期的行为。",
     "aliases": [
       "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/"
-    ]
+    ],
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "d5764ee3d06ac915",
@@ -7947,7 +8079,8 @@
     "topic": "research",
     "title_zh": "拆分与缩放：三维潜在表示",
     "original_language": "en",
-    "description": "介绍一种可按尺度组织 3D 潜在表示的研究方法。"
+    "description": "介绍一种可按尺度组织 3D 潜在表示的研究方法。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "d6c83eff09565929",
@@ -8094,7 +8227,8 @@
     "topic": "engineering",
     "title_zh": "用 AI Agent 在 Rust 中构建工具调用解析器",
     "original_language": "en",
-    "description": "讨论模型输出采用不同格式且分段到达时，怎样测试和维护解析行为。"
+    "description": "讨论模型输出采用不同格式且分段到达时，怎样测试和维护解析行为。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "dae8a87d79470879",
@@ -8259,7 +8393,8 @@
     "title_zh": "Atto：重新思考小型向量嵌入模型",
     "original_language": "en",
     "description": "比较紧凑嵌入模型在检索质量和资源占用之间的取舍。",
-    "author": "David Mezzetti"
+    "author": "David Mezzetti",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "e283b9c34207eff8",
@@ -8355,7 +8490,8 @@
       "Isis F Carvalho",
       "Breno de Almeida Beleza",
       "Felipe Lima"
-    ]
+    ],
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "e5707d4ca802e66e",
@@ -8366,7 +8502,8 @@
     "topic": "products",
     "title_zh": "Thinking Machines Lab 发布 Inkling 2 Small",
     "original_language": "en",
-    "description": "介绍开放权重的循环架构模型及其推理表现。"
+    "description": "介绍开放权重的循环架构模型及其推理表现。",
+    "added_on": "2026-11-21"
   },
   {
     "article_id": "e63c44ee253751eb",
@@ -8377,7 +8514,8 @@
     "topic": "research",
     "title_zh": "Claude 的 AI for Science 计划扩展到基金会与研究机构",
     "original_language": "en",
-    "description": "介绍以合作机构为入口，让科学研究团队使用模型的方式。"
+    "description": "介绍以合作机构为入口，让科学研究团队使用模型的方式。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "e68246067eeddf6e",
@@ -8451,7 +8589,8 @@
       "Srikandabala Kogul",
       "Steve SIu",
       "Manchanayake"
-    ]
+    ],
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "e88bc937214729b3",
@@ -8462,7 +8601,8 @@
     "topic": "research",
     "title_zh": "用 OpenAI 模型推进芯片设计",
     "original_language": "en",
-    "description": "以芯片设计任务为例，讨论 AI 辅助验证及硬件工程的能力与限制。"
+    "description": "以芯片设计任务为例，讨论 AI 辅助验证及硬件工程的能力与限制。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "e88ccf3c8afff595",
@@ -8583,7 +8723,8 @@
     "topic": "infrastructure",
     "title_zh": "用 32GB 内存运行 1800 亿参数 MoE 模型",
     "original_language": "en",
-    "description": "介绍 Transformers 如何按需流式加载专家，以减少推理内存占用。"
+    "description": "介绍 Transformers 如何按需流式加载专家，以减少推理内存占用。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "ec5849af482856f3",
@@ -8627,7 +8768,8 @@
     "topic": "infrastructure",
     "title_zh": "vLLM 分离编码器：用 EPD 扩展多模态服务",
     "original_language": "en",
-    "description": "介绍把视觉编码与语言模型推理拆分部署的架构与权衡。"
+    "description": "介绍把视觉编码与语言模型推理拆分部署的架构与权衡。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "ee5039d49e7833a4",
@@ -8691,7 +8833,8 @@
     "topic": "products",
     "title_zh": "推出面向 ChatGPT 和 Codex 的 CockroachDB 插件",
     "original_language": "en",
-    "description": "用数据库运维场景了解专用知识如何接入通用 Agent。"
+    "description": "用数据库运维场景了解专用知识如何接入通用 Agent。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "efcd29611b5022c6",
@@ -8702,7 +8845,8 @@
     "topic": "products",
     "title_zh": "JPMorganChase 扩大 Claude Code 的使用范围",
     "original_language": "en",
-    "description": "从企业部署案例了解编码工具如何进入更多团队的日常开发。"
+    "description": "从企业部署案例了解编码工具如何进入更多团队的日常开发。",
+    "added_on": "2026-11-22"
   },
   {
     "article_id": "efe2b5110c7bf124",
@@ -8887,7 +9031,8 @@
     "description": "介绍 Gemini 4 Neon 的模型能力、评估结果与可用入口。",
     "aliases": [
       "https://deepmind.google/blog/introducing-gemini-4-neon/"
-    ]
+    ],
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "f5b07b38319ac9ea",
@@ -8908,7 +9053,8 @@
     "topic": "engineering",
     "title_zh": "2026 年末的上下文工程挑战",
     "original_language": "en",
-    "description": "梳理上下文工程在长时间和多 Agent 工作流中遇到的问题。"
+    "description": "梳理上下文工程在长时间和多 Agent 工作流中遇到的问题。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "f6150bc1c8aaa427",
@@ -8930,7 +9076,8 @@
     "topic": "research",
     "title_zh": "人们对 AI 的预期差距",
     "original_language": "en",
-    "description": "比较普通公众与前沿 AI 从业者的调查回答，观察他们对能力与采用速度的不同判断。"
+    "description": "比较普通公众与前沿 AI 从业者的调查回答，观察他们对能力与采用速度的不同判断。",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "f6a301346a05e615",
@@ -8964,7 +9111,8 @@
     "topic": "research",
     "original_language": "zh",
     "description": "讨论参数的缩放对称性怎样影响实际的优化步长。",
-    "author": "苏剑林"
+    "author": "苏剑林",
+    "added_on": "2026-11-19"
   },
   {
     "article_id": "f8527223e4270952",
@@ -9204,7 +9352,8 @@
     "topic": "engineering",
     "title_zh": "Bedrock AgentCore 新增 Strands 默认配置、内置工具与生命周期钩子",
     "original_language": "en",
-    "description": "从平台设计理解哪些 Agent 运行机制可以复用，哪些需要按工作流扩展。"
+    "description": "从平台设计理解哪些 Agent 运行机制可以复用，哪些需要按工作流扩展。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "fe28edf5c5c55f32",
@@ -9215,7 +9364,8 @@
     "topic": "infrastructure",
     "title_zh": "用 SageMaker AI 跨区域路由缓解推理容量短缺",
     "original_language": "en",
-    "description": "讨论托管推理在区域算力不足时如何分配请求以保持服务。"
+    "description": "讨论托管推理在区域算力不足时如何分配请求以保持服务。",
+    "added_on": "2026-11-20"
   },
   {
     "article_id": "fe3f51bba975fd89",

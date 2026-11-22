@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 799 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 809 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -207,6 +207,7 @@
 
 - [在 Google TPU 上用 Tunix 与 Gemma 4 做多轮 Agent 强化学习](<https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>) · 2026-11-19 · 仅原文
 - [Gemini Decisions API：快速且经过校准的多模态判断](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/>) · 2026-11-11 · 仅原文
+- [用 Language Explorer 探索世界语言](<https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/>) · 2026-11-09 · 仅原文
 - [Sleep 框架：让大模型在持续学习中保留知识](<https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/>) · 2026-10-27 · 仅原文
 
 #### Google DeepMind
@@ -229,6 +230,10 @@
 #### Microsoft Research
 
 - [TokenEconomizer：用历史经验降低编码 Agent 的开销](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>) · 2026-11-16 · 仅原文
+
+#### NeuML
+
+- [Atto：重新思考小型向量嵌入模型](<https://huggingface.co/blog/NeuML/introducing-atto>) · 2026-11-19 · 仅原文
 
 #### OpenAI
 
@@ -368,6 +373,7 @@
 
 #### LangChain
 
+- [如何为 Agent 建立知识工厂](<https://www.langchain.com/blog/knowledge-factory>) · 2026-11-21 · 仅原文
 - [LangSmith Tool Gateway：集中治理 Agent 的工具调用](<https://www.langchain.com/blog/langsmith-tool-gateway>) · 2026-11-19 · 仅原文
 - [构建主动式 Agent 的经验](<https://www.langchain.com/blog/what-weve-learned-building-proactive-agents>) · 2026-11-17 · 仅原文
 - [从任务到目标](<https://www.langchain.com/blog/from-tasks-to-goals>) · 2026-11-16 · 仅原文
@@ -384,6 +390,7 @@
 
 #### Microsoft
 
+- [Foundry 托管 Agent 接入私有网络时的五项检查](<https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/>) · 2026-11-21 · 仅原文
 - [在 Azure SQL Database 中为 RAG 拆分文档](<https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/>) · 2026-11-20 · 仅原文
 - [在 Microsoft Foundry 为团队构建可信的自主 Agent](<https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/>) · 2026-11-19 · 仅原文
 - [在企业环境中把 Foundry 托管 Agent 从试点推向生产](<https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/>) · 2026-11-18 · 仅原文
@@ -394,6 +401,7 @@
 
 - [用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>) · 2026-11-19 · 仅原文
 - [用 GPU 原生数据采集为科研仪器提供实时 AI](<https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/>) · 2026-11-19 · 仅原文
+- [开发者怎样用前沿 AI Agent 把想法变成仿真](<https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/>) · 2026-11-19 · 仅原文
 
 #### OpenAI
 
@@ -444,6 +452,10 @@
 - [降低 Bedrock AgentCore JSON 工作负载的 Token 开销和延迟](<https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/>) · 2026-11-17 · 仅原文
 - [SageMaker AI 实时端点支持感知 KV 缓存的路由](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/>) · 2026-11-17 · 仅原文
 
+#### Base Compute
+
+- [用 Superfluid 在本地设备间分配 AI 推理](<https://huggingface.co/blog/basecompute/superfluid-fleet>) · 2026-11-20 · 仅原文
+
 #### Cloudflare
 
 - [Cloudflare 如何把推理账单降低 68%](<https://blog.cloudflare.com/obsessive-inference-optimization/>) · 2026-10-19 · 仅原文
@@ -451,6 +463,10 @@
 #### DeepSeek
 
 - [DualPath：打破智能体 LLM 推理的存储带宽瓶颈](<https://arxiv.org/abs/2602.21548>) · 2026-02-25 · 已有中文全文（本库未公开）
+
+#### Dharma AI
+
+- [为什么微调耗时比 FLOPs 估算更长](<https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time>) · 2026-11-18 · 仅原文
 
 #### Google
 
@@ -620,6 +636,7 @@
 - [Curative 如何借助 Claude 上的智能体构建全国医疗服务提供者网络](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_Curative%20%E5%A6%82%E4%BD%95%E5%80%9F%E5%8A%A9%20Claude%20%E4%B8%8A%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E6%9E%84%E5%BB%BA%E5%85%A8%E5%9B%BD%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E7%BD%91%E7%BB%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude>)
 - [您的应用现在可以在 Claude 中打开，Claude 也能在其中工作](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_%E6%82%A8%E7%9A%84%E5%BA%94%E7%94%A8%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%20Claude%20%E4%B8%AD%E6%89%93%E5%BC%80%EF%BC%8CClaude%20%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%85%B6%E4%B8%AD%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/interactive-connectors-full-tool>)
 - [推出 Claude Whiteboards、Claude Sheets 和 Claude Data](<https://claude.com/resources/articles/sheets-whiteboards-data>) · 2026-11-10 · 仅原文
+- [JPMorganChase 扩大 Claude Code 的使用范围](<https://claude.com/resources/articles/jpmorganchase-expands-claude-code>) · 2026-11-09 · 仅原文
 - [推出 Anthropic 网络使命](<https://www.anthropic.com/news/anthropic-cyber-mission>) · 2026-10-08 · 已有中文全文（本库未公开）
 - [Claude Haiku 4.5](<https://www.anthropic.com/claude/haiku>) · 2026-10-07 · 已有中文全文（本库未公开）
 - [Claude Mythos 5](<https://www.anthropic.com/claude/mythos>) · 2026-10-06 · 已有中文全文（本库未公开）
@@ -676,6 +693,7 @@
 #### AWS
 
 - [Amazon Textract Insights：可核查的文档理解](<https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/>) · 2026-11-20 · 仅原文
+- [AWS Quick 更新工作流和 Agent 协作](<https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/>) · 2026-11-20 · 仅原文
 
 #### Cloudflare
 
@@ -708,6 +726,7 @@
 - [推出 Gemini 4 Neon](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/>) · 2026-11-18 · 仅原文
 - [Genie 4 开放使用](<https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/>) · 2026-11-18 · 仅原文
 - [推出 Gemini 4 Hydrogen](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/>) · 2026-11-12 · 仅原文
+- [Gemini 4 Carbon 开放使用](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/>) · 2026-11-10 · 仅原文
 
 #### Kimi
 

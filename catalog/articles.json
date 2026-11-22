@@ -1426,6 +1426,21 @@
     "chinese_archived": true
   },
   {
+    "article_id": "2dcdb6cee137def0",
+    "company": "Google",
+    "title": "Exploring the world's languages with Language Explorer",
+    "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "date": "2026-11-09",
+    "topic": "research",
+    "title_zh": "用 Language Explorer 探索世界语言",
+    "original_language": "en",
+    "description": "借助交互式地图和语言资料了解全球语言的分布与差异。",
+    "author": [
+      "Daan van Esch",
+      "Uche Okonkwo"
+    ]
+  },
+  {
     "article_id": "2e50ab69ebea3b2c",
     "company": "Anthropic",
     "title": "Equipping agents for the real world with Agent Skills",
@@ -2375,6 +2390,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "4725b1eeb6c9340e",
+    "company": "Microsoft",
+    "title": "Hosted agents in your own virtual network: five checks when the Agents page times out",
+    "url": "https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/",
+    "date": "2026-11-21",
+    "topic": "engineering",
+    "title_zh": "Foundry 托管 Agent 接入私有网络时的五项检查",
+    "original_language": "en",
+    "description": "用管理页面超时的案例说明如何分辨网络、访问权限及运行环境的配置问题。",
+    "author": "Muzz Imam"
+  },
+  {
     "article_id": "47fb1c35deeeb68f",
     "company": "Anthropic",
     "title": "Project Pilot: Can AI control a drone?",
@@ -2926,6 +2953,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "579c684a9536437f",
+    "company": "LangChain",
+    "title": "How to build a knowledge factory",
+    "url": "https://www.langchain.com/blog/knowledge-factory",
+    "date": "2026-11-21",
+    "topic": "engineering",
+    "title_zh": "如何为 Agent 建立知识工厂",
+    "original_language": "en",
+    "description": "以团队内部实践为例，说明如何把零散文档和工作经验整理成可持续更新的 Agent 上下文。"
+  },
+  {
     "article_id": "57f01cae307e1cb1",
     "company": "Anthropic",
     "title": "Introducing Claude Opus 4.5",
@@ -3072,6 +3110,18 @@
     "description": "查看开放语音模型的语言覆盖、评估和使用方式。"
   },
   {
+    "article_id": "5beef147a7815df4",
+    "company": "NVIDIA",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "date": "2026-11-19",
+    "topic": "engineering",
+    "title_zh": "开发者怎样用前沿 AI Agent 把想法变成仿真",
+    "original_language": "en",
+    "description": "从多个 Omniverse 项目了解开发团队如何把 Agent 接入仿真工具、验证场景并迭代设计。",
+    "author": "NVIDIA Writers"
+  },
+  {
     "article_id": "5c11131c78a9342e",
     "company": "Anthropic",
     "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
@@ -3113,6 +3163,21 @@
     "topic": "research",
     "title_zh": "探索模型福祉",
     "chinese_archived": true
+  },
+  {
+    "article_id": "5d3f1a46c035f064",
+    "company": "Google DeepMind",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+    "date": "2026-11-10",
+    "topic": "products",
+    "title_zh": "Gemini 4 Carbon 开放使用",
+    "original_language": "en",
+    "description": "查看模型的可用入口与本次发布涉及的产品和开发工具。",
+    "aliases": [
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    ],
+    "author": "Koray Kavukcuoglu"
   },
   {
     "article_id": "5d9ec4463df8a668",
@@ -3702,6 +3767,18 @@
     "topic": "research",
     "title_zh": "理解语言模型中的谄媚行为",
     "chinese_archived": true
+  },
+  {
+    "article_id": "6b1a37a3501d8c9a",
+    "company": "AWS",
+    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+    "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+    "date": "2026-11-20",
+    "topic": "products",
+    "title_zh": "AWS Quick 更新工作流和 Agent 协作",
+    "original_language": "en",
+    "description": "了解工作流如何连接多个 Agent 和业务数据，以及网页端的交互变化。",
+    "author": "Hillary Lovric"
   },
   {
     "article_id": "6bb24256b5371451",
@@ -8173,6 +8250,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "e1c1893e49cfce57",
+    "company": "NeuML",
+    "title": "Atto: Rethinking Compact Embedding Models",
+    "url": "https://huggingface.co/blog/NeuML/introducing-atto",
+    "date": "2026-11-19",
+    "topic": "research",
+    "title_zh": "Atto：重新思考小型向量嵌入模型",
+    "original_language": "en",
+    "description": "比较紧凑嵌入模型在检索质量和资源占用之间的取舍。",
+    "author": "David Mezzetti"
+  },
+  {
     "article_id": "e283b9c34207eff8",
     "company": "Anthropic",
     "title": "Introducing the Model Context Protocol",
@@ -8251,6 +8340,24 @@
     "qa": "passed"
   },
   {
+    "article_id": "e55c8f2df06c07ff",
+    "company": "Dharma AI",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "date": "2026-11-18",
+    "topic": "infrastructure",
+    "title_zh": "为什么微调耗时比 FLOPs 估算更长",
+    "original_language": "en",
+    "description": "区分理论计算量与实际训练时间，说明哪些系统开销会拖慢微调任务。",
+    "author": [
+      "Bruno Duarte",
+      "Gabriel Pimenta de Freitas Cardoso",
+      "Isis F Carvalho",
+      "Breno de Almeida Beleza",
+      "Felipe Lima"
+    ]
+  },
+  {
     "article_id": "e5707d4ca802e66e",
     "company": "Thinking Machines Lab",
     "title": "Introducing Inkling 2 Small",
@@ -8326,6 +8433,25 @@
     "title_zh": "面向 Sim2Real 迁移的域随机化",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "e7fd162399637e4b",
+    "company": "Base Compute",
+    "title": "Distributed Inference for Local AI via Superfluid",
+    "url": "https://huggingface.co/blog/basecompute/superfluid-fleet",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "用 Superfluid 在本地设备间分配 AI 推理",
+    "original_language": "en",
+    "description": "以不同芯片和设备组成的集群为例，讨论本地推理服务的请求分配和性能评估。",
+    "author": [
+      "Fabian Waschkowski",
+      "Lukas Wesemann",
+      "Prabod",
+      "Srikandabala Kogul",
+      "Steve SIu",
+      "Manchanayake"
+    ]
   },
   {
     "article_id": "e88bc937214729b3",
@@ -8566,6 +8692,17 @@
     "title_zh": "推出面向 ChatGPT 和 Codex 的 CockroachDB 插件",
     "original_language": "en",
     "description": "用数据库运维场景了解专用知识如何接入通用 Agent。"
+  },
+  {
+    "article_id": "efcd29611b5022c6",
+    "company": "Anthropic",
+    "title": "JPMorganChase expands Claude Code to more employees across the firm",
+    "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+    "date": "2026-11-09",
+    "topic": "products",
+    "title_zh": "JPMorganChase 扩大 Claude Code 的使用范围",
+    "original_language": "en",
+    "description": "从企业部署案例了解编码工具如何进入更多团队的日常开发。"
   },
   {
     "article_id": "efe2b5110c7bf124",

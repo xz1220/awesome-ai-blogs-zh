@@ -203,6 +203,18 @@
     "added_on": "2026-11-21"
   },
   {
+    "article_id": "06c62bbf6e86ef33",
+    "company": "AWS",
+    "title": "Meta ads is now available in AWS Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+    "date": "2026-11-21",
+    "topic": "products",
+    "title_zh": "AWS Quick 接入 Meta 广告",
+    "original_language": "en",
+    "description": "了解自然语言助手如何接入广告平台数据和操作，并把跨来源数据用于分析和工作流。",
+    "added_on": "2026-11-23"
+  },
+  {
     "article_id": "071e2abe4d468a8c",
     "company": "Anthropic",
     "title": "Disempowerment patterns in real-world AI usage",
@@ -958,6 +970,19 @@
     "topic": "archive",
     "title_zh": "关于美国行政命令、G7 行为准则与布莱切利园峰会的思考",
     "chinese_archived": true
+  },
+  {
+    "article_id": "1df8c4ddfaf2f373",
+    "company": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "date": "2026-11-22",
+    "topic": "evaluation",
+    "title_zh": "困惑度与智能",
+    "original_language": "en",
+    "description": "讨论困惑度能否成为跨团队衡量模型进步的指标，以及它为何需要与任务评测和安全观察配合使用。",
+    "author": "Jakub Pachocki",
+    "added_on": "2026-11-23"
   },
   {
     "article_id": "1dfaa948d064af05",
@@ -3238,6 +3263,18 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/inside-our-in-house-data-agent/"
   },
   {
+    "article_id": "5dbadd761c8e8714",
+    "company": "Microsoft",
+    "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+    "url": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+    "date": "2026-10-28",
+    "topic": "engineering",
+    "title_zh": "Microsoft Copilot Harness 进入 Foundry Agent Service",
+    "original_language": "en",
+    "description": "通过微软的实现了解托管 Agent 怎样复用技能、组织执行和接入业务工具。",
+    "added_on": "2026-11-23"
+  },
+  {
     "article_id": "5e326cdcf9545c9e",
     "company": "DeepSeek",
     "title": "DeepSeek 弹性计算：面向大规模 Agent 训练的沙盒基础设施",
@@ -4615,6 +4652,19 @@
     "topic": "research",
     "title_zh": "评估 AI 系统的挑战",
     "chinese_archived": true
+  },
+  {
+    "article_id": "7c8506fea817bcb6",
+    "company": "LangChain",
+    "title": "How Workday Built an Enterprise-Scale AI Agent Platform with LangGraph and LangSmith",
+    "url": "https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith",
+    "date": "2026-11-10",
+    "topic": "engineering",
+    "title_zh": "Workday 如何用 LangGraph 和 LangSmith 搭建企业 Agent 平台",
+    "original_language": "en",
+    "description": "用 Workday 的案例了解企业如何在同一平台支持快速试验、规模化部署和持续评测。",
+    "author": "Sofia Sulikowski",
+    "added_on": "2026-11-23"
   },
   {
     "article_id": "7e61e3d8245b71dd",
@@ -8264,6 +8314,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "dc290637f428e033",
+    "company": "独立作者",
+    "title": "AI as a lifestyle choice",
+    "url": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+    "date": "2026-11-11",
+    "topic": "perspectives",
+    "title_zh": "把 AI 纳入日常开发",
+    "original_language": "en",
+    "description": "以开发 Python 应用服务器 Muru 的经历说明，AI 能协助写代码，但判断何时达到可用标准仍依赖工程经验。",
+    "author": "Graham Dumpleton",
+    "added_on": "2026-11-23"
+  },
+  {
     "article_id": "dcc3893e53f42774",
     "company": "AWS",
     "title": "From prototype to production: Engineering agents with Agent DLC",
@@ -8427,6 +8490,27 @@
     "topic": "research",
     "title_zh": "介绍 Anthropic Interviewer：1,250 位专业人士向我们讲述了他们与 AI 共事的经历",
     "chinese_archived": true
+  },
+  {
+    "article_id": "e3ff286dbca97504",
+    "company": "Microsoft Research",
+    "title": "Simulating student learning for better AI tutoring",
+    "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "date": "2026-10-12",
+    "topic": "research",
+    "title_zh": "用模拟学生学习改进 AI 辅导",
+    "original_language": "en",
+    "description": "了解怎样用模拟学习过程评估辅导系统，并区分当下答对问题与实际学会概念。",
+    "author": [
+      "Ke Yang",
+      "Chenglong Wang",
+      "Michel Galley",
+      "Chandan Singh",
+      "Jeevana Priya Inala",
+      "ChengXiang Zhai",
+      "Jianfeng Gao"
+    ],
+    "added_on": "2026-11-23"
   },
   {
     "article_id": "e49faaf95243e182",
@@ -9018,6 +9102,18 @@
     "topic": "products",
     "title_zh": "介绍 Claude",
     "chinese_archived": true
+  },
+  {
+    "article_id": "f5220dab8f55b741",
+    "company": "Anthropic",
+    "title": "Introducing Claude Duet",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "date": "2026-10-21",
+    "topic": "products",
+    "title_zh": "推出 Claude Duet",
+    "original_language": "en",
+    "description": "介绍个人 Agent 在不同服务间执行任务时的产品交互、权限和用户控制。",
+    "added_on": "2026-11-23"
   },
   {
     "article_id": "f539fcdaf975fdb9",

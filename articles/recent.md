@@ -1,12 +1,22 @@
 # 近 7 天新增
 
-<!-- recent-as-of: 2026-11-22 -->
+<!-- recent-as-of: 2026-11-23 -->
 
 [查看完整目录](../README.md#按主题阅读)
 
-**2026-11-16 至 2026-11-22（北京时间）** · **新增 150 篇**
+**2026-11-17 至 2026-11-23（北京时间）** · **新增 157 篇**
 
 按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。
+
+## 2026-11-23
+
+- [困惑度与智能](<https://openai.com/index/perplexity-and-intelligence/>) · OpenAI · 评测与安全 · 首发 2026-11-22 · 仅原文
+- [AWS Quick 接入 Meta 广告](<https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/>) · AWS · 产品与应用 · 首发 2026-11-21 · 仅原文
+- [把 AI 纳入日常开发](<https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/>) · Graham Dumpleton · 独立观点 · 首发 2026-11-11 · 仅原文
+- [Workday 如何用 LangGraph 和 LangSmith 搭建企业 Agent 平台](<https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith>) · LangChain · 工程实践 · 首发 2026-11-10 · 仅原文
+- [Microsoft Copilot Harness 进入 Foundry Agent Service](<https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/>) · Microsoft · 工程实践 · 首发 2026-10-28 · 仅原文
+- [推出 Claude Duet](<https://claude.com/resources/articles/claude-duet>) · Anthropic · 产品与应用 · 首发 2026-10-21 · 仅原文
+- [用模拟学生学习改进 AI 辅导](<https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/>) · Microsoft Research · 模型与研究 · 首发 2026-10-12 · 仅原文
 
 ## 2026-11-22
 

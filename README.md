@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 809 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 816 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -232,6 +232,7 @@
 #### Microsoft Research
 
 - [TokenEconomizer：用历史经验降低编码 Agent 的开销](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/>) · 2026-11-16 · 仅原文
+- [用模拟学生学习改进 AI 辅导](<https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/>) · 2026-10-12 · 仅原文
 
 #### NeuML
 
@@ -380,6 +381,7 @@
 - [构建主动式 Agent 的经验](<https://www.langchain.com/blog/what-weve-learned-building-proactive-agents>) · 2026-11-17 · 仅原文
 - [从任务到目标](<https://www.langchain.com/blog/from-tasks-to-goals>) · 2026-11-16 · 仅原文
 - [目标工程：如何设计 Agent 的目标](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-14_%E7%9B%AE%E6%A0%87%E5%B7%A5%E7%A8%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%20Agent%20%E7%9A%84%E7%9B%AE%E6%A0%87.%E4%B8%AD%E6%96%87.md) · 2026-11-14 · 中文译文 · [原文](<https://www.langchain.com/blog/goal-engineering>)
+- [Workday 如何用 LangGraph 和 LangSmith 搭建企业 Agent 平台](<https://www.langchain.com/blog/how-workday-built-an-enterprise-scale-ai-agent-platform-with-langgraph-and-langsmith>) · 2026-11-10 · 仅原文
 - [什么是评测驱动开发：如何改进 AI Agent](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-09_%E4%BB%80%E4%B9%88%E6%98%AF%E8%AF%84%E6%B5%8B%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%EF%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E8%BF%9B%20AI%20Agent.%E4%B8%AD%E6%96%87.md) · 2026-11-09 · 中文译文 · [原文](<https://www.langchain.com/blog/what-is-eval-driven-development>)
 - [Agent 正在走向异步](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-05_Agent%20%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%90%91%E5%BC%82%E6%AD%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-05 · 中文译文 · [原文](<https://www.langchain.com/blog/agents-are-going-async>)
 - [我们如何优化 Deep Agents 的浏览器使用](content/LangChain/%E5%AE%98%E6%96%B9/2026-11-03_%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%20Deep%20Agents%20%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8.%E4%B8%AD%E6%96%87.md) · 2026-11-03 · 中文译文 · [原文](<https://www.langchain.com/blog/how-we-optimized-browser-use-for-deep-agents>)
@@ -398,6 +400,7 @@
 - [在企业环境中把 Foundry 托管 Agent 从试点推向生产](<https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/>) · 2026-11-18 · 仅原文
 - [在 Foundry 为多套 Agent 复用工具](<https://devblogs.microsoft.com/foundry/build-once-reuse-across-your-agent-fleet-tools-and-toolboxes-in-foundry/>) · 2026-11-18 · 仅原文
 - [Microsoft Agent Framework for Go 的预配置 Agent](content/Microsoft/%E5%AE%98%E6%96%B9/2026-11-11_Microsoft%20Agent%20Framework%20for%20Go%20%E7%9A%84%E9%A2%84%E9%85%8D%E7%BD%AE%20Agent.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://devblogs.microsoft.com/go/preconfigured-agents-with-microsoft-agent-framework-for-go/>)
+- [Microsoft Copilot Harness 进入 Foundry Agent Service](<https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/>) · 2026-10-28 · 仅原文
 
 #### NVIDIA
 
@@ -612,6 +615,7 @@
 
 #### OpenAI
 
+- [困惑度与智能](<https://openai.com/index/perplexity-and-intelligence/>) · 2026-11-22 · 仅原文
 - [MedChemBench：评估 AI 在药物化学中的能力](<https://openai.com/index/introducing-medchembench/>) · 2026-11-20 · 仅原文
 - [应对未经授权的模型蒸馏](<https://openai.com/index/combatting-adversarial-distillation/>) · 2026-11-20 · 仅原文
 - [从训练到部署：OpenAI 如何管理前沿 AI 风险](<https://openai.com/index/managing-frontier-ai-risk/>) · 2026-11-18 · 仅原文
@@ -639,6 +643,7 @@
 - [您的应用现在可以在 Claude 中打开，Claude 也能在其中工作](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-10_%E6%82%A8%E7%9A%84%E5%BA%94%E7%94%A8%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E5%9C%A8%20Claude%20%E4%B8%AD%E6%89%93%E5%BC%80%EF%BC%8CClaude%20%E4%B9%9F%E8%83%BD%E5%9C%A8%E5%85%B6%E4%B8%AD%E5%B7%A5%E4%BD%9C.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://claude.com/resources/articles/interactive-connectors-full-tool>)
 - [推出 Claude Whiteboards、Claude Sheets 和 Claude Data](<https://claude.com/resources/articles/sheets-whiteboards-data>) · 2026-11-10 · 仅原文
 - [JPMorganChase 扩大 Claude Code 的使用范围](<https://claude.com/resources/articles/jpmorganchase-expands-claude-code>) · 2026-11-09 · 仅原文
+- [推出 Claude Duet](<https://claude.com/resources/articles/claude-duet>) · 2026-10-21 · 仅原文
 - [推出 Anthropic 网络使命](<https://www.anthropic.com/news/anthropic-cyber-mission>) · 2026-10-08 · 已有中文全文（本库未公开）
 - [Claude Haiku 4.5](<https://www.anthropic.com/claude/haiku>) · 2026-10-07 · 已有中文全文（本库未公开）
 - [Claude Mythos 5](<https://www.anthropic.com/claude/mythos>) · 2026-10-06 · 已有中文全文（本库未公开）
@@ -694,6 +699,7 @@
 
 #### AWS
 
+- [AWS Quick 接入 Meta 广告](<https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/>) · 2026-11-21 · 仅原文
 - [Amazon Textract Insights：可核查的文档理解](<https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/>) · 2026-11-20 · 仅原文
 - [AWS Quick 更新工作流和 Agent 协作](<https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/>) · 2026-11-20 · 仅原文
 
@@ -830,6 +836,10 @@
 #### Eugene Yan
 
 - [公开评测如何发挥作用、怎样失效，又该怎么改](<https://eugeneyan.com/writing/public-evals>) · 2026-11-19 · 仅原文
+
+#### Graham Dumpleton
+
+- [把 AI 纳入日常开发](<https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/>) · 2026-11-11 · 仅原文
 
 #### Lance Martin
 

@@ -45,6 +45,22 @@
     "added_on": "2026-11-19"
   },
   {
+    "article_id": "00d52199bef25f9e",
+    "company": "Hugging Face",
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "怎样构建并维护 Agent 评测",
+    "description": "梳理 Agent 评测从定义任务、验证结果到持续维护的设计取舍。",
+    "author": [
+      "Avijit Ghosh",
+      "ben burtenshaw",
+      "Irene Solaiman"
+    ],
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "0131ab3df6b38017",
     "company": "OpenAI",
     "title": "Flow-based Deep Generative Models",
@@ -972,6 +988,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "1dca5df4b44d8aa7",
+    "company": "Anthropic",
+    "title": "The enterprise guide to securing coding agents",
+    "url": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "企业编码 Agent 安全指南",
+    "description": "从权限、运行环境和人工控制入手，说明企业如何限制编码 Agent 的使用风险。",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "1df8c4ddfaf2f373",
     "company": "OpenAI",
     "title": "Perplexity and Intelligence",
@@ -1796,6 +1823,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "36fb5b1c7a9ff4c8",
+    "company": "Anthropic",
+    "title": "Working with AI",
+    "url": "https://www.anthropic.com/research/working-with-ai",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "与 AI 一起工作",
+    "description": "通过访谈了解企业采用 AI 后岗位、招聘和工作流程发生了哪些变化，以及哪些结论仍缺乏长期证据。",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "37716689380cabf0",
     "company": "Anthropic",
     "title": "Investing in energy to secure America's AI future",
@@ -2092,6 +2130,22 @@
     "chinese_archived": true
   },
   {
+    "article_id": "3ffa5c39e01e3431",
+    "company": "Google DeepMind",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "用 Agent 和形式化验证寻找更快的量子算法",
+    "description": "了解怎样把 Agent 生成的候选算法与可独立检查的数学证明结合起来。",
+    "author": [
+      "Sergey Shirobokov",
+      "Ben Jaderberg",
+      "Ryan Babbush"
+    ],
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "4032765ea35b23ee",
     "company": "Anthropic",
     "title": "A small number of samples can poison LLMs of any size",
@@ -2150,6 +2204,25 @@
     "topic": "archive",
     "title_zh": "申请 Anthropic“AI for Science”罕见病研究资助",
     "chinese_archived": true
+  },
+  {
+    "article_id": "41586052132a21c1",
+    "company": "AWS",
+    "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+    "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+    "date": "2026-11-13",
+    "topic": "infrastructure",
+    "title_zh": "让 Bedrock AgentCore Runtime 更快启动会话的架构模式",
+    "description": "比较 Agent 会话初始化的常见延迟来源与部署方式。",
+    "author": [
+      "Evandro Franco",
+      "Massimiliano Angelino",
+      "Ivan Rivera",
+      "Phelipe Fabres",
+      "Abhishek Singh",
+      "Vignesh Somasundaram"
+    ],
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "415f8f1af13b2f4b",
@@ -4921,6 +4994,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "83b9621afef40ae2",
+    "company": "OpenAI",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "OpenAI 与 Cisco 推出 Shirudo",
+    "description": "介绍用于 Linux 的开源防护运行时，以及管理员如何在正式补丁部署前降低已知漏洞风险。",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "8478b13c6bec82ac",
     "company": "Anthropic",
     "title": "Frontier threats red teaming for AI safety",
@@ -5781,6 +5865,21 @@
     "chinese_archived": true
   },
   {
+    "article_id": "990f58ceeb055fd1",
+    "company": "Google",
+    "title": "Supercharging transformer residual connections",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "改进 Transformer 的残差连接",
+    "description": "从模型架构视角理解残差连接的改进方式，以及研究团队如何评估由此带来的变化。",
+    "author": [
+      "Kyriakos Axiotis",
+      "Thomas Fu"
+    ],
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "99d3d029848cb1e2",
     "company": "Anthropic",
     "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
@@ -5849,6 +5948,25 @@
     "topic": "archive",
     "title_zh": "扩大法律保障范围并改进我们的 API",
     "chinese_archived": true
+  },
+  {
+    "article_id": "9b29ddcd4e93a23b",
+    "company": "Google",
+    "title": "Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies",
+    "url": "https://developers.googleblog.com/en/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "这真是用户要求的吗？用语义治理策略保护 Agent",
+    "description": "说明如何评估工具操作是否符合用户意图，以加强 Agent 的权限控制。",
+    "author": [
+      "Ritika Nigam",
+      "Deepti Sehrawat",
+      "Pranav Bhagwat"
+    ],
+    "aliases": [
+      "https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/"
+    ],
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "9b88bfec4a46afeb",
@@ -6187,6 +6305,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a11fa8f9339bac40",
+    "company": "独立作者",
+    "title": "Muon背后的优化理论：1. 全量、随机与动量",
+    "url": "https://kexue.fm/archives/12014",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "Muon背后的优化理论：1. 全量、随机与动量",
+    "description": "从全量梯度、随机梯度与动量的关系入手，介绍理解 Muon 优化器所需的基础理论。",
+    "author": "苏剑林",
+    "original_language": "zh",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "a1fd5c150ff0e59c",
     "company": "Anthropic",
     "title": "Claude 3 Haiku: our fastest model yet",
@@ -6262,6 +6393,17 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a401628e25e3fc9d",
+    "company": "Anthropic",
+    "title": "KPMG's Todd Lohr on AI when your data is also your clients' data",
+    "url": "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
+    "date": "2026-11-23",
+    "topic": "products",
+    "title_zh": "KPMG 如何在使用 AI 时保护客户数据",
+    "description": "从企业访谈理解怎样在涉及客户数据的工作中逐步采用 AI，并同时落实治理。",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "a46dcc87c0033934",
     "company": "Kimi",
     "title": "QK-Clip：让 Muon 在 Scaleup 之路上更进一步",
@@ -6284,6 +6426,18 @@
     "description": "讨论代码生成加速后，验证、审查和人类判断的分工。",
     "author": "Addy Osmani",
     "chinese_archived": true
+  },
+  {
+    "article_id": "a4d2adba75492188",
+    "company": "Microsoft",
+    "title": "Agentic Autofix for GitHub Advanced Security for Azure DevOps is in public preview",
+    "url": "https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview/",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "Azure DevOps 的 Agentic Autofix 开启公测",
+    "description": "介绍如何在既有安全告警和审查流程中采用自动修复建议。",
+    "author": "Laura Jiang",
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "a52104fdae873a31",
@@ -6963,6 +7117,28 @@
     "added_on": "2026-11-19"
   },
   {
+    "article_id": "b5129d6fc89af52d",
+    "company": "Anthropic",
+    "title": "Introducing Claude Ship",
+    "url": "https://claude.com/resources/articles/introducing-claude-ship",
+    "date": "2026-11-23",
+    "topic": "products",
+    "title_zh": "推出 Claude Ship",
+    "description": "了解 Claude 如何参与 PR 审查和修订，以及团队策略如何决定它能够批准哪些变更。",
+    "added_on": "2026-11-24"
+  },
+  {
+    "article_id": "b53558d620676ec2",
+    "company": "Anthropic",
+    "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+    "url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "Enterprise Frontier Safeguards 的零数据保留进入测试",
+    "description": "了解企业 API 工作负载适用的安全控制和数据保留选项。",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "b6ae768c43e42f99",
     "company": "Anthropic",
     "title": "U.S. elections readiness",
@@ -7502,6 +7678,18 @@
     "topic": "infrastructure",
     "title_zh": "用 AI 保卫关键基础设施的实验",
     "chinese_archived": true
+  },
+  {
+    "article_id": "c44ed9b9420c27d7",
+    "company": "Microsoft",
+    "title": "Run local models in your .NET apps with Llama on Windows",
+    "url": "https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/",
+    "date": "2026-11-23",
+    "topic": "engineering",
+    "title_zh": "在 Windows 的 .NET 应用里运行本地 Llama 模型",
+    "description": "了解本地模型怎样进入桌面应用，以及集成时对运行环境和模型选择的要求。",
+    "author": "Luis Quintanilla",
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "c4a1f46e5a98744a",
@@ -8153,6 +8341,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "d6fdac3c20f42b84",
+    "company": "Google",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "date": "2026-11-23",
+    "topic": "products",
+    "title_zh": "Google 搜索加入更多个性化能力",
+    "description": "了解搜索如何使用用户主动连接的服务来生成个性化结果，以及相关控制选项。",
+    "author": "Robby Stein",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "d71fa83e6b358648",
     "company": "独立作者",
     "title": "Shipping at Inference-Speed",
@@ -8699,6 +8899,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "e8c73626679201e2",
+    "company": "OpenAI",
+    "title": "Building security review into your SDLC with Codex Security",
+    "url": "https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security",
+    "date": "2026-11-23",
+    "topic": "evaluation",
+    "title_zh": "用 Codex Security 把安全审查纳入开发流程",
+    "description": "介绍如何在软件开发各阶段组织防御性审查，并把识别到的问题纳入团队现有的处理流程。",
+    "author": "Vanessa Sauter",
+    "added_on": "2026-11-24"
+  },
+  {
     "article_id": "e91e6f80eaaceb58",
     "company": "Anthropic",
     "title": "Claude 3.5 Sonnet",
@@ -8775,6 +8987,18 @@
     "topic": "archive",
     "title_zh": "我们的经济未来会是什么样子？",
     "chinese_archived": true
+  },
+  {
+    "article_id": "eb2701ff66febea2",
+    "company": "Allen Institute for AI",
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "url": "https://huggingface.co/blog/allenai/robotrack",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "RoboTrack：面向真实机器人操作的点追踪",
+    "description": "介绍怎样用视觉点追踪来表征机器人操作时的物体运动，并评估表现。",
+    "author": "Kyle Wiggers",
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "eb47212b9da744e3",
@@ -9301,6 +9525,18 @@
     "topic": "research",
     "title_zh": "GLM-5.3 与先进网络能力的扩散",
     "chinese_archived": true
+  },
+  {
+    "article_id": "fa08bb9c21c2e185",
+    "company": "vLLM",
+    "title": "Skip the DRAM Tier: MoRI UMBP Runs the Agentic KV Cache on NVMe",
+    "url": "https://vllm.ai/blog/2026-11-23-skip-the-dram-tier",
+    "date": "2026-11-23",
+    "topic": "infrastructure",
+    "title_zh": "MoRI UMBP：把 Agent 推理的 KV 缓存放在 NVMe 上",
+    "description": "从实际推理工作负载理解用 NVMe 替代内存缓存层时的性能与容量取舍。",
+    "author": "AMD and Embedded LLM",
+    "added_on": "2026-11-24"
   },
   {
     "article_id": "fa8a476757126bcd",

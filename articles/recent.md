@@ -1,12 +1,33 @@
 # 近 7 天新增
 
-<!-- recent-as-of: 2026-11-23 -->
+<!-- recent-as-of: 2026-11-24 -->
 
 [查看完整目录](../README.md#按主题阅读)
 
-**2026-11-17 至 2026-11-23（北京时间）** · **新增 157 篇**
+**2026-11-18 至 2026-11-24（北京时间）** · **新增 175 篇**
 
 按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。
+
+## 2026-11-24
+
+- [MoRI UMBP：把 Agent 推理的 KV 缓存放在 NVMe 上](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>) · vLLM · 基础设施 · 首发 2026-11-23 · 仅原文
+- [RoboTrack：面向真实机器人操作的点追踪](<https://huggingface.co/blog/allenai/robotrack>) · Allen Institute for AI · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [用 Codex Security 把安全审查纳入开发流程](<https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security>) · OpenAI · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [Google 搜索加入更多个性化能力](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/>) · Google · 产品与应用 · 首发 2026-11-23 · 仅原文
+- [在 Windows 的 .NET 应用里运行本地 Llama 模型](<https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/>) · Microsoft · 工程实践 · 首发 2026-11-23 · 仅原文
+- [Enterprise Frontier Safeguards 的零数据保留进入测试](<https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards>) · Anthropic · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [推出 Claude Ship](<https://claude.com/resources/articles/introducing-claude-ship>) · Anthropic · 产品与应用 · 首发 2026-11-23 · 仅原文
+- [Azure DevOps 的 Agentic Autofix 开启公测](<https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview/>) · Microsoft · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [KPMG 如何在使用 AI 时保护客户数据](<https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data>) · Anthropic · 产品与应用 · 首发 2026-11-23 · 仅原文
+- [Muon背后的优化理论：1. 全量、随机与动量](<https://kexue.fm/archives/12014>) · 苏剑林 · 模型与研究 · 首发 2026-11-23 · 中文原文
+- [这真是用户要求的吗？用语义治理策略保护 Agent](<https://developers.googleblog.com/en/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>) · Google · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [改进 Transformer 的残差连接](<https://research.google/blog/supercharging-transformer-residual-connections/>) · Google · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [OpenAI 与 Cisco 推出 Shirudo](<https://openai.com/index/introducing-shirudo/>) · OpenAI · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [用 Agent 和形式化验证寻找更快的量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>) · Google DeepMind · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [与 AI 一起工作](<https://www.anthropic.com/research/working-with-ai>) · Anthropic · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [企业编码 Agent 安全指南](<https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents>) · Anthropic · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [怎样构建并维护 Agent 评测](<https://huggingface.co/blog/agentic-evals>) · Hugging Face · 评测与安全 · 首发 2026-11-23 · 仅原文
+- [让 Bedrock AgentCore Runtime 更快启动会话的架构模式](<https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/>) · AWS · 基础设施 · 首发 2026-11-13 · 仅原文
 
 ## 2026-11-23
 

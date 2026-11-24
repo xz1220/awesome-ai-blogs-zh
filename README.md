@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 816 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 834 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -16,8 +16,13 @@
 
 ### 模型与研究
 
+#### Allen Institute for AI
+
+- [RoboTrack：面向真实机器人操作的点追踪](<https://huggingface.co/blog/allenai/robotrack>) · 2026-11-23 · 仅原文
+
 #### Anthropic
 
+- [与 AI 一起工作](<https://www.anthropic.com/research/working-with-ai>) · 2026-11-23 · 仅原文
 - [Claude 解出两个黑洞物理开放问题](<https://www.anthropic.com/research/claude-black-hole-physics>) · 2026-11-17 · 仅原文
 - [用真实电子设备检验 Claude 的设计能力](<https://www.anthropic.com/research/claude-electronics-design>) · 2026-11-09 · 仅原文
 - [Project EVE：Claude 玩 MMORPG](<https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs>) · 2026-11-06 · 已有中文全文（本库未公开）
@@ -207,6 +212,7 @@
 
 #### Google
 
+- [改进 Transformer 的残差连接](<https://research.google/blog/supercharging-transformer-residual-connections/>) · 2026-11-23 · 仅原文
 - [在 Google TPU 上用 Tunix 与 Gemma 4 做多轮 Agent 强化学习](<https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>) · 2026-11-19 · 仅原文
 - [Gemini Decisions API：快速且经过校准的多模态判断](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/>) · 2026-11-11 · 仅原文
 - [用 Language Explorer 探索世界语言](<https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/>) · 2026-11-09 · 仅原文
@@ -214,6 +220,7 @@
 
 #### Google DeepMind
 
+- [用 Agent 和形式化验证寻找更快的量子算法](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/>) · 2026-11-23 · 仅原文
 - [开放 AI 气象模型背后的数据集](<https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/>) · 2026-11-13 · 仅原文
 - [AlphaProof Code：深入验证复杂软件的突破](content/Google%20DeepMind/%E5%AE%98%E6%96%B9/2026-11-10_AlphaProof%20Code%EF%BC%9A%E6%B7%B1%E5%85%A5%E9%AA%8C%E8%AF%81%E5%A4%8D%E6%9D%82%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%AA%81%E7%A0%B4.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://deepmind.google/blog/introducing-alphaproof-code/>)
 
@@ -276,6 +283,7 @@
 
 #### 苏剑林
 
+- [Muon背后的优化理论：1. 全量、随机与动量](<https://kexue.fm/archives/12014>) · 2026-11-23 · 中文原文
 - [最佳学习率调度的变分估计](<https://kexue.fm/archives/12010>) · 2026-11-17 · 中文原文
 - [让炼丹更科学一些（十一）：无调度学习率新思路](<https://kexue.fm/archives/12003>) · 2026-11-09 · 中文原文
 - [平均之路：从Attention到TTT](<https://kexue.fm/archives/11993>) · 2026-11-01 · 中文原文
@@ -394,6 +402,7 @@
 
 #### Microsoft
 
+- [在 Windows 的 .NET 应用里运行本地 Llama 模型](<https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/>) · 2026-11-23 · 仅原文
 - [Foundry 托管 Agent 接入私有网络时的五项检查](<https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/>) · 2026-11-21 · 仅原文
 - [在 Azure SQL Database 中为 RAG 拆分文档](<https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/>) · 2026-11-20 · 仅原文
 - [在 Microsoft Foundry 为团队构建可信的自主 Agent](<https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/>) · 2026-11-19 · 仅原文
@@ -456,6 +465,7 @@
 - [Exa 如何在 AWS 芯片上提升嵌入吞吐](<https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/>) · 2026-11-18 · 仅原文
 - [降低 Bedrock AgentCore JSON 工作负载的 Token 开销和延迟](<https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/>) · 2026-11-17 · 仅原文
 - [SageMaker AI 实时端点支持感知 KV 缓存的路由](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/>) · 2026-11-17 · 仅原文
+- [让 Bedrock AgentCore Runtime 更快启动会话的架构模式](<https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/>) · 2026-11-13 · 仅原文
 
 #### Base Compute
 
@@ -503,6 +513,7 @@
 
 #### vLLM
 
+- [MoRI UMBP：把 Agent 推理的 KV 缓存放在 NVMe 上](<https://vllm.ai/blog/2026-11-23-skip-the-dram-tier>) · 2026-11-23 · 仅原文
 - [vLLM 首日支持循环架构模型 Inkling 2 Mini](<https://vllm.ai/blog/2026-11-20-inkling2-mini>) · 2026-11-20 · 仅原文
 - [用 FlyDSL MonoKernels 提升 vLLM 的交互式解码表现](<https://vllm.ai/blog/2026-11-18-flydsl-monokernels>) · 2026-11-18 · 仅原文
 - [vLLM 分离编码器：用 EPD 扩展多模态服务](<https://vllm.ai/blog/2026-11-11-encoder-disaggregation-epd>) · 2026-11-11 · 仅原文
@@ -512,6 +523,8 @@
 
 #### Anthropic
 
+- [Enterprise Frontier Safeguards 的零数据保留进入测试](<https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards>) · 2026-11-23 · 仅原文
+- [企业编码 Agent 安全指南](<https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents>) · 2026-11-23 · 仅原文
 - [Anthropic 更新协调漏洞披露时限](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>) · 2026-11-16 · 仅原文
 - [构建强大的安全评估体系](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E6%9E%84%E5%BB%BA%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://www.anthropic.com/research/building-strong-safety-evaluations>)
 - [在您的安全边界内运行 Claude 托管智能体](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-12_%E5%9C%A8%E6%82%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E5%86%85%E8%BF%90%E8%A1%8C%20Claude%20%E6%89%98%E7%AE%A1%E6%99%BA%E8%83%BD%E4%BD%93.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://claude.com/resources/articles/self-hosted-claude-managed-agents>)
@@ -595,14 +608,23 @@
 
 #### Google
 
+- [这真是用户要求的吗？用语义治理策略保护 Agent](<https://developers.googleblog.com/en/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>) · 2026-11-23 · 仅原文
 - [Agent 异常检测扩展至其他云环境](<https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>) · 2026-11-20 · 仅原文
 - [用外部基准评测 Agent 异常检测](content/Google/%E5%AE%98%E6%96%B9/2026-11-12_%E7%94%A8%E5%A4%96%E9%83%A8%E5%9F%BA%E5%87%86%E8%AF%84%E6%B5%8B%20Agent%20%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
+
+#### Hugging Face
+
+- [怎样构建并维护 Agent 评测](<https://huggingface.co/blog/agentic-evals>) · 2026-11-23 · 仅原文
 
 #### LangChain
 
 - [为什么 Agent 治理要从可观测性开始](<https://www.langchain.com/blog/agent-governance-observability>) · 2026-11-19 · 仅原文
 - [LangSmith：按任务结果统计编码 Agent 的开销](<https://www.langchain.com/blog/langsmith-coding-agents-roi>) · 2026-11-18 · 仅原文
 - [用 LangSmith 的数据控制保护追踪中的敏感信息](<https://www.langchain.com/blog/protect-sensitive-data-in-your-traces-new-controls-in-langsmith>) · 2026-11-17 · 仅原文
+
+#### Microsoft
+
+- [Azure DevOps 的 Agentic Autofix 开启公测](<https://devblogs.microsoft.com/devops/agentic-autofix-for-advanced-security-for-azure-devops-public-preview/>) · 2026-11-23 · 仅原文
 
 #### Microsoft Research
 
@@ -615,6 +637,8 @@
 
 #### OpenAI
 
+- [用 Codex Security 把安全审查纳入开发流程](<https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security>) · 2026-11-23 · 仅原文
+- [OpenAI 与 Cisco 推出 Shirudo](<https://openai.com/index/introducing-shirudo/>) · 2026-11-23 · 仅原文
 - [困惑度与智能](<https://openai.com/index/perplexity-and-intelligence/>) · 2026-11-22 · 仅原文
 - [MedChemBench：评估 AI 在药物化学中的能力](<https://openai.com/index/introducing-medchembench/>) · 2026-11-20 · 仅原文
 - [应对未经授权的模型蒸馏](<https://openai.com/index/combatting-adversarial-distillation/>) · 2026-11-20 · 仅原文
@@ -635,6 +659,8 @@
 
 #### Anthropic
 
+- [推出 Claude Ship](<https://claude.com/resources/articles/introducing-claude-ship>) · 2026-11-23 · 仅原文
+- [KPMG 如何在使用 AI 时保护客户数据](<https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data>) · 2026-11-23 · 仅原文
 - [Claude Platform 的关联计费](<https://claude.com/resources/articles/linked-billing-on-claude-platform>) · 2026-11-17 · 仅原文
 - [推出面向制造业的 Claude](<https://claude.com/resources/articles/claude-for-manufacturing>) · 2026-11-12 · 仅原文
 - [推出 Claude Meetings](<https://claude.com/resources/articles/claude-meetings>) · 2026-11-12 · 仅原文
@@ -723,6 +749,7 @@
 
 #### Google
 
+- [Google 搜索加入更多个性化能力](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/>) · 2026-11-23 · 仅原文
 - [让 Gemini 在 Mac 上操作应用和处理重复任务](<https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/>) · 2026-11-19 · 仅原文
 - [Gemini 应用支持内存较小的 Android 设备](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/>) · 2026-11-18 · 仅原文
 - [在 Google AI Studio 用 Gemini 构建全栈 Android 应用](<https://developers.googleblog.com/en/build-full-stack-android-apps-with-gemini-in-google-ai-studio/>) · 2026-11-17 · 仅原文

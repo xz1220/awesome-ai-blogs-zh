@@ -29,6 +29,7 @@
   {"id":"cloudflare","name":"Cloudflare Blog · AI","url":"https://blog.cloudflare.com/tag/ai/","group":"builders","description":"边缘推理、Agent 运行服务和基础设施经验。"},
   {"id":"linear","name":"Linear Now","url":"https://linear.app/now","group":"builders","description":"Linear 团队的产品设计、协作方法和工程实践。"},
   {"id":"cockroach","name":"Cockroach Labs Blog","url":"https://www.cockroachlabs.com/blog/","group":"builders","description":"数据库与分布式系统中有可迁移价值的 AI 工程实践。"},
+  {"id":"architect-labs","name":"Architect Labs Blog","url":"https://architectlabs.com/blog","group":"builders","description":"AI 参与芯片架构探索、形式化验证和硬件实现的工程记录。"},
   {"id":"hugging-face","name":"Hugging Face Blog","url":"https://huggingface.co/blog","group":"community","description":"开源模型、工具、数据和可复现的教学实践。","feeds":["https://huggingface.co/blog/feed.xml"]},
   {"id":"langchain","name":"LangChain Blog","url":"https://www.langchain.com/blog","group":"community","description":"Agent 搭建、评测和生产经验。"},
   {"id":"kimi-code","name":"Kimi Code CLI 发布记录","url":"https://github.com/MoonshotAI/kimi-code/releases","group":"community","description":"回查 Kimi Code CLI 的正式版本与关键变更。"},

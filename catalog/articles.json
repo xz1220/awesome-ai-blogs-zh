@@ -114,6 +114,25 @@
     "chinese_archived": true
   },
   {
+    "article_id": "02089ffa4bf29b28",
+    "company": "Google",
+    "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+    "url": "https://developers.googleblog.com/en/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "用 Agent Retrieval 检索文件和视频并返回来源",
+    "original_language": "en",
+    "description": "了解托管摄取如何索引文档和视频，以及如何用 SearchDocuments 获取可供答案引用的内容。",
+    "author": [
+      "Yingxin Jiang",
+      "Kaz Sato"
+    ],
+    "aliases": [
+      "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "0221b1d0649ec5f2",
     "company": "Anthropic",
     "title": "Anthropic commits $10 million to Canadian AI research",
@@ -192,6 +211,19 @@
     "description": "讨论 Agent 并发对 Git 写入、对象存储和一致性的要求。",
     "chinese_archived": true,
     "chinese_url": "https://openai.com/zh-Hans-CN/index/scaling-git-at-openai/"
+  },
+  {
+    "article_id": "061758f00ce99dca",
+    "company": "Microsoft",
+    "title": "Visual Studio November Update – Faster Workflows, Better Reviews",
+    "url": "https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-faster-workflows-better-reviews/",
+    "date": "2026-11-24",
+    "topic": "products",
+    "title_zh": "Visual Studio 11 月更新带来新 Copilot Chat 和评审分组",
+    "original_language": "en",
+    "description": "了解长会话、文件输入和工具权限的改进，以及如何按变更组审查大型 PR。",
+    "author": "Mark Downie",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "061ebbbb1492d565",
@@ -275,6 +307,22 @@
     "description": "以医疗授权流程说明跨系统 Agent 的用途，并讨论评估、成本与人工控制。"
   },
   {
+    "article_id": "09c40cbdb75966e0",
+    "company": "Google",
+    "title": "Agile Deliberation: How AI helps humans define the gray areas",
+    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+    "date": "2026-11-04",
+    "topic": "research",
+    "title_zh": "用 Agile Deliberation 澄清图像分类的模糊边界",
+    "original_language": "en",
+    "description": "通过交互方式梳理主观分类的边界样例，再用明确后的规则构建和评估分类器。",
+    "author": [
+      "Otilia Stretcu",
+      "Leijie Wang"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "0a1a9915f1bf1a41",
     "company": "Anthropic",
     "title": "Claude-shaped science",
@@ -319,6 +367,19 @@
     "topic": "research",
     "title_zh": "Claude 在（某些）网络安全竞赛中与人类不相上下",
     "chinese_archived": true
+  },
+  {
+    "article_id": "0b260d07579db847",
+    "company": "独立作者",
+    "title": "Three LLM inflection points in twelve months",
+    "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "date": "2026-11-24",
+    "topic": "perspectives",
+    "title_zh": "过去一年里大语言模型能力的三个转折点",
+    "original_language": "en",
+    "description": "Simon Willison 用实际经历回顾模型和编码 Agent 的变化，并讨论它们怎样拓宽可交付的任务。",
+    "author": "Simon Willison",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "0b707017d0003d56",
@@ -473,6 +534,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "0e00fe4c42812094",
+    "company": "AWS",
+    "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+    "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
+    "date": "2026-11-19",
+    "topic": "evaluation",
+    "title_zh": "用 AgentCore Gateway 保护 Agent 工具调用中的敏感数据",
+    "original_language": "en",
+    "description": "展示网关如何在把请求交给外部工具前对敏感字段去标识，并在调用完成后受控还原。",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "0e365028518c38e9",
     "company": "MiniMax",
     "title": "MiniMax H3-Image: Bringing 4K Image Generation into the 10-Second Era",
@@ -595,6 +668,19 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "1173301e4bceb248",
+    "company": "vLLM",
+    "title": "vLLM Day-0 Support for ERNIE 5.5 Flash Preview: Plugin Deployment and E2E Inference Acceleration",
+    "url": "https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview",
+    "date": "2026-11-24",
+    "topic": "infrastructure",
+    "title_zh": "vLLM 首日支持文心 ERNIE 5.5 Flash Preview",
+    "original_language": "en",
+    "description": "介绍通过 vLLM 插件部署模型，以及团队如何结合内核优化、量化与推测解码改善推理性能。",
+    "author": "Baidu ERNIE Team and vLLM Team",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "118f2df21c64a881",
@@ -1352,6 +1438,25 @@
     "chinese_archived": true
   },
   {
+    "article_id": "27ef7f6786c93b51",
+    "company": "Google",
+    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+    "date": "2026-11-16",
+    "topic": "infrastructure",
+    "title_zh": "在 TPU 上对齐强化学习训练与推理的计算结果",
+    "original_language": "en",
+    "description": "用 TPU 内核实验说明如何让训练和推理阶段的对数概率逐位匹配，并验证在线策略训练的稳定性。",
+    "author": [
+      "Yuxuan Zhang",
+      "Lin Chai",
+      "Lance Wang",
+      "Tianshu Bao",
+      "Weiren Yu"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "291d3e62ed3e6e13",
     "company": "OpenAI",
     "title": "Predict Stock Prices Using RNN: Part 2",
@@ -1739,6 +1844,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "3381c1b46b2b81fa",
+    "company": "Architect Labs",
+    "title": "Introducing Frostbite: A new CPU architecture discovered, designed, and verified end-to-end by AI",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "date": "2026-11-18",
+    "topic": "engineering",
+    "title_zh": "Architect Labs 用 AI 探索并验证 Frostbite CPU 架构",
+    "original_language": "en",
+    "description": "团队分享从指令集探索、形式化规格到硬件验证的流程，以及流片前如何估算性能与功耗。",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "33d81116743596d4",
     "company": "Anthropic",
     "title": "Introducing Contextual Retrieval",
@@ -1810,6 +1927,19 @@
     "topic": "research",
     "title_zh": "大型生成模型中的可预测性与意外",
     "chinese_archived": true
+  },
+  {
+    "article_id": "35ed151d37ae4d00",
+    "company": "Microsoft",
+    "title": "Introducing DocumentExtractionClient (preview): Extract documents in .NET",
+    "url": "https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "用 DocumentExtractionClient 在 .NET 中提取文档",
+    "original_language": "en",
+    "description": "介绍预览版接口怎样把 PDF、图片等转换成结构化内容，以及如何为不同文档选择处理服务。",
+    "author": "Luis Quintanilla",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "36f1aa71740c04a5",
@@ -2376,6 +2506,23 @@
     "chinese_archived": true
   },
   {
+    "article_id": "439ef1dde9cd9683",
+    "company": "独立作者",
+    "title": "Meet IVE, the handyman of your document pipeline",
+    "url": "https://huggingface.co/blog/QuentinJG/ive-release",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "IVE 与 Ivonnet 两种开放文档理解模型",
+    "original_language": "en",
+    "description": "介绍面向文档判别任务的两个模型、合成训练数据设计和公开基准上的比较。",
+    "author": [
+      "Quentin Macé",
+      "Victor Xing",
+      "Antoine EDY"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "43d7916975114d60",
     "company": "Anthropic",
     "title": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
@@ -2512,6 +2659,19 @@
     "topic": "archive",
     "title_zh": "德勤将向其全球网络的 47 万名员工开放 Claude",
     "chinese_archived": true
+  },
+  {
+    "article_id": "471145a2ed0d4194",
+    "company": "LangChain",
+    "title": "The Agent Lake",
+    "url": "https://www.langchain.com/blog/the-agent-lake",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "用 Agent Lake 从运行轨迹中找到改进机会",
+    "original_language": "en",
+    "description": "说明如何从大量轨迹中选取有价值的样本，用于排查 Agent 行为、构建评测和微调。",
+    "author": "Sam Crowder",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "4725b1eeb6c9340e",
@@ -3595,6 +3755,19 @@
     "added_on": "2026-11-21"
   },
   {
+    "article_id": "635637f5a833bf00",
+    "company": "Anthropic",
+    "title": "A practical guide to shipping with Claude Code",
+    "url": "https://claude.dev/blog/the-work-after-you-open-a-pr/",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "开出 PR 后如何用 Claude Code 跟进",
+    "original_language": "en",
+    "description": "用具体示例说明如何设置审查偏好、处理评审反馈和持续集成结果，并安排后续发布步骤。",
+    "author": "Addy Osmani",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "63c3c4dae3e38767",
     "company": "Kimi",
     "title": "Kimi Code CLI: Sessions and context",
@@ -3860,6 +4033,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "692f7f5f650b708b",
+    "company": "独立作者",
+    "title": "Loop Behind: Rethinking Where Extra Loops Pay Off in Looped Language Models",
+    "url": "https://huggingface.co/blog/XijieGong/loop-behind-rethinking-where-extra-loops-pay-off-i",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "循环语言模型在哪些任务上受益于更多迭代",
+    "original_language": "en",
+    "description": "通过消融实验区分循环带来的推理计算量和训练效果，并分析 KV 缓存在不同设计中的作用。",
+    "author": "Xijie Gong",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "69d162e3003a2077",
     "company": "Google",
     "title": "Let Gemini tackle repetitive chores on your Mac",
@@ -3891,6 +4077,23 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "6a28e842b3bf4bfd",
+    "company": "NVIDIA",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "在仿真中训练 Microduck 避障并迁移到实机",
+    "original_language": "en",
+    "description": "展示如何用 Isaac Lab 和 Newton 建立避障环境，在保留原步态策略的情况下训练并验证控制器。",
+    "author": [
+      "Oluwaseun Doherty",
+      "Oyindamola Omotuyi",
+      "Richard"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "6a45f0ea146ef110",
@@ -3975,6 +4178,22 @@
     "topic": "products",
     "title_zh": "发布 Claude Opus 4.6",
     "chinese_archived": true
+  },
+  {
+    "article_id": "6c3fa003d587daac",
+    "company": "Google",
+    "title": "Analyzing technical documents with Deep Review",
+    "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "date": "2026-10-14",
+    "topic": "evaluation",
+    "title_zh": "用 Deep Review 核查技术文档",
+    "original_language": "en",
+    "description": "介绍用于技术验证的文档审阅系统，以及从论文审阅到文档和演示材料的应用。",
+    "author": [
+      "Rajesh Jayaram",
+      "Vincent Cohen-Addad"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "6c466ed1f870047e",
@@ -4585,6 +4804,18 @@
     "chinese_archived": true
   },
   {
+    "article_id": "78551721fa649370",
+    "company": "OpenAI",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "用 Astra 在公开望远镜数据中寻找系外行星",
+    "original_language": "en",
+    "description": "看两位业余天文学家如何用公开观测数据筛选系外行星候选体，并交给专业团队进一步核查。",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "7888bfc6f367313b",
     "company": "DeepSeek",
     "title": "DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context",
@@ -4607,6 +4838,19 @@
     "title_zh": "强化学习中的课程学习",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "788ada01185fac22",
+    "company": "FineEnvs",
+    "title": "FineProofEnvs: Better Math Proofs from a 2B Model with RL",
+    "url": "https://huggingface.co/blog/FineEnvs/fineproofenvs-rl-2b-prover",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "FineProofEnvs 用强化学习改善小模型的数学证明",
+    "original_language": "en",
+    "description": "介绍如何按评分标准评估证明、构造训练反馈，并比较一个 20 亿参数模型微调前后的表现。",
+    "author": "Adithya S K",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "7951c5b8003d194f",
@@ -5005,6 +5249,18 @@
     "added_on": "2026-11-24"
   },
   {
+    "article_id": "845fd769a93fbee8",
+    "company": "AWS",
+    "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+    "date": "2026-11-20",
+    "topic": "infrastructure",
+    "title_zh": "SageMaker HyperPod Slurm 的托管集群扩展",
+    "original_language": "en",
+    "description": "了解如何以声明式配置管理集群观测与用户账号，减少逐台机器维护的工作。",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "8478b13c6bec82ac",
     "company": "Anthropic",
     "title": "Frontier threats red teaming for AI safety",
@@ -5368,6 +5624,18 @@
     "topic": "research",
     "title_zh": "澳大利亚人如何使用 Claude：来自 Anthropic 经济指数的发现",
     "chinese_archived": true
+  },
+  {
+    "article_id": "8befc30ac765ba8a",
+    "company": "Anthropic",
+    "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+    "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "Claude 的 MCP 支持分发技能和运行任务",
+    "original_language": "en",
+    "description": "介绍通过 MCP 交付技能的公测，以及任务、补充信息请求和文件上传的支持状态。",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "8c4d3bb629c2f49b",
@@ -6341,6 +6609,23 @@
     "added_on": "2026-11-19"
   },
   {
+    "article_id": "a285414248d17b0c",
+    "company": "OpenAI",
+    "title": "Production monitoring with Codex",
+    "url": "https://developers.openai.com/blog/production-monitoring-with-codex",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "用 Codex 排查线上故障",
+    "original_language": "en",
+    "description": "把运行遥测、部署记录和代码带进同一次调查，找出线上故障的原因与后续行动。",
+    "author": [
+      "Anke Hao",
+      "Tony Loehr",
+      "Tony Alaniz"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "a2cf0d0271acb097",
     "company": "Anthropic",
     "title": "Introducing the next generation of Claude",
@@ -6472,6 +6757,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a5af0418515c8c08",
+    "company": "OpenAI",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood/",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "iFood 如何在 15,000 个代码仓库中规模化应用编程智能体",
+    "original_language": "en",
+    "description": "iFood 介绍在大量仓库中运行异步编码 Agent 的方式，以及如何核验任务结果、跟踪推理成本和推广到更多团队。",
+    "chinese_url": "https://openai.com/zh-Hans-CN/business/customer-stories/ifood/",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "a66075dc0af41a68",
     "company": "Anthropic",
     "title": "Ask Claude about the Anthropic Economic Index",
@@ -6533,6 +6831,24 @@
     "description": "介绍内部技能分类、验证方法、资源组织与分发实践。",
     "author": "Thariq Shihipar",
     "chinese_archived": true
+  },
+  {
+    "article_id": "a73ca17bb3862060",
+    "company": "AWS",
+    "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+    "date": "2026-11-23",
+    "topic": "products",
+    "title_zh": "Amazon Bedrock 推出 Trusted Access API",
+    "original_language": "en",
+    "description": "说明如何集中申请模型提供方的访问计划，以及 Claude 相关计划提供的数据管理选项。",
+    "author": [
+      "Dani Mitchell",
+      "Munir Nanjee",
+      "Rey Wang",
+      "Yiwen Zhang"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "a760d2a9427648d3",
@@ -6641,6 +6957,22 @@
     "chinese_archived": true
   },
   {
+    "article_id": "ab1f5954949b8b3d",
+    "company": "NVIDIA",
+    "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+    "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+    "date": "2026-11-24",
+    "topic": "infrastructure",
+    "title_zh": "用 Diffusers 在本地设备运行 Cosmos 3 Nano",
+    "original_language": "en",
+    "description": "用分批传输权重的方法降低视频生成的显存需求，并解释对系统内存和传输带宽的影响。",
+    "author": [
+      "Atharva Joshi",
+      "Jibin Varghese"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "ab3a958fbe3fa298",
     "company": "Anthropic",
     "title": "Mitigating the risk of prompt injections in browser use",
@@ -6739,6 +7071,19 @@
     "original_language": "en",
     "description": "介绍如何将 Codex 的 Agent 运行框架嵌入自己的产品。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "adf87e216d8eedac",
+    "company": "Microsoft",
+    "title": "Copilot UX components now available in Cowork with plugins – SPFx roadmap update for November 2026",
+    "url": "https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-now-available-in-cowork-with-plugins-spfx-roadmap-update-for-november-2026/",
+    "date": "2026-11-24",
+    "topic": "products",
+    "title_zh": "Copilot Cowork 支持通过插件使用 Copilot UX 组件",
+    "original_language": "en",
+    "description": "介绍 SPFx 组件如何在聊天和 Cowork 中按请求出现，以及管理员怎样管理这些插件。",
+    "author": "Vesa Juvonen",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "ae0ec71fdcb44d65",
@@ -7026,6 +7371,18 @@
     "topic": "evaluation",
     "title_zh": "澳大利亚政府与 Anthropic 签署 AI 安全与研究合作谅解备忘录",
     "chinese_archived": true
+  },
+  {
+    "article_id": "b3db646d86cce70f",
+    "company": "Anthropic",
+    "title": "Turn artifacts into Mac and Windows apps",
+    "url": "https://claude.com/resources/articles/install-as-app",
+    "date": "2026-11-24",
+    "topic": "products",
+    "title_zh": "将 Claude Artifacts 安装为 Mac 和 Windows 应用",
+    "original_language": "en",
+    "description": "了解如何从桌面打开常用 Artifact，以及安装后可以调用哪些本地能力。",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "b40337458a215eb1",
@@ -7583,6 +7940,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "c30b322513faf4e6",
+    "company": "Cursor",
+    "title": "Build Live Apps in Cursor",
+    "url": "https://cursor.com/changelog/build-live-apps",
+    "date": "2026-11-05",
+    "topic": "products",
+    "title_zh": "在 Cursor 中构建可上线运行的应用",
+    "original_language": "en",
+    "description": "介绍云端 Agent 如何处理网页应用的构建、托管、数据库和身份验证。",
+    "chinese_url": "https://cursor.com/cn/changelog/build-live-apps",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "c34a327604b5be4a",
     "company": "Anthropic",
     "title": "Introducing Claude Opus 5",
@@ -7878,6 +8248,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "c9e260814e66b368",
+    "company": "Cursor",
+    "title": "Voice Chat with Agents",
+    "url": "https://cursor.com/changelog/voice-chat",
+    "date": "2026-11-06",
+    "topic": "products",
+    "title_zh": "与智能体语音聊天",
+    "original_language": "en",
+    "description": "了解语音通话如何与编码任务并行，以及如何在桌面、网页和 iOS 上查询进展。",
+    "chinese_url": "https://cursor.com/cn/changelog/voice-chat",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "c9f129f3c5302e32",
     "company": "Anthropic",
     "title": "Paving the way for agents in biology",
@@ -8072,6 +8455,29 @@
     "topic": "products",
     "title_zh": "发布更新后的负责任扩展政策",
     "chinese_archived": true
+  },
+  {
+    "article_id": "d0eeb55e629a0ebb",
+    "company": "Apple",
+    "title": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+    "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+    "date": "2026-11",
+    "topic": "research",
+    "title_zh": "状态空间模型的门控怎样影响记忆和上下文学习",
+    "original_language": "en",
+    "description": "从理论和实验上分析状态空间模型的门控设计对记忆与上下文适应能力的影响。",
+    "author": [
+      "William L. Tong",
+      "Aryo Lotfi",
+      "Emmanuel Abbe",
+      "Kostas Vaggelakos",
+      "Vishnu Banna",
+      "Etai Littwin",
+      "Josh Susskind",
+      "Cengiz Pehlevan",
+      "Eran Malach"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "d0f9bf46fa9dba7c",
@@ -8494,6 +8900,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "db82b1b3ec08f7a3",
+    "company": "NVIDIA",
+    "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+    "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/",
+    "date": "2026-11-24",
+    "topic": "engineering",
+    "title_zh": "用 Megatron Core 准备市场预测模型的训练数据",
+    "original_language": "en",
+    "description": "演示怎样将分时成交和报价整理成模型张量，再接入 Megatron 的分布式训练流程。",
+    "author": "Liana Mikaelyan",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "db8b9d45a99ee796",
     "company": "Anthropic",
     "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
@@ -8551,6 +8970,22 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "df360eb5303ac31f",
+    "company": "Google",
+    "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+    "url": "https://developers.googleblog.com/en/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+    "date": "2026-11-16",
+    "topic": "infrastructure",
+    "title_zh": "如何为长会话 Agent 规划 GKE 节点池",
+    "original_language": "en",
+    "description": "解释如何在 Agent 空闲时释放计算资源并保留会话状态，降低空闲时间带来的集群成本。",
+    "author": [
+      "Drake Williams",
+      "Ivan Nardini"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "dfacde1aa44cb351",
     "company": "Anthropic",
     "title": "How Anthropic teams use Claude Code",
@@ -8592,6 +9027,22 @@
     "original_language": "zh",
     "description": "记录 AI 写算子带来的工作方式变化。",
     "author": "刘胜与"
+  },
+  {
+    "article_id": "e0d78f5b33ebe558",
+    "company": "LangChain",
+    "title": "How We Achieved ISO 42001 with LangSmith",
+    "url": "https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith",
+    "date": "2026-11-24",
+    "topic": "evaluation",
+    "title_zh": "LangChain 如何用 LangSmith 支持 ISO/IEC 42001 认证",
+    "original_language": "en",
+    "description": "从实际认证过程看团队怎样建立风险清单、收集评估和监控证据，并保持记录可追溯。",
+    "author": [
+      "Ashwin Amardeep",
+      "Arthur Stromquist"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "e0ec1a49bf82577f",
@@ -8713,6 +9164,26 @@
     "added_on": "2026-11-23"
   },
   {
+    "article_id": "e4303a9fd1df8d9e",
+    "company": "Apple",
+    "title": "Weighted State Souping for Efficient Long-Context Retrieval",
+    "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+    "date": "2026-11",
+    "topic": "research",
+    "title_zh": "用状态加权融合改善长上下文检索",
+    "original_language": "en",
+    "description": "研究怎样融合状态空间模型的多个上下文状态，从而改善长序列信息检索。",
+    "author": [
+      "William L. Tong",
+      "Aryo Lotfi",
+      "Emmanuel Abbe",
+      "Josh Susskind",
+      "Cengiz Pehlevan",
+      "Eran Malach"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "e49faaf95243e182",
     "company": "Anthropic",
     "title": "Yes, Claude can do Nine Loops",
@@ -8721,6 +9192,19 @@
     "topic": "research",
     "title_zh": "是的，Claude 能算九圈",
     "chinese_archived": true
+  },
+  {
+    "article_id": "e51f1d2a874386b9",
+    "company": "vLLM",
+    "title": "Announcing vLLM-GR: Efficient Inference for Generative Recommendation",
+    "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+    "date": "2026-11-24",
+    "topic": "infrastructure",
+    "title_zh": "vLLM-GR 面向生成式推荐的推理优化",
+    "original_language": "en",
+    "description": "了解如何将束搜索放到加速器上、限制候选集，并在推荐候选序列间共享 KV 缓存。",
+    "author": "vLLM-GR Team",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "e53d362bf380fa3a",
@@ -8822,6 +9306,22 @@
     "original_language": "en",
     "description": "介绍长时软件工程、性能优化、全栈开发和多 Agent 案例。",
     "chinese_archived": true
+  },
+  {
+    "article_id": "e72c6917a99671aa",
+    "company": "Thinking Machines Lab",
+    "title": "Training a Scalable Forecasting Agent (Guest Post with Mantic)",
+    "url": "https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "Mantic 如何用 Tinker 训练可扩展的预测 Agent",
+    "original_language": "en",
+    "description": "分享如何处理按时点获取的训练数据、并发调查吞吐和奖励噪声，并比较预测准确度与成本。",
+    "author": [
+      "Mantic",
+      "Thinking Machines Lab"
+    ],
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "e770cc6a0f63aaa2",
@@ -9189,6 +9689,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "f099908b2eca9d8c",
+    "company": "独立作者",
+    "title": "Using AI Without Losing Your Humanity",
+    "url": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
+    "date": "2026-11-24",
+    "topic": "perspectives",
+    "title_zh": "使用 AI 时如何保留人的创造力",
+    "original_language": "en",
+    "description": "Drew Breunig 通过演讲讨论生成结果为什么容易趋同，以及如何让人的判断和意外发现参与创作。",
+    "author": "Drew Breunig",
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "f140eb9aaf81ef6b",
     "company": "OpenAI",
     "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
@@ -9228,6 +9741,18 @@
     "topic": "research",
     "title_zh": "81,000 人告诉我们的 AI 经济学",
     "chinese_archived": true
+  },
+  {
+    "article_id": "f1db7ce98881d890",
+    "company": "智谱 Z.ai",
+    "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+    "url": "https://z.ai/blog/glm-5.4",
+    "date": "2026-11-23",
+    "topic": "research",
+    "title_zh": "GLM-5.4 如何用 Loop Transformer 改善通用编码",
+    "original_language": "en",
+    "description": "智谱介绍如何复用层来增加推理深度，以及如何用消融实验区分循环变更和训练带来的收益。",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "f2323421e5e51bb8",
@@ -9271,6 +9796,19 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "f40c9f6c3ab2262e",
+    "company": "Microsoft",
+    "title": "What’s new in Microsoft Foundry | Ignite 2026",
+    "url": "https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/",
+    "date": "2026-11-24",
+    "topic": "products",
+    "title_zh": "Microsoft Foundry 在 Ignite 2026 上发布了什么",
+    "original_language": "en",
+    "description": "梳理面向企业的模型、Agent 运行时、训练工具和治理更新。",
+    "author": "Nick Brady",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "f42b1051076dff0e",
@@ -9445,6 +9983,23 @@
     "chinese_archived": true
   },
   {
+    "article_id": "f871eb5cbc09ced7",
+    "company": "Google",
+    "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+    "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+    "date": "2026-11-09",
+    "topic": "infrastructure",
+    "title_zh": "用 MaxText 的上下文并行在 TPU 上训练长上下文模型",
+    "original_language": "en",
+    "description": "介绍上下文切分与注意力内核如何支撑长序列，以及团队如何衡量扩展效率。",
+    "author": [
+      "Michael Tran",
+      "Nuojin Cheng",
+      "Deepak Patil"
+    ],
+    "added_on": "2026-11-25"
+  },
+  {
     "article_id": "f87e14ef06b6e708",
     "company": "Anthropic",
     "title": "Patterns and problems in emerging multiagent systems",
@@ -9569,6 +10124,19 @@
     "topic": "archive",
     "original_language": "zh",
     "description": "讨论双层分工、事件驱动、异步交互和长期运行的架构。"
+  },
+  {
+    "article_id": "fb8bde07edc4fdf0",
+    "company": "独立作者",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "用 GPT-6.2 Astra 追查一本无名速写簿的作者",
+    "original_language": "en",
+    "description": "历史学者 Mark Humphries 记录从提出假设、检索图书馆档案到交叉核对证据的过程。",
+    "author": "Mark Humphries",
+    "added_on": "2026-11-25"
   },
   {
     "article_id": "fc3b154f7a7aea5f",

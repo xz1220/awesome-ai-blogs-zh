@@ -41,6 +41,7 @@
 - [Cloudflare Blog · AI](<https://blog.cloudflare.com/tag/ai/>) — 边缘推理、Agent 运行服务和基础设施经验。
 - [Linear Now](<https://linear.app/now>) — Linear 团队的产品设计、协作方法和工程实践。
 - [Cockroach Labs Blog](<https://www.cockroachlabs.com/blog/>) — 数据库与分布式系统中有可迁移价值的 AI 工程实践。
+- [Architect Labs Blog](<https://architectlabs.com/blog>) — AI 参与芯片架构探索、形式化验证和硬件实现的工程记录。
 
 ### 开源项目与社区
 

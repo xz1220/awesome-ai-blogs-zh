@@ -1,12 +1,54 @@
 # 近 7 天新增
 
-<!-- recent-as-of: 2026-11-24 -->
+<!-- recent-as-of: 2026-11-25 -->
 
 [查看完整目录](../README.md#按主题阅读)
 
-**2026-11-18 至 2026-11-24（北京时间）** · **新增 175 篇**
+**2026-11-19 至 2026-11-25（北京时间）** · **新增 214 篇**
 
 按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。
+
+## 2026-11-25
+
+- [用 GPT-6.2 Astra 追查一本无名速写簿的作者](<https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical>) · Mark Humphries · 模型与研究 · 首发 2026-11-24 · 仅原文
+- [Microsoft Foundry 在 Ignite 2026 上发布了什么](<https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/>) · Microsoft · 产品与应用 · 首发 2026-11-24 · 仅原文
+- [使用 AI 时如何保留人的创造力](<https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html>) · Drew Breunig · 独立观点 · 首发 2026-11-24 · 仅原文
+- [Mantic 如何用 Tinker 训练可扩展的预测 Agent](<https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/>) · Thinking Machines Lab · 模型与研究 · 首发 2026-11-24 · 仅原文
+- [vLLM-GR 面向生成式推荐的推理优化](<https://vllm.ai/blog/2026-11-24-vllm-gr-announcement>) · vLLM · 基础设施 · 首发 2026-11-24 · 仅原文
+- [LangChain 如何用 LangSmith 支持 ISO/IEC 42001 认证](<https://www.langchain.com/blog/ai-governance-iso-iec-42001-langsmith>) · LangChain · 评测与安全 · 首发 2026-11-24 · 仅原文
+- [用 Megatron Core 准备市场预测模型的训练数据](<https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/>) · NVIDIA · 工程实践 · 首发 2026-11-24 · 仅原文
+- [将 Claude Artifacts 安装为 Mac 和 Windows 应用](<https://claude.com/resources/articles/install-as-app>) · Anthropic · 产品与应用 · 首发 2026-11-24 · 仅原文
+- [Copilot Cowork 支持通过插件使用 Copilot UX 组件](<https://devblogs.microsoft.com/microsoft365dev/copilot-ux-components-now-available-in-cowork-with-plugins-spfx-roadmap-update-for-november-2026/>) · Microsoft · 产品与应用 · 首发 2026-11-24 · 仅原文
+- [用 Diffusers 在本地设备运行 Cosmos 3 Nano](<https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/>) · NVIDIA · 基础设施 · 首发 2026-11-24 · 仅原文
+- [iFood 如何在 15,000 个代码仓库中规模化应用编程智能体](<https://openai.com/zh-Hans-CN/business/customer-stories/ifood/>) · OpenAI · 工程实践 · 首发 2026-11-24 · 官方中文版 · [原文](<https://openai.com/business/customer-stories/ifood/>)
+- [用 Codex 排查线上故障](<https://developers.openai.com/blog/production-monitoring-with-codex>) · OpenAI · 工程实践 · 首发 2026-11-24 · 仅原文
+- [Claude 的 MCP 支持分发技能和运行任务](<https://claude.com/resources/articles/skills-over-mcp-tasks-and-more>) · Anthropic · 工程实践 · 首发 2026-11-24 · 仅原文
+- [FineProofEnvs 用强化学习改善小模型的数学证明](<https://huggingface.co/blog/FineEnvs/fineproofenvs-rl-2b-prover>) · FineEnvs · 模型与研究 · 首发 2026-11-24 · 仅原文
+- [用 Astra 在公开望远镜数据中寻找系外行星](<https://openai.com/index/searching-for-distant-planets-with-astra/>) · OpenAI · 模型与研究 · 首发 2026-11-24 · 仅原文
+- [在仿真中训练 Microduck 避障并迁移到实机](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>) · NVIDIA · 工程实践 · 首发 2026-11-24 · 仅原文
+- [循环语言模型在哪些任务上受益于更多迭代](<https://huggingface.co/blog/XijieGong/loop-behind-rethinking-where-extra-loops-pay-off-i>) · Xijie Gong · 模型与研究 · 首发 2026-11-24 · 仅原文
+- [开出 PR 后如何用 Claude Code 跟进](<https://claude.dev/blog/the-work-after-you-open-a-pr/>) · Anthropic · 工程实践 · 首发 2026-11-24 · 仅原文
+- [用 Agent Lake 从运行轨迹中找到改进机会](<https://www.langchain.com/blog/the-agent-lake>) · LangChain · 工程实践 · 首发 2026-11-24 · 仅原文
+- [用 DocumentExtractionClient 在 .NET 中提取文档](<https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/>) · Microsoft · 工程实践 · 首发 2026-11-24 · 仅原文
+- [vLLM 首日支持文心 ERNIE 5.5 Flash Preview](<https://vllm.ai/blog/2026-11-24-ernie-5-5-flash-preview>) · vLLM · 基础设施 · 首发 2026-11-24 · 仅原文
+- [过去一年里大语言模型能力的三个转折点](<https://simonwillison.net/2026/Nov/24/llm-inflection-points/>) · Simon Willison · 独立观点 · 首发 2026-11-24 · 仅原文
+- [Visual Studio 11 月更新带来新 Copilot Chat 和评审分组](<https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-faster-workflows-better-reviews/>) · Microsoft · 产品与应用 · 首发 2026-11-24 · 仅原文
+- [用 Agent Retrieval 检索文件和视频并返回来源](<https://developers.googleblog.com/en/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/>) · Google · 工程实践 · 首发 2026-11-24 · 仅原文
+- [GLM-5.4 如何用 Loop Transformer 改善通用编码](<https://z.ai/blog/glm-5.4>) · 智谱 Z.ai · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [Amazon Bedrock 推出 Trusted Access API](<https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/>) · AWS · 产品与应用 · 首发 2026-11-23 · 仅原文
+- [IVE 与 Ivonnet 两种开放文档理解模型](<https://huggingface.co/blog/QuentinJG/ive-release>) · Quentin Macé、Victor Xing、Antoine EDY · 模型与研究 · 首发 2026-11-23 · 仅原文
+- [SageMaker HyperPod Slurm 的托管集群扩展](<https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/>) · AWS · 基础设施 · 首发 2026-11-20 · 仅原文
+- [用 AgentCore Gateway 保护 Agent 工具调用中的敏感数据](<https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/>) · AWS · 评测与安全 · 首发 2026-11-19 · 仅原文
+- [Architect Labs 用 AI 探索并验证 Frostbite CPU 架构](<https://architectlabs.com/blog/frostbite>) · Architect Labs · 工程实践 · 首发 2026-11-18 · 仅原文
+- [如何为长会话 Agent 规划 GKE 节点池](<https://developers.googleblog.com/en/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/>) · Google · 基础设施 · 首发 2026-11-16 · 仅原文
+- [在 TPU 上对齐强化学习训练与推理的计算结果](<https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/>) · Google · 基础设施 · 首发 2026-11-16 · 仅原文
+- [用 MaxText 的上下文并行在 TPU 上训练长上下文模型](<https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/>) · Google · 基础设施 · 首发 2026-11-09 · 仅原文
+- [与智能体语音聊天](<https://cursor.com/cn/changelog/voice-chat>) · Cursor · 产品与应用 · 首发 2026-11-06 · 官方中文版 · [原文](<https://cursor.com/changelog/voice-chat>)
+- [在 Cursor 中构建可上线运行的应用](<https://cursor.com/cn/changelog/build-live-apps>) · Cursor · 产品与应用 · 首发 2026-11-05 · 官方中文版 · [原文](<https://cursor.com/changelog/build-live-apps>)
+- [用 Agile Deliberation 澄清图像分类的模糊边界](<https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/>) · Google · 模型与研究 · 首发 2026-11-04 · 仅原文
+- [用状态加权融合改善长上下文检索](<https://machinelearning.apple.com/research/weighted-state-souping>) · Apple · 模型与研究 · 首发 2026-11 · 仅原文
+- [状态空间模型的门控怎样影响记忆和上下文学习](<https://machinelearning.apple.com/research/gating-memorization-in-context>) · Apple · 模型与研究 · 首发 2026-11 · 仅原文
+- [用 Deep Review 核查技术文档](<https://research.google/blog/analyzing-technical-documents-with-deep-review/>) · Google · 评测与安全 · 首发 2026-10-14 · 仅原文
 
 ## 2026-11-24
 

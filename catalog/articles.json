@@ -4041,7 +4041,7 @@
     "topic": "research",
     "title_zh": "循环语言模型在哪些任务上受益于更多迭代",
     "original_language": "en",
-    "description": "通过消融实验区分循环带来的推理计算量和训练效果，并分析 KV 缓存在不同设计中的作用。",
+    "description": "通过消融实验区分额外循环对当前 Token 预测与对后续 Token 所用 KV 缓存的影响。",
     "author": "Xijie Gong",
     "added_on": "2026-11-25"
   },

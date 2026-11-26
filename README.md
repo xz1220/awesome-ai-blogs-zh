@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 873 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 885 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -216,6 +216,10 @@
 
 - [FineProofEnvs 用强化学习改善小模型的数学证明](<https://huggingface.co/blog/FineEnvs/fineproofenvs-rl-2b-prover>) · 2026-11-24 · 仅原文
 
+#### FrontiersMind
+
+- [NandiBERT 开放支持英语与印度多种语言的编码模型](<https://huggingface.co/blog/FrontiersMind/introducing-nandibert>) · 2026-11-24 · 仅原文
+
 #### Google
 
 - [改进 Transformer 的残差连接](<https://research.google/blog/supercharging-transformer-residual-connections/>) · 2026-11-23 · 仅原文
@@ -293,6 +297,10 @@
 
 - [IVE 与 Ivonnet 两种开放文档理解模型](<https://huggingface.co/blog/QuentinJG/ive-release>) · 2026-11-23 · 仅原文
 
+#### SenseNova
+
+- [SenseNova-RoboRSI 如何结合 VLA 与代码策略](<https://huggingface.co/blog/sensenova/roborsi>) · 2026-11-25 · 仅原文
+
 #### Thinking Machines Lab
 
 - [Mantic 如何用 Tinker 训练可扩展的预测 Agent](<https://thinkingmachines.ai/news/training-a-scalable-forecasting-agent/>) · 2026-11-24 · 仅原文
@@ -321,6 +329,7 @@
 
 #### Anthropic
 
+- [Anthropic 如何验证 Messages API 的 Rust 迁移](<https://www.anthropic.com/research/migrating-api-to-rust>) · 2026-11-25 · 仅原文
 - [Claude 的 MCP 支持分发技能和运行任务](<https://claude.com/resources/articles/skills-over-mcp-tasks-and-more>) · 2026-11-24 · 仅原文
 - [开出 PR 后如何用 Claude Code 跟进](<https://claude.dev/blog/the-work-after-you-open-a-pr/>) · 2026-11-24 · 仅原文
 - [用混沌测试循环为 Claude Docs 上线做准备](<https://claude.dev/blog/chaos-loop-claude-docs-launch/>) · 2026-11-17 · 仅原文
@@ -391,6 +400,7 @@
 
 #### GitHub
 
+- [如何为遗留应用选择下一步改造](<https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/>) · 2026-11-25 · 仅原文
 - [构建 Agent Host Protocol：让会话跨设备接续](<https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/>) · 2026-11-17 · 仅原文
 - [一次编写，跨 Agent 运行：Skills 实践指南](content/GitHub/%E5%AE%98%E6%96%B9/2026-11-12_%E4%B8%80%E6%AC%A1%E7%BC%96%E5%86%99%EF%BC%8C%E8%B7%A8%20Agent%20%E8%BF%90%E8%A1%8C%EF%BC%9ASkills%20%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/>)
 
@@ -408,6 +418,10 @@
 - [Harness Adapter：让模型更适配 Agent 的运行框架](<https://huggingface.co/blog/harness-adapters-at-scale>) · 2026-11-20 · 仅原文
 - [llama.cpp v1.0.0：为本地 AI 生态打基础](<https://huggingface.co/blog/ggml-org/llama-cpp-v1>) · 2026-11-13 · 仅原文
 - [Hugging Face 中的决策模型](content/Hugging%20Face/%E5%AE%98%E6%96%B9/2026-11-10_Hugging%20Face%20%E4%B8%AD%E7%9A%84%E5%86%B3%E7%AD%96%E6%A8%A1%E5%9E%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-10 · 中文译文 · [原文](<https://huggingface.co/blog/decision>)
+
+#### IBM Research
+
+- [用 CUGA 构建支持印度多种语言的语音智能体](<https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga>) · 2026-11-25 · 仅原文
 
 #### Kimi
 
@@ -532,6 +546,7 @@
 
 #### Hugging Face
 
+- [用单张 RTX PRO 6000 优化 Inkling 2 Mini 推理](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>) · 2026-11-25 · 仅原文
 - [用 32GB 内存运行 1800 亿参数 MoE 模型](<https://huggingface.co/blog/moe-expert-streaming>) · 2026-11-18 · 仅原文
 
 #### Lilian Weng
@@ -544,6 +559,7 @@
 
 #### NVIDIA
 
+- [通过寄存器复用优化 RTX Blackwell 上的 NVFP4 注意力](<https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/>) · 2026-11-25 · 仅原文
 - [用 Diffusers 在本地设备运行 Cosmos 3 Nano](<https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/>) · 2026-11-24 · 仅原文
 - [用 NVIDIA Dynamo 缓解强化学习的采样瓶颈](<https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/>) · 2026-11-19 · 仅原文
 - [协同设计稀疏注意力以提升长上下文推理效率](<https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference/>) · 2026-11-17 · 仅原文
@@ -565,6 +581,10 @@
 - [vLLM 迁移到 LibTorch 稳定 ABI](<https://vllm.ai/blog/2026-11-06-stable-abi-cuda>) · 2026-11-06 · 仅原文
 
 ### 评测与安全
+
+#### Allen Institute for AI
+
+- [科学家愿意把哪些研究工作交给 AI 智能体](<https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents>) · 2026-11-25 · 仅原文
 
 #### Anthropic
 
@@ -654,6 +674,7 @@
 
 #### Google
 
+- [用可验证任务评估大语言模型的社交推理](<https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/>) · 2026-11-25 · 仅原文
 - [这真是用户要求的吗？用语义治理策略保护 Agent](<https://developers.googleblog.com/en/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/>) · 2026-11-23 · 仅原文
 - [Agent 异常检测扩展至其他云环境](<https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>) · 2026-11-20 · 仅原文
 - [用外部基准评测 Agent 异常检测](content/Google/%E5%AE%98%E6%96%B9/2026-11-12_%E7%94%A8%E5%A4%96%E9%83%A8%E5%9F%BA%E5%87%86%E8%AF%84%E6%B5%8B%20Agent%20%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
@@ -781,6 +802,7 @@
 
 #### Cloudflare
 
+- [Cloudflare 推出面向 Agent 的站内搜索](<https://blog.cloudflare.com/search-for-agents/>) · 2026-11-25 · 仅原文
 - [Cloudflare 开放新版 Clairic 与 Clairic-flash 权重](<https://blog.cloudflare.com/open-clairic/>) · 2026-11-18 · 仅原文
 
 #### Cockroach Labs
@@ -817,6 +839,8 @@
 
 #### Kimi
 
+- [Kimi Code CLI 2.8.0 改进提示词预测](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.8.0>) · 2026-11-25 · 仅原文
+- [Kimi Code Desktop 1.5.0 增加提示词预测开关](<https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.5.0>) · 2026-11-25 · 仅原文
 - [Kimi Code Desktop 1.4.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.4.0>) · 2026-11-19 · 仅原文
 - [Kimi Code CLI 2.7.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.7.0>) · 2026-11-19 · 仅原文
 - [Kimi Code CLI v2.6.0 发布说明](content/Kimi/%E5%AE%98%E6%96%B9/2026-11-12_Kimi%20Code%20CLI%20v2.6.0%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai/kimi-code%402.6.0>)

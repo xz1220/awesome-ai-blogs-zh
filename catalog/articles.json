@@ -33,6 +33,28 @@
     "added_on": "2026-11-19"
   },
   {
+    "article_id": "0077e07924e43bf7",
+    "company": "IBM Research",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "date": "2026-11-25",
+    "topic": "engineering",
+    "title_zh": "用 CUGA 构建支持印度多种语言的语音智能体",
+    "original_language": "en",
+    "description": "以农业问答为例，说明如何组织本地语言语音交互、领域内检索和范围以外的问题处理。",
+    "author": [
+      "Vrunda Gadesha",
+      "Cyril Shaji",
+      "Jobit Treesa Varughese",
+      "Nivetha Suruliraj",
+      "Anu Sugunan",
+      "Anupama Murthi",
+      "Jaydeep Sen",
+      "Amith Singhee"
+    ],
+    "added_on": "2026-11-26"
+  },
+  {
     "article_id": "00a064e6720eae62",
     "company": "Google",
     "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -400,6 +422,19 @@
     "topic": "research",
     "title_zh": "Softmax 线性单元",
     "chinese_archived": true
+  },
+  {
+    "article_id": "0c715b98f7c82532",
+    "company": "NVIDIA",
+    "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+    "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+    "date": "2026-11-25",
+    "topic": "infrastructure",
+    "title_zh": "通过寄存器复用优化 RTX Blackwell 上的 NVFP4 注意力",
+    "original_language": "en",
+    "description": "解释如何让矩阵乘法和 softmax 计算重叠，并用内核延迟和端到端推理结果检验优化效果。",
+    "author": "Atharva Joshi",
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "0c77ff5e2b269a81",
@@ -3874,6 +3909,19 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "659794d99ce1435c",
+    "company": "SenseNova",
+    "title": "SenseNova-RoboRSI: Integrating VLA and Code as Policy Through Model–Harness Co-Evolution",
+    "url": "https://huggingface.co/blog/sensenova/roborsi",
+    "date": "2026-11-25",
+    "topic": "research",
+    "title_zh": "SenseNova-RoboRSI 如何结合 VLA 与代码策略",
+    "original_language": "en",
+    "description": "了解模型如何在 VLA 动作轨迹与代码控制之间选择，以及团队怎样评估仿真到实机的迁移。",
+    "author": "Bruce",
+    "added_on": "2026-11-26"
+  },
+  {
     "article_id": "65d68f6bba50e6be",
     "company": "Microsoft",
     "title": "Build trusted autonomous agents for your team with Microsoft Foundry",
@@ -4077,6 +4125,18 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "69fbec9981f84b43",
+    "company": "Anthropic",
+    "title": "Migrating our Messages API to Rust",
+    "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+    "date": "2026-11-25",
+    "topic": "engineering",
+    "title_zh": "Anthropic 如何验证 Messages API 的 Rust 迁移",
+    "original_language": "en",
+    "description": "用 Python 版接口作行为对照，说明 Claude 智能体如何发现两种实现的差异，并在修复后反复验证。",
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "6a28e842b3bf4bfd",
@@ -4984,6 +5044,19 @@
     "added_on": "2026-11-23"
   },
   {
+    "article_id": "7d5c43e3274406d0",
+    "company": "GitHub",
+    "title": "How to choose the next safe step in application modernization",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+    "date": "2026-11-25",
+    "topic": "engineering",
+    "title_zh": "如何为遗留应用选择下一步改造",
+    "original_language": "en",
+    "description": "从现有行为和回归验证入手，把应用现代化拆成一次可以验证的小改动，并说明怎样复用这套流程。",
+    "author": "Sam Quakenbush",
+    "added_on": "2026-11-26"
+  },
+  {
     "article_id": "7e61e3d8245b71dd",
     "company": "Anthropic",
     "title": "Project Fetch: Can Claude train a robot dog?",
@@ -5445,6 +5518,19 @@
     "title_zh": "从自编码器到 Beta-VAE",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "88bd06d7e0e9b82f",
+    "company": "Allen Institute for AI",
+    "title": "Where scientists draw the line on AI agents",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "date": "2026-11-25",
+    "topic": "evaluation",
+    "title_zh": "科学家愿意把哪些研究工作交给 AI 智能体",
+    "original_language": "en",
+    "description": "Ai2 访谈了 17 位科学家，讨论哪些工作适合委托给智能体，以及哪些环节需要研究者检查和判断。",
+    "author": "Kyle Wiggers",
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "8905509e5a3e200b",
@@ -6172,6 +6258,24 @@
     "chinese_archived": true
   },
   {
+    "article_id": "9a0c83d52a581fd1",
+    "company": "FrontiersMind",
+    "title": "Introducing NandiBERT",
+    "url": "https://huggingface.co/blog/FrontiersMind/introducing-nandibert",
+    "date": "2026-11-24",
+    "topic": "research",
+    "title_zh": "NandiBERT 开放支持英语与印度多种语言的编码模型",
+    "original_language": "en",
+    "description": "介绍两个参数规模共享的分词器和架构，以及团队如何在不同语言的检索和分类基准上评测它们。",
+    "author": [
+      "Vishesh Tripathi",
+      "Abhay kumar",
+      "Ramsha",
+      "Rohit"
+    ],
+    "added_on": "2026-11-26"
+  },
+  {
     "article_id": "9a9f7eafdd9b739d",
     "company": "AWS",
     "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
@@ -6478,6 +6582,18 @@
     "topic": "archive",
     "title_zh": "马里兰州与 Anthropic 合作，更好地服务本州居民",
     "chinese_archived": true
+  },
+  {
+    "article_id": "9eededa070f60859",
+    "company": "Kimi",
+    "title": "Kimi Code Desktop 1.5.0",
+    "url": "https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.5.0",
+    "date": "2026-11-25",
+    "topic": "products",
+    "title_zh": "Kimi Code Desktop 1.5.0 增加提示词预测开关",
+    "original_language": "en",
+    "description": "桌面端增加下一条提示词预测的开关，并修复等待用户回答时审批或提问提示偶尔无法显示的问题。",
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "9f010bf1251ad8c0",
@@ -6912,6 +7028,24 @@
     "topic": "research",
     "title_zh": "自动化研究员能够可靠地缓解对齐失败",
     "chinese_archived": true
+  },
+  {
+    "article_id": "a9bc069d7df21121",
+    "company": "Cloudflare",
+    "title": "Introducing Search for Agents",
+    "url": "https://blog.cloudflare.com/search-for-agents/",
+    "date": "2026-11-25",
+    "topic": "products",
+    "title_zh": "Cloudflare 推出面向 Agent 的站内搜索",
+    "original_language": "en",
+    "description": "了解 Cloudflare 如何自动索引站点，并通过站点自身域名提供便于 Agent 发现和调用的搜索 API。",
+    "author": [
+      "Celso Martinho",
+      "Gabriel Massadas",
+      "Nelson Duarte",
+      "James Snell"
+    ],
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "a9fea074a323b6b1",
@@ -7867,6 +8001,22 @@
     "topic": "archive",
     "title_zh": "Dario Amodei 关于巴黎人工智能行动峰会的声明",
     "chinese_archived": true
+  },
+  {
+    "article_id": "c232ab95006f02e0",
+    "company": "Google",
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "date": "2026-11-25",
+    "topic": "evaluation",
+    "title_zh": "用可验证任务评估大语言模型的社交推理",
+    "original_language": "en",
+    "description": "通过多智能体模拟构造带有隐藏动机的互动，再检验助手能否从用户叙述中准确理解社交情境。",
+    "author": [
+      "Zorik Gekhman",
+      "Amir Taubenfeld"
+    ],
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "c24a752f033d3398",
@@ -8986,6 +9136,19 @@
     "added_on": "2026-11-25"
   },
   {
+    "article_id": "df3be113c8aed13f",
+    "company": "Hugging Face",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "date": "2026-11-25",
+    "topic": "infrastructure",
+    "title_zh": "用单张 RTX PRO 6000 优化 Inkling 2 Mini 推理",
+    "original_language": "en",
+    "description": "记录团队如何用同一张 GPU 比较推理框架与推测解码配置，并校验吞吐和生成结果。",
+    "author": "Niels Rogge",
+    "added_on": "2026-11-26"
+  },
+  {
     "article_id": "dfacde1aa44cb351",
     "company": "Anthropic",
     "title": "How Anthropic teams use Claude Code",
@@ -9631,6 +9794,18 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "ef4ee4a7d4096ed2",
+    "company": "Kimi",
+    "title": "Kimi Code CLI 2.8.0",
+    "url": "https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.8.0",
+    "date": "2026-11-25",
+    "topic": "products",
+    "title_zh": "Kimi Code CLI 2.8.0 改进提示词预测",
+    "original_language": "en",
+    "description": "查看实验性提示词预测的交互变化，以及子智能体参数、审批提示和后台命令输出的变更。",
+    "added_on": "2026-11-26"
   },
   {
     "article_id": "ef7ad9c97589abff",

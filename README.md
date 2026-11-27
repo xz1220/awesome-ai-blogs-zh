@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 885 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 893 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -237,11 +237,16 @@
 
 #### Hugging Face
 
+- [如何构建、训练与评估多智能体系统](<https://huggingface.co/blog/training-swarms>) · 2026-11-26 · 仅原文
 - [Rumble-2-Flash：支持 40 多种语言的轻量开放语音模型](<https://huggingface.co/blog/rumble-2-flash>) · 2026-11-18 · 仅原文
 
 #### IBM Research
 
 - [在 Streamhouse 中使用时间序列模型](<https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse>) · 2026-11-18 · 仅原文
+
+#### Knowledgator Engineering
+
+- [ModernELECTRA 如何预训练兼顾分类和嵌入的编码器](<https://huggingface.co/blog/knowledgator/modernelectra>) · 2026-11-26 · 仅原文
 
 #### Mark Humphries
 
@@ -461,6 +466,7 @@
 
 #### NVIDIA
 
+- [用公开数据微调 Nemotron 3.5 Parse 并加速推理](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>) · 2026-11-26 · 仅原文
 - [用 Megatron Core 准备市场预测模型的训练数据](<https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core/>) · 2026-11-24 · 仅原文
 - [在仿真中训练 Microduck 避障并迁移到实机](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>) · 2026-11-24 · 仅原文
 - [用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>) · 2026-11-19 · 仅原文
@@ -536,6 +542,10 @@
 
 - [为什么微调耗时比 FLOPs 估算更长](<https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time>) · 2026-11-18 · 仅原文
 
+#### ggml-org
+
+- [llama.cpp 发布 AMD Ryzen 与 Radeon 推理基准面板](<https://huggingface.co/blog/ggml-org/llamacpp-amd-bench>) · 2026-11-26 · 仅原文
+
 #### Google
 
 - [用 MaxText 的 Streaming DiLoCo 跨地区训练大模型](<https://developers.googleblog.com/en/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>) · 2026-11-19 · 仅原文
@@ -594,6 +604,7 @@
 - [构建强大的安全评估体系](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-13_%E6%9E%84%E5%BB%BA%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB.%E4%B8%AD%E6%96%87.md) · 2026-11-13 · 中文译文 · [原文](<https://www.anthropic.com/research/building-strong-safety-evaluations>)
 - [在您的安全边界内运行 Claude 托管智能体](content/Anthropic/%E5%AE%98%E6%96%B9/%E5%B7%A5%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6/2026-11-12_%E5%9C%A8%E6%82%A8%E7%9A%84%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E5%86%85%E8%BF%90%E8%A1%8C%20Claude%20%E6%89%98%E7%AE%A1%E6%99%BA%E8%83%BD%E4%BD%93.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 中文译文 · [原文](<https://claude.com/resources/articles/self-hosted-claude-managed-agents>)
 - [Anthropic 更新独立评估安排](<https://www.anthropic.com/news/an-update-on-independent-evaluators>) · 2026-10-15 · 仅原文
+- [Anthropic 如何评估 Claude 的选举相关回答](<https://www.anthropic.com/news/2026-us-midterms>) · 2026-10-14 · 仅原文
 - [调查我们在评估和内部使用中发现的非预期模型行为](<https://www.anthropic.com/research/investigating-unintended-model-actions>) · 2026-10-09 · 已有中文全文（本库未公开）
 - [前沿红队](<https://www.anthropic.com/research/team/frontier-red-team>) · 2026-10-08 · 已有中文全文（本库未公开）
 - [与 Accenture 合作开展嵌入式评估](<https://www.anthropic.com/news/accenture-embedded-evaluation>) · 2026-09-18 · 已有中文全文（本库未公开）
@@ -862,6 +873,7 @@
 
 #### MiniMax
 
+- [MiniMax H3 系列的模型、社区与后续计划](<https://www.minimax.io/blog/minimax-h3-family>) · 2026-11-26 · 仅原文
 - [MiniMax 发布 H3-Image，开放 4K 图像生成模型](<https://www.minimax.cn/blog/minimax-h3-image>) · 2026-11-10 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-h3-image>)
 - [MiniMax 发布 M3.1 Flash](<https://www.minimax.cn/blog/minimax-m31f>) · 2026-10-19 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-m31f>)
 
@@ -891,6 +903,8 @@
 
 #### Qwen
 
+- [Qwen Code v0.28.6 支持托管会话暂停与恢复](<https://github.com/QwenLM/qwen-code/releases/tag/v0.28.6>) · 2026-11-26 · 仅原文
+- [Qwen Code v0.28.7 的 CLI 支持 Harness 内核](<https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7>) · 2026-11-26 · 仅原文
 - [Qwen Code 周报：Qwen4-Max、多会话 Worktree 与群聊推送](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/>) · 2026-11-19 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-19/>)
 - [Qwen4-Max：新同事，已就位](<https://qwen.ai/blog?id=qwen4-max>) · 2026-11-16 · 中文原文
 - [Qwen Code 功能周报：2026 年 11 月 12 日](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-12_Qwen%20Code%20%E5%8A%9F%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BC%9A2026%20%E5%B9%B4%2011%20%E6%9C%88%2012%20%E6%97%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/>)

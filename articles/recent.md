@@ -1,12 +1,23 @@
 # 近 7 天新增
 
-<!-- recent-as-of: 2026-11-26 -->
+<!-- recent-as-of: 2026-11-27 -->
 
 [查看完整目录](../README.md#按主题阅读)
 
-**2026-11-20 至 2026-11-26（北京时间）** · **新增 146 篇**
+**2026-11-21 至 2026-11-27（北京时间）** · **新增 126 篇**
 
 按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。
+
+## 2026-11-27
+
+- [Qwen Code v0.28.6 支持托管会话暂停与恢复](<https://github.com/QwenLM/qwen-code/releases/tag/v0.28.6>) · Qwen · 产品与应用 · 首发 2026-11-26 · 仅原文
+- [MiniMax H3 系列的模型、社区与后续计划](<https://www.minimax.io/blog/minimax-h3-family>) · MiniMax · 产品与应用 · 首发 2026-11-26 · 仅原文
+- [ModernELECTRA 如何预训练兼顾分类和嵌入的编码器](<https://huggingface.co/blog/knowledgator/modernelectra>) · Knowledgator Engineering · 模型与研究 · 首发 2026-11-26 · 仅原文
+- [llama.cpp 发布 AMD Ryzen 与 Radeon 推理基准面板](<https://huggingface.co/blog/ggml-org/llamacpp-amd-bench>) · ggml-org · 基础设施 · 首发 2026-11-26 · 仅原文
+- [如何构建、训练与评估多智能体系统](<https://huggingface.co/blog/training-swarms>) · Hugging Face · 模型与研究 · 首发 2026-11-26 · 仅原文
+- [用公开数据微调 Nemotron 3.5 Parse 并加速推理](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>) · NVIDIA · 工程实践 · 首发 2026-11-26 · 仅原文
+- [Qwen Code v0.28.7 的 CLI 支持 Harness 内核](<https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7>) · Qwen · 产品与应用 · 首发 2026-11-26 · 仅原文
+- [Anthropic 如何评估 Claude 的选举相关回答](<https://www.anthropic.com/news/2026-us-midterms>) · Anthropic · 评测与安全 · 首发 2026-10-14 · 仅原文
 
 ## 2026-11-26
 
@@ -143,34 +154,3 @@
 - [Thinking Machines Lab 发布 Inkling 2 Small](<https://thinkingmachines.ai/news/inkling-2-small/>) · Thinking Machines Lab · 产品与应用 · 首发 2026-11-05 · 仅原文
 - [MiniMax 发布 M3.1 Flash](<https://www.minimax.cn/blog/minimax-m31f>) · MiniMax · 产品与应用 · 首发 2026-10-19 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-m31f>)
 - [Tinker 一年：把领域经验转成定制模型](<https://thinkingmachines.ai/news/one-year-of-tinker/>) · Thinking Machines Lab · 工程实践 · 首发 2026-10-15 · 仅原文
-
-## 2026-11-20
-
-- [用 SageMaker AI 跨区域路由缓解推理容量短缺](<https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/>) · AWS · 基础设施 · 首发 2026-11-19 · 仅原文
-- [Bedrock AgentCore 新增 Strands 默认配置、内置工具与生命周期钩子](<https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/>) · AWS · 工程实践 · 首发 2026-11-19 · 仅原文
-- [用 AI Agent 在 Rust 中构建工具调用解析器](<https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/>) · NVIDIA · 工程实践 · 首发 2026-11-19 · 仅原文
-- [LangSmith Tool Gateway：集中治理 Agent 的工具调用](<https://www.langchain.com/blog/langsmith-tool-gateway>) · LangChain · 工程实践 · 首发 2026-11-19 · 仅原文
-- [OpenAI 的 Performance Factory 如何让 ChatGPT 保持快速](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/>) · OpenAI · 工程实践 · 首发 2026-11-19 · 仅原文
-- [用提示词为 GPT-Live 设计语言和地区口音](<https://developers.openai.com/blog/prompting-multilingual-voice-agents>) · OpenAI · 工程实践 · 首发 2026-11-19 · 仅原文
-- [GitHub Copilot 应用与 Azure DevOps 集成进入公测](<https://devblogs.microsoft.com/devops/azure-devops-integration-with-the-github-copilot-app-public-preview/>) · Microsoft · 产品与应用 · 首发 2026-11-19 · 仅原文
-- [SageMaker AI 如何识别推理端点的延迟漂移与 GPU 闲置](<https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/>) · AWS · 基础设施 · 首发 2026-11-19 · 仅原文
-- [用 GPU 原生数据采集为科研仪器提供实时 AI](<https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/>) · NVIDIA · 工程实践 · 首发 2026-11-19 · 仅原文
-- [让 Gemini 在 Mac 上操作应用和处理重复任务](<https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/>) · Google · 产品与应用 · 首发 2026-11-19 · 仅原文
-- [在 Microsoft Foundry 为团队构建可信的自主 Agent](<https://devblogs.microsoft.com/foundry/build-trusted-autonomous-agents-for-your-team-with-microsoft-foundry/>) · Microsoft · 工程实践 · 首发 2026-11-19 · 仅原文
-- [Kimi Code Desktop 1.4.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/kimi-code-desktop%401.4.0>) · Kimi · 产品与应用 · 首发 2026-11-19 · 仅原文
-- [在 Google TPU 上用 Tunix 与 Gemma 4 做多轮 Agent 强化学习](<https://developers.googleblog.com/en/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/>) · Google · 模型与研究 · 首发 2026-11-19 · 仅原文
-- [宝马集团如何治理数百个 Agent](<https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/>) · AWS · 工程实践 · 首发 2026-11-19 · 仅原文
-- [用 MaxText 的 Streaming DiLoCo 跨地区训练大模型](<https://developers.googleblog.com/en/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/>) · Google · 基础设施 · 首发 2026-11-19 · 仅原文
-- [用 NVIDIA Dynamo 缓解强化学习的采样瓶颈](<https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/>) · NVIDIA · 基础设施 · 首发 2026-11-19 · 仅原文
-- [Gemini API 推出工具检索](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/>) · Google · 工程实践 · 首发 2026-11-19 · 仅原文
-- [Kimi Code CLI 2.7.0 发布](<https://github.com/MoonshotAI/kimi-code/releases/tag/%40moonshot-ai%2Fkimi-code%402.7.0>) · Kimi · 产品与应用 · 首发 2026-11-19 · 仅原文
-- [在 Streamhouse 中使用时间序列模型](<https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse>) · IBM Research · 模型与研究 · 首发 2026-11-18 · 仅原文
-- [让 Gemini 按计划执行任务](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/>) · Google · 产品与应用 · 首发 2026-11-17 · 仅原文
-- [从任务到目标](<https://www.langchain.com/blog/from-tasks-to-goals>) · LangChain · 工程实践 · 首发 2026-11-16 · 仅原文
-- [在 AWS 用 A2A 搭建可组合的多 Agent 系统](<https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/>) · AWS · 工程实践 · 首发 2026-11-12 · 仅原文
-- [Gemini Decisions API：快速且经过校准的多模态判断](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/>) · Google · 模型与研究 · 首发 2026-11-11 · 仅原文
-- [MotionGraphicsBench：用程序校验评估动态图形生成](<https://huggingface.co/blog/figma-ai/motion-graphics-bench>) · Figma · 评测与安全 · 首发 2026-11-10 · 仅原文
-- [当网站访问者是受用户委托的 Agent](<https://blog.cloudflare.com/trusted-agent-delegation/>) · Cloudflare · 评测与安全 · 首发 2026-11-05 · 仅原文
-- [从合成企业数据到可信的 Copilot 评估](<https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/>) · Microsoft Research · 评测与安全 · 首发 2026-10-30 · 仅原文
-- [Claude 的 AI for Science 计划扩展到基金会与研究机构](<https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions>) · Anthropic · 模型与研究 · 首发 2026-10-28 · 仅原文
-- [用 OpenWiki 和图结构为 Agent 搭建可追溯的记忆](<https://www.langchain.com/blog/building-agent-memory-openwiki-graphs>) · LangChain · 工程实践 · 首发 2026-10-28 · 仅原文

@@ -2120,6 +2120,18 @@
     "added_on": "2026-11-20"
   },
   {
+    "article_id": "3a1fb42fcbe33fb6",
+    "company": "Qwen",
+    "title": "Release v0.28.7",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.7",
+    "date": "2026-11-26",
+    "topic": "products",
+    "title_zh": "Qwen Code v0.28.7 的 CLI 支持 Harness 内核",
+    "original_language": "en",
+    "description": "说明 CLI 用量统计的默认设置，以及 Web Shell 首条消息如何应用选中的思考强度。",
+    "added_on": "2026-11-27"
+  },
+  {
     "article_id": "3ac21b56f945c964",
     "company": "Anthropic",
     "title": "Anthropic launches higher education advisory board and AI Fluency courses",
@@ -2184,6 +2196,23 @@
     "title_zh": "元学习：学会快速学习",
     "author": "Lilian Weng",
     "chinese_archived": true
+  },
+  {
+    "article_id": "3d2697b636d74b83",
+    "company": "NVIDIA",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "date": "2026-11-26",
+    "topic": "engineering",
+    "title_zh": "用公开数据微调 Nemotron 3.5 Parse 并加速推理",
+    "original_language": "en",
+    "description": "介绍怎样用监督微调和基于可验证奖励的强化学习改善页面图像解析，再用推测解码提高推理速度。",
+    "author": [
+      "Ryan Chesler",
+      "Marek Wawrzos",
+      "Steve Han"
+    ],
+    "added_on": "2026-11-27"
   },
   {
     "article_id": "3d720eba4a3d0629",
@@ -5216,6 +5245,22 @@
     "chinese_archived": true
   },
   {
+    "article_id": "819f2bb8e324e5e7",
+    "company": "Hugging Face",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "date": "2026-11-26",
+    "topic": "research",
+    "title_zh": "如何构建、训练与评估多智能体系统",
+    "original_language": "en",
+    "description": "以四个智能体协作排序为例，讨论如何训练协作，以及比较多智能体与单智能体时怎样控制计算量。",
+    "author": [
+      "ben burtenshaw",
+      "Kashif Rasul"
+    ],
+    "added_on": "2026-11-27"
+  },
+  {
     "article_id": "823aee61729ce129",
     "company": "Anthropic",
     "title": "Measuring LLMs’ impact on N-day exploits",
@@ -6949,6 +6994,23 @@
     "chinese_archived": true
   },
   {
+    "article_id": "a734da9d3a1d8760",
+    "company": "ggml-org",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "date": "2026-11-26",
+    "topic": "infrastructure",
+    "title_zh": "llama.cpp 发布 AMD Ryzen 与 Radeon 推理基准面板",
+    "original_language": "en",
+    "description": "可按硬件、模型、量化和构建版本比较提示词处理与文本生成吞吐，文章说明实验条件和结果复用方法。",
+    "author": [
+      "angt",
+      "Simon Pagezy",
+      "Abdennacer Badaoui"
+    ],
+    "added_on": "2026-11-27"
+  },
+  {
     "article_id": "a73ca17bb3862060",
     "company": "AWS",
     "title": "Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models",
@@ -7169,6 +7231,18 @@
     "topic": "research",
     "title_zh": "进一步了解 Claude 的数学能力",
     "chinese_archived": true
+  },
+  {
+    "article_id": "ad577cc4d385593c",
+    "company": "Anthropic",
+    "title": "Preparing for the 2026 US midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "date": "2026-10-14",
+    "topic": "evaluation",
+    "title_zh": "Anthropic 如何评估 Claude 的选举相关回答",
+    "original_language": "en",
+    "description": "补录 Anthropic 对选举相关使用场景的分析，以及该公司如何评估政治偏差、处理滥用并提供可靠的投票信息。",
+    "added_on": "2026-11-27"
   },
   {
     "article_id": "ad5b9db8ae2b02cb",
@@ -7606,6 +7680,24 @@
     "description": "说明同一编码 Agent 如何通过不同界面工作，并比较适用场景。",
     "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/",
     "added_on": "2026-11-19"
+  },
+  {
+    "article_id": "b4ec5eaaba83e8bb",
+    "company": "Knowledgator Engineering",
+    "title": "The Illustrated ModernELECTRA: a new pre-training recipe for BERT-like models that classify and embed",
+    "url": "https://huggingface.co/blog/knowledgator/modernelectra",
+    "date": "2026-11-26",
+    "topic": "research",
+    "title_zh": "ModernELECTRA 如何预训练兼顾分类和嵌入的编码器",
+    "original_language": "en",
+    "description": "结合替换词元检测与边界窗口重建，分析小型编码器怎样兼顾分类与向量表示。",
+    "author": [
+      "Mykhailo Shtopko",
+      "Stepanov",
+      "Dmytro",
+      "Oleksandr Lukashov"
+    ],
+    "added_on": "2026-11-27"
   },
   {
     "article_id": "b5129d6fc89af52d",
@@ -8212,6 +8304,18 @@
     "added_on": "2026-11-24"
   },
   {
+    "article_id": "c45338ea2abd138c",
+    "company": "MiniMax",
+    "title": "The H3 Family: Models, Community, and What's Next",
+    "url": "https://www.minimax.io/blog/minimax-h3-family",
+    "date": "2026-11-26",
+    "topic": "products",
+    "title_zh": "MiniMax H3 系列的模型、社区与后续计划",
+    "original_language": "en",
+    "description": "介绍 H3 与 H3-Image 旗舰模型、社区衍生模型及其使用场景和开放计划。",
+    "added_on": "2026-11-27"
+  },
+  {
     "article_id": "c4a1f46e5a98744a",
     "company": "Anthropic",
     "title": "Introducing the Anthropic Cyber Mission",
@@ -8509,6 +8613,18 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "cc7c15279b456959",
+    "company": "Qwen",
+    "title": "Release v0.28.6",
+    "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.28.6",
+    "date": "2026-11-26",
+    "topic": "products",
+    "title_zh": "Qwen Code v0.28.6 支持托管会话暂停与恢复",
+    "original_language": "en",
+    "description": "托管会话可以在等待工具审批、用户回复或后台任务时暂停，并在 Harness 异常后恢复。",
+    "added_on": "2026-11-27"
   },
   {
     "article_id": "cd349dc891ab2a34",

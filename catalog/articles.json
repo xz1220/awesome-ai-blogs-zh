@@ -805,6 +805,20 @@
     "translation_model": "kimi-code/k3-256k"
   },
   {
+    "article_id": "147cb7ce976477a9",
+    "company": "Qwen",
+    "title": "Qwen Code Weekly: Remote Connections Get Their Own Switch, GitHub Events Push Sessions Forward, and Session Status Is Clear at a Glance",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-05/",
+    "date": "2026-11-05",
+    "topic": "products",
+    "title_zh": "Qwen Code 周报：远程连接更方便，GitHub 动态推进会话，会话状态更清楚",
+    "original_language": "en",
+    "description": "介绍远程连接开关、将 GitHub 事件送到关联会话，以及 Web Shell 的会话状态显示。",
+    "author": "Qwen Team",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-05/",
+    "added_on": "2026-11-28"
+  },
+  {
     "article_id": "14dfeb9efb8e1015",
     "company": "独立作者",
     "title": "Just Talk To It — the no-bs Way of Agentic Engineering",
@@ -1007,6 +1021,20 @@
     },
     "qa": "passed",
     "translation_model": "kimi-code/k3-256k"
+  },
+  {
+    "article_id": "1ab04ffd3d967ffb",
+    "company": "Qwen",
+    "title": "Qwen Code Weekly: Change a Number on the Card and the Result Recalculates, Saved Workflows Work from Any Subdirectory, One Command Group Runs Web Shell",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-22/",
+    "date": "2026-10-22",
+    "topic": "products",
+    "title_zh": "Qwen Code 周报：交互卡片随手调，项目工作流随处用，Web Shell 统一管理",
+    "original_language": "en",
+    "description": "介绍可重新计算的交互卡片、子目录复用项目工作流和统一管理 Web Shell 的命令。",
+    "author": "Qwen Team",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-22/",
+    "added_on": "2026-11-28"
   },
   {
     "article_id": "1ae1242aef833c9b",
@@ -1561,6 +1589,19 @@
     "chinese_archived": true
   },
   {
+    "article_id": "2ae8e716e72cc825",
+    "company": "FINAL-Bench",
+    "title": "AI Model Market Daily: Reading AI Models Like a Stock Market Board",
+    "url": "https://huggingface.co/blog/FINAL-Bench/ai-model-market-daily-reading-ai-models-like-a-sto",
+    "date": "2026-11-27",
+    "topic": "evaluation",
+    "title_zh": "AI Model Market Daily 如何整理模型用量、能力与安全数据",
+    "original_language": "en",
+    "description": "介绍如何将模型用量、跨基准成绩与供应链检查并列展示，并通过每日快照追溯指标。",
+    "author": "VIDRAFT_LAB",
+    "added_on": "2026-11-28"
+  },
+  {
     "article_id": "2b501e277755307b",
     "company": "Anthropic",
     "title": "Claude Project Glasswing",
@@ -2016,6 +2057,20 @@
     "date": "2026-10-07",
     "topic": "products",
     "chinese_archived": true
+  },
+  {
+    "article_id": "37b6d64e05b9b39c",
+    "company": "Qwen",
+    "title": "Qwen Code Weekly: @ Claude Code or Codex as Teammates, One Page Connects Several Qwen Code Projects, Name an MCP Server to Drop at Startup",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-15/",
+    "date": "2026-10-15",
+    "topic": "products",
+    "title_zh": "Qwen Code 周报：@ Claude Code、Codex 当队友，一个页面连几个 Qwen Code 项目，启动时点名去掉 MCP 服务",
+    "original_language": "en",
+    "description": "介绍如何在同一对话里协同不同编码助手、从一个页面查看多个项目，以及在启动时按需禁用某个 MCP 服务。",
+    "author": "Qwen Team",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-15/",
+    "added_on": "2026-11-28"
   },
   {
     "article_id": "37d6c50bc5a04cea",
@@ -2856,6 +2911,34 @@
     "added_on": "2026-11-19"
   },
   {
+    "article_id": "4a9a7ca0f94314dc",
+    "company": "Kandinsky Lab",
+    "title": "KVAE-3.0: Extending Tokenizers Capabilities with Latent Alignment",
+    "url": "https://huggingface.co/blog/kandinskylab/kvae-3",
+    "date": "2026-11-27",
+    "topic": "research",
+    "title_zh": "KVAE 3.0 用潜在空间对齐改进多模态编码器",
+    "original_language": "en",
+    "description": "介绍图像、视频和音频编码器的设计与训练，并比较重建和生成表现。",
+    "author": [
+      "Kirill Chernyshev",
+      "Ivan Kirillov",
+      "Kirill Malakhov",
+      "Valeriya Kobenko",
+      "Alexander Ivanov",
+      "Andrei Shutkin",
+      "Egor Silvestrov",
+      "David Chikovani",
+      "Ilya Vasiliev",
+      "Ilya Trushkin",
+      "Azat Saginbaev",
+      "Denis",
+      "Ivan Mikheev",
+      "scalyvladimir"
+    ],
+    "added_on": "2026-11-28"
+  },
+  {
     "article_id": "4ba107b71a0707f9",
     "company": "Anthropic",
     "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
@@ -3221,6 +3304,19 @@
     "original_language": "zh",
     "description": "审稿人解释架构命名、设计选择和研究原型的边界。",
     "author": "崔添翼"
+  },
+  {
+    "article_id": "5428c0521e27d389",
+    "company": "独立作者",
+    "title": "Proactivity Can Read as Sabotage",
+    "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html",
+    "date": "2026-11-27",
+    "topic": "perspectives",
+    "title_zh": "为什么 AI 的主动操作会被解读为破坏",
+    "original_language": "en",
+    "description": "Drew Breunig 讨论未预期的智能体行为怎样影响信任，以及为什么需要执行记录和可复现实验来检验相关说法。",
+    "author": "Drew Breunig",
+    "added_on": "2026-11-28"
   },
   {
     "article_id": "543c99d1a39c17b8",
@@ -8144,6 +8240,23 @@
     "chinese_url": "https://openai.com/zh-Hans-CN/index/equip-responses-api-computer-environment/"
   },
   {
+    "article_id": "c2bd7953104652e4",
+    "company": "Hugging Face",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "date": "2026-11-27",
+    "topic": "infrastructure",
+    "title_zh": "在 AWS Trainium3 上用 LTX-2.5 生成有声视频",
+    "original_language": "en",
+    "description": "记录将视频生成模型迁移到 Trainium3 时遇到的编译和性能问题，以及团队怎样测量端到端生成速度。",
+    "author": [
+      "David Corvoysier",
+      "Jingya Huang",
+      "Sayak Paul"
+    ],
+    "added_on": "2026-11-28"
+  },
+  {
     "article_id": "c2c536427a66b7cf",
     "company": "AWS",
     "title": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
@@ -9934,6 +10047,20 @@
     "original_language": "en",
     "description": "用数据库运维场景了解专用知识如何接入通用 Agent。",
     "added_on": "2026-11-19"
+  },
+  {
+    "article_id": "efc5fadd23f17cc1",
+    "company": "Qwen",
+    "title": "Qwen Code Weekly: /autofix-pr Keeps a PR Moving After You Open It, Scheduled Tasks Clear a Gate Before the Model Runs, qwen attach Brings a Background Session Back to the Terminal",
+    "url": "https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-29/",
+    "date": "2026-10-29",
+    "topic": "products",
+    "title_zh": "Qwen Code 周报：PR 提交后自动跟进，定时任务加了道闸门，后台会话在终端里接着聊",
+    "original_language": "en",
+    "description": "围绕 PR 后续处理、定时任务的运行条件和恢复后台会话，说明这一周的工作流改进。",
+    "author": "Qwen Team",
+    "chinese_url": "https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-29/",
+    "added_on": "2026-11-28"
   },
   {
     "article_id": "efcd29611b5022c6",

@@ -1,12 +1,23 @@
 # 近 7 天新增
 
-<!-- recent-as-of: 2026-11-27 -->
+<!-- recent-as-of: 2026-11-28 -->
 
 [查看完整目录](../README.md#按主题阅读)
 
-**2026-11-21 至 2026-11-27（北京时间）** · **新增 126 篇**
+**2026-11-22 至 2026-11-28（北京时间）** · **新增 102 篇**
 
 按首次收录日期倒序，含近期补录的旧文，不含建库时批量导入的存量文章。目录每日滚动更新。
+
+## 2026-11-28
+
+- [在 AWS Trainium3 上用 LTX-2.5 生成有声视频](<https://huggingface.co/blog/video-trainium3>) · Hugging Face · 基础设施 · 首发 2026-11-27 · 仅原文
+- [为什么 AI 的主动操作会被解读为破坏](<https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html>) · Drew Breunig · 独立观点 · 首发 2026-11-27 · 仅原文
+- [KVAE 3.0 用潜在空间对齐改进多模态编码器](<https://huggingface.co/blog/kandinskylab/kvae-3>) · Kandinsky Lab · 模型与研究 · 首发 2026-11-27 · 仅原文
+- [AI Model Market Daily 如何整理模型用量、能力与安全数据](<https://huggingface.co/blog/FINAL-Bench/ai-model-market-daily-reading-ai-models-like-a-sto>) · FINAL-Bench · 评测与安全 · 首发 2026-11-27 · 仅原文
+- [Qwen Code 周报：远程连接更方便，GitHub 动态推进会话，会话状态更清楚](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-05/>) · Qwen · 产品与应用 · 首发 2026-11-05 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-05/>)
+- [Qwen Code 周报：PR 提交后自动跟进，定时任务加了道闸门，后台会话在终端里接着聊](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-29/>) · Qwen · 产品与应用 · 首发 2026-10-29 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-29/>)
+- [Qwen Code 周报：交互卡片随手调，项目工作流随处用，Web Shell 统一管理](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-22/>) · Qwen · 产品与应用 · 首发 2026-10-22 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-22/>)
+- [Qwen Code 周报：@ Claude Code、Codex 当队友，一个页面连几个 Qwen Code 项目，启动时点名去掉 MCP 服务](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-15/>) · Qwen · 产品与应用 · 首发 2026-10-15 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-15/>)
 
 ## 2026-11-27
 
@@ -119,38 +130,3 @@
 - [Gemini 4 Carbon 开放使用](<https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/>) · Google DeepMind · 产品与应用 · 首发 2026-11-10 · 仅原文
 - [JPMorganChase 扩大 Claude Code 的使用范围](<https://claude.com/resources/articles/jpmorganchase-expands-claude-code>) · Anthropic · 产品与应用 · 首发 2026-11-09 · 仅原文
 - [用 Language Explorer 探索世界语言](<https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/>) · Google · 模型与研究 · 首发 2026-11-09 · 仅原文
-
-## 2026-11-21
-
-- [Agent 异常检测扩展至其他云环境](<https://developers.googleblog.com/en/agent-anomaly-detection-safeguarding-agents-across-other-clouds/>) · Google · 评测与安全 · 首发 2026-11-20 · 仅原文
-- [用 Foundry Managed Compute 部署开放模型](<https://devblogs.microsoft.com/foundry/managed-compute-ga/>) · Microsoft · 基础设施 · 首发 2026-11-20 · 仅原文
-- [Copilot 代码审查在 Azure Repos 正式可用](<https://devblogs.microsoft.com/devops/copilot-code-reviews-for-azure-repos-is-generally-available/>) · Microsoft · 产品与应用 · 首发 2026-11-20 · 仅原文
-- [在 Codex 中用 Ultrafast 保持开发节奏](<https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast>) · OpenAI · 工程实践 · 首发 2026-11-20 · 仅原文
-- [SageMaker HyperPod 增强训练可观测性](<https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/>) · AWS · 基础设施 · 首发 2026-11-20 · 仅原文
-- [将内部 Cloud Run MCP 服务安全接入 Gemini Enterprise](<https://developers.googleblog.com/en/how-to-securely-connect-internal-cloud-run-mcp-servers-to-gemini-enterprise/>) · Google · 工程实践 · 首发 2026-11-20 · 仅原文
-- [Amazon Textract Insights：可核查的文档理解](<https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/>) · AWS · 产品与应用 · 首发 2026-11-20 · 仅原文
-- [Thinking Machines Lab 发布 Inkling 2 Mini](<https://thinkingmachines.ai/news/inkling-2-mini/>) · Thinking Machines Lab · 产品与应用 · 首发 2026-11-20 · 仅原文
-- [渣打银行集团自动化生成式 AI 风险评估的实践](<https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/>) · AWS · 评测与安全 · 首发 2026-11-20 · 仅原文
-- [用分布式 KV 缓存降低自托管模型成本和延迟](<https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/>) · AWS · 基础设施 · 首发 2026-11-20 · 仅原文
-- [Harness Adapter：让模型更适配 Agent 的运行框架](<https://huggingface.co/blog/harness-adapters-at-scale>) · Hugging Face · 工程实践 · 首发 2026-11-20 · 仅原文
-- [Depth Pro 2：清晰且时序一致的单目深度估计](<https://machinelearning.apple.com/research/depth-pro-2-monocular>) · Apple · 模型与研究 · 首发 2026-11-20 · 仅原文
-- [MedChemBench：评估 AI 在药物化学中的能力](<https://openai.com/index/introducing-medchembench/>) · OpenAI · 评测与安全 · 首发 2026-11-20 · 仅原文
-- [应对未经授权的模型蒸馏](<https://openai.com/index/combatting-adversarial-distillation/>) · OpenAI · 评测与安全 · 首发 2026-11-20 · 仅原文
-- [在 Azure SQL Database 中为 RAG 拆分文档](<https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/>) · Microsoft · 工程实践 · 首发 2026-11-20 · 仅原文
-- [从 Google Duplex 到 Gemini 代打商家电话](<https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/>) · Google · 工程实践 · 首发 2026-11-20 · 仅原文
-- [个人 Agent 的时间感知与异步输入](<https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents>) · OpenAI · 工程实践 · 首发 2026-11-20 · 仅原文
-- [SageMaker HyperPod 推出全局推理网关](<https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/>) · AWS · 基础设施 · 首发 2026-11-20 · 仅原文
-- [Hebbia 如何用 GPT-6 Astra 改进金融研究](<https://openai.com/business/customer-stories/hebbia/>) · OpenAI · 产品与应用 · 首发 2026-11-20 · 仅原文
-- [Ayb：面向亚美尼亚语的语言模型](<https://huggingface.co/blog/Metric-AI/ayb-05-intro>) · Metric AI · 模型与研究 · 首发 2026-11-20 · 仅原文
-- [vLLM 首日支持循环架构模型 Inkling 2 Mini](<https://vllm.ai/blog/2026-11-20-inkling2-mini>) · vLLM · 基础设施 · 首发 2026-11-20 · 仅原文
-- [在 Gemini Enterprise 自定义界面中处理多层认证](<https://developers.googleblog.com/en/how-to-handle-user-connector-and-agent-auth-in-gemini-enterprise-with-a-custom-ui/>) · Google · 工程实践 · 首发 2026-11-20 · 仅原文
-- [Qwen Code 周报：Qwen4-Max、多会话 Worktree 与群聊推送](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-19/>) · Qwen · 产品与应用 · 首发 2026-11-19 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-19/>)
-- [为什么 Agent 治理要从可观测性开始](<https://www.langchain.com/blog/agent-governance-observability>) · LangChain · 评测与安全 · 首发 2026-11-19 · 仅原文
-- [在 Kimi Code CLI 中使用 Amazon Bedrock 模型](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>) · AWS · 工程实践 · 首发 2026-11-19 · 仅原文
-- [公开评测如何发挥作用、怎样失效，又该怎么改](<https://eugeneyan.com/writing/public-evals>) · Eugene Yan · 独立观点 · 首发 2026-11-19 · 仅原文
-- [端到端的 4 位训练](<https://thinkingmachines.ai/blog/end-to-end-4-bit-training/>) · Thinking Machines Lab · 模型与研究 · 首发 2026-11-13 · 仅原文
-- [用 Claude Opus 5.5 处理日常知识工作](<https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work>) · Anthropic · 产品与应用 · 首发 2026-11-12 · 仅原文
-- [MiniMax 发布 H3-Image，开放 4K 图像生成模型](<https://www.minimax.cn/blog/minimax-h3-image>) · MiniMax · 产品与应用 · 首发 2026-11-10 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-h3-image>)
-- [Thinking Machines Lab 发布 Inkling 2 Small](<https://thinkingmachines.ai/news/inkling-2-small/>) · Thinking Machines Lab · 产品与应用 · 首发 2026-11-05 · 仅原文
-- [MiniMax 发布 M3.1 Flash](<https://www.minimax.cn/blog/minimax-m31f>) · MiniMax · 产品与应用 · 首发 2026-10-19 · 官方中文版 · [原文](<https://www.minimax.io/blog/minimax-m31f>)
-- [Tinker 一年：把领域经验转成定制模型](<https://thinkingmachines.ai/news/one-year-of-tinker/>) · Thinking Machines Lab · 工程实践 · 首发 2026-10-15 · 仅原文

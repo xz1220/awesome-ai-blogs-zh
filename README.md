@@ -6,7 +6,7 @@
 
 ## 按主题阅读
 
-已收录 893 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
+已收录 901 篇。每个主题按来源分组，同一来源的文章按首发日期倒序排列，日期不详的放在最后。
 
 点击标题直接阅读，有公开中文版时优先打开中文。「已有中文全文（本库未公开）」表示已核对存档译文，标题仍指向原文；「仅原文」表示当前只收录了原文。
 
@@ -243,6 +243,10 @@
 #### IBM Research
 
 - [在 Streamhouse 中使用时间序列模型](<https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse>) · 2026-11-18 · 仅原文
+
+#### Kandinsky Lab
+
+- [KVAE 3.0 用潜在空间对齐改进多模态编码器](<https://huggingface.co/blog/kandinskylab/kvae-3>) · 2026-11-27 · 仅原文
 
 #### Knowledgator Engineering
 
@@ -556,6 +560,7 @@
 
 #### Hugging Face
 
+- [在 AWS Trainium3 上用 LTX-2.5 生成有声视频](<https://huggingface.co/blog/video-trainium3>) · 2026-11-27 · 仅原文
 - [用单张 RTX PRO 6000 优化 Inkling 2 Mini 推理](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>) · 2026-11-25 · 仅原文
 - [用 32GB 内存运行 1800 亿参数 MoE 模型](<https://huggingface.co/blog/moe-expert-streaming>) · 2026-11-18 · 仅原文
 
@@ -678,6 +683,10 @@
 #### Figma
 
 - [MotionGraphicsBench：用程序校验评估动态图形生成](<https://huggingface.co/blog/figma-ai/motion-graphics-bench>) · 2026-11-10 · 仅原文
+
+#### FINAL-Bench
+
+- [AI Model Market Daily 如何整理模型用量、能力与安全数据](<https://huggingface.co/blog/FINAL-Bench/ai-model-market-daily-reading-ai-models-like-a-sto>) · 2026-11-27 · 仅原文
 
 #### GitHub
 
@@ -909,7 +918,11 @@
 - [Qwen4-Max：新同事，已就位](<https://qwen.ai/blog?id=qwen4-max>) · 2026-11-16 · 中文原文
 - [Qwen Code 功能周报：2026 年 11 月 12 日](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-12_Qwen%20Code%20%E5%8A%9F%E8%83%BD%E5%91%A8%E6%8A%A5%EF%BC%9A2026%20%E5%B9%B4%2011%20%E6%9C%88%2012%20%E6%97%A5.%E4%B8%AD%E6%96%87.md) · 2026-11-12 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-12/>)
 - [Qwen Code 1.0 Preview 发布说明](content/Qwen/%E5%AE%98%E6%96%B9/2026-11-11_Qwen%20Code%201.0%20Preview%20%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E.%E4%B8%AD%E6%96%87.md) · 2026-11-11 · 中文译文 · [原文](<https://github.com/QwenLM/qwen-code/releases/tag/v1.0.0-preview>)
+- [Qwen Code 周报：远程连接更方便，GitHub 动态推进会话，会话状态更清楚](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-11-05/>) · 2026-11-05 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-11-05/>)
 - [走出终端：桌面端与 Web Shell 中的 Qwen Code](<https://qwenlm.github.io/qwen-code-docs/zh/blog/quickstart/web-shell-and-desktop/>) · 2026-11-02 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/quickstart/web-shell-and-desktop/>)
+- [Qwen Code 周报：PR 提交后自动跟进，定时任务加了道闸门，后台会话在终端里接着聊](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-29/>) · 2026-10-29 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-29/>)
+- [Qwen Code 周报：交互卡片随手调，项目工作流随处用，Web Shell 统一管理](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-22/>) · 2026-10-22 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-22/>)
+- [Qwen Code 周报：@ Claude Code、Codex 当队友，一个页面连几个 Qwen Code 项目，启动时点名去掉 MCP 服务](<https://qwenlm.github.io/qwen-code-docs/zh/blog/updates/weekly-update-2026-10-15/>) · 2026-10-15 · 官方中文版 · [原文](<https://qwenlm.github.io/qwen-code-docs/en/blog/updates/weekly-update-2026-10-15/>)
 
 #### Thinking Machines Lab
 
@@ -946,6 +959,7 @@
 
 #### Drew Breunig
 
+- [为什么 AI 的主动操作会被解读为破坏](<https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html>) · 2026-11-27 · 仅原文
 - [使用 AI 时如何保留人的创造力](<https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html>) · 2026-11-24 · 仅原文
 - [上下文工程的现状](<https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html>) · 2026-10-24 · 已有中文全文（本库未公开）
 - [上下文惯性：Agent 为什么不愿放下旧计划](<https://www.dbreunig.com/2026/10/14/context-inertia.html>) · 2026-10-14 · 仅原文
